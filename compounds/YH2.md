@@ -25,7 +25,7 @@ Table: Uncertainty budget of the literature values of YH2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.8682 | kJ/mol-atom |  | 1.667e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -43.8682 | kJ/mol-atom |  | 1.667e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 | -70.8858 | kJ/mol-atom |  | 1.667e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies

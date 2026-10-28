@@ -1,10 +1,10 @@
 # Ca–Sb system
 
-> Ca–Sb system: 36 accepted literature values (crystal structure 20, formation 14, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Sb system: 37 accepted literature values (crystal structure 20, formation 15, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-SB.html · Markdown: https://data.orchid-project.org/systems/CA-SB.md
 
-36 accepted literature values from 1 paper(s) (experimental 16, model 14, DFT 4, unspecified 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+37 accepted literature values from 1 paper(s) (experimental 17, model 14, DFT 4, unspecified 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SB/CaSb-15Qin.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-SB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
+| experimental | 17 |
 | model | 14 |
 | DFT | 4 |
 | unspecified | 2 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
-| formation | 14 |
+| formation | 15 |
 | crystal structure | 20 |
 
 ## Calculated phase diagrams
@@ -60,7 +60,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–Sb system (14)
+Table: Enthalpies of formation, Ca–Sb system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -75,6 +75,7 @@ Table: Enthalpies of formation, Ca–Sb system (14)
 | Ca5Sb3 |  | -96.14 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 11; `ORC-D5OBI4CF5M` |  |
 | Ca5Sb3 |  | -96 per mol-atom ± 5 | 1100 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 10; `ORC-JQ3IPKN4RW` |  |
 | Ca5Sb3 | [Ca5Sb3](https://data.orchid-project.org/compounds/Ca5Sb3.html) | -86 kJ/mol-atom ± 6 | 1078 | experimental | -102.076 (mp-aaaaazzo) | -96.307 (oqmd-113707) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9; `ORC-JMPRIJBETK.134036` |  |
+| Ca5Sb3 |  | -86 per mol-atom ± 6 | 1078 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9; `ORC-JMPRIJBETK.faf9b2` |  |
 | Ca5Sb3 | [Ca5Sb3](https://data.orchid-project.org/compounds/Ca5Sb3.html) | -84.44 kJ/mol-atom | 298.15 | model | -102.076 (mp-aaaaazzo) | -96.307 (oqmd-113707) | [1] Qin 2015 | Table 3, p. 3, row 12; `ORC-3WIAQZRI4Z` |  |
 | CaSb2 | [CaSb2](https://data.orchid-project.org/compounds/CaSb2.html) | -75 kJ/mol-atom | 298.15 | model | -71.466 (mp-aaaaalcf) | -60.097 (oqmd-1772) | [1] Qin 2015 | Table 3, p. 3, row 18; `ORC-5B64GTFQ26` |  |
 | CaSb2 |  | -60.18 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 17; `ORC-TLXXDM6ZUO` |  |

@@ -30,9 +30,9 @@ Table: Uncertainty budget of the literature values of Bi4Se3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -27.685 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -27.691 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -48.34 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -28.856 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -26.341 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -48.34 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -28.856 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -26.341 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

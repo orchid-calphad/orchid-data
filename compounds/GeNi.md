@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of GeNi
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -30 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
-| -34.9 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -34.9 | kJ/mol-atom |  | 0.05 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## DFT formation energies
 

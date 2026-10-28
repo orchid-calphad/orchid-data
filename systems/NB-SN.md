@@ -1,10 +1,10 @@
 # Nb–Sn system
 
-> Nb–Sn system: 115 accepted literature values (invariant reaction 59, formation 41, heat capacity / entropy / enthalpy 13, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Sn system: 116 accepted literature values (invariant reaction 59, formation 42, heat capacity / entropy / enthalpy 13, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SN.html · Markdown: https://data.orchid-project.org/systems/NB-SN.md
 
-115 accepted literature values from 2 paper(s) (experimental 55, model 59, unspecified 1); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+116 accepted literature values from 2 paper(s) (experimental 56, model 59, unspecified 1); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SN.json) · [CSV](https://data.orchid-project.org/systems/NB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SN/NbSn-02Tof.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NB-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-SN.html) · [Markdown](https://data.orchid-project.org/systems/NB-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 55 |
+| experimental | 56 |
 | model | 59 |
 | unspecified | 1 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 59 |
-| formation | 41 |
+| formation | 42 |
 | mixing / partial | 2 |
 | heat capacity / entropy / enthalpy | 13 |
 
@@ -140,7 +140,7 @@ Table: Invariant reactions reported in the literature for the Nb–Sn system (59
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Sn system (36)
+Table: Enthalpies of formation, Nb–Sn system (37)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -150,6 +150,7 @@ Table: Enthalpies of formation, Nb–Sn system (36)
 | Nb0.545Sn0.455 |  | -2.653 kJ/mol-atom | 1173 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2; `ORC-NLBIWIH7VB` |  |
 | Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 1; `ORC-5QCTPOCOCP.a1c10f` |  |
 | Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1; `ORC-GLCDPPMOV5.a95655` |  |
+| Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 2; `ORC-YEQL2PUFBH.182f11` |  |
 | Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -18.307 kJ/mol-atom | 860 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 11; `ORC-5US3YVSIRP.4842b5` |  |
 | Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -18.241 kJ/mol-atom | 1273 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 12; `ORC-HQWMWGGOBN.df46b8` |  |
 | Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -17.876 kJ/mol-atom | 1473 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 13; `ORC-5JSPVXJKBJ.af04fb` |  |

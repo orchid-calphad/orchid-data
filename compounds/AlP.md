@@ -1,16 +1,16 @@
 # AlP: enthalpy of formation
 
-> Enthalpy of formation of AlP: 25 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AlP: 28 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlP.html · Markdown: https://data.orchid-project.org/compounds/AlP.md
 
-25 accepted literature formation-enthalpy value(s) (experimental 12, model 13); experimental median -32.135 kJ/mol-atom (n = 4); Materials Project -58.834 kJ/mol-atom (mp-aaaaachq); OQMD -71.088 kJ/mol-atom (oqmd-4641).
+28 accepted literature formation-enthalpy value(s) (experimental 12, model 15, unspecified 1); experimental median -32.135 kJ/mol-atom (n = 4); Materials Project -58.834 kJ/mol-atom (mp-aaaaachq); OQMD -71.088 kJ/mol-atom (oqmd-4641).
 
 Systems: [Al–P](https://data.orchid-project.org/systems/AL-P.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlP reported in the literature (25)
+Table: Enthalpy of formation of AlP reported in the literature (28)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -26,6 +26,8 @@ Table: Enthalpy of formation of AlP reported in the literature (25)
 | -34.77 kJ/mol-atom ± 2.3 | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [3] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1; `ORC-AMM5CYBKX7` |  |
 | -29.5 kJ/mol-atom ± 3.35 | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [3] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3; `ORC-VSKJCGX4YM` |  |
 | -28.8 kJ/mol-atom ± 8.85 | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [3] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4; `ORC-BVWDFFOBII` |  |
+| -164.5 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [4] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 8; `ORC-RWG4CSVSSQ` |  |
+| -148.6 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [4] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.cd4a24` |  |
 | -91.5 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5; `ORC-6W2764KCGG.3beb49` |  |
 | -82.2 per mol-atom | AlP | 298.15 | model | Reviewed | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12; `ORC-IFG25P7NFF.6d560f` |  |
 | -82.2 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9; `ORC-T4A3VZGQC2.8fce70` |  |
@@ -39,6 +41,7 @@ Table: Enthalpy of formation of AlP reported in the literature (25)
 | -51 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 2; `ORC-7JEA2OET6I` |  |
 | -51 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8; `ORC-7TTMWV5LU3.62f04c` |  |
 | -25.5 kJ/mol-atom | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [3] Tu 2009 | Table 3, p. 4, row 5; `ORC-HN6OKJZHTO` |  |
+| -166.5 kJ/mol (basis unstated) | AlP | 298.15 | unspecified |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [4] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 7; `ORC-3P2UCAWWEI` |  |
 
 ### Uncertainty budget
 
@@ -60,6 +63,8 @@ Table: Uncertainty budget of the literature values of AlP
 | -34.77 | kJ/mol-atom | 2.3 | 2.500e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -29.5 | kJ/mol-atom | 3.35 | 2.500e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -28.8 | kJ/mol-atom | 8.85 | 2.500e-4 | 3.5 (unknown, calibrated) |  |  |  | 8.85 |
+| -164.5 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -148.6 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -91.5 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -82.2 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -82.2 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
@@ -73,6 +78,7 @@ Table: Uncertainty budget of the literature values of AlP
 | -51 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -51 | per mol-atom |  | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -25.5 | kJ/mol-atom |  | 2.500e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -166.5 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## DFT formation energies
 
@@ -92,6 +98,7 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 1. Jyrki Miettinen, Seppo Louhenkilpi, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 9: Fe-Al-P, J. Phase Equilib. Diffus. 36, 317-326 (2015). [doi:10.1007/s11669-015-0383-5](https://doi.org/10.1007/s11669-015-0383-5)
 2. Song-Mao Liang, Rainer Schmid-Fetzer, Thermodynamic assessment of the Al–P system based on original experimental data, Calphad 42, 76-85 (2013). [doi:10.1016/j.calphad.2013.07.001](https://doi.org/10.1016/j.calphad.2013.07.001)
 3. Hao Tu, Fucheng Yin, Xuping Su, Ya Liu, Xinming Wang, Experimental investigation and thermodynamic modeling of the Al–P–Zn ternary system, Calphad 33, 755-760 (2009). [doi:10.1016/j.calphad.2009.10.003](https://doi.org/10.1016/j.calphad.2009.10.003)
+4. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

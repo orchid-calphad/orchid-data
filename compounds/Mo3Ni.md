@@ -1,21 +1,23 @@
 # Mo3Ni: enthalpy of formation
 
-> Enthalpy of formation of Mo3Ni: 3 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Mo3Ni: 5 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Mo3Ni.html · Markdown: https://data.orchid-project.org/compounds/Mo3Ni.md
 
-3 accepted literature formation-enthalpy value(s) (DFT 3).
+5 accepted literature formation-enthalpy value(s) (DFT 5).
 
 Systems: [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Mo3Ni reported in the literature (3)
+Table: Enthalpy of formation of Mo3Ni reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -4.063 kJ/mol (basis unstated) | Ni0.25Mo0.75 |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 31; `ORC-A2Y4PR2MEY.e9d22f` |  |
 | -4.063 kJ/mol (basis unstated) | Ni₀.₂₅Mo₀.₇₅ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 31; `ORC-A2Y4PR2MEY.eacdb2` |  |
 | 9.145 kJ/mol (basis unstated) | Ni₀.₂₅Mo₀.₇₅ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 28; `ORC-24P4ZIWOWV.695764` |  |
+| 9.145 kJ/mol (basis unstated) | Ni0.25Mo0.75 |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 28; `ORC-24P4ZIWOWV.f41011` |  |
 | 18.85 kJ/mol-atom | Mo3Ni |  | DFT | first-principles calculations | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [2] Zhou 2009 | Table 6, p. 7, row 39; `ORC-EXQUNEL3PS.c8adae` |  |
 
 ### Uncertainty budget
@@ -26,9 +28,11 @@ Table: Uncertainty budget of the literature values of Mo3Ni
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.063 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| 9.145 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| 18.85 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -4.063 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -4.063 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| 9.145 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| 9.145 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| 18.85 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

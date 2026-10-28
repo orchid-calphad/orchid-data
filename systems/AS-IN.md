@@ -1,10 +1,10 @@
 # As–In system
 
-> As–In system: 2 accepted literature values (heat capacity / entropy / enthalpy 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–In system: 8 accepted literature values (heat capacity / entropy / enthalpy 4, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-IN.html · Markdown: https://data.orchid-project.org/systems/AS-IN.md
 
-2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+8 accepted literature values from 1 paper(s) (model 7, unspecified 1); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-IN.json) · [CSV](https://data.orchid-project.org/systems/AS-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-IN) · [phases (8)](https://data.orchid-project.org/phases/pages/AS-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-IN.html) · [Markdown](https://data.orchid-project.org/systems/AS-IN.md)
 
@@ -12,19 +12,34 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
+| model | 7 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 2 |
+| formation | 4 |
+| heat capacity / entropy / enthalpy | 4 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AS/AS-IN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AS/AS-IN.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, As–In system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| InAs |  | -78.6 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 4; `ORC-KC3ZSPMCWD` |  |
+| InAs |  | -61.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 1; `ORC-BNDRK7LA5U.d971dd` |  |
+| InAs |  | -58.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 19, row 3; `ORC-7ZZJ2UWM3D` |  |
+| InAs |  | -58.44 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.ce49fd` |  |
+
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (2)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, As–In system
 
@@ -32,6 +47,8 @@ Table: Heat capacity / entropy / enthalpy, As–In system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S°298_ | 77.08 J/mol-formula K | 298.15 | InAs | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.fd850d` |  |
 | Heat capacity; _printed: Cp,298_ | 48.16 J/mol (basis unstated)/K | 298.15 | InAs | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.e6d4c4` |  |
+| sm fusion; _printed: ΔmS_ | 63.98 J/mol-formula K | 1211 | InAs; _alloy: As 0.5, In 0.5_ | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.11fb36` |  |
+| sm fusion; _printed: ΔmS_ | 63.92 J/mol-formula K | 1215 | InAs; _alloy: As 0.5, In 0.5_ | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 1; `ORC-BNDRK7LA5U.564d06` |  |
 
 ## Sources
 

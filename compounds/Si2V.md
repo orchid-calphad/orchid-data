@@ -58,8 +58,8 @@ Table: Uncertainty budget of the literature values of Si2V
 | -29 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -29 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -8.285 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -47 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -45.91 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -47 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -45.91 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 | -47 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies

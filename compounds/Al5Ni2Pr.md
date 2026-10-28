@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of Al5Ni2Pr
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -52.5 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -49.56 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -57.02 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -56.44 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -57.02 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -56.44 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

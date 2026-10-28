@@ -1,10 +1,10 @@
 # Cs–O system
 
-> Cs–O system: 169 accepted literature values (crystal structure 68, heat capacity / entropy / enthalpy 54, formation 37, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–O system: 171 accepted literature values (crystal structure 68, heat capacity / entropy / enthalpy 54, formation 39, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-O.html · Markdown: https://data.orchid-project.org/systems/CS-O.md
 
-169 accepted literature values from 1 paper(s) (experimental 50, model 35, DFT 72, unspecified 12); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+171 accepted literature values from 1 paper(s) (experimental 50, model 36, DFT 73, unspecified 12); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-O.json) · [CSV](https://data.orchid-project.org/systems/CS-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-O/CsO-15Gue.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CS-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-O.html) · [Markdown](https://data.orchid-project.org/systems/CS-O.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 50 |
-| model | 35 |
-| DFT | 72 |
+| model | 36 |
+| DFT | 73 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 9 |
-| formation | 37 |
+| formation | 39 |
 | heat capacity / entropy / enthalpy | 54 |
 | crystal structure | 68 |
 
@@ -57,7 +57,7 @@ Table: Invariant reactions reported in the literature for the Cs–O system (1)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cs–O system (37)
+Table: Enthalpies of formation, Cs–O system (39)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -85,6 +85,8 @@ Table: Enthalpies of formation, Cs–O system (37)
 | Cs4O |  | -59.64 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 3; `ORC-IDEY4NU7GH.da045f` |  |
 | Cs7O | [Cs7O](https://data.orchid-project.org/compounds/Cs7O.html) | -42.5625 kJ/mol-atom | 298.15 | model | -44.374 (mp-aaabfyzf) | -43.119 (oqmd-1632) | [1] Guéneau 2015 | Table 5, p. 7, row 2; `ORC-74PDWOUQ6D.cfe15c` |  |
 | Cs7O |  | -37.475 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 1; `ORC-NGZLBXOCTJ.f74634` |  |
+| Cs7O2 |  | -682.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.0e3914` |  |
+| Cs7O2 |  | -576 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.872b13` |  |
 | Cs7O2 |  | -75.8111 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.d14fb0` |  |
 | Cs7O2 |  | -64 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.e1d05d` |  |
 | CsO2 |  | -129.533 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 29; `ORC-63T6UUMOMP.41ed7e` |  |

@@ -1,10 +1,10 @@
 # Fe–Ta system
 
-> Fe–Ta system: 178 accepted literature values (invariant reaction 91, formation 36, crystal structure 27, phase equilibrium 13) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ta system: 238 accepted literature values (invariant reaction 91, phase transition 71, formation 36, crystal structure 27) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TA.html · Markdown: https://data.orchid-project.org/systems/FE-TA.md
 
-178 accepted literature values from 3 paper(s) (experimental 96, model 62, DFT 6, unspecified 14); 3 calculated phase diagram(s). 73 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+238 accepted literature values from 3 paper(s) (experimental 139, model 79, DFT 6, unspecified 14); 3 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TA.json) · [CSV](https://data.orchid-project.org/systems/FE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TA/FeTa-03Dan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TA.html) · [Markdown](https://data.orchid-project.org/systems/FE-TA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 96 |
-| model | 62 |
+| experimental | 139 |
+| model | 79 |
 | DFT | 6 |
 | unspecified | 14 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 91 |
-| phase transition | 11 |
+| phase transition | 71 |
 | phase equilibrium | 13 |
 | formation | 36 |
 | crystal structure | 27 |
@@ -195,22 +195,82 @@ Table: Enthalpies of formation, Fe–Ta system (25)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (71)
 
 Table: Phase transition, Fe–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 1041 K | 1041 | α(pm) ↔ α(fm), λ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 19; `ORC-DVMNE6WLXE` |  |
+| Phase transition | 1041 K | 1041 | α(pm) ↔ α(fm), λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 18; `ORC-SOT2VHKBVC` |  |
+| Phase transition | 1043 K | 1043 | α(pm) ↔ α(fm), λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 17; `ORC-QKU4EWDHVC` |  |
+| Phase transition | 1241 K | 1241 | λ + γ ↔ α (pm); _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 14; `ORC-A3UAPJXNY2` |  |
+| Phase transition | 1242 K | 1242 | λ + γ ↔ α (pm); _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 16; `ORC-P4QBGYU3IS` |  |
+| Phase transition | 1251 K | 1251 | λ + γ ↔ α (pm); _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 15; `ORC-GNGXS4F7MB` |  |
+| Phase transition | 1511 K | 1511 | δ ↔ λ + γ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 13; `ORC-ORYERE34QF` |  |
+| Phase transition | 1513 K | 1513 | δ ↔ λ + γ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 11; `ORC-QS6Q4DCMYH` |  |
+| Phase transition | 1520 K | 1520 | δ ↔ λ + γ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 12; `ORC-XKYIZPTMPT` |  |
+| Phase transition | 1685 K | 1685 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 7; `ORC-NUVE63BVGO` |  |
+| Phase transition | 1704 K | 1704 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 9; `ORC-JNNRRYEJNQ` |  |
+| Phase transition | 1716 K | 1716 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 10; `ORC-P5GPTUMJEN` |  |
+| Phase transition | 1719 K | 1719 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 6; `ORC-2ZM52N3OZG` |  |
+| Phase transition | 1724 K | 1724 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 8; `ORC-M522JVE5GD` |  |
+| Phase transition | 1945 K | 1945 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 4; `ORC-BLTDVVMRYS` |  |
+| Phase transition | 1950 K | 1950 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 2; `ORC-Y3TD24U6BL` |  |
+| Phase transition | 1959 K | 1959 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 3; `ORC-GZNOW2O7BR` |  |
+| Phase transition | 1959 K | 1959 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 5; `ORC-KSO6UJKIEL` |  |
+| Phase transition | 1960 K | 1960 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 1; `ORC-JU5QBFARU2` |  |
+| Phase transition | 1966 K | 1966 | L + μ/μ; _alloy: Fe 0.438, Ta 0.562_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 54; `ORC-YU5REMY3Z7` |  |
 | Phase transition | 2000 K | 2000 | L ⇌ μ + (Ta) | experimental | [2] Rajkumar 2015 | p. 3; `ORC-F4YFV3PDIL` | “In addition to the spike corresponding to the liquidus, Fe70.8 at% Ta and Fe-87.2 at% Ta alloys show another spike (Fig. 2a, b) in their cooling curves around ∼2000 K, which corresponds to the invariant L ⇌ μ + (Ta).” |
+| Phase transition | 2025 K | 2025 | L ↔ β + μ; _alloy: Fe 0.358, Ta 0.642_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 63; `ORC-ZAO5ONZTWG` |  |
+| Phase transition | 2028 K | 2028 | L/L + μ; _alloy: Fe 0.438, Ta 0.562_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 51; `ORC-N32OBHACLG` |  |
+| Phase transition | 2029 K | 2029 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 60; `ORC-Y6ZS5LGP5V` |  |
+| Phase transition | 2030 K | 2030 | L ↔ β + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 61; `ORC-7A3KODY4S5` |  |
 | Phase transition | 2030 K | 2030 | congruent melting: L \<-> Ta3Fe2; _L: Ta 0.605; Ta3Fe2: Ta 0.605_ | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 8; `ORC-BXV6B4VSOP` |  |
 | Phase transition | 2035 K | 2035 | congruent melting: L \<-> λ; _L: Ta 0.339; λ: Ta 0.33_ | model | [3] Witusiewicz 2011; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 6, p. 14, row 2; `ORC-2YHYJOKKXS` |  |
+| Phase transition | 2037 K | 2037 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 56; `ORC-MHU2KUIIGM` |  |
+| Phase transition | 2038 K | 2038 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 57; `ORC-F7FGHIMI26` |  |
+| Phase transition | 2041 K | 2041 | L + μ/μ; _alloy: Fe 0.438, Ta 0.562_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 55; `ORC-TEDYNJJTXO` |  |
+| Phase transition | 2041 K | 2041 | L ↔ β + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 62; `ORC-DBLWWEXJ5O` |  |
+| Phase transition | 2042 K | 2042 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 59; `ORC-CZQ47JKIUA` |  |
 | Phase transition | 2047 K | 2047 | congruent melting: L \<-> λ; _L: Ta 0.386; λ: Ta 0.386_ | model | [3] Witusiewicz 2011; _cites Danon 2003_ [doi](https://doi.org/10.1016/s0921-5093%2802%2900632-9) | Table 6, p. 14, row 3; `ORC-CZ73K2XM36` |  |
+| Phase transition | 2048 K | 2048 | L + μ/μ; _alloy: Fe 0.476, Ta 0.524_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 49; `ORC-ZTIORVRFUQ` |  |
 | Phase transition | 2048 K | 2048 | L -> ε; _L: Ta 0.326; ε: Ta 0.326_ | experimental | [2] Rajkumar 2015; _cites Elliott 1958_ | Table 2, p. 3, row 1; `ORC-7P3CTG46LB` |  |
 | Phase transition | 2048 K | 2048 | congruent melting: L \<-> λ; _L: Ta 0.326; λ: Ta 0.326_ | experimental | [3] Witusiewicz 2011; _cites Elliot 1958_ | Table 6, p. 14, row 1; `ORC-SBE3FUO55Y` |  |
+| Phase transition | 2055 K | 2055 | L + λ ↔ μ; _alloy: Fe 0.549, Ta 0.451_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 40; `ORC-TDB22IVHIQ` |  |
+| Phase transition | 2055 K | 2055 | L/L + μ; _alloy: Fe 0.438, Ta 0.562_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 52; `ORC-UVQA2SFUL4` |  |
+| Phase transition | 2057 K | 2057 | L + μ/μ; _alloy: Fe 0.476, Ta 0.524_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 50; `ORC-FHSRAQ2XQQ` |  |
+| Phase transition | 2057 K | 2057 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 58; `ORC-GBRX6XCSY5` |  |
+| Phase transition | 2058 K | 2058 | L + μ/μ; _alloy: Fe 0.476, Ta 0.524_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 48; `ORC-T3KH7X3L6H` |  |
+| Phase transition | 2058 K | 2058 | L/L + μ; _alloy: Fe 0.476, Ta 0.524_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 46; `ORC-3Y45VNSUST` |  |
+| Phase transition | 2058 K | 2058 | L/L + μ; _alloy: Fe 0.476, Ta 0.524_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 45; `ORC-5LORW3IGQJ` |  |
+| Phase transition | 2059 K | 2059 | L + μ/μ; _alloy: Fe 0.438, Ta 0.562_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 53; `ORC-55RPUH5V2G` |  |
+| Phase transition | 2060 K | 2060 | L + λ ↔ μ; _alloy: Fe 0.549, Ta 0.451_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 43; `ORC-DFZSC5JXA3` |  |
+| Phase transition | 2060 K | 2060 | L + λ ↔ μ; _alloy: Fe 0.549, Ta 0.451_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 39; `ORC-IHWE6R3WSO` |  |
+| Phase transition | 2060 K | 2060 | L/L + μ; _alloy: Fe 0.476, Ta 0.524_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 47; `ORC-GTEY3NECPN` |  |
+| Phase transition | 2061 K | 2061 | L + λ ↔ μ; _alloy: Fe 0.549, Ta 0.451_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 41; `ORC-CY7CE2RJAU` |  |
+| Phase transition | 2065 K | 2065 | L/L + μ; _alloy: Fe 0.476, Ta 0.524_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 44; `ORC-AJVQ3BP75H` |  |
+| Phase transition | 2068 K | 2068 | L + λ ↔ μ; _alloy: Fe 0.549, Ta 0.451_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 42; `ORC-UTYYEHSQRP` |  |
+| Phase transition | 2088 K | 2088 | L + λ/λ; _alloy: Fe 0.678, Ta 0.322_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 26; `ORC-DDBFSYH2XH` |  |
+| Phase transition | 2088 K | 2088 | L + λ/λ; _alloy: Fe 0.678, Ta 0.322_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 28; `ORC-LKFJQHEWHI` |  |
+| Phase transition | 2088 K | 2088 | L + λ/λ; _alloy: Fe 0.678, Ta 0.322_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 27; `ORC-WYJN6PVROL` |  |
+| Phase transition | 2090 K | 2090 | L/L + λ; _alloy: Fe 0.549, Ta 0.451_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 34; `ORC-UNLJRUQOW2` |  |
+| Phase transition | 2094 K | 2094 | L/L + λ; _alloy: Fe 0.549, Ta 0.451_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 37; `ORC-3JMKOHZKBZ` |  |
+| Phase transition | 2102 K | 2102 | L/L + λ; _alloy: Fe 0.549, Ta 0.451_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 38; `ORC-H2TI6GZJCH` |  |
+| Phase transition | 2103 K | 2103 | L + λ/λ; _alloy: Fe 0.678, Ta 0.322_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 24; `ORC-FVYYHCFQUA` |  |
+| Phase transition | 2116 K | 2116 | L + λ/λ; _alloy: Fe 0.678, Ta 0.322_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 25; `ORC-D4YHPCCP23` |  |
+| Phase transition | 2116 K | 2116 | L/L + λ; _alloy: Fe 0.549, Ta 0.451_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 36; `ORC-WZFRY42PXE` |  |
+| Phase transition | 2120 K | 2120 | L/L + λ; _alloy: Fe 0.678, Ta 0.322_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 21; `ORC-AU462XIFEJ` |  |
+| Phase transition | 2126 K | 2126 | λ/L + λ; _alloy: Fe 0.638, Ta 0.362_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 33; `ORC-VT73ADQIXD` |  |
+| Phase transition | 2129 K | 2129 | L/L + λ; _alloy: Fe 0.678, Ta 0.322_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 23; `ORC-XC2MGGLYWV` |  |
+| Phase transition | 2131 K | 2131 | L/L + λ; _alloy: Fe 0.638, Ta 0.362_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 31; `ORC-G4N5T4U2E2` |  |
 | Phase transition | 2131 K | 2131 | congruent melting: L \<-> λ; _L: Ta 0.35; λ: Ta 0.35_ | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 5; `ORC-POZJCSZOA4` |  |
 | Phase transition | 2136 K | 2136 | L -> ε; _L: Ta 0.348; ε: Ta 0.348_ | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 3; `ORC-Z36IG5LOVB` |  |
+| Phase transition | 2136 K | 2136 | L/L + λ; _alloy: Fe 0.678, Ta 0.322_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 22; `ORC-EE3YTHXQZI` |  |
 | Phase transition | 2136 K | 2136 | congruent melting: L \<-> λ; _L: Ta 0.348; λ: Ta 0.348_ | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 4; `ORC-Z26CYZ62WB` |  |
+| Phase transition | 2136 K | 2136 | λ/L + λ; _alloy: Fe 0.638, Ta 0.362_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 32; `ORC-WKR7IZFYRY` |  |
 | Phase transition | 2137 K | 2137 | L -> ε; _L: Ta 0.3598; ε: Ta 0.3598_ | model | [2] Rajkumar 2015 | Table 2, p. 3, row 4; `ORC-GD3Y7EZASF` |  |
+| Phase transition | 2137 K | 2137 | L/L + λ; _alloy: Fe 0.678, Ta 0.322_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 20; `ORC-2TLAGVARTO` |  |
 | Phase transition | 2152 K | 2152 | L -> ε; _L: Ta 0.334; ε: Ta 0.334_ | experimental | [2] Rajkumar 2015; _cites Keitz 1998_ | Table 2, p. 3, row 2; `ORC-4V5M3EKHM6` |  |
 
 ### Phase equilibrium (13)

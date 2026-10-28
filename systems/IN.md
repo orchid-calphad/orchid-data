@@ -1,10 +1,10 @@
 # In system
 
-> In system: 27 accepted literature values (crystal structure 22, heat capacity / entropy / enthalpy 3, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In system: 29 accepted literature values (crystal structure 24, heat capacity / entropy / enthalpy 3, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN.html · Markdown: https://data.orchid-project.org/systems/IN.md
 
-27 accepted literature values from 9 paper(s) (experimental 7, model 3, DFT 4, unspecified 13); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+29 accepted literature values from 10 paper(s) (experimental 7, model 5, DFT 4, unspecified 13); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN.json) · [CSV](https://data.orchid-project.org/systems/IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN.html) · [Markdown](https://data.orchid-project.org/systems/IN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 3 |
+| model | 5 |
 | DFT | 4 |
 | unspecified | 13 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | heat capacity / entropy / enthalpy | 3 |
-| crystal structure | 22 |
+| crystal structure | 24 |
 
 ## Invariant reactions (literature)
 
@@ -46,7 +46,7 @@ Table: Heat capacity / entropy / enthalpy, In system
 | Entropy; _printed: Entropy of fusion (-B)_ | 7.582 J/mol (basis unstated)/K |  | In (fcc, metastable); _alloy: In 1_ | unspecified | [2] Kao 1993; _cites ref. 8_ | Table 1, p. 3, row 3; `ORC-6NUECBG2YY` |  |
 | Entropy; _printed: Entropy of fusion (-B)_ | 7.394 J/mol (basis unstated)/K |  | In (fcc, metastable); _alloy: In 1_ | unspecified | [2] Kao 1993; _cites ref. 9_ | Table 1, p. 3, row 4; `ORC-BEMTJXZ7G2` |  |
 
-### Crystal structure (22)
+### Crystal structure (24)
 
 Table: Crystal structure, In system
 
@@ -63,6 +63,7 @@ Table: Crystal structure, In system
 | Lattice a | 3.251 Å | 298.15 | (In); _alloy: In 1_ | unspecified | [8] Wang 2014 | Table 1, p. 2, row 1; `ORC-YPW3JZPUI2.c6f2ed` |  |
 | Lattice a | 3.252 Å | 298.15 | In; _In: In 1_ | experimental | [4] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19; `ORC-44Z3A64EB5.5fa595` |  |
 | Lattice a | 4.599 Å | 298.15 | In; _In: In 1_ | unspecified | [9] Anderson 1991 | Table 4, p. 7, row 3; `ORC-SCY73JF6WQ.7a6670` |  |
+| Lattice a | 3.248 Å | 298.15 | In-tetra; _alloy: In 1_ | model | [10] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2; `ORC-45SSTIOVXF.e5e5a2` |  |
 | Lattice c | 50.22 Å |  | (In); _alloy: In 1_ | model | [3] Qin 2015 | Table 1, p. 2, row 5; `ORC-LO73XCYMIK.efa520` |  |
 | Lattice c | 4.9362 Å |  | In; _In: In 1_ | DFT | [4] Shen 2021 | Table 3, p. 6, row 20; `ORC-JX5L7M3KBV.951bb7` |  |
 | Lattice c | 4.9466 not_printed ± 2.000e-4 |  | In; _alloy: In 1_ | experimental | [5] Lee 2010; _cites Wolcyrz 1981_ | Table 1, p. 2, row 5; `ORC-OZIOGXK7NR.5a4fbb` |  |
@@ -74,6 +75,7 @@ Table: Crystal structure, In system
 | Lattice c | 4.947 Å | 298.15 | (In); _alloy: In 1_ | unspecified | [8] Wang 2014 | Table 1, p. 2, row 1; `ORC-YPW3JZPUI2.2fa256` |  |
 | Lattice c | 4.9466 Å | 298.15 | In; _In: In 1_ | experimental | [4] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19; `ORC-44Z3A64EB5.a953fc` |  |
 | Lattice c | 4.947 Å | 298.15 | In; _In: In 1_ | unspecified | [9] Anderson 1991 | Table 4, p. 7, row 3; `ORC-SCY73JF6WQ.8f9a0c` |  |
+| Lattice c | 4.948 Å | 298.15 | In-tetra; _alloy: In 1_ | model | [10] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2; `ORC-45SSTIOVXF.6213b1` |  |
 
 ## Sources
 
@@ -88,6 +90,7 @@ Reporting papers the values were read from (a value cited from another work name
 7. J. F. Smith, K. J. Lee, The In−V (Indium-Vanadium) system, Bulletin of Alloy Phase Diagrams 6, 66-68 (1985). [doi:10.1007/bf02871189](https://doi.org/10.1007/bf02871189)
 8. Yao Wang, Jinghua Xin, Chong Chen, Shuhong Liu, Biao Hu, Yong Du, Thermodynamic assessment of the Sr–In and Sr–Bi systems supported by first-principles calculations, Calphad 45, 49-54 (2014). [doi:10.1016/j.calphad.2013.12.001](https://doi.org/10.1016/j.calphad.2013.12.001)
 9. T.J Anderson, I Ansara, The Ga-In (Gallium-Indium) System, JPE 12, 64-72 (1991). [doi:10.1007/bf02663677](https://doi.org/10.1007/bf02663677)
+10. M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014). [doi:10.1016/j.jallcom.2014.02.071](https://doi.org/10.1016/j.jallcom.2014.02.071)
 
 ## Please cite
 

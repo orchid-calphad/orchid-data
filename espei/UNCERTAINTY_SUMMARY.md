@@ -4,8 +4,8 @@ Per folder and output: how many values carry a printed uncertainty, how many hav
 
 | folder | output | values | printed sigma | not printed (method floor) | model (budget) | dft calibrated | ZPF | floor calibrated | floor prior | sigma_eff > printed | sigma raised vs 2026-10-23 | sigma unit | min | q25 | median | q75 | max |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|
-| dft/literature | HM_FORM | 1770 | 0 | 0 | 0 | 1770 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 3709.0 | 4314.0 | 7916.0 | 8549.0 | 12165.0 |
-| dft/mp | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4632.0 | 6183.0 | 9231.0 | 9231.0 | 11815.0 |
+| dft/literature | HM_FORM | 1781 | 0 | 0 | 0 | 1781 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 3703.0 | 4314.0 | 7962.0 | 8549.0 | 12084.0 |
+| dft/mp | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4664.0 | 6183.0 | 9231.0 | 9231.0 | 11815.0 |
 | dft/oqmd | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4666.0 | 7082.0 | 7464.0 | 8062.0 | 9524.0 |
 | experimental | ACR_CD | 7 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 1 (activity) | 2899.2272 | 2899.4808 | 2899.9191 | 2900.48 | 2900.6931 |
 | experimental | ACR_CO | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 1 (activity) | 2899.0572 | 2899.3424 | 2899.7339 | 2900.1703 | 2900.8997 |
@@ -20,8 +20,8 @@ Per folder and output: how many values carry a printed uncertainty, how many hav
 | experimental | ACR_ZR | 21 | 0 | 21 | 0 | 0 | 0 | 0 | 0 | 0 | 21 | 1 (activity) | 2899.1879 | 2899.9849 | 2900.1625 | 2900.3215 | 2900.9534 |
 | experimental | CPM | 180 | 0 | 180 | 0 | 0 | 0 | 0 | 0 | 0 | 180 | J/mol-atom/K | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 |
 | experimental | GMR | 40 | 8 | 32 | 0 | 0 | 0 | 14 | 9 | 8 | 8 | J/mol-atom | 1000.0 | 1200.0 | 1200.0 | 1400.0 | 2000.0 |
-| experimental | HMR | 452 | 208 | 244 | 0 | 0 | 0 | 94 | 333 | 161 | 331 | J/mol-atom | 500.0 | 500.0 | 1000.0 | 3200.0 | 10000.0 |
-| experimental | HM_FORM | 435 | 240 | 195 | 0 | 0 | 0 | 324 | 13 | 182 | 377 | J/mol-atom | 1000.0 | 3200.0 | 3500.0 | 4200.0 | 13200.0 |
+| experimental | HMR | 451 | 208 | 243 | 0 | 0 | 0 | 93 | 333 | 161 | 330 | J/mol-atom | 500.0 | 500.0 | 1000.0 | 3200.0 | 10000.0 |
+| experimental | HM_FORM | 433 | 238 | 195 | 0 | 0 | 0 | 322 | 13 | 180 | 375 | J/mol-atom | 1000.0 | 3200.0 | 3500.0 | 4200.0 | 13200.0 |
 | experimental | SM | 11 | 0 | 11 | 0 | 0 | 0 | 9 | 0 | 0 | 11 | J/mol-atom/K | 0.7 | 0.7 | 0.7 | 0.7 | 1.0 |
 | experimental | SMR | 15 | 1 | 14 | 0 | 0 | 0 | 0 | 15 | 0 | 14 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 |
 | experimental | SM_FORM | 42 | 19 | 23 | 0 | 0 | 0 | 0 | 42 | 7 | 30 | J/mol-atom/K | 0.5 | 1.0 | 1.0 | 1.55 | 5.4 |

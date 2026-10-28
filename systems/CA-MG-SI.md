@@ -1,10 +1,10 @@
 # Ca–Mg–Si system
 
-> Ca–Mg–Si system: 54 accepted literature values (invariant reaction 22, phase equilibrium 18, crystal structure 13, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg–Si system: 63 accepted literature values (invariant reaction 22, phase equilibrium 18, crystal structure 13, phase transition 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG-SI.html · Markdown: https://data.orchid-project.org/systems/CA-MG-SI.md
 
-54 accepted literature values from 1 paper(s) (experimental 29, model 25); 0 calculated phase diagram(s). 66 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+63 accepted literature values from 1 paper(s) (experimental 38, model 25); 0 calculated phase diagram(s). 57 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 38 |
 | model | 25 |
 
 Table: Accepted values by property group
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
+| phase transition | 9 |
 | phase equilibrium | 18 |
 | crystal structure | 13 |
 | other property | 1 |
@@ -54,6 +55,22 @@ Table: Invariant reactions reported in the literature for the Ca–Mg–Si syste
 | 719.15 | quasi-peritectic: Liquid + Ca2Si -> CaMg2 + β(Ca) | L: Ca 0.7078, Mg 0.2921 | model | [1] Gröbner 2003 | Table 6, p. 8, row 22; `ORC-FYLLTXHOUF` |  |
 
 ## Other properties
+
+### Phase transition (9)
+
+Table: Phase transition, Ca–Mg–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1413.15 K | 1413.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 7; `ORC-A7T7JBGD7Q` |  |
+| Phase transition | 1424.15 K | 1424.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 10; `ORC-2I4ZPTA7GB` |  |
+| Phase transition | 1446.15 K | 1446.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 6; `ORC-M4OUDFXTSX` |  |
+| Phase transition | 1447.15 K | 1447.15 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 57; `ORC-PK77FH52V7` |  |
+| Phase transition | 1447.45 K | 1447.45 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 56; `ORC-POIZWP4NQN` |  |
+| Phase transition | 1448.15 K | 1448.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 8; `ORC-UKWPR4RQON` |  |
+| Phase transition | 1451.15 K | 1451.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 9; `ORC-HIVBG7HVWC` |  |
+| Phase transition | 1454.75 K | 1454.75 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 55; `ORC-UGBRMARGAY` |  |
+| Phase transition | 1467.45 K | 1467.45 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 58; `ORC-5C4EGUZSD2` |  |
 
 ### Phase equilibrium (18)
 

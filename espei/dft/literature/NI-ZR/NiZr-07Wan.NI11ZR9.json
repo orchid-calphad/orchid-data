@@ -128,8 +128,8 @@
      "sigma_robust_kJ": 4.062,
      "bias_median_kJ_not_applied": 0.66,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.757,
-      4.871
+      2.742,
+      4.87
      ],
      "n_full_stratum": 105
     },
@@ -168,8 +168,8 @@
      "sigma_robust_kJ": 4.062,
      "bias_median_kJ_not_applied": 0.66,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.757,
-      4.871
+      2.742,
+      4.87
      ],
      "n_full_stratum": 105
     },
@@ -208,8 +208,8 @@
      "sigma_robust_kJ": 4.062,
      "bias_median_kJ_not_applied": 0.66,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.757,
-      4.871
+      2.742,
+      4.87
      ],
      "n_full_stratum": 105
     },

@@ -35,10 +35,10 @@ Table: Uncertainty budget of the literature values of Al2S3
 | -130.2 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -130.2 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -107.9 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -140.7 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -136.8 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -118.9 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -115.2 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -140.7 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -136.8 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -118.9 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -115.2 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

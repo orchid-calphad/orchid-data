@@ -1,19 +1,20 @@
 # MoNi2: enthalpy of formation
 
-> Enthalpy of formation of MoNi2: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of MoNi2: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MoNi2.html · Markdown: https://data.orchid-project.org/compounds/MoNi2.md
 
-1 accepted literature formation-enthalpy value(s) (DFT 1).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MoNi2 reported in the literature (1)
+Table: Enthalpy of formation of MoNi2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -8.34 kJ/mol (basis unstated) | Ni2Mo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40; `ORC-XBXAS7ODAS.432a17` |  |
 | -8.34 kJ/mol (basis unstated) | Ni₂Mo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40; `ORC-XBXAS7ODAS.c06f33` |  |
 
 ### Uncertainty budget
@@ -24,7 +25,8 @@ Table: Uncertainty budget of the literature values of MoNi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.34 | kJ/mol (basis unstated) |  | 0.005 | 11.57 (dft, calibrated) |  |  |  | 11.57 |
+| -8.34 | kJ/mol (basis unstated) |  | 0.005 | 11.79 (dft, calibrated) |  |  |  | 11.79 |
+| -8.34 | kJ/mol (basis unstated) |  | 0.005 | 11.79 (dft, calibrated) |  |  |  | 11.79 |
 
 ## Sources
 

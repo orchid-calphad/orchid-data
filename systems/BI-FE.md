@@ -1,10 +1,10 @@
 # Bi–Fe system
 
-> Bi–Fe system: 7 accepted literature values (invariant reaction 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Fe system: 11 accepted literature values (invariant reaction 7, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-FE.html · Markdown: https://data.orchid-project.org/systems/BI-FE.md
 
-7 accepted literature values from 1 paper(s) (experimental 3, model 4); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+11 accepted literature values from 1 paper(s) (experimental 7, model 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-FE.json) · [CSV](https://data.orchid-project.org/systems/BI-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-FE/BiFe-08Boa.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BI-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-FE.html) · [Markdown](https://data.orchid-project.org/systems/BI-FE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
+| experimental | 7 |
 | model | 4 |
 
 Table: Accepted values by property group
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
+| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -56,6 +57,19 @@ Table: Invariant reactions reported in the literature for the Bi–Fe system (7)
 | 544.63 | peritectic: L1 + αFe = (Bi) |  | experimental | [1] Boa 2008 | Table 7, p. 8, row 5; `ORC-EX4ACR2BMQ` |  |
 | 544.63 | peritectic: L + αFe = (Bi) |  | experimental | [1] Boa 2008 | p. 2; `ORC-TUM4FFBNEQ` | “The invariant transformation that occurs at low temperature in the binary Bi-Fe system can be associated to the degenerated peritectic reaction: L + αFe = (Bi) at 544.63 K.” |
 | 544.6 | peritectic: L + αFe = (Bi) |  | experimental | [1] Boa 2008 | p. 12; `ORC-ONHX62JLFY` | “The invariant transformation that occurs at low temperature in the binary Bi-Fe system is associated to the peritectic reaction: L + αFe = (Bi) at 544.6 ± 0.5 K.” |
+
+## Other properties
+
+### Phase transition (4)
+
+Table: Phase transition, Bi–Fe system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 544.62 K | 544.62 | L + αFe + (Bi); _alloy: Bi 0.4, Fe 0.6_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 4; `ORC-ZQI3WSO3CE` |  |
+| Phase transition | 544.63 K | 544.63 | L + αFe + (Bi); _alloy: Bi 0.8, Fe 0.2_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 2; `ORC-4S2GCDLFTA` |  |
+| Phase transition | 544.64 K | 544.64 | L + αFe + (Bi); _alloy: Bi 0.6, Fe 0.4_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 3; `ORC-5SVRYR42CX` |  |
+| Phase transition | 544.64 K | 544.64 | L + αFe + (Bi); _alloy: Bi 0.2, Fe 0.8_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 5; `ORC-ZZKVRWRQC4` |  |
 
 ## Sources
 

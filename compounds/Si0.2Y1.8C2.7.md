@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Si0.2Y1.8C2.7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -26.6 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -26.6 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

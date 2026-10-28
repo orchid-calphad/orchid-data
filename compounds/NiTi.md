@@ -93,22 +93,22 @@ Table: Uncertainty budget of the literature values of NiTi
 | -33.339 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -31.159 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -9.8 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -40.9 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -39.8 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -39.5 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -38.5 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -38.1 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -38 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -37.8 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -36.665 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -36 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -34.59 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -34.1 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -33.77 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -33.24 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -32.784 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -31.84 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -29.29 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -40.9 | kJ/mol-atom |  | 0.05 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -39.8 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -39.5 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -38.5 | kJ/mol-atom |  | 0.05 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -38.1 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -38 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -37.8 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -36.665 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -36 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -34.59 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -34.1 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -33.77 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -33.24 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -32.784 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -31.84 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -29.29 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## DFT formation energies
 

@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Cs7O
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -42.5625 | kJ/mol-atom |  | 0.00625 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -37.475 | kJ/mol-atom |  | 0.00625 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -37.475 | kJ/mol-atom |  | 0.00625 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

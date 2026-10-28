@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of SiZnP2
 | -171.658 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (unknown, calibrated) |  |  |  | 14 |
 | -75.165 | kJ/mol (basis unstated) |  | 5.000e-5 | 14 (unknown, calibrated) |  |  |  | 14 |
 | -153.168 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
-| -108.618 | kJ/mol (basis unstated) |  | 5.000e-4 | 40.2 (dft, calibrated) |  |  |  | 40.2 |
+| -108.618 | kJ/mol (basis unstated) |  | 5.000e-4 | 39.86 (dft, calibrated) |  |  |  | 39.86 |
 
 ## Sources
 

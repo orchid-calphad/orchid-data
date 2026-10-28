@@ -25,70 +25,70 @@
   "file": "espei/dft/CALIBRATION.json",
   "literature": {
    "all": {
-    "bias_mean": 3.383,
-    "bias_median": 1.136,
+    "bias_mean": 3.338,
+    "bias_median": 1.123,
     "ci95": {
      "bias_median": [
-      0.574,
-      1.92
+      0.52,
+      1.921
      ],
      "q68_abs": [
       7.0,
-      9.653
+      9.633
      ],
      "q95_abs": [
-      25.234,
-      33.601
+      25.269,
+      33.464
      ],
      "rmse": [
-      12.122,
-      17.941
+      12.119,
+      17.887
      ],
      "sigma_robust": [
-      6.175,
-      8.285
+      6.092,
+      8.214
      ]
     },
     "ci95_cluster_system": {
      "bias_median": [
-      -0.025,
-      3.203
+      -0.049,
+      3.2
      ],
      "q68_abs": [
       6.1,
-      11.716
+      11.441
      ],
      "q95_abs": [
-      23.749,
-      37.119
+      23.747,
+      37.118
      ],
      "rmse": [
-      10.508,
-      19.886
+      10.504,
+      19.86
      ],
      "sigma_robust": [
-      5.526,
-      9.251
+      5.485,
+      9.133
      ]
     },
     "n": 458,
     "n_systems": 82,
-    "n_with_printed_exp_sigma": 275,
-    "q68_abs": 8.36,
+    "n_with_printed_exp_sigma": 274,
+    "q68_abs": 8.323,
     "q95_abs": 29.711,
-    "rmse": 14.834,
-    "rmse_over_sigma_robust": 2.06,
-    "sigma_deconvolved": 6.812,
+    "rmse": 14.811,
+    "rmse_over_sigma_robust": 2.07,
+    "sigma_deconvolved": 6.771,
     "sigma_exp_median": 2.3,
-    "sigma_robust": 7.19
+    "sigma_robust": 7.151
    },
    "strata": {
     "magnetic_3d": {
-     "bias_mean": 3.088,
-     "bias_median": 0.66,
+     "bias_mean": 3.083,
+     "bias_median": 0.611,
      "ci95": {
       "bias_median": [
-       0.13,
+       0.128,
        1.455
       ],
       "q68_abs": [
@@ -104,8 +104,8 @@
        26.469
       ],
       "sigma_robust": [
-       2.757,
-       4.871
+       2.742,
+       4.87
       ]
      },
      "ci95_cluster_system": {
@@ -122,11 +122,11 @@
        102.255
       ],
       "rmse": [
-       3.143,
+       3.153,
        33.268
       ],
       "sigma_robust": [
-       1.99,
+       2.002,
        5.23
       ]
      },
@@ -135,11 +135,11 @@
      "n_with_printed_exp_sigma": 86,
      "q68_abs": 4.089,
      "q95_abs": 15.96,
-     "rmse": 18.052,
-     "rmse_over_sigma_robust": 4.68,
-     "sigma_deconvolved": 3.63,
+     "rmse": 18.053,
+     "rmse_over_sigma_robust": 4.59,
+     "sigma_deconvolved": 3.708,
      "sigma_exp_median": 1.3,
-     "sigma_robust": 3.856
+     "sigma_robust": 3.929
     },
     "metal": {
      "bias_mean": 4.497,
@@ -200,62 +200,62 @@
      "sigma_robust": 8.395
     },
     "pblock_anion": {
-     "bias_mean": 1.551,
-     "bias_median": 1.08,
+     "bias_mean": 1.389,
+     "bias_median": 1.078,
      "ci95": {
       "bias_median": [
-       -0.5,
-       3.687
+       -0.52,
+       3.6
       ],
       "q68_abs": [
-       9.488,
-       17.11
+       9.21,
+       16.463
       ],
       "q95_abs": [
-       27.776,
-       47.751
+       27.65,
+       47.393
       ],
       "rmse": [
-       13.06,
-       18.511
+       12.958,
+       18.391
       ],
       "sigma_robust": [
-       7.205,
-       13.326
+       6.939,
+       13.23
       ]
      },
      "ci95_cluster_system": {
       "bias_median": [
        -1.667,
-       8.3
+       7.8
       ],
       "q68_abs": [
        7.754,
-       18.1
+       18.093
       ],
       "q95_abs": [
-       23.906,
+       23.901,
        48.826
       ],
       "rmse": [
-       10.954,
-       20.121
+       10.82,
+       20.0
       ],
       "sigma_robust": [
-       6.123,
-       15.309
+       6.006,
+       14.797
       ]
      },
      "n": 123,
      "n_systems": 26,
-     "n_with_printed_exp_sigma": 54,
-     "q68_abs": 12.458,
+     "n_with_printed_exp_sigma": 53,
+     "q68_abs": 11.741,
      "q95_abs": 32.357,
-     "rmse": 15.873,
+     "rmse": 15.791,
      "rmse_over_sigma_robust": 1.58,
-     "sigma_deconvolved": 9.379,
+     "sigma_deconvolved": 9.293,
      "sigma_exp_median": 3.6,
-     "sigma_robust": 10.046
+     "sigma_robust": 9.966
     }
    }
   },
@@ -389,14 +389,14 @@
   "HM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    3.190555,
-    4.581234
+    3.11346,
+    4.54664
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 3.9,
-   "n_pairs": 2043,
-   "n_states": 359,
-   "sigma_robust": 3.85476
+   "n_pairs": 2045,
+   "n_states": 361,
+   "sigma_robust": 3.810282
   },
   "H_MIX_PARTIAL": {
    "basis": "prior",
@@ -644,7 +644,7 @@
     "n_pairs": 49,
     "sigma_robust": 1.403749
    },
-   "relisted_values_counted_once": 0,
+   "relisted_values_counted_once": 22,
    "rounding_step": 0.1,
    "states_with_two_or_more_sources": 14
   },

@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of AlFe3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -19.4 | kJ/mol (basis unstated) |  | 0.05 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
-| -19.21 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
-| -19.11 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
-| -18.87 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
-| -18.73 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
-| -14.9 | kJ/mol (basis unstated) |  | 0.05 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
-| -14.69 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
-| 4.09 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
+| -19.4 | kJ/mol (basis unstated) |  | 0.05 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
+| -19.21 | kJ/mol (basis unstated) |  | 0.005 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
+| -19.11 | kJ/mol (basis unstated) |  | 0.005 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
+| -18.87 | kJ/mol (basis unstated) |  | 0.005 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
+| -18.73 | kJ/mol (basis unstated) |  | 0.005 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
+| -14.9 | kJ/mol (basis unstated) |  | 0.05 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
+| -14.69 | kJ/mol (basis unstated) |  | 0.005 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
+| 4.09 | kJ/mol (basis unstated) |  | 0.005 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
 
 ## Sources
 

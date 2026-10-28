@@ -1,10 +1,10 @@
 # Al–Cr system
 
-> Al–Cr system: 287 accepted literature values (invariant reaction 185, crystal structure 46, formation 31, mixing / partial 16) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr system: 289 accepted literature values (invariant reaction 185, crystal structure 46, formation 33, mixing / partial 16) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR.html · Markdown: https://data.orchid-project.org/systems/AL-CR.md
 
-287 accepted literature values from 9 paper(s) (experimental 148, model 116, DFT 21, unspecified 2); 11 calculated phase diagram(s). 41 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+289 accepted literature values from 9 paper(s) (experimental 149, model 117, DFT 21, unspecified 2); 11 calculated phase diagram(s). 39 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR.json) · [CSV](https://data.orchid-project.org/systems/AL-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CR/AlCr-07Tok.json) · [phases (22)](https://data.orchid-project.org/phases/pages/AL-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 148 |
-| model | 116 |
+| experimental | 149 |
+| model | 117 |
 | DFT | 21 |
 | unspecified | 2 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 185 |
 | phase transition | 4 |
-| formation | 31 |
+| formation | 33 |
 | mixing / partial | 16 |
 | activity / EMF / Gibbs energy | 5 |
 | crystal structure | 46 |
@@ -417,7 +417,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr system (18
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Cr system (25)
+Table: Enthalpies of formation, Al–Cr system (27)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -434,7 +434,9 @@ Table: Enthalpies of formation, Al–Cr system (25)
 | Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.15 kJ/mol-atom | 1273.15 | experimental |  | -6.536 (oqmd-2163960) | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5; `ORC-LSLZ6CGKOQ.67d367` |  |
 | Al7Cr | [Al7Cr](https://data.orchid-project.org/compounds/Al7Cr.html) | -13.389 kJ/mol-atom | 298.15 | experimental |  | 2.914 (oqmd-2166350) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 1; `ORC-WL7W6TITLB.6f9a16` |  |
 | Al8Cr5 | [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | -15.5 kJ/mol-atom | 1 | model | -5.217 (mp-aaaabdnm) | -9.087 (oqmd-684913) | [6] Saunders 1986 | Table 4, p. 8, row 6; `ORC-42O4ATN3C4.3d9fe5` |  |
+| Al8Cr5 | [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | -15.5 kJ/mol-atom | 1273.15 | model | -5.217 (mp-aaaabdnm) | -9.087 (oqmd-684913) | [6] Saunders 1986 | Table 1, p. 4, row 10; `ORC-MCYZV6PQAD.6f0d5a` |  |
 | Al8Cr5 | [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | -15.062 kJ/mol-atom | 298.15 | experimental | -5.217 (mp-aaaabdnm) | -9.087 (oqmd-684913) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 5; `ORC-R7DSJFZ6HP.0a70fb` |  |
+| Al8Cr5 | [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | -15.06 kJ/mol-atom | 1273.15 | experimental | -5.217 (mp-aaaabdnm) | -9.087 (oqmd-684913) | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9; `ORC-4OC5YD5B5T.6e4510` |  |
 | Al9Cr4 | [Al9Cr4](https://data.orchid-project.org/compounds/Al9Cr4.html) | -15.9 kJ/mol-atom | 298.15 | experimental |  | 11.421 (oqmd-1477118) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 4; `ORC-R2GR6QLLKK.6b1758` |  |
 | Al9Cr4 (h) | [Al9Cr4](https://data.orchid-project.org/compounds/Al9Cr4.html) | -12.903 kJ/mol-atom | 1 | model |  | 11.421 (oqmd-1477118) | [6] Saunders 1986 | Table 4, p. 8, row 5; `ORC-IDJQ65H2VW.0cf5b6` |  |
 | Al9Cr4 (l) |  | -16.17 kJ/mol-atom | 1273.15 | model |  |  | [6] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.dab2f9` |  |

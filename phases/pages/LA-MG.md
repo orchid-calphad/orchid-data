@@ -517,7 +517,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): CeMg10 · hP44 · P6_3/mmc — LaMg-16Zha.tdb: 'Prototype CeMg10 (hP44, P6_3/mmc)'
 - Stoichiometry: La 0.1053, Mg 0.8947
 - Stability: stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474
-- Literature: 25 values (24 accepted) from 3 papers
+- Literature: 25 values (25 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:la2mg17)
 
 Names (6): _corpus: _corpus:phase:la-mg:la2mg17  
@@ -560,7 +560,7 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.1087, Mg 0.8913
 - Stability: stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913
-- Literature: 19 values (18 accepted) from 3 papers
+- Literature: 19 values (19 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:la5mg41)
 
 Names (6): _corpus: _corpus:phase:la-mg:la5mg41  

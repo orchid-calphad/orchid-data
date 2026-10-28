@@ -1,10 +1,10 @@
 # Al–Sb system
 
-> Al–Sb system: 44 accepted literature values (invariant reaction 17, phase transition 16, formation 8, heat capacity / entropy / enthalpy 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sb system: 49 accepted literature values (invariant reaction 17, phase transition 16, formation 11, heat capacity / entropy / enthalpy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SB.html · Markdown: https://data.orchid-project.org/systems/AL-SB.md
 
-44 accepted literature values from 4 paper(s) (experimental 1, model 42, unspecified 1); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+49 accepted literature values from 4 paper(s) (experimental 1, model 47, unspecified 1); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SB.json) · [CSV](https://data.orchid-project.org/systems/AL-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SB/AlSb-05Bal.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AL-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SB.html) · [Markdown](https://data.orchid-project.org/systems/AL-SB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 42 |
+| model | 47 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 17 |
 | phase transition | 16 |
-| formation | 8 |
-| heat capacity / entropy / enthalpy | 2 |
+| formation | 11 |
+| heat capacity / entropy / enthalpy | 4 |
 | crystal structure | 1 |
 
 ## Calculated phase diagrams
@@ -83,15 +83,18 @@ Table: Invariant reactions reported in the literature for the Al–Sb system (17
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Sb system (5)
+Table: Enthalpies of formation, Al–Sb system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | AlSb |  | -96.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1; `ORC-ATLFNG2KIE.69b47b` |  |
+| AlSb |  | -96.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 19, row 20; `ORC-SESVXEBSLE` |  |
 | AlSb |  | -84 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3; `ORC-NLPHYGIO3T` |  |
 | AlSb |  | -82 kJ/mol (basis unstated) ± 2.51 | 298.15 | experimental |  |  | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4; `ORC-MOWA2MD2QK.90e2e1` |  |
 | AlSb |  | -81.27 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005 | Table 5, p. 7, row 5; `ORC-4ZDXOL6OHZ.63ee1d` |  |
 | AlSb |  | -73.49 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2; `ORC-JMW4UGZ6PO.3613e9` |  |
+| AlSb |  | -51 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 18; `ORC-WWDIHZM6SW.126248` |  |
+| AlSb |  | -48.95 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.58ceaf` |  |
 
 ## Other properties
 
@@ -101,22 +104,22 @@ Table: Phase transition, Al–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 885.15 K | 885.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 8; `ORC-LHD7HFJ5B7` |  |
-| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 5; `ORC-7HJL7B7TEN` |  |
-| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 18; `ORC-U4JEQ26Z3R` |  |
-| Phase transition | 898.15 K | 898.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 2; `ORC-KEUMPQGSE2` |  |
-| Phase transition | 900.15 K | 900.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 11; `ORC-RZWNBKJ4VP` |  |
-| Phase transition | 923.15 K | 923.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 4; `ORC-FD6IE6LJWT` |  |
-| Phase transition | 928.15 K | 928.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 17; `ORC-WJ3X7WOIYT` |  |
-| Phase transition | 930.15 K | 930.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 10; `ORC-IS6JIEZ5SK` |  |
-| Phase transition | 931.15 K | 931.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 14; `ORC-SZEX2MH3DA` |  |
-| Phase transition | 933.15 K | 933.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 7; `ORC-N4M4RMWWJ4` |  |
-| Phase transition | 1331.15 K | 1331.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 13; `ORC-SOWTGXUQEF` |  |
-| Phase transition | 1333.15 K | 1333.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 16; `ORC-DSFYBXRF6X` |  |
-| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 6; `ORC-D3KLUCAYDY` |  |
-| Phase transition | 1338.15 K | 1338.15 (>) | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 41_ | Table 4, p. 5, row 12; `ORC-KWX3VP7GTU` |  |
-| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 3; `ORC-N73B4ZGOTA` |  |
-| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 1; `ORC-XAUEYZFOXS` |  |
+| Phase transition | 885.15 K | 885.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 8; `ORC-LHD7HFJ5B7` |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 5; `ORC-7HJL7B7TEN` |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990 | Table 4, p. 5, row 18; `ORC-U4JEQ26Z3R` |  |
+| Phase transition | 898.15 K | 898.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 2; `ORC-KEUMPQGSE2` |  |
+| Phase transition | 900.15 K | 900.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 11; `ORC-RZWNBKJ4VP` |  |
+| Phase transition | 923.15 K | 923.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 4; `ORC-FD6IE6LJWT` |  |
+| Phase transition | 928.15 K | 928.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990 | Table 4, p. 5, row 17; `ORC-WJ3X7WOIYT` |  |
+| Phase transition | 930.15 K | 930.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 10; `ORC-IS6JIEZ5SK` |  |
+| Phase transition | 931.15 K | 931.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990 | Table 4, p. 5, row 14; `ORC-SZEX2MH3DA` |  |
+| Phase transition | 933.15 K | 933.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 7; `ORC-N4M4RMWWJ4` |  |
+| Phase transition | 1331.15 K | 1331.15 | T_m; _AlSb: Sb 0.5_ | model | [3] Coughanowr 1990 | Table 4, p. 5, row 13; `ORC-SOWTGXUQEF` |  |
+| Phase transition | 1333.15 K | 1333.15 | T_m; _AlSb: Sb 0.5_ | model | [3] Coughanowr 1990 | Table 4, p. 5, row 16; `ORC-DSFYBXRF6X` |  |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 6; `ORC-D3KLUCAYDY` |  |
+| Phase transition | 1338.15 K | 1338.15 (>) | T_m; _AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 41_ | Table 4, p. 5, row 12; `ORC-KWX3VP7GTU` |  |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 3; `ORC-N73B4ZGOTA` |  |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [3] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 1; `ORC-XAUEYZFOXS` |  |
 
 ### Formation (3)
 
@@ -128,14 +131,16 @@ Table: Formation, Al–Sb system
 | Entropy of formation; _printed: ΔSf_ | -51.6 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1; `ORC-ATLFNG2KIE.89eb59` |  |
 | Entropy of formation; _printed: ΔSf_ | -36.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2; `ORC-JMW4UGZ6PO.52dd41` |  |
 
-### Heat capacity / entropy / enthalpy (2)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, Al–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298_ | 66.66 J/mol-formula K | 298.15 | AlSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.417e77` |  |
-| Heat capacity; _printed: Cp,298_ | 47.98 J/mol (basis unstated)/K | 298.15 | AlSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.20111c` |  |
+| Entropy; _printed: S°298_ | 66.66 J/mol-formula K | 298.15 | AlSb | model | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.417e77` |  |
+| Heat capacity; _printed: Cp,298_ | 47.98 J/mol (basis unstated)/K | 298.15 | AlSb | model | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.20111c` |  |
+| sm fusion; _printed: ΔmS_ | 60.64 J/mol-formula K | 1332 | AlSb; _alloy: Al 0.5, Sb 0.5_ | model | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.3c4edd` |  |
+| sm fusion; _printed: ΔmS_ | 59.32 J/mol-formula K | 1338 | AlSb; _alloy: Al 0.5, Sb 0.5_ | model | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 18; `ORC-WWDIHZM6SW.8a5f39` |  |
 
 ### Crystal structure (1)
 
@@ -150,8 +155,8 @@ Table: Crystal structure, Al–Sb system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. T. Balakumar, M. Medraj, Thermodynamic modeling of the Mg–Al–Sb system, Calphad 29, 24-36 (2005). [doi:10.1016/j.calphad.2005.03.001](https://doi.org/10.1016/j.calphad.2005.03.001)
-2. C.A. Coughanowr, U.R. Kattner, T.J. Anderson, Assessment of the Al-Sb system, Calphad 14, 193-202 (1990). [doi:10.1016/0364-5916(90)90020-z](https://doi.org/10.1016/0364-5916%2890%2990020-z)
-3. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+3. C.A. Coughanowr, U.R. Kattner, T.J. Anderson, Assessment of the Al-Sb system, Calphad 14, 193-202 (1990). [doi:10.1016/0364-5916(90)90020-z](https://doi.org/10.1016/0364-5916%2890%2990020-z)
 4. L.G. Zhang, H.M. Chen, H.Q. Dong, G.X. Huang, L.B. Liu, Z.P. Jin, Thermodynamic description of the Al–Sb–Y system, Journal of Alloys and Compounds 475, 233-237 (2009). [doi:10.1016/j.jallcom.2008.07.105](https://doi.org/10.1016/j.jallcom.2008.07.105)
 
 ## Please cite

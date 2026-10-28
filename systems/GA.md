@@ -1,10 +1,10 @@
 # Ga system
 
-> Ga system: 59 accepted literature values (crystal structure 41, heat capacity / entropy / enthalpy 14, formation 3, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga system: 62 accepted literature values (crystal structure 44, heat capacity / entropy / enthalpy 14, formation 3, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA.html · Markdown: https://data.orchid-project.org/systems/GA.md
 
-59 accepted literature values from 11 paper(s) (experimental 28, model 5, DFT 5, unspecified 21); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+62 accepted literature values from 12 paper(s) (experimental 28, model 8, DFT 5, unspecified 21); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA.json) · [CSV](https://data.orchid-project.org/systems/GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA.html) · [Markdown](https://data.orchid-project.org/systems/GA.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 28 |
-| model | 5 |
+| model | 8 |
 | DFT | 5 |
 | unspecified | 21 |
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 1 |
 | formation | 3 |
 | heat capacity / entropy / enthalpy | 14 |
-| crystal structure | 41 |
+| crystal structure | 44 |
 
 ## Formation enthalpies
 
@@ -69,7 +69,7 @@ Table: Heat capacity / entropy / enthalpy, Ga system
 | Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [3] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.0d226e` |  |
 | Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [3] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.eb92ea` |  |
 
-### Crystal structure (41)
+### Crystal structure (44)
 
 Table: Crystal structure, Ga system
 
@@ -87,6 +87,7 @@ Table: Crystal structure, Ga system
 | Lattice a | 4.5192 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [10] Anderson 1992 | Table 4, p. 5, row 1; `ORC-6VVJZT6ALF.d87cfc` |  |
 | Lattice a | 4.5192 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [6] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2; `ORC-B6RMAJPBYZ.c6f8f0` |  |
 | Lattice a | 4.5192 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [11] Ansara 1991 | Table 3, p. 3, row 1; `ORC-6E4L6FWDEC.53a46a` |  |
+| Lattice a | 4.5192 Å | 298.15 | Ga-Orth; _Ga-Orth: _ | model | [12] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3; `ORC-CL2M7ZBHRB.986e8e` |  |
 | Lattice a | 4.5192 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [7] Anderson 1991 | Table 4, p. 7, row 1; `ORC-QHMTOZCY72.c2aa74` |  |
 | Lattice a | 2.9 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [8] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2; `ORC-HABQSW2RSB.41d1e1` |  |
 | Lattice b | 7.771 Å | 0 | (Ga); _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2; `ORC-PPKGWWQT55.61f4d9` |  |
@@ -100,6 +101,7 @@ Table: Crystal structure, Ga system
 | Lattice b | 7.6586 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [10] Anderson 1992 | Table 4, p. 5, row 1; `ORC-6VVJZT6ALF.c3405e` |  |
 | Lattice b | 7.6586 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [6] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2; `ORC-B6RMAJPBYZ.68a108` |  |
 | Lattice b | 7.6586 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [11] Ansara 1991 | Table 3, p. 3, row 1; `ORC-6E4L6FWDEC.d86094` |  |
+| Lattice b | 7.6586 Å | 298.15 | Ga-Orth; _Ga-Orth: _ | model | [12] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3; `ORC-CL2M7ZBHRB.71b171` |  |
 | Lattice b | 7.6586 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [7] Anderson 1991 | Table 4, p. 7, row 1; `ORC-QHMTOZCY72.f53b7a` |  |
 | Lattice b | 8.13 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [8] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2; `ORC-HABQSW2RSB.2a43e5` |  |
 | Lattice c | 4.584 Å | 0 | (Ga); _alloy: Ga 1_ | DFT | [4] Li 2013 | Table 1, p. 2, row 2; `ORC-PPKGWWQT55.c2e2e5` |  |
@@ -114,6 +116,7 @@ Table: Crystal structure, Ga system
 | Lattice c | 4.5258 Å | 298.15 | (αGa); _(αGa): Ga 1_ | unspecified | [10] Anderson 1992 | Table 4, p. 5, row 1; `ORC-6VVJZT6ALF.5fa745` |  |
 | Lattice c | 4.5258 Å | 298.15 | (αGaI); _(αGaI): Ga 1_ | unspecified | [6] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2; `ORC-B6RMAJPBYZ.f296e2` |  |
 | Lattice c | 4.5258 Å | 298.15 | Ga; _Ga: Ga 1_ | unspecified | [11] Ansara 1991 | Table 3, p. 3, row 1; `ORC-6E4L6FWDEC.25912f` |  |
+| Lattice c | 4.5258 Å | 298.15 | Ga-Orth; _Ga-Orth: _ | model | [12] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3; `ORC-CL2M7ZBHRB.43e3d9` |  |
 | Lattice c | 4.5258 Å | 298.15 | αGa; _αGa: Ga 1_ | unspecified | [7] Anderson 1991 | Table 4, p. 7, row 1; `ORC-QHMTOZCY72.7711f2` |  |
 | Lattice c | 3.17 Å | 298.15 | βGa; _βGa: Ga 1_ | unspecified | [8] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2; `ORC-HABQSW2RSB.547a2e` |  |
 
@@ -132,6 +135,7 @@ Reporting papers the values were read from (a value cited from another work name
 9. Wei Luo, Shuhong Liu, Ying Tang, Ming Yin, Bosse Sundman, Yong Du et al., Experimental investigation and thermodynamic modeling of the Ga–Zr system, Journal of Alloys and Compounds 587, 497-505 (2014). [doi:10.1016/j.jallcom.2013.10.199](https://doi.org/10.1016/j.jallcom.2013.10.199)
 10. T. J. Anderson, I. Ansara, The Ga-Sn (gallium-tin) system, JPE 13, 181-189 (1992). [doi:10.1007/bf02667485](https://doi.org/10.1007/bf02667485)
 11. I Ansara, F Ajersch, The Ga-Pb (Gallium-Lead) System, JPE 12, 73-77 (1991). [doi:10.1007/bf02663678](https://doi.org/10.1007/bf02663678)
+12. M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014). [doi:10.1016/j.jallcom.2014.02.071](https://doi.org/10.1016/j.jallcom.2014.02.071)
 
 ## Please cite
 

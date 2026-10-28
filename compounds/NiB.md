@@ -1,20 +1,24 @@
 # NiB: enthalpy of formation
 
-> Enthalpy of formation of NiB: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of NiB: 5 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiB.html · Markdown: https://data.orchid-project.org/compounds/NiB.md
 
-1 accepted literature formation-enthalpy value(s) (experimental 1).
+5 accepted literature formation-enthalpy value(s) (experimental 2, model 3).
 
 Systems: [B–Ni](https://data.orchid-project.org/systems/B-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiB reported in the literature (1)
+Table: Enthalpy of formation of NiB reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -50.2 kJ/mol (basis unstated) ± 6.3 | NiB | 298.15 | experimental |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Gorelkin 1972_ | Table 8, p. 8, row 2; `ORC-DOEBEZIA3M.d1e76f` |  |
+| -20.1 kJ/mol (basis unstated) ± 2.8 | NiB | 298.15 | experimental |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1; `ORC-CPO7TFMEN4.f7a9e0` |  |
+| -33 kJ/mol (basis unstated) | NiB | 298.15 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3; `ORC-74IZTO4MC4.49693b` |  |
+| -25.8 kJ/mol (basis unstated) | NiB | 298.15 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999 | Table 8, p. 8, row 4; `ORC-KRHLA5G7FK.277a9a` |  |
+| -23.43 kJ/mol (basis unstated) | NiB | 298.15 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5; `ORC-VRUTO36UVF.bc896f` |  |
 
 ### Uncertainty budget
 
@@ -25,6 +29,10 @@ Table: Uncertainty budget of the literature values of NiB
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -50.2 | kJ/mol (basis unstated) | 6.3 | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -20.1 | kJ/mol (basis unstated) | 2.8 | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -33 | kJ/mol (basis unstated) |  | 0.5 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -25.8 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -23.43 | kJ/mol (basis unstated) |  | 0.005 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 
 ## Sources
 

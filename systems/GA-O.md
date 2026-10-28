@@ -1,10 +1,10 @@
 # Ga–O system
 
-> Ga–O system: 12 accepted literature values (crystal structure 8, heat capacity / entropy / enthalpy 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–O system: 17 accepted literature values (crystal structure 8, formation 5, heat capacity / entropy / enthalpy 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-O.html · Markdown: https://data.orchid-project.org/systems/GA-O.md
 
-12 accepted literature values from 1 paper(s) (experimental 6, model 6); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+17 accepted literature values from 1 paper(s) (experimental 10, model 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-O.json) · [CSV](https://data.orchid-project.org/systems/GA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-O/GaO-04Zin.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-O.html) · [Markdown](https://data.orchid-project.org/systems/GA-O.md)
 
@@ -12,14 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 6 |
+| experimental | 10 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
+| formation | 5 |
 | heat capacity / entropy / enthalpy | 3 |
 | crystal structure | 8 |
 
@@ -40,6 +41,20 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | GaO-04Zin.tdb | 302.91 | ION (x(O) 0) + ORTHORHOMBIC_A11 (x(O) 0) + GA2O3_BETA (x(O) 0.6) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-O.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ga–O system (5)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| α-Ga2O3 |  | -1092 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Reznitskii 1979_ | Table VI, p. 6, row 4; `ORC-F4LZLYVL2I` |  |
+| α-Ga2O3 |  | -1084 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Klemm 1936_ | Table VI, p. 6, row 2; `ORC-D7K5KS7XED` |  |
+| α-Ga2O3 |  | -1082 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Mah 1962_ | Table VI, p. 6, row 3; `ORC-3VQZEK7RF2` |  |
+| α-Ga2O3 |  | -1080.4 kJ/mol (basis unstated) |  | model |  |  | [1] Zinkevich 2004 | Table VI, p. 6, row 5; `ORC-3JGJ34H2N6` |  |
+| α-Ga2O3 |  | -1070 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Zinkevich 2004; _cites Roth 1932_ [doi](https://doi.org/10.1515/zpch-1932-15902) | Table VI, p. 6, row 1; `ORC-HD7KSONWFS` |  |
 
 ## Other properties
 

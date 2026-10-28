@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/C-TI.html · Markdown: https://data.orchid-project.org/systems/C-TI.md
 
-103 accepted literature values from 5 paper(s) (experimental 55, model 37, unspecified 11); 0 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+103 accepted literature values from 5 paper(s) (experimental 55, model 37, unspecified 11); 0 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-TI.json) · [CSV](https://data.orchid-project.org/systems/C-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-TI) · [phases (6)](https://data.orchid-project.org/phases/pages/C-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-TI.html) · [Markdown](https://data.orchid-project.org/systems/C-TI.md)
 

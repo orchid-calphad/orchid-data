@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of TaB2
 | -64.9 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -62.9 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -53.3 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -67.7 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -64.062 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -67.7 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -64.062 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

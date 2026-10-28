@@ -84,7 +84,7 @@ Table: Uncertainty budget of the literature values of NbSi2
 | -46 | kJ/mol-atom |  | 1.667e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -46 | kJ/mol-atom | 16 | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 16 |
 | -46 | kJ/mol-atom |  | 1.667e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -49.9 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -49.9 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
 | -51.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -46 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 

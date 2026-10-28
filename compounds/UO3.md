@@ -1,16 +1,16 @@
 # UO3: enthalpy of formation
 
-> Enthalpy of formation of UO3: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of UO3: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/UO3.html · Markdown: https://data.orchid-project.org/compounds/UO3.md
 
-12 accepted literature formation-enthalpy value(s) (experimental 9, model 3); experimental median -306.478 kJ/mol-atom (n = 9); Materials Project -348.521 kJ/mol-atom (mp-aaaaaaol); OQMD -302.1 kJ/mol-atom (oqmd-32532).
+13 accepted literature formation-enthalpy value(s) (experimental 9, model 4); experimental median -306.478 kJ/mol-atom (n = 9); Materials Project -348.521 kJ/mol-atom (mp-aaaaaaol); OQMD -302.1 kJ/mol-atom (oqmd-32532).
 
 Systems: [O–U](https://data.orchid-project.org/systems/O-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of UO3 reported in the literature (12)
+Table: Enthalpy of formation of UO3 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -23,6 +23,7 @@ Table: Enthalpy of formation of UO3 reported in the literature (12)
 | -306.025 kJ/mol-atom ± 0.65 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Johnson 1978_ [doi](https://doi.org/10.1016/0021-9614%2878%2990046-0) | Table 10, p. 8, row 32; `ORC-FI4CELD56Y` |  |
 | -305.95 kJ/mol-atom ± 0.5 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 33; `ORC-22YU3WTHSU.11f98d` |  |
 | -305.746 kJ/mol-atom ± 1.4644 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Fitzgibbon 1967_ [doi](https://doi.org/10.1021/je60032a039) | Table 10, p. 8, row 25; `ORC-5OOJQ5V2RS` |  |
+| -304375 per mol-atom ± 750 | UO3(s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.30e385` |  |
 | -305.95 kJ/mol-atom | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 7; `ORC-VJKQQEBA2V.4dc903` |  |
 | -305.95 kJ/mol-atom | UO3 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 34; `ORC-ZBNU4LYAXN.e66d89` |  |
 | -304.375 kJ/mol-atom ± 0.75 | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.65f769` |  |
@@ -44,6 +45,7 @@ Table: Uncertainty budget of the literature values of UO3
 | -306.025 | kJ/mol-atom | 0.65 | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -305.95 | kJ/mol-atom | 0.5 | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -305.746 | kJ/mol-atom | 1.464 | 1.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -304375 | per mol-atom | 750 | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 750 |
 | -305.95 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -305.95 | kJ/mol-atom |  | 0.0125 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -304.375 | kJ/mol-atom | 0.75 | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |

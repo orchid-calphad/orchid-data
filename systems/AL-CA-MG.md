@@ -1,10 +1,10 @@
 # Al–Ca–Mg system
 
-> Al–Ca–Mg system: 34 accepted literature values (invariant reaction 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ca–Mg system: 53 accepted literature values (invariant reaction 34, phase transition 19) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CA-MG.html · Markdown: https://data.orchid-project.org/systems/AL-CA-MG.md
 
-34 accepted literature values from 1 paper(s) (model 13, unspecified 21); 0 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+53 accepted literature values from 1 paper(s) (experimental 10, model 22, unspecified 21); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CA-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-CA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CA-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CA-MG.html) · [Markdown](https://data.orchid-project.org/systems/AL-CA-MG.md)
 
@@ -12,7 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 13 |
+| experimental | 10 |
+| model | 22 |
 | unspecified | 21 |
 
 Table: Accepted values by property group
@@ -20,6 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 34 |
+| phase transition | 19 |
 
 ## Invariant reactions (literature)
 
@@ -61,6 +63,34 @@ Table: Invariant reactions reported in the literature for the Al–Ca–Mg syste
 | 701.5 | eutectic: L -> γ + Al2Ca + (Mg) | L: Al 0.316, Ca 0.012, Mg 0.672 | model | [1] ISLAM 2005 | Table VI, p. 10, row 10; `ORC-JLGH2QQGDE` |  |
 | 697 | eutectic: L -> γ + Al2Ca + (Mg) | L: Al 0.33, Ca 0.02, Mg 0.65 | unspecified | [1] ISLAM 2005; _cites ref. 5_ | Table VI, p. 10, row 11; `ORC-62RCQUUM53` |  |
 | 683 | eutectic: L -> Mg2Ca + Ca-fcc + Al3Ca8 | L: Al 0.13, Ca 0.68, Mg 0.19 | unspecified | [1] ISLAM 2005; _cites ref. 5_ | Table VI, p. 10, row 2; `ORC-UPA5UECR5H` |  |
+
+## Other properties
+
+### Phase transition (19)
+
+Table: Phase transition, Al–Ca–Mg system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 443.15 K | 443.15 | Al2Ca+(Mg)/Al2Ca+(Mg) + γ; _alloy: Al 0.335395, Ca 0.162075, Mg 0.502531_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 15; `ORC-BAQOIBGLTI` |  |
+| Phase transition | 700.15 K | 700.15 | Al2Ca+(Mg)+L/(Mg)+ Al2Ca+ γ; _alloy: Al 0.16337, Ca 0.0282817, Mg 0.808349_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 7; `ORC-VEJFYBR7MF` |  |
+| Phase transition | 704.15 K | 704.15 | Sample 1 DSC cooling; _alloy: Al 0.16337, Ca 0.0282817, Mg 0.808349_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 4; `ORC-QQ5JFVSWAY` |  |
+| Phase transition | 716.15 K | 716.15 | Sample 1 DSC heating; _alloy: Al 0.16337, Ca 0.0282817, Mg 0.808349_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 3; `ORC-3GJFPKPGMH` |  |
+| Phase transition | 718.52 K | 718.52 | Sample 3 DSC cooling; _alloy: Al 0.027261, Ca 0.162621, Mg 0.810118_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 16; `ORC-YBV5MAOTAP` |  |
+| Phase transition | 753.15 K | 753.15 | L/L+Mg2Ca; _alloy: Al 0.027261, Ca 0.162621, Mg 0.810118_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 19; `ORC-5US6MMXSLX` |  |
+| Phase transition | 758.15 K | 758.15 | (Mg)+L/Al2Ca+(Mg)+L; _alloy: Al 0.16337, Ca 0.0282817, Mg 0.808349_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 6; `ORC-BTI7CW2TXY` |  |
+| Phase transition | 776.15 K | 776.15 | L+Mg2Ca/L+Mg2Ca+(Mg); _alloy: Al 0.027261, Ca 0.162621, Mg 0.810118_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 20; `ORC-FSZIAM2V33` |  |
+| Phase transition | 777.15 K | 777.15 | L+ Al2Ca/Al2Ca+(Mg); _alloy: Al 0.335395, Ca 0.162075, Mg 0.502531_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 14; `ORC-LCYKW5HTMW` |  |
+| Phase transition | 794.47 K | 794.47 | Sample 3 DSC cooling; _alloy: Al 0.027261, Ca 0.162621, Mg 0.810118_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 17; `ORC-W5T6FHTIHI` |  |
+| Phase transition | 796.15 K | 796.15 | Sample 2 DSC cooling; _alloy: Al 0.335395, Ca 0.162075, Mg 0.502531_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 10; `ORC-UOSC2LAVGI` |  |
+| Phase transition | 808.15 K | 808.15 | Sample 2 DSC heating; _alloy: Al 0.335395, Ca 0.162075, Mg 0.502531_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 9; `ORC-4SJR5P7CHS` |  |
+| Phase transition | 812.15 K | 812.15 | L/(Mg)+L; _alloy: Al 0.16337, Ca 0.0282817, Mg 0.808349_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 5; `ORC-YNIWQNX34D` |  |
+| Phase transition | 823.15 K | 823.15 | Sample 1 DSC cooling; _alloy: Al 0.16337, Ca 0.0282817, Mg 0.808349_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 2; `ORC-CVOZ3P4ED7` |  |
+| Phase transition | 828.15 K | 828.15 | Sample 1 DSC heating; _alloy: Al 0.16337, Ca 0.0282817, Mg 0.808349_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 1; `ORC-YGHB5EFX42` |  |
+| Phase transition | 843.15 K | 843.15 | Sample 3 DSC cooling; _alloy: Al 0.027261, Ca 0.162621, Mg 0.810118_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 18; `ORC-BJYVBNQ6WS` |  |
+| Phase transition | 873.15 K | 873.15 | L+Mg2Ca+(Mg)/Mg2Ca+(Mg)+Al2Ca; _alloy: Al 0.027261, Ca 0.162621, Mg 0.810118_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 21; `ORC-VSCGDXCLSJ` |  |
+| Phase transition | 1015.15 K | 1015.15 | L/L+ Al2Ca; _alloy: Al 0.335395, Ca 0.162075, Mg 0.502531_ | model | [1] ISLAM 2005 | Table VII, p. 11, row 13; `ORC-RTLIPIJRGX` |  |
+| Phase transition | 1033.15 K | 1033.15 | Sample 2 DSC cooling; _alloy: Al 0.335395, Ca 0.162075, Mg 0.502531_ | experimental | [1] ISLAM 2005; _cites ref. 42_ | Table VII, p. 11, row 8; `ORC-J77HEZ4FGE` |  |
 
 ## Sources
 

@@ -1,21 +1,22 @@
 # SbYb: enthalpy of formation
 
-> Enthalpy of formation of SbYb: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of SbYb: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SbYb.html · Markdown: https://data.orchid-project.org/compounds/SbYb.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -62 kJ/mol-atom (n = 1); OQMD -77.662 kJ/mol-atom (oqmd-336040).
+3 accepted literature formation-enthalpy value(s) (experimental 1, DFT 2); experimental median -62 kJ/mol-atom (n = 1); OQMD -77.662 kJ/mol-atom (oqmd-336040).
 
 Systems: [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SbYb reported in the literature (2)
+Table: Enthalpy of formation of SbYb reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -62 kJ/mol-atom | YbSb | 298.15 | experimental | Experiment | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Pratt 1970_ | Table 1, p. 27, row 15; `ORC-MBFNTRXGAI.905300` |  |
 | -64.03 kJ/mol-atom | YbSb | 0 | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16; `ORC-IWLICLBEU2.32b9b2` |  |
+| -64.03 kJ/mol-atom | YbSb |  | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16; `ORC-IWLICLBEU2.e3462b` |  |
 
 ### Uncertainty budget
 
@@ -26,7 +27,8 @@ Table: Uncertainty budget of the literature values of SbYb
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -62 | kJ/mol-atom |  | 0.05 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
-| -64.03 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -64.03 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -64.03 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

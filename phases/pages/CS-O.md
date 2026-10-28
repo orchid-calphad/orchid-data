@@ -228,7 +228,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cs 0.7778, O 0.2222
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 13 values (11 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-o:cs7o2)
 
 Names (3): _corpus: _corpus:phase:cs-o:cs7o2  

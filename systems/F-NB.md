@@ -1,10 +1,10 @@
 # F–Nb system
 
-> F–Nb system: 23 accepted literature values (heat capacity / entropy / enthalpy 11, formation 11, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–Nb system: 25 accepted literature values (heat capacity / entropy / enthalpy 11, formation 11, phase transition 2, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-NB.html · Markdown: https://data.orchid-project.org/systems/F-NB.md
 
-23 accepted literature values from 1 paper(s) (experimental 1, model 14, unspecified 8); 0 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+25 accepted literature values from 1 paper(s) (experimental 1, model 16, unspecified 8); 0 calculated phase diagram(s). 28 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-NB.json) · [CSV](https://data.orchid-project.org/systems/F-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NB) · [phases (9)](https://data.orchid-project.org/phases/pages/F-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-NB.html) · [Markdown](https://data.orchid-project.org/systems/F-NB.md)
 
@@ -13,13 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 14 |
+| model | 16 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 2 |
 | formation | 11 |
 | heat capacity / entropy / enthalpy | 11 |
 | other property | 1 |
@@ -47,6 +48,15 @@ Table: Enthalpies of formation, F–Nb system (11)
 | NbF5(g) |  | -286.708 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 5; `ORC-EN4I7UQFNU.9d25c8` |  |
 
 ## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, F–Nb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 573 K | 573 | other: NbF4 disproportionation (P ≃ 6.6 · 10^-4 bar); _alloy: Nb 0.2_ | model | [1] Capelli 2018 | Table 8, p. 6, row 4; `ORC-2ZH2VKNNS7` |  |
+| Phase transition | 573 K | 573 | other: NbF4 disproportionation (P ≃ 6.6 · 10^-4 bar); _alloy: Nb 0.2_ | model | [1] Capelli 2018; _cites Gortsema 1965_ [doi](https://doi.org/10.1021/ic50024a012) | Table 8, p. 6, row 3; `ORC-4THHDAUPLM` |  |
 
 ### Heat capacity / entropy / enthalpy (11)
 

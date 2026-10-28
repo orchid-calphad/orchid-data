@@ -48,14 +48,14 @@ Table: Uncertainty budget of the literature values of GeP
 | -11.44 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -10.5 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | 1.44 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -11.4818 | kJ/mol-atom |  | 0.04824 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -11.48 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -3.86 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -3.85941 | kJ/mol-atom |  | 0.4824 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -0.072364 | kJ/mol-atom |  | 4.824e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -0.072 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| 1.44728 | kJ/mol-atom |  | 0.04824 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| 1.45 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -11.4818 | kJ/mol-atom |  | 0.04824 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -11.48 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -3.86 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -3.85941 | kJ/mol-atom |  | 0.4824 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -0.072364 | kJ/mol-atom |  | 4.824e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -0.072 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| 1.44728 | kJ/mol-atom |  | 0.04824 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| 1.45 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 | -0.17 | kJ/mol-atom |  | 0.005 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
 
 ## DFT formation energies

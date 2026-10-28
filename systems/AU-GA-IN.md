@@ -1,10 +1,10 @@
 # Au–Ga–In system
 
-> Au–Ga–In system: 36 accepted literature values (crystal structure 18, invariant reaction 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ga–In system: 31 accepted literature values (invariant reaction 18, crystal structure 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-GA-IN.html · Markdown: https://data.orchid-project.org/systems/AU-GA-IN.md
 
-36 accepted literature values from 1 paper(s) (experimental 6, model 23, unspecified 7); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+31 accepted literature values from 1 paper(s) (experimental 6, model 18, unspecified 7); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GA-IN.json) · [CSV](https://data.orchid-project.org/systems/AU-GA-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GA-IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-GA-IN.html) · [Markdown](https://data.orchid-project.org/systems/AU-GA-IN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 23 |
+| model | 18 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 18 |
-| crystal structure | 18 |
+| crystal structure | 13 |
 
 ## Invariant reactions (literature)
 
@@ -50,7 +50,7 @@ Table: Invariant reactions reported in the literature for the Au–Ga–In syste
 
 ## Other properties
 
-### Crystal structure (18)
+### Crystal structure (13)
 
 Table: Crystal structure, Au–Ga–In system
 
@@ -61,16 +61,11 @@ Table: Crystal structure, Au–Ga–In system
 | Lattice a | 6.0758 Å | 298.15 | AuGa2; _AuGa2: Au 0.278, Ga 0.667, In 0.055_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 25; `ORC-6QLLQTUF2J` |  |
 | Lattice a | 4.3 Å | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17; `ORC-SY56B7KDV6.0f661a` |  |
 | Lattice a | 6.515 Å | 298.15 | AuIn2; _AuIn2: Au 0.238, Ga 0.095, In 0.667_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 28; `ORC-G7TGG3UJLT` |  |
-| Lattice a | 4.5192 Å | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3; `ORC-CL2M7ZBHRB.986e8e` |  |
-| Lattice a | 3.248 Å | 298.15 | In-tetra | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2; `ORC-45SSTIOVXF.e5e5a2` |  |
 | Lattice b | 6.262 Å | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9; `ORC-G2EJ55LFKL.3e6cc3` |  |
 | Lattice b | 10.59 Å | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17; `ORC-SY56B7KDV6.a0fe18` |  |
-| Lattice b | 7.6586 Å | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3; `ORC-CL2M7ZBHRB.71b171` |  |
 | Lattice c | 12.967 Å | 298.15 | Au2InGa2; _Au2InGa2: Au 0.4, Ga 0.4, In 0.2_ | experimental | [1] Ghasemi 2014; _cites Ghasemi 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.11.088) | Table 1, p. 2, row 19; `ORC-DBMJJP2KTT.d193ff` |  |
 | Lattice c | 3.463 Å | 298.15 | AuGa; _AuGa: Au 0.47, Ga 0.5, In 0.03_ | experimental | [1] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 9; `ORC-G2EJ55LFKL.4058f4` |  |
 | Lattice c | 3.56 Å | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17; `ORC-SY56B7KDV6.f67b4d` |  |
-| Lattice c | 4.5258 Å | 298.15 | Ga-Orth; _Ga-Orth: In 0_ | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 3; `ORC-CL2M7ZBHRB.43e3d9` |  |
-| Lattice c | 4.948 Å | 298.15 | In-tetra | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | Table 1, p. 2, row 2; `ORC-45SSTIOVXF.6213b1` |  |
 | lattice alpha | 90.54 ° | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17; `ORC-SY56B7KDV6.5d7de8` |  |
 | lattice beta | 90 ° | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17; `ORC-SY56B7KDV6.4908eb` |  |
 | lattice gamma | 90.17 ° | 298.15 | AuIn; _AuIn: Ga 0.04_ | unspecified | [1] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 17; `ORC-SY56B7KDV6.7783db` |  |

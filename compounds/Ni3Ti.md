@@ -71,14 +71,14 @@ Table: Uncertainty budget of the literature values of Ni3Ti
 | -33.369 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -32.5 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -30.68 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -47.6 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -47.1 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -46.8 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -46.313 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -45.99 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -45.928 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -45.1 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -29.5 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -47.6 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -47.1 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -46.8 | kJ/mol-atom |  | 0.05 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -46.313 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -45.99 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -45.928 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -45.1 | kJ/mol-atom |  | 0.05 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -29.5 | kJ/mol-atom |  | 0.05 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## DFT formation energies
 

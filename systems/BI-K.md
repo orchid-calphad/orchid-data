@@ -1,10 +1,10 @@
 # Bi–K system
 
-> Bi–K system: 82 accepted literature values (formation 49, invariant reaction 32, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–K system: 83 accepted literature values (formation 50, invariant reaction 32, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-K.html · Markdown: https://data.orchid-project.org/systems/BI-K.md
 
-82 accepted literature values from 1 paper(s) (experimental 37, model 39, unspecified 6); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+83 accepted literature values from 1 paper(s) (experimental 38, model 39, unspecified 6); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-K.json) · [CSV](https://data.orchid-project.org/systems/BI-K.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-K) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-K/BiK-12Niu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-K.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-K.html) · [Markdown](https://data.orchid-project.org/systems/BI-K.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
+| experimental | 38 |
 | model | 39 |
 | unspecified | 6 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 32 |
 | phase transition | 1 |
-| formation | 49 |
+| formation | 50 |
 
 ## Calculated phase diagrams
 
@@ -114,7 +114,7 @@ Table: Invariant reactions reported in the literature for the Bi–K system (32)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–K system (15)
+Table: Enthalpies of formation, Bi–K system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -133,6 +133,7 @@ Table: Enthalpies of formation, Bi–K system (15)
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -49.2 kJ/mol-atom | 848 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18; `ORC-K4G26RVS4P.72381c` |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -46.7 kJ/mol-atom | 523 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.417946` |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -45.1 kJ/mol-atom ± 2.1 | 523 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.68996d` |  |
+| BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | 45.1 kJ/mol-atom ± 2.1 | 523 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.b4b400` |  |
 
 ## Other properties
 

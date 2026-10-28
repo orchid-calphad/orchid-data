@@ -1,10 +1,10 @@
 # Co system
 
-> Co system: 23 accepted literature values (invariant reaction 8, crystal structure 6, formation 3, mixing / partial 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co system: 26 accepted literature values (crystal structure 9, invariant reaction 8, formation 3, mixing / partial 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO.html · Markdown: https://data.orchid-project.org/systems/CO.md
 
-23 accepted literature values from 11 paper(s) (experimental 7, model 10, DFT 4, unspecified 2); 0 calculated phase diagram(s).
+26 accepted literature values from 12 paper(s) (experimental 7, model 13, DFT 4, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO.json) · [CSV](https://data.orchid-project.org/systems/CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO.html) · [Markdown](https://data.orchid-project.org/systems/CO.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 10 |
+| model | 13 |
 | DFT | 4 |
 | unspecified | 2 |
 
@@ -26,7 +26,7 @@ Table: Accepted values by property group
 | formation | 3 |
 | mixing / partial | 3 |
 | activity / EMF / Gibbs energy | 1 |
-| crystal structure | 6 |
+| crystal structure | 9 |
 
 ## Invariant reactions (literature)
 
@@ -84,18 +84,21 @@ Table: Activity / EMF / Gibbs energy, Co system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy; _printed: ΔG°_ | -98862 J/mol | 1873 | liquid Co | experimental | [7] Chen 2003; _cites Fischer 1971_ | Table 7, p. 11, row 4; `ORC-VUIL5KUVVB` |  |
 
-### Crystal structure (6)
+### Crystal structure (9)
 
 Table: Crystal structure, Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.544 Å | 298.15 | αCo | model | [10] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 2; `ORC-UVEFPHPMDC` |  |
-| Lattice a | 2.507 Å | 298.15 | εCo | model | [10] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.148621` |  |
-| Lattice a | 2.505 Å | 298.15 | εCo | model | [10] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.3eae46` |  |
-| Lattice c | 4.089 Å | 298.15 | εCo | model | [10] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.36df5f` |  |
-| Lattice c | 4.07 Å | 298.15 | εCo | model | [10] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.eac3cf` |  |
-| Molar volume; _printed: V0_ | 10.82 Å3/atom | 0 | hcp(Co) | DFT | [11] Zhou 2020 | Table V, p. 12, row 1; `ORC-RSFI3WEZR3` |  |
+| Lattice a | 3.545 Å |  | fcc; _alloy: Co 1_ | model | [10] Kim 2011 | Table 1, p. 2, row 3; `ORC-I5TFQPJBCT` |  |
+| Lattice a | 3.518 Å |  | fcc; _alloy: Co 1_ | model | [10] Kim 2011 | Table 1, p. 2, row 2; `ORC-IPXVG7XUT6` |  |
+| Lattice a | 3.501 Å |  | fcc; _alloy: Co 1_ | model | [10] Kim 2011 | Table 1, p. 2, row 1; `ORC-P5HVUCHT4Q` |  |
+| Lattice a | 3.544 Å | 298.15 | αCo | model | [11] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 2; `ORC-UVEFPHPMDC` |  |
+| Lattice a | 2.507 Å | 298.15 | εCo | model | [11] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.148621` |  |
+| Lattice a | 2.505 Å | 298.15 | εCo | model | [11] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.3eae46` |  |
+| Lattice c | 4.089 Å | 298.15 | εCo | model | [11] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.36df5f` |  |
+| Lattice c | 4.07 Å | 298.15 | εCo | model | [11] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-JG7PSBO7MK.eac3cf` |  |
+| Molar volume; _printed: V0_ | 10.82 Å3/atom | 0 | hcp(Co) | DFT | [12] Zhou 2020 | Table V, p. 12, row 1; `ORC-RSFI3WEZR3` |  |
 
 ## Sources
 
@@ -110,8 +113,9 @@ Reporting papers the values were read from (a value cited from another work name
 7. Ming Chen, Bengt Hallstedt, Ludwig J. Gauckler, Thermodynamic assessment of the Co-O system, JPE 24, 212-227 (2003). [doi:10.1361/105497103770330514](https://doi.org/10.1361/105497103770330514)
 8. A. Davydov, U. R. Kattner, Thermodynamic assessment of the Co-Mo system, JPE 20, 5-16 (1999). [doi:10.1361/105497199770335893](https://doi.org/10.1361/105497199770335893)
 9. Jaroslav Kubišta, Jan Vřešt’ál, Thermodynamics of the liquid Co-Cu system and calculation of phase diagram, JPE 21, 125-129 (2000). [doi:10.1361/105497100770340165](https://doi.org/10.1361/105497100770340165)
-10. G. Cacciamani, R. Ferro, I. Ansara, N. Dupin, Thermodynamic modelling of the Co–Ti system, Intermetallics 8, 213-222 (2000). [doi:10.1016/s0966-9795(99)00098-9](https://doi.org/10.1016/s0966-9795%2899%2900098-9)
-11. Chenyang Zhou, Cuiping Guo, Jingbo Li, Changrong Li, Zhenmin Du, Key Experiments and Thermodynamic Description of the Co-Nb-Ni System, Metall Mater Trans A 51, 5892-5911 (2020). [doi:10.1007/s11661-020-05963-2](https://doi.org/10.1007/s11661-020-05963-2)
+10. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)
+11. G. Cacciamani, R. Ferro, I. Ansara, N. Dupin, Thermodynamic modelling of the Co–Ti system, Intermetallics 8, 213-222 (2000). [doi:10.1016/s0966-9795(99)00098-9](https://doi.org/10.1016/s0966-9795%2899%2900098-9)
+12. Chenyang Zhou, Cuiping Guo, Jingbo Li, Changrong Li, Zhenmin Du, Key Experiments and Thermodynamic Description of the Co-Nb-Ni System, Metall Mater Trans A 51, 5892-5911 (2020). [doi:10.1007/s11661-020-05963-2](https://doi.org/10.1007/s11661-020-05963-2)
 
 ## Please cite
 

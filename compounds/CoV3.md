@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of CoV3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -18.9595 | kJ/mol-atom |  | 5.000e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -2.6519 | kJ/mol-atom |  | 5.000e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| 4.642 | kJ/mol-atom |  | 5.000e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| 9.1849 | kJ/mol-atom |  | 5.000e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -18.9595 | kJ/mol-atom |  | 5.000e-5 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -2.6519 | kJ/mol-atom |  | 5.000e-5 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| 4.642 | kJ/mol-atom |  | 5.000e-5 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| 9.1849 | kJ/mol-atom |  | 5.000e-5 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

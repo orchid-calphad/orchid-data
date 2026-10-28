@@ -28,9 +28,9 @@ Table: Uncertainty budget of the literature values of BiSe
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -29.25 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -55.576 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -33.266 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -31.165 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -55.576 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -33.266 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -31.165 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

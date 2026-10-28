@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of TaB
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -83.5 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -83.218 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -81.007 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -83.5 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -83.218 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -81.007 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

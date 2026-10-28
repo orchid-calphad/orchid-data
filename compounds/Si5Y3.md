@@ -37,8 +37,8 @@ Table: Uncertainty budget of the literature values of Si5Y3
 | -61.25 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -45.153 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -44.43 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -61.31 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -47.06 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -61.31 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -47.06 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

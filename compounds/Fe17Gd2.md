@@ -1,22 +1,25 @@
 # Fe17Gd2: enthalpy of formation
 
-> Enthalpy of formation of Fe17Gd2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe17Gd2: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe17Gd2.html · Markdown: https://data.orchid-project.org/compounds/Fe17Gd2.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -2.3 kJ/mol-atom (n = 2); Materials Project -0.552 kJ/mol-atom (mp-aaacqckz); OQMD -0.034 kJ/mol-atom (oqmd-89232).
+7 accepted literature formation-enthalpy value(s) (experimental 3, model 4); experimental median -2.3 kJ/mol-atom (n = 2); Materials Project -0.552 kJ/mol-atom (mp-aaacqckz); OQMD -0.034 kJ/mol-atom (oqmd-89232).
 
 Systems: [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe17Gd2 reported in the literature (4)
+Table: Enthalpy of formation of Fe17Gd2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -2.3 per mol-atom ± 1.6 | Fe17Gd2(R) | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1; `ORC-GULMEPWYY2.12959b` |  |
 | -2.3 kJ/mol-atom ± 1.6 | Fe17Gd2(R) | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1; `ORC-GULMEPWYY2.b2cb0e` |  |
 | -2.3 kJ/mol-atom ± 1.6 | Fe17Gd2 | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 4; `ORC-L4LH5UJX5O` |  |
+| -4.34 per mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 3; `ORC-ST7FDFMX44.193b7b` |  |
 | -4.34 kJ/mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 3; `ORC-ST7FDFMX44.9b8b16` |  |
+| -3.65 per mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2; `ORC-BWDWD4QDIT.1e01c7` |  |
 | -3.65 kJ/mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2; `ORC-BWDWD4QDIT.89c066` |  |
 
 ### Uncertainty budget
@@ -27,9 +30,12 @@ Table: Uncertainty budget of the literature values of Fe17Gd2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -2.3 | per mol-atom | 1.6 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1.6 |
 | -2.3 | kJ/mol-atom | 1.6 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -2.3 | kJ/mol-atom | 1.6 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -4.34 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -4.34 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -3.65 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -3.65 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 
 ## DFT formation energies

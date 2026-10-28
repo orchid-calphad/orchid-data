@@ -1,12 +1,41 @@
 # Al–C–Y system
 
-> Al–C–Y system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–C–Y system: 2 accepted literature values (phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-C-Y.html · Markdown: https://data.orchid-project.org/systems/AL-C-Y.md
 
-0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+2 accepted literature values from 1 paper(s) (experimental 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-C-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-C-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-C-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-C-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-C-Y.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 2 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 2 |
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Al–C–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1825 K | 1825 | other: YAl3C3; _alloy: C 0.428571, Y 0.142857_ | experimental | [1] Gröbner 1995 | Table 4, p. 3, row 2; `ORC-2HSZNE52YL` |  |
+| Phase transition | 1925 K | 1925 | other: Y3AlC; _alloy: C 0.2, Y 0.6_ | experimental | [1] Gröbner 1995 | Table 4, p. 3, row 1; `ORC-RQRD732F3P` |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. J. Gröbner, H.-L. Lukas, F. Aldinger, Thermodynamic calculations in the YAlC system, Journal of Alloys and Compounds 220, 8-14 (1995). [doi:10.1016/0925-8388(94)06028-2](https://doi.org/10.1016/0925-8388%2894%2906028-2)
 
 ## Please cite
 

@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Bi3Se2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -26.4 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -26.405 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -24.893 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -24.893 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

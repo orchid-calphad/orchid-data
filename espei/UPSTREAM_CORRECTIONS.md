@@ -625,7 +625,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-34KYBMAMNH.bce292 | ORC-34KYBMAMNH.bce292 | sha256:d721a3a5fe63848f/p2/tab-1/r41#equilibrium_property |
 | ORC-VGPFFM6HKY.31582e | ORC-VGPFFM6HKY.31582e | sha256:d721a3a5fe63848f/p2/tab-1/r50#equilibrium_property |
 | ORC-AYWJZHYTRS.aeb0ce | ORC-AYWJZHYTRS.aeb0ce | sha256:8df6e975c3b6dbea/p3/tab-2/r10#equilibrium_property |
-| ORC-3KKWBH2XDZ.b64d86 | ORC-3KKWBH2XDZ.b64d86 | sha256:8df6e975c3b6dbea/p3/tab-2/r15#equilibrium_property |
 | ORC-M5W5YRWCXR.cc9321 | ORC-M5W5YRWCXR.cc9321 | sha256:8df6e975c3b6dbea/p3/tab-2/r11#equilibrium_property |
 | ORC-5J5H3KGZYE.5184e3 | ORC-5J5H3KGZYE.5184e3 | sha256:8df6e975c3b6dbea/p3/tab-2/r23#equilibrium_property |
 | ORC-RHK3CZSOYD.f4ddb9 | ORC-RHK3CZSOYD.f4ddb9 | sha256:8df6e975c3b6dbea/p3/tab-2/r24#equilibrium_property |

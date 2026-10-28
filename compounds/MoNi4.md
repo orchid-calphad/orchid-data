@@ -1,19 +1,20 @@
 # MoNi4: enthalpy of formation
 
-> Enthalpy of formation of MoNi4: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of MoNi4: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MoNi4.html · Markdown: https://data.orchid-project.org/compounds/MoNi4.md
 
-1 accepted literature formation-enthalpy value(s) (DFT 1).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MoNi4 reported in the literature (1)
+Table: Enthalpy of formation of MoNi4 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -7.55 kJ/mol (basis unstated) | Ni4Mo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45; `ORC-6UJLVI53GL.a2fd88` |  |
 | -7.55 kJ/mol (basis unstated) | Ni₄Mo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45; `ORC-6UJLVI53GL.b3b7f9` |  |
 
 ### Uncertainty budget
@@ -24,7 +25,8 @@ Table: Uncertainty budget of the literature values of MoNi4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -7.55 | kJ/mol (basis unstated) |  | 0.005 | 19.28 (dft, calibrated) |  |  |  | 19.28 |
+| -7.55 | kJ/mol (basis unstated) |  | 0.005 | 19.64 (dft, calibrated) |  |  |  | 19.64 |
+| -7.55 | kJ/mol (basis unstated) |  | 0.005 | 19.64 (dft, calibrated) |  |  |  | 19.64 |
 
 ## Sources
 

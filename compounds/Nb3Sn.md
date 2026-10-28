@@ -1,21 +1,22 @@
 # Nb3Sn: enthalpy of formation
 
-> Enthalpy of formation of Nb3Sn: 20 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Nb3Sn: 21 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Nb3Sn.html · Markdown: https://data.orchid-project.org/compounds/Nb3Sn.md
 
-20 accepted literature formation-enthalpy value(s) (experimental 9, model 11); Materials Project -15.81 kJ/mol-atom (mp-aaaaabza); OQMD -18.84 kJ/mol-atom (oqmd-17754).
+21 accepted literature formation-enthalpy value(s) (experimental 10, model 11); Materials Project -15.81 kJ/mol-atom (mp-aaaaabza); OQMD -18.84 kJ/mol-atom (oqmd-17754).
 
 Systems: [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Nb3Sn reported in the literature (20)
+Table: Enthalpy of formation of Nb3Sn reported in the literature (21)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -32.06 kJ/mol (basis unstated) ± 1.97 | Nb3Sn | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 1; `ORC-5QCTPOCOCP.a1c10f` |  |
 | -32.06 kJ/mol (basis unstated) ± 1.97 | Nb3Sn | 860 | experimental | Electromotive Force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1; `ORC-GLCDPPMOV5.a95655` |  |
+| -32.06 kJ/mol (basis unstated) ± 1.97 | Nb3Sn | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 2; `ORC-YEQL2PUFBH.182f11` |  |
 | -16.7 unspecified ± 1.8 | Nb3Sn | 1623.15 | experimental |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | p. 3; `ORC-2WEXP52PIK` | “Five experiments were carried out, and the average value of the enthalpy of formation of Nb3Sn at 1350 °C was equal to -16.7 ± 1.8 kJ/mol.” |
 | -16.7 kJ/mol (basis unstated) ± 1.8 | Nb3Sn | 1623 | experimental | Drop calorimetry | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 6; `ORC-FNSYEOROXF.216909` |  |
 | -16.57 kJ/mol (basis unstated) | Nb3Sn | 298.15 | experimental | Vapor pressure (second law) | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 3; `ORC-H4FJ2SDGP5.eabae5` |  |
@@ -45,6 +46,7 @@ Table: Uncertainty budget of the literature values of Nb3Sn
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -32.06 | kJ/mol (basis unstated) | 1.97 | 0.005 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
 | -32.06 | kJ/mol (basis unstated) | 1.97 | 5.000e-4 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
+| -32.06 | kJ/mol (basis unstated) | 1.97 | 0.005 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
 | -16.7 | unspecified | 1.8 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 1.8 |
 | -16.7 | kJ/mol (basis unstated) | 1.8 | 0.05 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
 | -16.57 | kJ/mol (basis unstated) |  | 0.005 | 12 (kems_vapour_second_law, prior) |  |  |  | 12 |

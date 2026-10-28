@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Ag12Se
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 20.119 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| 20.119 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| 20.653 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| 20.653 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| 20.119 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| 20.119 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| 20.653 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| 20.653 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

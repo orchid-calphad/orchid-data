@@ -1,20 +1,27 @@
 # GaN: enthalpy of formation
 
-> Enthalpy of formation of GaN: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of GaN: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/GaN.html · Markdown: https://data.orchid-project.org/compounds/GaN.md
 
-1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -52.1 kJ/mol-atom (n = 1); Materials Project -63.373 kJ/mol-atom (mp-aaaaabey); OQMD -55.891 kJ/mol-atom (oqmd-6450).
+8 accepted literature formation-enthalpy value(s) (experimental 1, unspecified 7); experimental median -52.1 kJ/mol-atom (n = 1); Materials Project -63.373 kJ/mol-atom (mp-aaaaabey); OQMD -55.891 kJ/mol-atom (oqmd-6450).
 
 Systems: [Ga–N](https://data.orchid-project.org/systems/GA-N.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of GaN reported in the literature (1)
+Table: Enthalpy of formation of GaN reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -52.1 kJ/mol-atom ± 2 | GaN | 298.15 | experimental | Combustion calorimetry | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [1] Unland 2003; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 2, p. 3, row 1; `ORC-L4ZDFWE5GW` |  |
+| -157.7 kJ/mol (basis unstated) | GaN | 298.15 | unspecified |  | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [2] Onderka 2002; _cites Madar 1975_ | Table AI, p. 18, row 25; `ORC-MK5TLO3SF5` |  |
+| -157.7 kJ/mol (basis unstated) | GaN | 298.15 | unspecified |  | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [2] Onderka 2002; _cites Karpinski 1984_ | Table AI, p. 18, row 26; `ORC-QQL76BGONT` |  |
+| -156.8 kJ/mol (basis unstated) | GaN | 298.15 | unspecified |  | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [2] Onderka 2002; _cites Ranade 2000_ | Table AI, p. 18, row 27; `ORC-PEOWFV2IWD` |  |
+| -140.2 kJ/mol (basis unstated) | GaN | 298.15 | unspecified |  | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [2] Onderka 2002; _cites MacChesney 1970_ | Table AI, p. 18, row 30; `ORC-LHYZF4HQHR` |  |
+| -140 kJ/mol (basis unstated) | GaN | 298.15 | unspecified |  | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [2] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.925d6c` |  |
+| -117.1 kJ/mol (basis unstated) | GaN | 298.15 | unspecified |  | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [2] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 18; `ORC-XNAQL7HNT3.e3beeb` |  |
+| -104.2 kJ/mol (basis unstated) | GaN | 298.15 | unspecified |  | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [2] Onderka 2002; _cites Hahn 1940_ | Table AI, p. 18, row 24; `ORC-LIAN2RVUAP` |  |
 
 ### Uncertainty budget
 
@@ -25,6 +32,13 @@ Table: Uncertainty budget of the literature values of GaN
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -52.1 | kJ/mol-atom | 2 | 0.025 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2 |
+| -157.7 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -157.7 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -156.8 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -140.2 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -140 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -117.1 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -104.2 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## DFT formation energies
 
@@ -42,6 +56,7 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 ## Sources
 
 1. J. Unland, B. Onderka, A. Davydov, R. Schmid-Fetzer, Thermodynamics and Phase Stability in the Ga–N System, Journal of Crystal Growth 256, 33-51 (2003). [doi:10.1016/s0022-0248(03)01352-6](https://doi.org/10.1016/s0022-0248%2803%2901352-6)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

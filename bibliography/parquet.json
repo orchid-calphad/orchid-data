@@ -3,15 +3,15 @@
   "table": "papers.parquet",
   "rows": 9570,
   "id_column": "id",
-  "csv_sha256": "c36d942471854fd3ac1d437dfd6ff67fb6a86d038ae0d9871cd24a923b460025",
-  "content_sha256": "a38365ed2c67f633f1c59733cb1b49d2fd80cfaaf876b96273e0eae5ba116fca"
+  "csv_sha256": "e46679d7c4a540baea6a2c66e2c503aec8b4455de4b8860831ca82451e979438",
+  "content_sha256": "18585e9067662b00beaa66fafd60f4fa890ba4e7034d2a3384b3242f26ab1a0b"
  },
  "edges": {
   "table": "edges.parquet",
   "rows": 60235,
   "id_column": "id",
-  "csv_sha256": "447aab95df51f35f20502e761746257162a7ee030171839d5c63d7dcdc585d5a",
-  "content_sha256": "440ff8f28343f1f085494202f3b4bb58f7d5676d2888774ca7053942bfe89dda"
+  "csv_sha256": "1a05a53d530002f758984fca1b2d0c8f28943e77efcaf03c2a6fbb8a79e29842",
+  "content_sha256": "e1ac06d1d32730cc02f00aeff71798ed90a177862c4a9d97ac4100d4e977dfa8"
  },
  "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder",
  "fields": {

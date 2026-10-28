@@ -166,7 +166,7 @@ _assessment that models this phase_
 - Id: `phase:nd-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1258.1–4000 K, x(Zr) 0–1
-- Literature: 14 values (2 accepted) from 2 papers
+- Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zr:liquid)
 
 Names (5): _corpus: _corpus:phase:nd-zr:liquid  

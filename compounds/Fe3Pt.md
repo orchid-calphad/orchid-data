@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Fe3Pt
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -19.361 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -19.361 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

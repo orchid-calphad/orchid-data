@@ -113,12 +113,12 @@ Table: Crystal structure, Ag–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.067 Å |  | (Ag); _(Ag): Ag 0.946, Pt 0.054_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 3; `ORC-2CU6AV67AS.97975c` |  |
+| Lattice a | 3.895 Å |  | α″; _α″: Ag 0.75, Pt 0.25_ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 11; `ORC-G4A2BVBUDI.e4a009` |  |
 | Lattice a | 3.89 Å | 298.15 | γ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 12; `ORC-Y7YAZS2EN7.ca0e7b` |  |
 | Lattice a | 4.061 Å | 1023.15 | (Ag); _(Ag): Ag 0.93, Pt 0.07_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 4; `ORC-AWMTEO5IVA.3cb055` |  |
 | Lattice a | 4.068 Å | 1073.15 | (Ag); _(Ag): Ag 0.972, Pt 0.028_ | experimental | [1] Karakaya 1987; _cites Novikova 1957_ | Table 4, p. 4, row 2; `ORC-F3OCR2Q2RI.b70615` |  |
-| Lattice a | 3.895 Å | 1073.15 | α″; _α″: Ag 0.75, Pt 0.25_ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 11; `ORC-G4A2BVBUDI.e4a009` |  |
 | Lattice a | 3.91 Å | 1093.15 | α′; _α′: Ag 0.75, Pt 0.25_ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 10; `ORC-JI7DCF6UXP.e0dcda` |  |
-| Lattice a | 4.067 Å | 1173.15 | (Ag); _(Ag): Ag 0.946, Pt 0.054_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 3; `ORC-2CU6AV67AS.97975c` |  |
 | Lattice a | 3.932 Å | 1403.15 | (Pt); _(Pt): Ag 0.2, Pt 0.8_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 5; `ORC-37IEKJHCNH.f88fbe` |  |
 | Lattice a | 3.921 Å | 1403.15 | (Pt); _(Pt): Ag 0.08, Pt 0.92_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 7; `ORC-7723WY7YCG.677ea7` |  |
 | Lattice a | 3.917 Å | 1403.15 | (Pt); _(Pt): Ag 0.06, Pt 0.94_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 8; `ORC-P5HCQ3FO47.6feb09` |  |

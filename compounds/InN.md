@@ -1,16 +1,16 @@
 # InN: enthalpy of formation
 
-> Enthalpy of formation of InN: 9 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of InN: 17 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/InN.html · Markdown: https://data.orchid-project.org/compounds/InN.md
 
-9 accepted literature formation-enthalpy value(s) (experimental 8, model 1).
+17 accepted literature formation-enthalpy value(s) (experimental 8, model 3, unspecified 6).
 
 Systems: [In–N](https://data.orchid-project.org/systems/IN-N.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of InN reported in the literature (9)
+Table: Enthalpy of formation of InN reported in the literature (17)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -23,6 +23,14 @@ Table: Enthalpy of formation of InN reported in the literature (9)
 | -28.6 per formula unit ± 9.2 | InN | 298.15 | experimental | Oxidative drop solution calorimetry at 975 K | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Ranade 2001_ | Table III, p. 10, row 8; `ORC-N4XTQZIX2C` |  |
 | -19.2 per formula unit ± 2 | InN | 298.15 | experimental | Combustion of InN in a bomb-calorimeter (b) | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Hahn 1940_ | Table III, p. 10, row 10; `ORC-FXZ7TGT3UG` |  |
 | -96.5 per formula unit | InN | 298.15 | model | Calculated from S°298(InN) and T^LSG = 773 K at 1 bar, first choice | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002 | Table III, p. 10, row 11; `ORC-B6ADNN3GTU` |  |
+| -96.5 kJ/mol (basis unstated) | InN | 298.15 | model |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.1ee054` |  |
+| -28.6 kJ/mol (basis unstated) | InN | 298.15 | model |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.6e34c4` |  |
+| -133.1 kJ/mol (basis unstated) | InN | 298.15 | unspecified |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Vorobev 1973_ | Table AI, p. 18, row 42; `ORC-R7FZQR2TXE` |  |
+| -129.3 kJ/mol (basis unstated) | InN | 298.15 | unspecified |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41; `ORC-AH33WT326L.21e423` |  |
+| -128.1 kJ/mol (basis unstated) | InN | 298.15 | unspecified |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Jones 1987_ | Table AI, p. 18, row 44; `ORC-UFKYGNYLFG` |  |
+| -124.3 kJ/mol (basis unstated) | InN | 298.15 | unspecified |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Gordienko 1977_ | Table AI, p. 18, row 43; `ORC-MAVHC4CD3V` |  |
+| -109.7 kJ/mol (basis unstated) | InN | 298.15 | unspecified |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41; `ORC-AH33WT326L.7e4e05` |  |
+| -19.2 kJ/mol (basis unstated) | InN | 298.15 | unspecified |  | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Hahn 1940_ | Table AI, p. 18, row 40; `ORC-OWH4QAWTAQ` |  |
 
 ### Uncertainty budget
 
@@ -41,6 +49,14 @@ Table: Uncertainty budget of the literature values of InN
 | -28.6 | per formula unit | 9.2 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 9.2 |
 | -19.2 | per formula unit | 2 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 2 |
 | -96.5 | per formula unit |  | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | unit 'per formula unit' not convertible to kJ/mol-atom |
+| -96.5 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -28.6 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -133.1 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -129.3 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -128.1 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -124.3 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -109.7 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -19.2 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 

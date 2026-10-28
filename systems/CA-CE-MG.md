@@ -1,10 +1,10 @@
 # Ca–Ce–Mg system
 
-> Ca–Ce–Mg system: 45 accepted literature values (invariant reaction 24, phase transition 13, phase equilibrium 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ce–Mg system: 56 accepted literature values (phase transition 24, invariant reaction 24, phase equilibrium 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-CE-MG.html · Markdown: https://data.orchid-project.org/systems/CA-CE-MG.md
 
-45 accepted literature values from 2 paper(s) (experimental 23, model 22); 0 calculated phase diagram(s). 28 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+56 accepted literature values from 2 paper(s) (experimental 34, model 22); 0 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE-MG.json) · [CSV](https://data.orchid-project.org/systems/CA-CE-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CE-MG.html) · [Markdown](https://data.orchid-project.org/systems/CA-CE-MG.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
+| experimental | 34 |
 | model | 22 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
-| phase transition | 13 |
+| phase transition | 24 |
 | phase equilibrium | 8 |
 
 ## Invariant reactions (literature)
@@ -56,7 +56,7 @@ Table: Invariant reactions reported in the literature for the Ca–Ce–Mg syste
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (24)
 
 Table: Phase transition, Ca–Ce–Mg system
 
@@ -67,14 +67,25 @@ Table: Phase transition, Ca–Ce–Mg system
 | Phase transition | 786.15 K | 786.15 | eutectic: E2 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 11; `ORC-TQ7B7JCU2Y` |  |
 | Phase transition | 787.15 K | 787.15 | eutectic: E2 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 8; `ORC-A2HAF6OCYL` |  |
 | Phase transition | 815.15 K | 815.15 | other: L + Ce5Mg41 = CaMg2 + CeMg12 | model | [1] Hampl 2007 | p. 7; `ORC-QTGLNYT2ZB` | “not differ until the tertiary step, where the reaction U6 at 542 °C is encountered. Under equilibrium conditions the entire amount of Ce5Mg41 (60%) should be completely consumed for this alloy in the transition-type reaction U6, L + Ce5Mg41 = CaMg2 + CeMg12.” |
+| Phase transition | 823.15 K | 823.15 | L + CeMg12/L + CeMg12 + (Mg) | experimental | [1] Hampl 2007 | Table 2, p. 4, row 6; `ORC-XU6J4IQIK6` |  |
+| Phase transition | 825.15 K | 825.15 | L + (Mg)/L + (Mg) + CeMg12 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 28; `ORC-QKS2LVCJ4Z` |  |
+| Phase transition | 828.15 K | 828.15 | L + (Mg)/L + (Mg) + CeMg12 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 2; `ORC-HAXCNM5ELE` |  |
 | Phase transition | 834.15 K | 834.15 | other: L/L + CeMg12 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 7; `ORC-FUFC3FHSNK` |  |
+| Phase transition | 839.15 K | 839.15 | L + CeMg12/L + CeMg12 + (Mg) | experimental | [1] Hampl 2007 | Table 2, p. 4, row 30; `ORC-CK3JU5GM6M` |  |
+| Phase transition | 842.15 K | 842.15 | L + CeMg12/L + CeMg12 + (Mg) | experimental | [1] Hampl 2007 | Table 2, p. 4, row 9; `ORC-ZTUU4ZKQUY` |  |
+| Phase transition | 859.15 K | 859.15 | L/L + CeMg12 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 31; `ORC-IIUGZSO6C7` |  |
 | Phase transition | 860.15 K | 860.15 | other: L/L + CeMg12 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 10; `ORC-X6UFEMQBMO` |  |
+| Phase transition | 865.15 K | 865.15 | L/L + Ce5Mg41 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 33; `ORC-T2Z2W2GDRC` |  |
 | Phase transition | 880.15 K | 880.15 | other: L/L + Ce5Mg41 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 13; `ORC-JC2X2AGZQS` |  |
 | Phase transition | 884.15 K | 884.15 | other: L/L + (Mg) | experimental | [1] Hampl 2007 | Table 2, p. 4, row 3; `ORC-CTUR3JLUF4` |  |
 | Phase transition | 913.15 K | 913.15 | other: L/L + CeMg3 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 17; `ORC-NKOAOTTURR` |  |
 | Phase transition | 988.15 K | 988.15 | polymorphic: βCe = αCe + βCa | experimental | [1] Hampl 2007 | Table 2, p. 4, row 25; `ORC-X7D6QB7QMQ` |  |
 | Phase transition | 1010.15 K | 1010.15 | other: L/L + CaMg2 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 21; `ORC-F4O5M23R6W` |  |
+| Phase transition | 1013.15 K | 1013.15 | L/L + CaMg2 | experimental | [1] Hampl 2007 | Table 2, p. 4, row 37; `ORC-HW3IDQDLQQ` |  |
 | Phase transition | 1042.15 K | 1042.15 | other: L/L + CeMg3? | experimental | [1] Hampl 2007 | Table 2, p. 4, row 23; `ORC-6QNK463FQO` |  |
+| Phase transition | 1078.15 K | 1078.15 | L″ + βCa = βCe | experimental | [1] Hampl 2007 | Table 2, p. 4, row 26; `ORC-J4P66AHAWB` |  |
+| Phase transition | 1121.15 K | 1121.15 | L′ + L″ = βCa | experimental | [1] Hampl 2007 | Table 2, p. 4, row 27; `ORC-7SMXH77XTM` |  |
+| Phase transition | 1122.15 K | 1122.15 | L′ + L″ = βCa | experimental | [1] Hampl 2007 | Table 2, p. 4, row 42; `ORC-NI6EFEZ3AK` |  |
 
 ### Phase equilibrium (8)
 

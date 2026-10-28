@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of ZrH2
 | -56.07 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -54.88 | kJ/mol (basis unstated) |  | 5.000e-4 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
 | -54 | kJ/mol (basis unstated) |  | 5.000e-4 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
-| -55.72 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -54.76 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -55.72 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -54.76 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

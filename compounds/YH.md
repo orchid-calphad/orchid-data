@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of YH
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -36.5367 | kJ/mol-atom |  | 2.500e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -36.5158 | kJ/mol-atom |  | 2.500e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -36.5367 | kJ/mol-atom |  | 2.500e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -36.5158 | kJ/mol-atom |  | 2.500e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

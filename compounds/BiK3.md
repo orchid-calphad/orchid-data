@@ -1,21 +1,22 @@
 # BiK3: enthalpy of formation
 
-> Enthalpy of formation of BiK3: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of BiK3: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/BiK3.html · Markdown: https://data.orchid-project.org/compounds/BiK3.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -47.15 kJ/mol-atom (n = 2); Materials Project -35.228 kJ/mol-atom (mp-aaaabuhi); OQMD -37.486 kJ/mol-atom (oqmd-24983).
+5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -45.1 kJ/mol-atom (n = 3); Materials Project -35.228 kJ/mol-atom (mp-aaaabuhi); OQMD -37.486 kJ/mol-atom (oqmd-24983).
 
 Systems: [Bi–K](https://data.orchid-project.org/systems/BI-K.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of BiK3 reported in the literature (4)
+Table: Enthalpy of formation of BiK3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -49.2 kJ/mol-atom | BiK3 | 848 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18; `ORC-K4G26RVS4P.72381c` |  |
 | -45.1 kJ/mol-atom ± 2.1 | BiK3 | 523 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.68996d` |  |
+| 45.1 kJ/mol-atom ± 2.1 | BiK3 | 523 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.b4b400` |  |
 | -51.3 kJ/mol-atom | BiK3 | 848 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 19; `ORC-ABC2SN45RE.77a958` |  |
 | -46.7 kJ/mol-atom | BiK3 | 523 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.417946` |  |
 
@@ -29,6 +30,7 @@ Table: Uncertainty budget of the literature values of BiK3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -49.2 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -45.1 | kJ/mol-atom | 2.1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| 45.1 | kJ/mol-atom | 2.1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -51.3 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -46.7 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 

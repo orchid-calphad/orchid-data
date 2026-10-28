@@ -1,20 +1,22 @@
 # Fe23Gd6: enthalpy of formation
 
-> Enthalpy of formation of Fe23Gd6: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe23Gd6: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe23Gd6.html · Markdown: https://data.orchid-project.org/compounds/Fe23Gd6.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project 119.903 kJ/mol-atom (mp-aaacpzco); OQMD -1.306 kJ/mol-atom (oqmd-30181).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project 119.903 kJ/mol-atom (mp-aaacpzco); OQMD -1.306 kJ/mol-atom (oqmd-30181).
 
 Systems: [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe23Gd6 reported in the literature (2)
+Table: Enthalpy of formation of Fe23Gd6 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -6.44 per mol-atom | Fe23Gd6 | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 5; `ORC-GFLCDMFT2S.afccbd` |  |
 | -6.44 kJ/mol-atom | Fe23Gd6 | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 5; `ORC-GFLCDMFT2S.df124f` |  |
+| -4.74 per mol-atom | Fe23Gd6 | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4; `ORC-QHUFQDX7VW.43496f` |  |
 | -4.74 kJ/mol-atom | Fe23Gd6 | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4; `ORC-QHUFQDX7VW.d21cdf` |  |
 
 ### Uncertainty budget
@@ -25,7 +27,9 @@ Table: Uncertainty budget of the literature values of Fe23Gd6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -6.44 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -6.44 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -4.74 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -4.74 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 
 ## DFT formation energies

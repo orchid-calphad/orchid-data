@@ -1,10 +1,10 @@
 # Ce–La–Mg system
 
-> Ce–La–Mg system: 6 accepted literature values (phase transition 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–La–Mg system: 22 accepted literature values (phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-LA-MG.html · Markdown: https://data.orchid-project.org/systems/CE-LA-MG.md
 
-6 accepted literature values from 1 paper(s) (experimental 4, model 2); 0 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+22 accepted literature values from 1 paper(s) (experimental 10, model 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-LA-MG.json) · [CSV](https://data.orchid-project.org/systems/CE-LA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-LA-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-LA-MG.html) · [Markdown](https://data.orchid-project.org/systems/CE-LA-MG.md)
 
@@ -12,23 +12,39 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 2 |
+| experimental | 10 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 6 |
+| phase transition | 22 |
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (22)
 
 Table: Phase transition, Ce–La–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 783.15 K | 783.15 | other: /REMg12 + RE5Mg41; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 12; `ORC-CE3YQ4U2L5` |  |
+| Phase transition | 795.15 K | 795.15 | other: /REMg3 + RE5Mg41; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 22; `ORC-77EJYAHMPP` |  |
+| Phase transition | 837.15 K | 837.15 | other: /RE2Mg17 + REMg12 + RE5Mg41; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 11; `ORC-I3TI4TSSQC` |  |
+| Phase transition | 856.15 K | 856.15 | other: /REMg3 + RE2Mg17 + RE5Mg41; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 21; `ORC-MP3KKCNQMN` |  |
+| Phase transition | 881.15 K | 881.15 | other: /L + RE2Mg17 + REMg12; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 8; `ORC-PDT7XDAMMI` |  |
+| Phase transition | 883.15 K | 883.15 | other: /RE2Mg17 + REMg12; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 10; `ORC-YAKG7V72BH` |  |
+| Phase transition | 884.15 K | 884.15 | other: /L + RE2Mg17 + REMg12; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 9; `ORC-XI5ZTNDY5B` |  |
+| Phase transition | 886.15 K | 886.15 | other: /REMg3 + RE2Mg17 + RE5Mg41; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 20; `ORC-ESBYPP2HPC` |  |
+| Phase transition | 901.15 K | 901.15 | other: /L + RE2Mg17; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 7; `ORC-TGHURPHKOS` |  |
+| Phase transition | 901.15 K | 901.15 | other: /REMg3 + RE2Mg17; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 17; `ORC-MQA5PKWXQQ` |  |
+| Phase transition | 902.15 K | 902.15 | other: /L + REMg3 + RE2Mg17; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 4; `ORC-ML6M52IKDE` |  |
+| Phase transition | 903.15 K | 903.15 | other: /L + REMg3 + RE2Mg17; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 5; `ORC-K3AZYQJIHH` |  |
+| Phase transition | 903.15 K | 903.15 | other: /REMg3 + RE2Mg17; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 19; `ORC-J4TNJLXD7C` |  |
+| Phase transition | 903.15 K | 903.15 | other: /REMg3 + RE2Mg17; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 18; `ORC-M2JTIPJOF3` |  |
+| Phase transition | 907.15 K | 907.15 | other: /L + REMg3 + RE2Mg17; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 6; `ORC-YA7FRWS2CK` |  |
+| Phase transition | 908.15 K | 908.15 | other: /L + REMg3 + RE2Mg17; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 16; `ORC-LXCWEEIMBZ` |  |
 | Phase transition | 909.15 K | 909.15 | other: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 3; `ORC-UAS4KYGHRC` |  |
 | Phase transition | 919.15 K | 919.15 | other: L /L + REMg3; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 13; `ORC-7LZMYSISEP` |  |
 | Phase transition | 920.15 K | 920.15 | other: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 1; `ORC-GXMXU7XRXX` |  |

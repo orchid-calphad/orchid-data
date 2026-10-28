@@ -39,10 +39,10 @@ Table: Uncertainty budget of the literature values of CeB4
 | -53.62 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -51.339 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -51.339 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -65.034 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -62.7 | kJ/mol-atom |  | 5.000e-5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -60.385 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -49.904 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -65.034 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -62.7 | kJ/mol-atom |  | 5.000e-5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -60.385 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -49.904 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Cs–Te system
 
-> Cs–Te system: 57 accepted literature values (crystal structure 22, invariant reaction 12, phase transition 10, heat capacity / entropy / enthalpy 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–Te system: 58 accepted literature values (crystal structure 22, invariant reaction 12, phase transition 10, formation 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-TE.html · Markdown: https://data.orchid-project.org/systems/CS-TE.md
 
-57 accepted literature values from 1 paper(s) (experimental 42, model 11, unspecified 4); 1 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+58 accepted literature values from 1 paper(s) (experimental 43, model 11, unspecified 4); 1 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-TE.json) · [CSV](https://data.orchid-project.org/systems/CS-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-TE/CsTe-15Pha.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CS-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-TE.html) · [Markdown](https://data.orchid-project.org/systems/CS-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 42 |
+| experimental | 43 |
 | model | 11 |
 | unspecified | 4 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase transition | 10 |
-| formation | 4 |
+| formation | 5 |
 | heat capacity / entropy / enthalpy | 5 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 22 |
@@ -86,12 +86,13 @@ Table: Invariant reactions reported in the literature for the Cs–Te system (12
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cs–Te system (4)
+Table: Enthalpies of formation, Cs–Te system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Cs2Te | [Cs2Te](https://data.orchid-project.org/compounds/Cs2Te.html) | -120.467 kJ/mol-atom ± 1.06667 | 298.15 | experimental | -109.246 (mp-aaabgqtv) | -99.985 (oqmd-1343671) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1; `ORC-4IKMXI5UTB.3dd9ab` |  |
 | Cs5Te3 | [Cs5Te3](https://data.orchid-project.org/compounds/Cs5Te3.html) | -117.775 kJ/mol-atom ± 1.0375 | 298.15 (>) | model | -107.426 (mp-aaacppvd) | -94.605 (oqmd-6410) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6; `ORC-U7KZL2PX7B.ac75e5` |  |
+| Cs5Te3 | [Cs5Te3](https://data.orchid-project.org/compounds/Cs5Te3.html) | -117.775 kJ/mol-atom ± 8300 | 298.15 | experimental | -107.426 (mp-aaacppvd) | -94.605 (oqmd-6410) | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 8; `ORC-ZEICEVWLP3` |  |
 | Cs₂Te |  | -361.4 kJ/mol (basis unstated) ± 3.2 | 298.15 | experimental |  |  | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1; `ORC-4IKMXI5UTB.a6b180` |  |
 | Cs₅Te₃ |  | -942.2 kJ/mol (basis unstated) ± 8.3 | 298.15 (>) | model |  |  | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6; `ORC-U7KZL2PX7B.339d56` |  |
 

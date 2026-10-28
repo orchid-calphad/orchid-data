@@ -1,10 +1,10 @@
 # Ru–Sn system
 
-> Ru–Sn system: 242 accepted literature values (mixing / partial 148, activity / EMF / Gibbs energy 67, phase equilibrium 10, formation 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Sn system: 241 accepted literature values (mixing / partial 147, activity / EMF / Gibbs energy 67, phase equilibrium 10, formation 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-SN.html · Markdown: https://data.orchid-project.org/systems/RU-SN.md
 
-242 accepted literature values from 2 paper(s) (experimental 44, model 194, unspecified 4); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+241 accepted literature values from 2 paper(s) (experimental 44, model 193, unspecified 4); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SN.json) · [CSV](https://data.orchid-project.org/systems/RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SN/RuSn-12Lon.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-SN.html) · [Markdown](https://data.orchid-project.org/systems/RU-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 44 |
-| model | 194 |
+| model | 193 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 8 |
 | phase equilibrium | 10 |
 | formation | 9 |
-| mixing / partial | 148 |
+| mixing / partial | 147 |
 | activity / EMF / Gibbs energy | 67 |
 
 ## Calculated phase diagrams
@@ -108,7 +108,7 @@ Table: Phase equilibrium, Ru–Sn system
 | Phase composition |  | 1539.1 | Liquid + Ru; _Liquid: Ru 0.35, Sn 0.65; Ru: Ru 1, Sn 0_ | experimental | [2] Charles 1999; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 4, row 1; `ORC-54ANRDQAVZ` |  |
 | Phase composition |  | 1539.1 | Liquid + Ru0.4Sn0.6; _Liquid: Ru 0.35, Sn 0.65; Ru0.4Sn0.6: Ru 0.4, Sn 0.6_ | experimental | [2] Charles 1999; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 4, row 2; `ORC-2SHNWOT6YP` |  |
 
-### Mixing / partial (148)
+### Mixing / partial (147)
 
 Table: Mixing / partial, Ru–Sn system
 
@@ -164,7 +164,6 @@ Table: Mixing / partial, Ru–Sn system
 | Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.748 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18; `ORC-WFKR27PEJ5.b38c38` |  |
 | Entropy of mixing; _printed: ΔSmelt_ | 20 J/mol (basis unstated)/K |  | Ru0.3Sn0.7; _alloy: Sn 0.7_ | unspecified | [2] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 4; `ORC-6ZJGUKHPOS.376d5e` |  |
 | Entropy of mixing; _printed: ΔSmelt_ | 18 J/mol (basis unstated)/K |  | Ru0.4Sn0.6; _alloy: Sn 0.6_ | unspecified | [2] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 3; `ORC-W6NT6WY62S.88c20b` |  |
-| Entropy of mixing; _printed: ΔSmelt_ | 13.91 J/mol (basis unstated)/K | 505.1 | UNKNOWN; _alloy: Sn 1_ | model | [2] Charles 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 4, row 2; `ORC-TPCARVYVBQ` |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.665 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8; `ORC-7WFWVB42KW.594d5f` |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.642 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7; `ORC-BJV75EA6LD.7671b9` |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.482 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43; `ORC-BOTUX572DN.72737d` |  |

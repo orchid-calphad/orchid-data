@@ -1,10 +1,10 @@
 # Si system
 
-> Si system: 32 accepted literature values (crystal structure 19, formation 4, mixing / partial 3, phase equilibrium 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si system: 36 accepted literature values (crystal structure 19, formation 8, mixing / partial 3, phase equilibrium 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI.html · Markdown: https://data.orchid-project.org/systems/SI.md
 
-32 accepted literature values from 16 paper(s) (experimental 10, model 7, DFT 8, unspecified 7); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+36 accepted literature values from 16 paper(s) (experimental 10, model 7, DFT 12, unspecified 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI.json) · [CSV](https://data.orchid-project.org/systems/SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI.html) · [Markdown](https://data.orchid-project.org/systems/SI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 10 |
 | model | 7 |
-| DFT | 8 |
+| DFT | 12 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase equilibrium | 3 |
-| formation | 4 |
+| formation | 8 |
 | mixing / partial | 3 |
 | activity / EMF / Gibbs energy | 1 |
 | crystal structure | 19 |
@@ -41,14 +41,18 @@ Table: Invariant reactions reported in the literature for the Si system (2)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Si system (4)
+Table: Enthalpies of formation, Si system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Si2Si-γ |  | 148.1 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 23; `ORC-FN4HDWT3OU.018c64` |  |
 | Si2Si-γ |  | 148.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 23; `ORC-FN4HDWT3OU.72dfac` |  |
 | Si3Si-β |  | 1.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 17; `ORC-OCH3VASLIK.8a23e6` |  |
+| Si3Si-β |  | 1.88 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 17; `ORC-OCH3VASLIK.f4b274` |  |
+| Si5Si-μ |  | 66.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 6; `ORC-23YDUZX7V5.187576` |  |
 | Si5Si-μ |  | 66.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 6; `ORC-23YDUZX7V5.9db5e8` |  |
 | Si9Si2-α |  | 62.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 11; `ORC-EXSHOKKW6H.ac193a` |  |
+| Si9Si2-α |  | 62.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 11; `ORC-EXSHOKKW6H.f43fac` |  |
 
 ## Other properties
 

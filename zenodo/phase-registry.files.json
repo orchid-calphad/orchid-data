@@ -18,7 +18,7 @@
   "phases/pages/**"
  ],
  "n_files": 1266,
- "total_bytes": 112739244,
+ "total_bytes": 112738090,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -68,7 +68,7 @@
   {
    "path": "phases/SCHEMA.md",
    "bytes": 18233,
-   "sha256": "2dcaead95ee382667fd6d77e16c95fb7b58927d8968a7492a8d7d3a6b84ec330"
+   "sha256": "22df8f6147ac2d8d06a74da41e2f7c9c2891d9d4132b1fe310928bdecd685802"
   },
   {
    "path": "phases/TDB_PROVENANCE.md",
@@ -82,33 +82,33 @@
   },
   {
    "path": "phases/index.json",
-   "bytes": 1264531,
-   "sha256": "b20a512a809c692edcad0c5cbb6d9c030f0ca6ec648c1b78fbd606421e2807f2"
+   "bytes": 1264519,
+   "sha256": "2ad206159186a060f61c5fab470b949f9f269ae49121125b51998bcf7242d903"
   },
   {
    "path": "phases/parquet.json",
    "bytes": 584,
-   "sha256": "8101d0f689527e6f49a1442ee4513c75f3deaf360537486a0851795d26c9db65"
+   "sha256": "ed064df9d8427c54b08387ffcc75800885f07b6cfbdf35fc9903551b7e9a2661"
   },
   {
    "path": "phases/registry.csv",
-   "bytes": 3308189,
-   "sha256": "5a9ad7d91588a735e12288951f2cf8249fd2387cb682f59d230583ae121482c1"
+   "bytes": 3308185,
+   "sha256": "b42286bff0f55ea82e9430c4e94ff786b169da98475e8fe955f1fab173cd6d40"
   },
   {
    "path": "phases/registry.json",
-   "bytes": 7814449,
-   "sha256": "73a267e9654b4e58f2d553054b1d177917dee8ca5ea96d2ce1040836d9951bfb"
+   "bytes": 7814398,
+   "sha256": "4f4a323b9512ea447d82d30b5c944b1a6024c5806858df7f7915c38114d9040f"
   },
   {
    "path": "phases/registry.jsonld",
-   "bytes": 25951694,
-   "sha256": "b80a3179bf331bfe94cec9656c7c8cbdafdd609fdbf6a0a52728fe4f440ffa90"
+   "bytes": 25951251,
+   "sha256": "c7249fa238948bc617a7859f115b67dfe34e6b07e142b4ca25ecb9399f164341"
   },
   {
    "path": "phases/registry.parquet",
-   "bytes": 452193,
-   "sha256": "a6cd6c8da272e8beb07694575bb751aabdf34630a5e1091f3d2dd11658c546e4"
+   "bytes": 452203,
+   "sha256": "240aab2c47feb150490068e734a29771faa2f946afc6a034aeba2d46e5733fd4"
   },
   {
    "path": "phases/review_queue.json",
@@ -123,7 +123,7 @@
   {
    "path": "phases/structure_types.json",
    "bytes": 915974,
-   "sha256": "f4ff84439e86ecf1bbaed17e88c321a55f595d0c0df509c8574367de5b799df4"
+   "sha256": "c48e8f928e1999788bb512295bca94b38e3b5dc4fb8b5d2f583563a126eb3fdc"
   },
   {
    "path": "phases/structure_types.parquet",
@@ -498,7 +498,7 @@
   {
    "path": "phases/systems/AL-CR.json",
    "bytes": 345686,
-   "sha256": "d2cb5ec07b1efdc73a11108d06ee3751f192db72a37820590514fce4e3bddb45"
+   "sha256": "d421ee3a7f419bea5a56f70ef14523f55a470e6730fe595f9861a2cc55fd6951"
   },
   {
    "path": "phases/systems/AL-CU.json",
@@ -1902,8 +1902,8 @@
   },
   {
    "path": "phases/systems/CA-MG.json",
-   "bytes": 91083,
-   "sha256": "6af23c1ada81e034fbbf91787ee8f3ad76050be76bfac0f2525fa9f88764352c"
+   "bytes": 90427,
+   "sha256": "137aacb9e3f78639c55a23dacc7d052eafb9b75e4ad0751fb23fa03ba0837adf"
   },
   {
    "path": "phases/systems/CA-MN.json",
@@ -2438,7 +2438,7 @@
   {
    "path": "phases/systems/CO-TI.json",
    "bytes": 181463,
-   "sha256": "afa344b599e781bd7d2a7d3371c045104a3e834e1a0fec44917ebc3632f60692"
+   "sha256": "23f5a23f379f56f9f8d6302b61b95e8af4ee9333925aca36004424bc09445573"
   },
   {
    "path": "phases/systems/CO-U.json",
@@ -2668,7 +2668,7 @@
   {
    "path": "phases/systems/CS-O.json",
    "bytes": 59966,
-   "sha256": "99751b1ab16bd603c7ef2adb4f7887d136c20e5038ca4354a6307ba882ad6e56"
+   "sha256": "dfb280ff4f781b3daa1c78b14a22cafb6ec2aaf3a481114242a67e1dab299695"
   },
   {
    "path": "phases/systems/CS-RB.json",
@@ -2678,7 +2678,7 @@
   {
    "path": "phases/systems/CS-TE.json",
    "bytes": 61504,
-   "sha256": "3a5dec9f1d7a020dea552320c5ed56cd666419c9f563c7d6eba7e7533d67de29"
+   "sha256": "1ff2748e7839e2aeb2d00880a938a12bb1390819d5cd16bc385e28aa8f8de4bc"
   },
   {
    "path": "phases/systems/CU-DY.json",
@@ -3217,8 +3217,8 @@
   },
   {
    "path": "phases/systems/FE-GD.json",
-   "bytes": 146107,
-   "sha256": "da152927bcb0cf51a429878c132eba19402b3ac7a09be38309c85025c9fa1adb"
+   "bytes": 146108,
+   "sha256": "d3f03ca20418d2946b984c217cdc279d619fea6bc7ec7400d277c15bb157e37e"
   },
   {
    "path": "phases/systems/FE-H.json",
@@ -4358,7 +4358,7 @@
   {
    "path": "phases/systems/LA-MG.json",
    "bytes": 181448,
-   "sha256": "e3835bc7781765e23a129a74b91d1855c8e6634cd876f4cb329cb58027dae871"
+   "sha256": "475e5863bc8c614b6a87a75762fb6fcdaaa490e2421f349c8e7829764373c59a"
   },
   {
    "path": "phases/systems/LA-MN.json",
@@ -4568,7 +4568,7 @@
   {
    "path": "phases/systems/MG-MN.json",
    "bytes": 38509,
-   "sha256": "15014f3db44763587b5a3d30e2a61cac9824f21d40fb8bc38856ccde448c9c58"
+   "sha256": "9cf1905e9d9eb0d3762fe9cbac2f0a3c9f3a343571c0f02158396202a3daebb9"
   },
   {
    "path": "phases/systems/MG-N.json",
@@ -5187,8 +5187,8 @@
   },
   {
    "path": "phases/systems/ND-ZR.json",
-   "bytes": 34032,
-   "sha256": "a8b2c647cdd64ea31354d7391e43defae196e7f9b902827e5eba5e07686799f1"
+   "bytes": 34033,
+   "sha256": "ad523140141eb7dbd167557aaa5dd3164cc3f1410fb95ed4aeaae9ca403e0c16"
   },
   {
    "path": "phases/systems/NI-O.json",
@@ -6348,7 +6348,7 @@
   {
    "path": "zenodo/phase-registry.metadata.json",
    "bytes": 14414,
-   "sha256": "2f63b31428312dfc696fc0b1a27d472836aed97a596ade09157a72fa9301212a"
+   "sha256": "05dab9a0b5c2130ace2a4b9f66f42bc59f631e3c459886be49a058bbf018abd4"
   }
  ]
 }

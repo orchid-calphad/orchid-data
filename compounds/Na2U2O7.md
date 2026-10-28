@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of Na2U2O7
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -291.255 | kJ/mol-atom | 0.3636 | 0.004545 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -291.255 | kJ/mol-atom |  | 0.004545 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -284.618 | kJ/mol-atom |  | 0.004545 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -284.591 | kJ/mol-atom |  | 0.004545 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -284.618 | kJ/mol-atom |  | 0.004545 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -284.591 | kJ/mol-atom |  | 0.004545 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

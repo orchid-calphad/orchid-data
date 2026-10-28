@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of NiRu3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 13.8 | kJ/mol-atom |  | 5.000e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 13.8 | kJ/mol-atom |  | 5.000e-5 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

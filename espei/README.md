@@ -4,10 +4,10 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 1120 | 2390 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| experimental | 1118 | 2387 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
 | model | 503 | 781 | 81 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
 | invariants | 1546 | 5061 | 464 | ZPF datasets from experimental invariant-reaction tables |
-| dft/literature | 783 | 1770 | 91 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
+| dft/literature | 783 | 1781 | 91 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
 | dft/mp | 1251 | 1251 | 381 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
 | dft/oqmd | 1251 | 1251 | 381 | OQMD on-hull formation energies, HM_FORM endmember datasets |
 
@@ -116,7 +116,7 @@ ORCHID supplies uncertainties to ESPEI 0.9.1 through weights: the sigma it uses 
 | HM_FORM | kems_vapour_third_law | 0 | 0 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
 | HM_FORM | solution_reaction_calorimetry | 80 | 47 | calibrated | 3.145 | 2.202-4.602 | 3.2 | kJ/mol-atom |
 | HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2043 | 359 | calibrated | 3.855 | 3.191-4.581 | 3.9 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2045 | 361 | calibrated | 3.81 | 3.113-4.547 | 3.9 | kJ/mol-atom |
 | H_MIX_PARTIAL | experimental_unspecified | 6 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | H_MIX_PARTIAL | solution_reaction_calorimetry | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
 | H_MIX_PARTIAL | unknown | 1 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
@@ -182,7 +182,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Former optional minimum-sigma policy (E6, superseded)
 
-Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1339 datasets, weight lower than before in 1247, higher in 1, unchanged in 91.
+Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1336 datasets, weight lower than before in 1244, higher in 1, unchanged in 91.
 
 ## Phase constraints (optional)
 

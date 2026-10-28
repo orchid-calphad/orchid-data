@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of FeMn2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | 18.653 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| 18.636 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 18.636 | kJ/mol-atom |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## DFT formation energies
 

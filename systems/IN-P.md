@@ -1,10 +1,10 @@
 # In–P system
 
-> In–P system: 2 accepted literature values (heat capacity / entropy / enthalpy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–P system: 8 accepted literature values (formation 4, heat capacity / entropy / enthalpy 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-P.html · Markdown: https://data.orchid-project.org/systems/IN-P.md
 
-2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+8 accepted literature values from 1 paper(s) (model 7, unspecified 1); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-P.json) · [CSV](https://data.orchid-project.org/systems/IN-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-P/InP-94Ans-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/IN-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-P.html) · [Markdown](https://data.orchid-project.org/systems/IN-P.md)
 
@@ -12,13 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
+| model | 7 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 2 |
+| formation | 4 |
+| heat capacity / entropy / enthalpy | 4 |
 
 ## Calculated phase diagrams
 
@@ -40,9 +42,22 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/IN/IN-P.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/IN/IN-P.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, In–P system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| InP |  | -99.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 19, row 16; `ORC-K4ZU5Z44A6` |  |
+| InP |  | -88.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 17; `ORC-UVAXZRHCUW` |  |
+| InP |  | -84.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 14; `ORC-LSSUFHMGNU.42e414` |  |
+| InP |  | -74.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 15; `ORC-XWAKEBZHFO.7877f7` |  |
+
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (2)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, In–P system
 
@@ -50,6 +65,8 @@ Table: Heat capacity / entropy / enthalpy, In–P system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S°298_ | 63.92 J/mol-formula K | 298.15 | InP | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 15; `ORC-XWAKEBZHFO.270638` |  |
 | Heat capacity; _printed: Cp,298_ | 46.19 J/mol (basis unstated)/K | 298.15 | InP | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 15; `ORC-XWAKEBZHFO.2d4b03` |  |
+| sm fusion; _printed: ΔmS_ | 65.94 J/mol-formula K | 1327 | InP; _alloy: In 0.5, P 0.5_ | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 15; `ORC-XWAKEBZHFO.eccc38` |  |
+| sm fusion; _printed: ΔmS_ | 59.1 J/mol-formula K | 1328 | InP; _alloy: In 0.5, P 0.5_ | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 14; `ORC-LSSUFHMGNU.4ce43c` |  |
 
 ## Sources
 

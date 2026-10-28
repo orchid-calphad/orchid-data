@@ -1,10 +1,10 @@
 # In–Sb system
 
-> In–Sb system: 7 accepted literature values (formation 4, heat capacity / entropy / enthalpy 2, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Sb system: 12 accepted literature values (formation 7, heat capacity / entropy / enthalpy 4, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SB.html · Markdown: https://data.orchid-project.org/systems/IN-SB.md
 
-7 accepted literature values from 3 paper(s) (experimental 3, model 4); 5 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+12 accepted literature values from 3 paper(s) (experimental 3, model 8, unspecified 1); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SB.json) · [CSV](https://data.orchid-project.org/systems/IN-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SB/InSb-03Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/IN-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SB.html) · [Markdown](https://data.orchid-project.org/systems/IN-SB.md)
 
@@ -13,15 +13,16 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 4 |
+| model | 8 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| formation | 4 |
-| heat capacity / entropy / enthalpy | 2 |
+| formation | 7 |
+| heat capacity / entropy / enthalpy | 4 |
 
 ## Calculated phase diagrams
 
@@ -69,14 +70,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, In–Sb system (4)
+Table: Enthalpies of formation, In–Sb system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| InSb |  | -20.615 kJ/mol (basis unstated) | 723 | model |  |  | [1] Cao 2013 | Table V, p. 9, row 4; `ORC-J23XL3YR7P` |  |
-| InSb |  | -18.367 kJ/mol (basis unstated) | 273 | model |  |  | [1] Cao 2013 | Table V, p. 9, row 2; `ORC-5U6I7MN4LT` |  |
-| InSb |  | -18.003 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Cao 2013; _cites Kleppa 1955_ [doi](https://doi.org/10.1021/ja01609a025) | Table V, p. 9, row 3; `ORC-P2IP3IATME` |  |
-| InSb |  | -14.53 kJ/mol (basis unstated) | 273 | experimental |  |  | [1] Cao 2013; _cites Schottky 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990069-5) | Table V, p. 9, row 1; `ORC-VKAVYWJVBM` |  |
+| InSb |  | -32.47 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.ce5911` |  |
+| InSb |  | -30.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 27; `ORC-LIMGRBQSRY` |  |
+| InSb |  | -30 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 25; `ORC-5RT26BWS36.06bccb` |  |
+| InSb |  | -20.615 kJ/mol (basis unstated) | 723 | model |  |  | [2] Cao 2013 | Table V, p. 9, row 4; `ORC-J23XL3YR7P` |  |
+| InSb |  | -18.367 kJ/mol (basis unstated) | 273 | model |  |  | [2] Cao 2013 | Table V, p. 9, row 2; `ORC-5U6I7MN4LT` |  |
+| InSb |  | -18.003 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Cao 2013; _cites Kleppa 1955_ [doi](https://doi.org/10.1021/ja01609a025) | Table V, p. 9, row 3; `ORC-P2IP3IATME` |  |
+| InSb |  | -14.53 kJ/mol (basis unstated) | 273 | experimental |  |  | [2] Cao 2013; _cites Schottky 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990069-5) | Table V, p. 9, row 1; `ORC-VKAVYWJVBM` |  |
 
 ## Other properties
 
@@ -86,24 +90,26 @@ Table: Phase transition, In–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 798.15 K | 798.15 | congruent transformation: InSb -> liquid | experimental | [2] Gierlotka 2019 | p. 3; `ORC-YIEATHEBMQ.d6b161` | “The InSb is involved in reactions: the first invariant reaction is the congruent melting reaction of InSb, at 525 °C.” |
+| Phase transition | 798.15 K | 798.15 | congruent transformation: InSb -> liquid | experimental | [3] Gierlotka 2019 | p. 3; `ORC-YIEATHEBMQ.d6b161` | “The InSb is involved in reactions: the first invariant reaction is the congruent melting reaction of InSb, at 525 °C.” |
 
-### Heat capacity / entropy / enthalpy (2)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, In–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298_ | 85.26 J/mol-formula K | 298.15 | InSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.0c5b1e` |  |
-| Heat capacity; _printed: Cp,298_ | 49.54 J/mol (basis unstated)/K | 298.15 | InSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.17b573` |  |
+| Entropy; _printed: S°298_ | 85.26 J/mol-formula K | 298.15 | InSb | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.0c5b1e` |  |
+| Heat capacity; _printed: Cp,298_ | 49.54 J/mol (basis unstated)/K | 298.15 | InSb | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.17b573` |  |
+| sm fusion; _printed: ΔmS_ | 58.53 J/mol-formula K | 798 | InSb; _alloy: In 0.5, Sb 0.5_ | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 25; `ORC-5RT26BWS36.aa471e` |  |
+| sm fusion; _printed: ΔmS_ | 61.83 J/mol-formula K | 800 | InSb; _alloy: In 0.5, Sb 0.5_ | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.20a74c` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Zhanmin Cao, Wei Xie, Kunpeng Wang, Guangwei Du, Zhiyu Qiao, Thermodynamic Assessment of the In-Ni-Sb System and Predictions for Thermally Stable Contacts to InSb, Journal of Elec Materi 42, 2615-2629 (2013). [doi:10.1007/s11664-013-2599-7](https://doi.org/10.1007/s11664-013-2599-7)
-2. Wojciech Gierlotka, Sinn-wen Chen, Ssu-ming Tseng, Po-han Lin, Co-In-Sb Ternary System (II): Isoplethal Section and Thermodynamic Modeling, Metall Mater Trans A 50, 3891-3902 (2019). [doi:10.1007/s11661-019-05288-9](https://doi.org/10.1007/s11661-019-05288-9)
-3. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+1. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+2. Zhanmin Cao, Wei Xie, Kunpeng Wang, Guangwei Du, Zhiyu Qiao, Thermodynamic Assessment of the In-Ni-Sb System and Predictions for Thermally Stable Contacts to InSb, Journal of Elec Materi 42, 2615-2629 (2013). [doi:10.1007/s11664-013-2599-7](https://doi.org/10.1007/s11664-013-2599-7)
+3. Wojciech Gierlotka, Sinn-wen Chen, Ssu-ming Tseng, Po-han Lin, Co-In-Sb Ternary System (II): Isoplethal Section and Thermodynamic Modeling, Metall Mater Trans A 50, 3891-3902 (2019). [doi:10.1007/s11661-019-05288-9](https://doi.org/10.1007/s11661-019-05288-9)
 
 ## Please cite
 

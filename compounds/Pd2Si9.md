@@ -1,19 +1,20 @@
 # Pd2Si9: enthalpy of formation
 
-> Enthalpy of formation of Pd2Si9: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Pd2Si9: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pd2Si9.html · Markdown: https://data.orchid-project.org/compounds/Pd2Si9.md
 
-1 accepted literature formation-enthalpy value(s) (DFT 1).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pd2Si9 reported in the literature (1)
+Table: Enthalpy of formation of Pd2Si9 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| 36.6 kJ/mol (basis unstated) | Si9Pd2-α |  | DFT | first-principles | [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html) | [1] Zhou 2016 | Table I, p. 3, row 10; `ORC-M3EZSRVR73.0c0e91` |  |
 | 36.6 kJ/mol (basis unstated) | Si9Pd2-α | 0 | DFT | first-principles | [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html) | [1] Zhou 2016 | Table I, p. 3, row 10; `ORC-M3EZSRVR73.77fd20` |  |
 
 ### Uncertainty budget
@@ -24,7 +25,8 @@ Table: Uncertainty budget of the literature values of Pd2Si9
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 36.6 | kJ/mol (basis unstated) |  | 0.05 | 50.25 (dft, calibrated) |  |  |  | 50.25 |
+| 36.6 | kJ/mol (basis unstated) |  | 0.05 | 49.83 (dft, calibrated) |  |  |  | 49.83 |
+| 36.6 | kJ/mol (basis unstated) |  | 0.05 | 49.83 (dft, calibrated) |  |  |  | 49.83 |
 
 ## Sources
 

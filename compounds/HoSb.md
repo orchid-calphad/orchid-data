@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of HoSb
 | -126.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -64 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -91 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
-| -108.284 | kJ/mol (basis unstated) |  | 5.000e-4 | 20.1 (dft, calibrated) |  |  |  | 20.1 |
+| -108.284 | kJ/mol (basis unstated) |  | 5.000e-4 | 19.93 (dft, calibrated) |  |  |  | 19.93 |
 
 ## Sources
 

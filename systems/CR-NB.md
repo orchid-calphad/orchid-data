@@ -1,10 +1,10 @@
 # Cr–Nb system
 
-> Cr–Nb system: 189 accepted literature values (phase equilibrium 77, phase transition 74, crystal structure 15, formation 10) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Nb system: 204 accepted literature values (phase equilibrium 77, phase transition 74, formation 25, crystal structure 15) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NB.html · Markdown: https://data.orchid-project.org/systems/CR-NB.md
 
-189 accepted literature values from 3 paper(s) (experimental 155, model 13, DFT 17, unspecified 4); 7 calculated phase diagram(s). 53 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+204 accepted literature values from 3 paper(s) (experimental 155, model 14, DFT 31, unspecified 4); 7 calculated phase diagram(s). 38 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB.json) · [CSV](https://data.orchid-project.org/systems/CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NB/CrNb-09Pav.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NB.html) · [Markdown](https://data.orchid-project.org/systems/CR-NB.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 155 |
-| model | 13 |
-| DFT | 17 |
+| model | 14 |
+| DFT | 31 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 10 |
 | phase transition | 74 |
 | phase equilibrium | 77 |
-| formation | 10 |
+| formation | 25 |
 | heat capacity / entropy / enthalpy | 1 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 15 |
@@ -91,7 +91,7 @@ Table: Invariant reactions reported in the literature for the Cr–Nb system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Nb system (9)
+Table: Enthalpies of formation, Cr–Nb system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -100,10 +100,25 @@ Table: Enthalpies of formation, Cr–Nb system (9)
 | C15 Cr2Nb |  | -7.02 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Schmetterer 2014; _cites Ormeci 1996_ [doi](https://doi.org/10.1103/physrevb.54.12753) | Table 5, p. 6, row 5; `ORC-7ZMMC6KJQ7` |  |
 | C15 Cr2Nb |  | -6.93 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Yao 2006_ | Table 5, p. 6, row 3; `ORC-V5AAYX4LBW` |  |
 | C15 Cr2Nb |  | -6.3 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Schmetterer 2014; _cites Kellou 2005_ | Table 5, p. 6, row 4; `ORC-V6NAQQQR3Z` |  |
+| Cr2:Cr |  | 26.4 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 6, p. 7, row 15; `ORC-UMDA26N3XS` |  |
+| Cr2:Cr |  | 27.29 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 14; `ORC-BKJI2BHPNQ` |  |
+| Cr2:Cr |  | 30.56 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 12; `ORC-QSJGIAPGCT` |  |
+| Cr2:Cr |  | 33.55 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 13; `ORC-KDA4DDUPS3` |  |
+| Cr2:Nb |  | -3.31 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 3; `ORC-KXIDPCR7GV` |  |
+| Cr2:Nb |  | -2.48 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Hong 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900005-3) | Table 6, p. 7, row 5; `ORC-266DEJRAUQ` |  |
+| Cr2:Nb |  | -2.34 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Ormeci 1996_ [doi](https://doi.org/10.1103/physrevb.54.12753) | Table 6, p. 7, row 8; `ORC-YXVPKEIW5Q` |  |
+| Cr2:Nb |  | -2.31 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Yao 2006_ | Table 6, p. 7, row 6; `ORC-HKL3LLIZCU` |  |
+| Cr2:Nb |  | -2.1 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Kellou 2005_ | Table 6, p. 7, row 7; `ORC-AAUZWQFL7N` |  |
+| Cr2:Nb |  | -2.05 kJ/mol-atom | 0 | model |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 4; `ORC-HVNJODFNW2` |  |
+| Cr2:Nb |  | -1.83 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 1; `ORC-QPQBIQZ6MD` |  |
+| Cr2:Nb |  | -1.72 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 2; `ORC-SIRFFSAVZR` |  |
 | Cr2Nb C14 |  | -7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Pavlů 2009; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 4, p. 4, row 4; `ORC-YXXANJX5KK` |  |
 | CrNb2 (C14) |  | 76.52 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 1; `ORC-XLSY5U4PRY.969957` |  |
 | CrNb2 (C15) |  | 75.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 3; `ORC-MPJWFHXJ3F.28353c` |  |
 | CrNb2 (C36) |  | 76.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 5; `ORC-3OUP3LQ6BO.505957` |  |
+| Nb2:Cr |  | 75.33 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 11; `ORC-VSZ5OK5H4W` |  |
+| Nb2:Cr |  | 75.38 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 9; `ORC-UD3OC5EVC7` |  |
+| Nb2:Cr |  | 75.39 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 10; `ORC-O7W3UAOLTR` |  |
 
 ## Other properties
 

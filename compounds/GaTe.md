@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of GaTe
 | -39.4 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -39 | kJ/mol-atom |  | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -39.268 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -35 | kJ/mol-atom |  | 0.5 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -30.788 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -35 | kJ/mol-atom |  | 0.5 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -30.788 | kJ/mol-atom |  | 5.000e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

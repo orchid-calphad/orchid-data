@@ -1,10 +1,10 @@
 # Ti–U system
 
-> Ti–U system: 184 accepted literature values (crystal structure 150, invariant reaction 16, phase transition 8, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti–U system: 197 accepted literature values (crystal structure 150, phase transition 21, invariant reaction 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI-U.html · Markdown: https://data.orchid-project.org/systems/TI-U.md
 
-184 accepted literature values from 2 paper(s) (experimental 171, model 13); 3 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+197 accepted literature values from 2 paper(s) (experimental 184, model 13); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI-U.json) · [CSV](https://data.orchid-project.org/systems/TI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-U/TiU-11Ber.json) · [phases (7)](https://data.orchid-project.org/phases/pages/TI-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-U.html) · [Markdown](https://data.orchid-project.org/systems/TI-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 171 |
+| experimental | 184 |
 | model | 13 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 8 |
+| phase transition | 21 |
 | phase equilibrium | 8 |
 | crystal structure | 150 |
 | other property | 2 |
@@ -84,19 +84,32 @@ Table: Invariant reactions reported in the literature for the Ti–U system (16)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (21)
 
 Table: Phase transition, Ti–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 933.85 K | 933.85 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 31; `ORC-PVVBVU6W4O` |  |
+| Phase transition | 934.4 K | 934.4 | β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 21; `ORC-XYFJYMI2GX` |  |
+| Phase transition | 934.75 K | 934.75 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 32; `ORC-Q6EMN6H2QB` |  |
+| Phase transition | 935.15 K | 935.15 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 33; `ORC-GSAQG4WTXH` |  |
+| Phase transition | 935.85 K | 935.85 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 34; `ORC-7HQ6PT275C` |  |
+| Phase transition | 937.65 K | 937.65 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 27; `ORC-QNNKNZMOE4` |  |
 | Phase transition | 938.55 K | 938.55 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 17; `ORC-P4PVDLBHDV` |  |
+| Phase transition | 938.6 K | 938.6 | β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 20; `ORC-F4QYGUSYZZ` |  |
 | Phase transition | 938.65 K | 938.65 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 19; `ORC-2U6YMNDJ3Z` |  |
 | Phase transition | 938.75 K | 938.75 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 18; `ORC-ZYONDTJUKP` |  |
+| Phase transition | 939.15 K | 939.15 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 28; `ORC-6RRD3NIWIW` |  |
+| Phase transition | 939.85 K | 939.85 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 29; `ORC-EXNLF6Z7QZ` |  |
+| Phase transition | 991.65 K | 991.65 | γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 16; `ORC-7UHS636P7I` |  |
 | Phase transition | 995.15 K | 995.15 | eutectoid: γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 14; `ORC-WK3RLWLZR5` |  |
+| Phase transition | 995.85 K | 995.85 | γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 15; `ORC-XE4ZPZFMNM` |  |
 | Phase transition | 995.95 K | 995.95 | eutectoid: γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 12; `ORC-GMOHMYSAXK` |  |
+| Phase transition | 1168.15 K | 1168.15 | γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 26; `ORC-2YK2UIOLZH` |  |
 | Phase transition | 1172 K | 1172 | Liquid -> U2Ti; _L: U 0.667; U2Ti: U 0.667_ | model | [2] Berche 2011 | Table 1, p. 4, row 1; `ORC-KUZQL7BHVG` |  |
 | Phase transition | 1172.35 K | 1172.35 | congruent transformation: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 22; `ORC-X4JS2EBTDF` |  |
+| Phase transition | 1172.35 K | 1172.35 | γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 25; `ORC-RSI3QV3DVK` |  |
 | Phase transition | 1172.55 K | 1172.55 | congruent transformation: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 24; `ORC-QBAGZDQFGX` |  |
 
 ### Phase equilibrium (8)

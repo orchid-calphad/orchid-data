@@ -1,10 +1,10 @@
 # Al–P system
 
-> Al–P system: 53 accepted literature values (formation 25, invariant reaction 13, heat capacity / entropy / enthalpy 11, crystal structure 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–P system: 58 accepted literature values (formation 28, heat capacity / entropy / enthalpy 13, invariant reaction 13, crystal structure 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-P.html · Markdown: https://data.orchid-project.org/systems/AL-P.md
 
-53 accepted literature values from 4 paper(s) (experimental 16, model 36, unspecified 1); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+58 accepted literature values from 4 paper(s) (experimental 16, model 40, unspecified 2); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-P.json) · [CSV](https://data.orchid-project.org/systems/AL-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-P/AlP-01Luk-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-P.html) · [Markdown](https://data.orchid-project.org/systems/AL-P.md)
 
@@ -13,16 +13,16 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 16 |
-| model | 36 |
-| unspecified | 1 |
+| model | 40 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 13 |
-| formation | 25 |
-| heat capacity / entropy / enthalpy | 11 |
+| formation | 28 |
+| heat capacity / entropy / enthalpy | 13 |
 | crystal structure | 4 |
 
 ## Calculated phase diagrams
@@ -90,45 +90,48 @@ Table: Invariant reactions reported in the literature for the Al–P system (13)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–P system (25)
+Table: Enthalpies of formation, Al–P system (28)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| AlP |  | -166.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 7; `ORC-3P2UCAWWEI` |  |
+| AlP |  | -164.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 8; `ORC-RWG4CSVSSQ` |  |
+| AlP |  | -148.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.cd4a24` |  |
 | AlP |  | -91.5 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5; `ORC-6W2764KCGG.3beb49` |  |
-| AlP |  | -90.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Peviak 1974_ | Table 4, p. 6, row 8; `ORC-C2MP6ECWTH` |  |
+| AlP |  | -90.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2015; _cites Peviak 1974_ | Table 4, p. 6, row 8; `ORC-C2MP6ECWTH` |  |
 | AlP |  | -90.2 per mol-atom ± 4 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Peviak 1974_ | Table 3, p. 3, row 4; `ORC-SKLXQ5SK5Y` |  |
 | AlP |  | -82.6 per mol-atom ± 1 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 3, row 2; `ORC-S4MMRQUPVI` |  |
-| AlP |  | -82.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 4, p. 6, row 6; `ORC-Y4GCFEKXA5` |  |
+| AlP |  | -82.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2015; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 4, p. 6, row 6; `ORC-Y4GCFEKXA5` |  |
 | AlP |  | -82.2 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12; `ORC-IFG25P7NFF.6d560f` |  |
 | AlP |  | -82.2 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9; `ORC-T4A3VZGQC2.8fce70` |  |
-| AlP |  | -81.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015 | Table 4, p. 6, row 4; `ORC-GX4RQ2FGJ3` |  |
+| AlP |  | -81.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2015 | Table 4, p. 6, row 4; `ORC-GX4RQ2FGJ3` |  |
 | AlP |  | -81.6 per mol-atom ± 1 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 3, row 3; `ORC-HQMUO6H5DT` |  |
 | AlP |  | -81.6 per mol-atom | 298.15 | model |  |  | [1] Liang 2013 | Table 3, p. 3, row 14; `ORC-QPXL563LZK.7eed37` |  |
-| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 4, p. 6, row 7; `ORC-SJ7BY3I35U` |  |
-| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Liang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.001) | Table 4, p. 6, row 3; `ORC-WOS5MKXV6V` |  |
+| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2015; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 4, p. 6, row 7; `ORC-SJ7BY3I35U` |  |
+| AlP |  | -81.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2015; _cites Liang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.001) | Table 4, p. 6, row 3; `ORC-WOS5MKXV6V` |  |
 | AlP |  | -80.4 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites McAlister 2013_ | Table 3, p. 3, row 6; `ORC-EODCGTI733.17bd76` |  |
 | AlP |  | -74.3 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7; `ORC-K2UELGMSEL.b80bd7` |  |
-| AlP |  | -74.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 4, p. 6, row 1; `ORC-VD2LVU46DJ` |  |
+| AlP |  | -74.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2015; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 4, p. 6, row 1; `ORC-VD2LVU46DJ` |  |
 | AlP |  | -69.4 per mol-atom ± 4 | 298.15 | experimental |  |  | [1] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 3, row 1; `ORC-IVQQNZDCYK` |  |
-| AlP |  | -69.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Miettinen 2015; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 4, p. 6, row 5; `ORC-YACG6AQ43C` |  |
+| AlP |  | -69.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2015; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 4, p. 6, row 5; `ORC-YACG6AQ43C` |  |
 | AlP |  | -67.7 per mol-atom ± 6.7 | 298.15 | model |  |  | [1] Liang 2013; _cites De 1968_ | Table 3, p. 3, row 13; `ORC-W2YWDUUAFL` |  |
-| AlP |  | -51 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Miettinen 2015; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 2; `ORC-7JEA2OET6I` |  |
+| AlP |  | -51 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2015; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 2; `ORC-7JEA2OET6I` |  |
 | AlP |  | -51 per mol-atom | 298.15 | model |  |  | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8; `ORC-7TTMWV5LU3.62f04c` |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -41.3 kJ/mol-atom ± 0.55 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 4, row 2; `ORC-A3TK3RSOWQ` |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -34.77 kJ/mol-atom ± 2.3 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1; `ORC-AMM5CYBKX7` |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -29.5 kJ/mol-atom ± 3.35 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3; `ORC-VSKJCGX4YM` |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -28.8 kJ/mol-atom ± 8.85 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4; `ORC-BVWDFFOBII` |  |
-| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -25.5 kJ/mol-atom | 298.15 | model | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [3] Tu 2009 | Table 3, p. 4, row 5; `ORC-HN6OKJZHTO` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -41.3 kJ/mol-atom ± 0.55 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [4] Tu 2009; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 4, row 2; `ORC-A3TK3RSOWQ` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -34.77 kJ/mol-atom ± 2.3 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [4] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1; `ORC-AMM5CYBKX7` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -29.5 kJ/mol-atom ± 3.35 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [4] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3; `ORC-VSKJCGX4YM` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -28.8 kJ/mol-atom ± 8.85 | 298.15 | experimental | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [4] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4; `ORC-BVWDFFOBII` |  |
+| AlP | [AlP](https://data.orchid-project.org/compounds/AlP.html) | -25.5 kJ/mol-atom | 298.15 | model | -58.834 (mp-aaaaachq) | -71.088 (oqmd-4641) | [4] Tu 2009 | Table 3, p. 4, row 5; `ORC-HN6OKJZHTO` |  |
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (11)
+### Heat capacity / entropy / enthalpy (13)
 
 Table: Heat capacity / entropy / enthalpy, Al–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298_ | 175.32 J/mol-formula K | 298.15 | AlP | model | [4] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.48382f` |  |
+| Entropy; _printed: S°298_ | 175.32 J/mol-formula K | 298.15 | AlP | model | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.48382f` |  |
 | Entropy; _printed: S°298(AlP)_ | 22.9 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5; `ORC-6W2764KCGG.953ef8` |  |
 | Entropy; _printed: S°298(AlP)_ | 25.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Terpilowski 1982_ | Table 3, p. 3, row 10; `ORC-6ZQYKQQ4YL` |  |
 | Entropy; _printed: S°298(AlP)_ | 28.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8; `ORC-7TTMWV5LU3.9596c3` |  |
@@ -138,7 +141,9 @@ Table: Heat capacity / entropy / enthalpy, Al–P system
 | Entropy; _printed: S°298(AlP)_ | 87.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7; `ORC-K2UELGMSEL.866ddb` |  |
 | Entropy; _printed: S°298(AlP)_ | 20.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013 | Table 3, p. 3, row 14; `ORC-QPXL563LZK.585996` |  |
 | Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9; `ORC-T4A3VZGQC2.2d049e` |  |
-| Heat capacity; _printed: Cp,298_ | 49.15 J/mol (basis unstated)/K | 298.15 | AlP | model | [4] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.3fce97` |  |
+| Heat capacity; _printed: Cp,298_ | 49.15 J/mol (basis unstated)/K | 298.15 | AlP | model | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.3fce97` |  |
+| sm fusion; _printed: ΔmS_ | 61.66 J/mol-formula K | 2824 | AlP; _alloy: Al 0.5, P 0.5_ | model | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 5; `ORC-OLOTHSW7JQ` |  |
+| sm fusion; _printed: ΔmS_ | 104.16 J/mol-formula K | 2827 | AlP; _alloy: Al 0.5, P 0.5_ | model | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.6adcd8` |  |
 
 ### Crystal structure (4)
 
@@ -156,9 +161,9 @@ Table: Crystal structure, Al–P system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Song-Mao Liang, Rainer Schmid-Fetzer, Thermodynamic assessment of the Al–P system based on original experimental data, Calphad 42, 76-85 (2013). [doi:10.1016/j.calphad.2013.07.001](https://doi.org/10.1016/j.calphad.2013.07.001)
-2. Jyrki Miettinen, Seppo Louhenkilpi, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 9: Fe-Al-P, J. Phase Equilib. Diffus. 36, 317-326 (2015). [doi:10.1007/s11669-015-0383-5](https://doi.org/10.1007/s11669-015-0383-5)
-3. Hao Tu, Fucheng Yin, Xuping Su, Ya Liu, Xinming Wang, Experimental investigation and thermodynamic modeling of the Al–P–Zn ternary system, Calphad 33, 755-760 (2009). [doi:10.1016/j.calphad.2009.10.003](https://doi.org/10.1016/j.calphad.2009.10.003)
-4. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+3. Jyrki Miettinen, Seppo Louhenkilpi, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 9: Fe-Al-P, J. Phase Equilib. Diffus. 36, 317-326 (2015). [doi:10.1007/s11669-015-0383-5](https://doi.org/10.1007/s11669-015-0383-5)
+4. Hao Tu, Fucheng Yin, Xuping Su, Ya Liu, Xinming Wang, Experimental investigation and thermodynamic modeling of the Al–P–Zn ternary system, Calphad 33, 755-760 (2009). [doi:10.1016/j.calphad.2009.10.003](https://doi.org/10.1016/j.calphad.2009.10.003)
 
 ## Please cite
 

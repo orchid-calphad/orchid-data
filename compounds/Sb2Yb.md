@@ -1,20 +1,21 @@
 # Sb2Yb: enthalpy of formation
 
-> Enthalpy of formation of Sb2Yb: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Sb2Yb: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Sb2Yb.html · Markdown: https://data.orchid-project.org/compounds/Sb2Yb.md
 
-1 accepted literature formation-enthalpy value(s) (DFT 1).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Sb2Yb reported in the literature (1)
+Table: Enthalpy of formation of Sb2Yb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -68.29 kJ/mol-atom | YbSb2 | 0 | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 17; `ORC-3PDFQ2IDQQ.9c3fef` |  |
+| -68.29 kJ/mol-atom | YbSb2 |  | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 17; `ORC-3PDFQ2IDQQ.d8f4c8` |  |
 
 ### Uncertainty budget
 
@@ -24,7 +25,8 @@ Table: Uncertainty budget of the literature values of Sb2Yb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -68.29 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -68.29 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -68.29 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

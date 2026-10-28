@@ -1,20 +1,21 @@
 # PdSi5: enthalpy of formation
 
-> Enthalpy of formation of PdSi5: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of PdSi5: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PdSi5.html · Markdown: https://data.orchid-project.org/compounds/PdSi5.md
 
-1 accepted literature formation-enthalpy value(s) (DFT 1).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PdSi5 reported in the literature (1)
+Table: Enthalpy of formation of PdSi5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | 43.2 kJ/mol (basis unstated) | Si5Pd-μ | 0 | DFT | first-principles | [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html) | [1] Zhou 2016 | Table I, p. 3, row 5; `ORC-ACVP7XIWC6.5e1efc` |  |
+| 43.2 kJ/mol (basis unstated) | Si5Pd-μ |  | DFT | first-principles | [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html) | [1] Zhou 2016 | Table I, p. 3, row 5; `ORC-ACVP7XIWC6.ed7bc4` |  |
 
 ### Uncertainty budget
 
@@ -24,7 +25,8 @@ Table: Uncertainty budget of the literature values of PdSi5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 43.2 | kJ/mol (basis unstated) |  | 0.05 | 60.3 (dft, calibrated) |  |  |  | 60.3 |
+| 43.2 | kJ/mol (basis unstated) |  | 0.05 | 59.8 (dft, calibrated) |  |  |  | 59.8 |
+| 43.2 | kJ/mol (basis unstated) |  | 0.05 | 59.8 (dft, calibrated) |  |  |  | 59.8 |
 
 ## Sources
 

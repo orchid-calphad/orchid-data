@@ -1,10 +1,10 @@
 # Gd–Li–Mg system
 
-> Gd–Li–Mg system: 15 accepted literature values (invariant reaction 12, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Li–Mg system: 21 accepted literature values (invariant reaction 12, phase transition 6, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-LI-MG.html · Markdown: https://data.orchid-project.org/systems/GD-LI-MG.md
 
-15 accepted literature values from 1 paper(s) (experimental 5, model 10); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+21 accepted literature values from 1 paper(s) (experimental 11, model 10); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-LI-MG.json) · [CSV](https://data.orchid-project.org/systems/GD-LI-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-LI-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-LI-MG.html) · [Markdown](https://data.orchid-project.org/systems/GD-LI-MG.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 11 |
 | model | 10 |
 
 Table: Accepted values by property group
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
+| phase transition | 6 |
 | crystal structure | 3 |
 
 ## Invariant reactions (literature)
@@ -42,6 +43,19 @@ Table: Invariant reactions reported in the literature for the Gd–Li–Mg syste
 | 454.15 | quasi-peritectic: L + GdMg = (αGd) + (Li) | L: Gd 0.001, Mg 3.000e-5; liquid: Gd 0.001, Mg 3.000e-5 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 12; `ORC-QGFUIAAVD7` |  |
 
 ## Other properties
+
+### Phase transition (6)
+
+Table: Phase transition, Gd–Li–Mg system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 960.15 K | 960.15 | (βGd) = L + (αGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 9; `ORC-4T3KOFMX7K` |  |
+| Phase transition | 968.15 K | 968.15 | (βGd) = L + (αGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 8; `ORC-YPGQADRXZK` |  |
+| Phase transition | 1064.15 K | 1064.15 | L′ = L + (βGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 7; `ORC-FDDHC3COX7` |  |
+| Phase transition | 1065.15 K | 1065.15 | L′ = L + (βGd) + GdMg; _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 6; `ORC-22QBLAGLZY` |  |
+| Phase transition | 1119.15 K | 1119.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 2; `ORC-NMICHHLNYC` |  |
+| Phase transition | 1125.15 K | 1125.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 1; `ORC-77AZGDFRX4` |  |
 
 ### Crystal structure (3)
 

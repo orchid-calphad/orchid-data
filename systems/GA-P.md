@@ -1,10 +1,10 @@
 # Ga–P system
 
-> Ga–P system: 4 accepted literature values (heat capacity / entropy / enthalpy 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–P system: 10 accepted literature values (heat capacity / entropy / enthalpy 6, formation 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-P.html · Markdown: https://data.orchid-project.org/systems/GA-P.md
 
-4 accepted literature values from 1 paper(s) (model 2, unspecified 2); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+10 accepted literature values from 1 paper(s) (model 6, unspecified 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-P.json) · [CSV](https://data.orchid-project.org/systems/GA-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-P/GaP-94Ans-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GA-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-P.html) · [Markdown](https://data.orchid-project.org/systems/GA-P.md)
 
@@ -12,14 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
-| unspecified | 2 |
+| model | 6 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 4 |
+| formation | 4 |
+| heat capacity / entropy / enthalpy | 6 |
 
 ## Calculated phase diagrams
 
@@ -41,9 +42,22 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-P.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-P.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ga–P system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| GaP |  | -129.9 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 9; `ORC-5VH676PKIY.0bde3c` |  |
+| GaP |  | -114.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 10; `ORC-6ZJOA6T6ZU.589a05` |  |
+| GaP |  | -102.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 11; `ORC-BP6XGPQUYR` |  |
+| GaP |  | -99.6 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Ilegems 1974_ | Table AI, p. 19, row 12; `ORC-3RPMGJ5MHT.50ee15` |  |
+
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (4)
+### Heat capacity / entropy / enthalpy (6)
 
 Table: Heat capacity / entropy / enthalpy, Ga–P system
 
@@ -53,6 +67,8 @@ Table: Heat capacity / entropy / enthalpy, Ga–P system
 | Entropy; _printed: S°298_ | 50.6 J/mol-formula K | 298.15 | GaP | unspecified | [1] Onderka 2002; _cites Ilegems 1974_ | Table AI, p. 19, row 12; `ORC-3RPMGJ5MHT.861bea` |  |
 | Entropy; _printed: S°298_ | 51.46 J/mol-formula K | 298.15 | GaP | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 10; `ORC-6ZJOA6T6ZU.23c848` |  |
 | Heat capacity; _printed: Cp,298_ | 43.84 J/mol (basis unstated)/K | 298.15 | GaP | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 10; `ORC-6ZJOA6T6ZU.9ad111` |  |
+| sm fusion; _printed: ΔmS_ | 67.49 J/mol-formula K | 1749 | GaP; _alloy: Ga 0.5, P 0.5_ | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 10; `ORC-6ZJOA6T6ZU.925487` |  |
+| sm fusion; _printed: ΔmS_ | 66.1 J/mol-formula K | 1760 | GaP; _alloy: Ga 0.5, P 0.5_ | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 9; `ORC-5VH676PKIY.8e752f` |  |
 
 ## Sources
 

@@ -541,14 +541,14 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 | blocked_by_flag_phase_identity_missing | 260 |
 | blocked_by_flag_terminal_phase_mapping_unresolved | 15 |
 | espei_certified | 1892 |
-| espei_ready | 11172 |
+| espei_ready | 11161 |
 | espei_ready_calphad_disagrees | 319 |
-| espei_ready_no_prediction | 9359 |
+| espei_ready_no_prediction | 9348 |
 | phase_rule_fail_compound_property_not_fittable | 407 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 78 |
 | phase_rule_fail_phase_label_not_mapped | 545 |
-| phase_rule_pass | 11570 |
+| phase_rule_pass | 11559 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -1872,11 +1872,11 @@ Every value was checked against its table, its paper, the physics of its quantit
 |---|---:|---:|
 | records | 77540 | 73542 |
 | extraction_accepted | 76600 | 65284 |
-| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 12990 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 12980 |
 | records with corrections | | 15528 |
-| records with gate failures | | 12057 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 3142 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 3183 |
+| records with gate failures | | 12067 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 3152 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 3193 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -2032,6 +2032,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `energy_basis_not_printed_rows_inconsistent` | flagged | 11 |
 | page page checks (visual) | `expression_coefficient_not_a_value` | flagged | 119 |
 | page page checks (visual) | `expression_term_missing` | flagged | 8 |
+| page page checks (visual) | `filed_under_wrong_system` | flagged | 1 |
 | page page checks (visual) | `glass_transition_not_an_equilibrium_state` | flagged | 2 |
 | page page checks (visual) | `heat_treatment_not_equilibrium_observation` | flagged | 24 |
 | page page checks (visual) | `locator_table_label_wrong` | flagged | 44 |
@@ -2039,6 +2040,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `measurement_temperature_various` | flagged | 20 |
 | page page checks (visual) | `metastable_state` | flagged | 16 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
+| page page checks (visual) | `molar_basis_unverified` | flagged | 9 |
 | page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
 | page page checks (visual) | `oxygen_stoichiometry_unspecified` | flagged | 30 |
 | page page checks (visual) | `pa_molar_basis_requires_confirmation` | flagged | 5 |
@@ -2087,6 +2089,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `unit_scale_inconsistent_on_page` | flagged | 5 |
 | page page checks (visual) | `unsigned_magnitude_in_print` | flagged | 15 |
 | page page checks (visual) | `value_not_the_stated_property` | flagged | 19 |
+| page page checks (visual) | `value_row_misattributed` | flagged | 2 |
 | page page checks (visual) | `value_shared_by_several_compositions` | flagged | 6 |
 
 Visual checks (rendered PDF pages inspected one by one: every table-level group, every system reassignment, and samples of at least 50 per demotion category where the category is larger; `verdict_reader` keeps the reader's verdict where a decision was curated):
@@ -2110,7 +2113,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | experimental_own | 2 |
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
-| flag | confirmed | 890 |
+| flag | confirmed | 900 |
 | flag_precision_sample | false_positive | 5 |
 | flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |

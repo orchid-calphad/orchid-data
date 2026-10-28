@@ -1,10 +1,10 @@
 # Sb–Yb system
 
-> Sb–Yb system: 42 accepted literature values (invariant reaction 34, formation 7, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Yb system: 48 accepted literature values (invariant reaction 34, formation 13, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-YB.html · Markdown: https://data.orchid-project.org/systems/SB-YB.md
 
-42 accepted literature values from 2 paper(s) (experimental 19, model 17, DFT 6); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+48 accepted literature values from 2 paper(s) (experimental 19, model 17, DFT 12); 2 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-YB.json) · [CSV](https://data.orchid-project.org/systems/SB-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-YB/SbYb-12Liu.json) · [phases (12)](https://data.orchid-project.org/phases/pages/SB-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-YB.html) · [Markdown](https://data.orchid-project.org/systems/SB-YB.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 19 |
 | model | 17 |
-| DFT | 6 |
+| DFT | 12 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 34 |
 | phase transition | 1 |
-| formation | 7 |
+| formation | 13 |
 
 ## Calculated phase diagrams
 
@@ -124,17 +124,23 @@ Table: Invariant reactions reported in the literature for the Sb–Yb system (34
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sb–Yb system (7)
+Table: Enthalpies of formation, Sb–Yb system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Yb11Sb10 |  | -96.7 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 14; `ORC-APX5ADQVBX.1aa0ed` |  |
 | Yb11Sb10 |  | -96.7 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 14; `ORC-APX5ADQVBX.ba1ca9` |  |
+| Yb16Sb11 |  | -101.94 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 12; `ORC-5VGWYV4G3W.044fcb` |  |
 | Yb16Sb11 |  | -101.94 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 12; `ORC-5VGWYV4G3W.bdb86f` |  |
+| Yb4Sb3 |  | -100.24 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 13; `ORC-LMMVXQFEXL.bb2d53` |  |
 | Yb4Sb3 |  | -100.24 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 13; `ORC-LMMVXQFEXL.f2edfa` |  |
+| Yb5Sb3 |  | -98.48 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 11; `ORC-HWLIUSGHL7.0926ff` |  |
 | Yb5Sb3 |  | -98.48 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 11; `ORC-HWLIUSGHL7.8c7b92` |  |
 | YbSb |  | -64.03 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16; `ORC-IWLICLBEU2.32b9b2` |  |
+| YbSb |  | -64.03 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16; `ORC-IWLICLBEU2.e3462b` |  |
 | YbSb | [SbYb](https://data.orchid-project.org/compounds/SbYb.html) | -62 kJ/mol-atom | 298.15 | experimental |  | -77.662 (oqmd-336040) | [2] Palma 2023; _cites Pratt 1970_ | Table 1, p. 27, row 15; `ORC-MBFNTRXGAI.905300` |  |
 | YbSb2 |  | -68.29 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 17; `ORC-3PDFQ2IDQQ.9c3fef` |  |
+| YbSb2 |  | -68.29 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 17; `ORC-3PDFQ2IDQQ.d8f4c8` |  |
 
 ## Other properties
 

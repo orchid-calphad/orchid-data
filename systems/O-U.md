@@ -1,10 +1,10 @@
 # O–U system
 
-> O–U system: 915 accepted literature values (phase equilibrium 601, phase transition 185, heat capacity / entropy / enthalpy 57, formation 43) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–U system: 916 accepted literature values (phase equilibrium 601, phase transition 185, heat capacity / entropy / enthalpy 57, formation 44) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-U.html · Markdown: https://data.orchid-project.org/systems/O-U.md
 
-915 accepted literature values from 4 paper(s) (experimental 570, model 336, unspecified 9); 0 calculated phase diagram(s). 26 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+916 accepted literature values from 4 paper(s) (experimental 570, model 337, unspecified 9); 0 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/O-U.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/O-U.part2.json) · [CSV](https://data.orchid-project.org/systems/O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-U) · [phases (21)](https://data.orchid-project.org/phases/pages/O-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-U.html) · [Markdown](https://data.orchid-project.org/systems/O-U.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 570 |
-| model | 336 |
+| model | 337 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 18 |
 | phase transition | 185 |
 | phase equilibrium | 601 |
-| formation | 43 |
+| formation | 44 |
 | heat capacity / entropy / enthalpy | 57 |
 | other property | 11 |
 
@@ -58,7 +58,7 @@ Table: Invariant reactions reported in the literature for the O–U system (18)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–U system (43)
+Table: Enthalpies of formation, O–U system (44)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -105,6 +105,7 @@ Table: Enthalpies of formation, O–U system (43)
 | UO3 (g) |  | -198.613 kJ/mol-atom | 298.15 | model |  |  | [2] Guéneau 2002 | Table 4, p. 9, row 15; `ORC-U6QFEWSDKO.90f187` |  |
 | UO3 (s) | [UO3](https://data.orchid-project.org/compounds/UO3.html) | -305.95 kJ/mol-atom | 298.15 | model | -348.521 (mp-aaaaaaol) | -302.1 (oqmd-32532) | [2] Guéneau 2002 | Table 4, p. 9, row 7; `ORC-VJKQQEBA2V.4dc903` |  |
 | UO3 (s) | [UO3](https://data.orchid-project.org/compounds/UO3.html) | -304.375 kJ/mol-atom ± 0.75 | 298.15 | model | -348.521 (mp-aaaaaaol) | -302.1 (oqmd-32532) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.65f769` |  |
+| UO3(s) |  | -304375 per mol-atom ± 750 | 298.15 | model |  |  | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.30e385` |  |
 
 ## Other properties
 

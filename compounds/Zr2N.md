@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Zr2N
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -219.829 | kJ/mol-atom |  | 3.333e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -130.064 | kJ/mol-atom |  | 3.333e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -219.829 | kJ/mol-atom |  | 3.333e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -130.064 | kJ/mol-atom |  | 3.333e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

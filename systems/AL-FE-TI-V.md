@@ -1,12 +1,46 @@
 # Al–Fe–Ti–V system
 
-> Al–Fe–Ti–V system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe–Ti–V system: 7 accepted literature values (phase transition 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE-TI-V.html · Markdown: https://data.orchid-project.org/systems/AL-FE-TI-V.md
 
-0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+7 accepted literature values from 1 paper(s) (experimental 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-TI-V.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-TI-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-TI-V.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-TI-V.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 7 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 7 |
+
+## Other properties
+
+### Phase transition (7)
+
+Table: Phase transition, Al–Fe–Ti–V system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 504 K | 504 | other: C13-5-0.5; _alloy: Al 0.0548, Fe 0.00495, Ti 0.81345, V 0.1268_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 7; `ORC-OSURFCCXF7` |  |
+| Phase transition | 548 K | 548 | other: C14-6; _alloy: Al 0.0555, V 0.1434_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 2; `ORC-A22MT6KOWY` |  |
+| Phase transition | 555 K | 555 | other: C15-5; _alloy: Al 0.0532, V 0.1484_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 1; `ORC-CCKZD3MGSF` |  |
+| Phase transition | 580 K | 580 | other: C13-7; _alloy: Al 0.0695, V 0.1338_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 3; `ORC-GVJMDHMPW5` |  |
+| Phase transition | 600 K | 600 | other: C12-10; _alloy: Al 0.1024, V 0.1175_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 6; `ORC-ITNUZ27XPC` |  |
+| Phase transition | 621 K | 621 | other: C12-9; _alloy: Al 0.0948, V 0.1183_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 5; `ORC-UQQOLY55WI` |  |
+| Phase transition | 644 K | 644 | other: C12-8; _alloy: Al 0.0862, V 0.1184_ | experimental | [1] Yan 2016 | Table 1, p. 2, row 4; `ORC-HH6NBCN6NB` |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Jia-Yi Yan, G.B. Olson, Computational thermodynamics and kinetics of displacive transformations in titanium-based alloys, Journal of Alloys and Compounds 673, 441-454 (2016). [doi:10.1016/j.jallcom.2016.02.251](https://doi.org/10.1016/j.jallcom.2016.02.251)
 
 ## Please cite
 

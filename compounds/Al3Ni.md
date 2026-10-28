@@ -48,7 +48,7 @@ Table: Uncertainty budget of the literature values of Al3Ni
 | -37.656 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -22.9 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -21.6 | kJ/mol (basis unstated) |  | 0.05 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
-| -21.919 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
+| -21.919 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.72 (dft, calibrated) |  |  |  | 15.72 |
 
 ## DFT formation energies
 

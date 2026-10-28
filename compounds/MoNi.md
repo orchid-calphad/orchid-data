@@ -1,26 +1,33 @@
 # MoNi: enthalpy of formation
 
-> Enthalpy of formation of MoNi: 8 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of MoNi: 15 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MoNi.html · Markdown: https://data.orchid-project.org/compounds/MoNi.md
 
-8 accepted literature formation-enthalpy value(s) (DFT 8).
+15 accepted literature formation-enthalpy value(s) (DFT 15).
 
 Systems: [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MoNi reported in the literature (8)
+Table: Enthalpy of formation of MoNi reported in the literature (15)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -6.405 kJ/mol (basis unstated) | Ni₀.₅₀Mo₀.₅₀ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 32; `ORC-BE5RUGJH4N.d312ce` |  |
+| -6.405 kJ/mol (basis unstated) | Ni0.50Mo0.50 |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 32; `ORC-BE5RUGJH4N.feed25` |  |
+| -4.49 kJ/mol (basis unstated) | δ-NiMo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35; `ORC-RDISTNJK7T.1a81ea` |  |
 | -4.49 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35; `ORC-RDISTNJK7T.4d9a5f` |  |
+| -2.8 kJ/mol (basis unstated) | δ-NiMo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 36; `ORC-53SXQSON2H.28b793` |  |
 | -2.8 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 36; `ORC-53SXQSON2H.37a71e` |  |
+| -2.24 kJ/mol (basis unstated) | δ-NiMo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 34; `ORC-EPSGJXOM64.68a7d0` |  |
 | -2.24 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 34; `ORC-EPSGJXOM64.a84a0b` |  |
+| -0.89 kJ/mol (basis unstated) | δ-NiMo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 37; `ORC-BNPBVC42CD.1f2ca1` |  |
 | -0.89 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 37; `ORC-BNPBVC42CD.22aa42` |  |
+| -0.1 kJ/mol (basis unstated) | δ-NiMo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 38; `ORC-MT2XVTSPC4.72c37f` |  |
 | -0.1 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 38; `ORC-MT2XVTSPC4.8f86db` |  |
 | 1.98 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 39; `ORC-XMIVKB2HUB.ad1175` |  |
+| 1.98 kJ/mol (basis unstated) | δ-NiMo |  | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 39; `ORC-XMIVKB2HUB.ec7c05` |  |
 | 10.45 kJ/mol (basis unstated) | Ni₀.₅₀Mo₀.₅₀ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 29; `ORC-MZU67UQKLF.638a01` |  |
 
 ### Uncertainty budget
@@ -31,14 +38,21 @@ Table: Uncertainty budget of the literature values of MoNi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -6.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| -4.49 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
-| -2.8 | kJ/mol (basis unstated) |  | 0.05 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
-| -2.24 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
-| -0.89 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
-| -0.1 | kJ/mol (basis unstated) |  | 0.05 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
-| 1.98 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
-| 10.45 | kJ/mol (basis unstated) |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -6.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -6.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| -4.49 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -4.49 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -2.8 | kJ/mol (basis unstated) |  | 0.05 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -2.8 | kJ/mol (basis unstated) |  | 0.05 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -2.24 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -2.24 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -0.89 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -0.89 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -0.1 | kJ/mol (basis unstated) |  | 0.05 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| -0.1 | kJ/mol (basis unstated) |  | 0.05 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| 1.98 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| 1.98 | kJ/mol (basis unstated) |  | 0.005 | 7.858 (dft, calibrated) |  |  |  | 7.858 |
+| 10.45 | kJ/mol (basis unstated) |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

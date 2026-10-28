@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Co4Y
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -12.2 | kJ/mol-atom | 0.87 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -9.42 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -9.42 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

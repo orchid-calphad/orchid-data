@@ -1,10 +1,10 @@
 # Al–Sc–Y system
 
-> Al–Sc–Y system: 103 accepted literature values (invariant reaction 83, phase equilibrium 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc–Y system: 111 accepted literature values (invariant reaction 83, phase equilibrium 20, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC-Y.html · Markdown: https://data.orchid-project.org/systems/AL-SC-Y.md
 
-103 accepted literature values from 1 paper(s) (experimental 45, model 58); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+111 accepted literature values from 1 paper(s) (experimental 48, model 58, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-SC-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SC-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-SC-Y.md)
 
@@ -12,14 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 45 |
+| experimental | 48 |
 | model | 58 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 83 |
+| phase transition | 8 |
 | phase equilibrium | 20 |
 
 ## Invariant reactions (literature)
@@ -113,6 +115,21 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 | 882 | Al2Y + Al3Sc + Al2Sc/Al2Y + Al3Sc |  | model | [1] Hu 2018 | Table 5, p. 6, row 38; `ORC-7ZXB57SKTC` |  |
 
 ## Other properties
+
+### Phase transition (8)
+
+Table: Phase transition, Al–Sc–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1127 K | 1127 | Al3Y5 + AlY2 + hcp_A3/AlY2 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 8; `ORC-VHS54ADYJK` |  |
+| Phase transition | 1150 K | 1150 | Al3Y5 + hcp_A3/Al3Y5 + AlY2 + hcp_A3 | experimental | [1] Hu 2018 | Table 5, p. 7, row 6; `ORC-3XDGANSK55` |  |
+| Phase transition | 1158 K | 1158 | Al3Y5 + hcp_A3/Al3Y5 + AlY2 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 7; `ORC-V7XIIA3ZOA` |  |
+| Phase transition | 1183 K | 1183 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 | experimental | [1] Hu 2018 | Table 5, p. 7, row 3; `ORC-ZFTADFFHZC` |  |
+| Phase transition | 1197 K | 1197 | Liquid/Liquid + Al3Y5 | experimental | [1] Hu 2018 | Table 5, p. 7, row 1; `ORC-UNWNZ7MHNL` |  |
+| Phase transition | 1242 K | 1242 | Liquid + Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 5; `ORC-MG3RR7RTSF` |  |
+| Phase transition | 1242 K | 1242 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 4; `ORC-RRL6BO62FQ` |  |
+| Phase transition | 1255 K | 1255 | Liquid/Liquid + Al3Y5 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 2; `ORC-XY6VG3UT6X` |  |
 
 ### Phase equilibrium (20)
 

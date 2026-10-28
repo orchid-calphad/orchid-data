@@ -1,10 +1,10 @@
 # Ca–Ce system
 
-> Ca–Ce system: 26 accepted literature values (mixing / partial 12, invariant reaction 12, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ce system: 27 accepted literature values (mixing / partial 12, invariant reaction 12, crystal structure 2, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-CE.html · Markdown: https://data.orchid-project.org/systems/CA-CE.md
 
-26 accepted literature values from 2 paper(s) (experimental 7, model 6, DFT 13); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 2 paper(s) (experimental 8, model 6, DFT 13); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE.json) · [CSV](https://data.orchid-project.org/systems/CA-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CE/CaCe-07Ham.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CA-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CE.html) · [Markdown](https://data.orchid-project.org/systems/CA-CE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 8 |
 | model | 6 |
 | DFT | 13 |
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
+| phase transition | 1 |
 | mixing / partial | 12 |
 | crystal structure | 2 |
 
@@ -72,6 +73,14 @@ Table: Invariant reactions reported in the literature for the Ca–Ce system (12
 | 715.15 | βCa = αCa (+αCe) |  | model | [1] Hampl 2007 | Table 3, p. 5, row 7; `ORC-NGOASBEWAL` |  |
 
 ## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Ca–Ce system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 993.15 K | 993.15 | βCe = αCe + βCa | experimental | [1] Hampl 2007 | Table 2, p. 4, row 41; `ORC-O6XW7ZUTN7` |  |
 
 ### Mixing / partial (12)
 

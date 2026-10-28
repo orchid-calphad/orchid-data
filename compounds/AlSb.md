@@ -1,24 +1,27 @@
 # AlSb: enthalpy of formation
 
-> Enthalpy of formation of AlSb: 5 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AlSb: 8 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlSb.html · Markdown: https://data.orchid-project.org/compounds/AlSb.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 1, model 4).
+8 accepted literature formation-enthalpy value(s) (experimental 1, model 7).
 
 Systems: [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlSb reported in the literature (5)
+Table: Enthalpy of formation of AlSb reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -82 kJ/mol (basis unstated) ± 2.51 | AlSb | 298.15 | experimental | drop calorimetry | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4; `ORC-MOWA2MD2QK.90e2e1` |  |
 | -96.6 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1; `ORC-ATLFNG2KIE.69b47b` |  |
+| -96.6 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [2] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 19, row 20; `ORC-SESVXEBSLE` |  |
 | -84 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3; `ORC-NLPHYGIO3T` |  |
 | -81.27 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005 | Table 5, p. 7, row 5; `ORC-4ZDXOL6OHZ.63ee1d` |  |
 | -73.49 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2; `ORC-JMW4UGZ6PO.3613e9` |  |
+| -51 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 18; `ORC-WWDIHZM6SW.126248` |  |
+| -48.95 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.58ceaf` |  |
 
 ### Uncertainty budget
 
@@ -30,13 +33,17 @@ Table: Uncertainty budget of the literature values of AlSb
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -82 | kJ/mol (basis unstated) | 2.51 | 0.05 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
 | -96.6 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -96.6 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -84 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -81.27 | kJ/mol (basis unstated) |  | 0.005 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -73.49 | kJ/mol (basis unstated) |  | 0.005 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -51 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -48.95 | kJ/mol (basis unstated) |  | 0.005 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 
 ## Sources
 
 1. T. Balakumar, M. Medraj, Thermodynamic modeling of the Mg–Al–Sb system, Calphad 29, 24-36 (2005). [doi:10.1016/j.calphad.2005.03.001](https://doi.org/10.1016/j.calphad.2005.03.001)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

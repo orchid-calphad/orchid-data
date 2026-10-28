@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/C-U.html · Markdown: https://data.orchid-project.org/systems/C-U.md
 
-1,321 accepted literature values from 1 paper(s) (experimental 848, model 471, unspecified 2); 0 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+1,321 accepted literature values from 1 paper(s) (experimental 892, model 427, unspecified 2); 0 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/C-U.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/C-U.part2.json) · [JSON part 3](https://data.orchid-project.org/literature/systems/C-U.part3.json) · [CSV](https://data.orchid-project.org/systems/C-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-U) · [phases (11)](https://data.orchid-project.org/phases/pages/C-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-U.html) · [Markdown](https://data.orchid-project.org/systems/C-U.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 848 |
-| model | 471 |
+| experimental | 892 |
+| model | 427 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -513,20 +513,20 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp_ | 29.6018 J/mol-atom/K | 700 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 6; `ORC-KL6LZE3NFK.b1c0af` |  |
 | Heat capacity; _printed: Cp_ | 29.6855 J/mol-atom/K | 700 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 3; `ORC-KOAT4GY3FO.c6474f` |  |
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 26.2923 J/mol-atom/K | 700 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 6; `ORC-EUEZM3XNJ5.0c7275` |  |
+| Heat capacity; _printed: Cp_ | 28.493 J/mol-atom/K | 700 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 1; `ORC-E4YSXQMWEQ.d9138e` |  |
 | Heat capacity; _printed: Cp(U0.5C0.5)_ | 30.062 J/mol-atom/K | 700 | UC; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 6; `ORC-EUEZM3XNJ5.71dc0a` |  |
 | Heat capacity; _printed: Cp_ | 28.493 J/mol-atom/K | 700 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 1; `ORC-YCHQNZYXKU.a54b21` |  |
 | Heat capacity; _printed: Cp_ | 26.7199 J/mol-atom/K | 700 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 22; `ORC-VFGYZE6JNR.79839c` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 26.6137 J/mol-atom/K | 700 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 6; `ORC-EUEZM3XNJ5.c82667` |  |
-| Heat capacity; _printed: Cp_ | 28.493 J/mol-atom/K | 700 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 1; `ORC-E4YSXQMWEQ.d9138e` |  |
 | Heat capacity; _printed: Cp_ | 27.3745 J/mol-atom/K | 800 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 7; `ORC-E5VAW3MCXN.bc91ca` |  |
 | Heat capacity; _printed: Cp_ | 27.4189 J/mol-atom/K | 800 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 7; `ORC-EE3WBONOGE.0554df` |  |
 | Heat capacity; _printed: Cp_ | 26.8529 J/mol-atom/K | 800 | U0.4C0.6; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 7; `ORC-EE3WBONOGE.999668` |  |
 | Heat capacity; _printed: Cp_ | 30.083 J/mol-atom/K | 800 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 7; `ORC-E5VAW3MCXN.364ad5` |  |
 | Heat capacity; _printed: Cp_ | 30.5014 J/mol-atom/K | 800 | U0.5C0.5; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 7; `ORC-EE3WBONOGE.2d86f8` |  |
+| Heat capacity; _printed: Cp_ | 29.2043 J/mol-atom/K | 800 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 2; `ORC-SOGRNUVJSQ.8111d1` |  |
 | Heat capacity; _printed: Cp_ | 29.2043 J/mol-atom/K | 800 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 2; `ORC-ZT5QUPW7FY.270847` |  |
 | Heat capacity; _printed: Cp_ | 27.3258 J/mol-atom/K | 800 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 23; `ORC-ID6AAPJ2EV.ab44cc` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 27.4189 J/mol-atom/K | 800 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 7; `ORC-EE3WBONOGE.9a85ef` |  |
-| Heat capacity; _printed: Cp_ | 29.2043 J/mol-atom/K | 800 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 2; `ORC-SOGRNUVJSQ.8111d1` |  |
 | Heat capacity; _printed: Cp_ | 27.8315 J/mol-atom/K | 900 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 8; `ORC-J7AM5PEMOV.8f7d0b` |  |
 | Heat capacity; _printed: Cp_ | 28.1234 J/mol-atom/K | 900 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 8; `ORC-5BO23K4QR6.f3bc21` |  |
 | Heat capacity; _printed: Cp_ | 27.398 J/mol-atom/K | 900 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 4; `ORC-AUIGU4S7VE.2b76ff` |  |
@@ -534,19 +534,19 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp_ | 30.6269 J/mol-atom/K | 900 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 4; `ORC-AUIGU4S7VE.55d6e6` |  |
 | Heat capacity; _printed: Cp_ | 30.5641 J/mol-atom/K | 900 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 8; `ORC-J7AM5PEMOV.a39a8b` |  |
 | Heat capacity; _printed: Cp_ | 30.9198 J/mol-atom/K | 900 | U0.5C0.5; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 8; `ORC-5BO23K4QR6.36fbd8` |  |
+| Heat capacity; _printed: Cp_ | 29.9365 J/mol-atom/K | 900 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 3; `ORC-GGOH2D7XIM.4ee7c0` |  |
 | Heat capacity; _printed: Cp_ | 29.9365 J/mol-atom/K | 900 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 3; `ORC-LSSFSIWPPD.4155ca` |  |
 | Heat capacity; _printed: Cp_ | 27.8741 J/mol-atom/K | 900 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 24; `ORC-CAVQILSS5C.96816c` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 28.1234 J/mol-atom/K | 900 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 8; `ORC-5BO23K4QR6.621971` |  |
-| Heat capacity; _printed: Cp_ | 29.9365 J/mol-atom/K | 900 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 3; `ORC-GGOH2D7XIM.4ee7c0` |  |
 | Heat capacity; _printed: Cp_ | 28.3741 J/mol-atom/K | 1000 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 9; `ORC-LFF4YI5CXK.d6a61d` |  |
 | Heat capacity; _printed: Cp_ | 28.7416 J/mol-atom/K | 1000 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 9; `ORC-X27CTPSFBJ.a6e148` |  |
 | Heat capacity; _printed: Cp_ | 31.0453 J/mol-atom/K | 1000 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 9; `ORC-LFF4YI5CXK.6bbb8d` |  |
 | Heat capacity; _printed: Cp_ | 31.3172 J/mol-atom/K | 1000 | U0.5C0.5; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 9; `ORC-X27CTPSFBJ.4fbc1b` |  |
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 28.242 J/mol-atom/K | 1000 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 9; `ORC-X27CTPSFBJ.9cd179` |  |
 | Heat capacity; _printed: Cp_ | 30.6478 J/mol-atom/K | 1000 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 4; `ORC-C3JCZQJ27X.de19c3` |  |
+| Heat capacity; _printed: Cp_ | 30.6478 J/mol-atom/K | 1000 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 4; `ORC-SN4OMPJ5MN.d3b1e8` |  |
 | Heat capacity; _printed: Cp_ | 28.3646 J/mol-atom/K | 1000 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 25; `ORC-G7QZ5GYP5F.6ad128` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 28.7416 J/mol-atom/K | 1000 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 9; `ORC-X27CTPSFBJ.449e9c` |  |
-| Heat capacity; _printed: Cp_ | 30.6478 J/mol-atom/K | 1000 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 4; `ORC-SN4OMPJ5MN.d3b1e8` |  |
 | Heat capacity; _printed: Cp_ | 29.0738 J/mol-atom/K | 1100 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 10; `ORC-74J2E26X7J.40d553` |  |
 | Heat capacity; _printed: Cp_ | 29.288 J/mol-atom/K | 1100 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 10; `ORC-4NEV5GRAFQ.611df4` |  |
 | Heat capacity; _printed: Cp_ | 29.125 J/mol-atom/K | 1100 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 5; `ORC-FQQ72T5BVR.a31510` |  |
@@ -555,18 +555,18 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 29.1206 J/mol-atom/K | 1100 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 10; `ORC-4NEV5GRAFQ.6a6198` |  |
 | Heat capacity; _printed: Cp(U0.5C0.5)_ | 31.7566 J/mol-atom/K | 1100 | UC; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 10; `ORC-4NEV5GRAFQ.0e6f59` |  |
 | Heat capacity; _printed: Cp_ | 31.38 J/mol-atom/K | 1100 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 5; `ORC-QJSGS6MCWV.40b6d7` |  |
+| Heat capacity; _printed: Cp_ | 31.38 J/mol-atom/K | 1100 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 5; `ORC-ZPB4D7LX7A.4a919f` |  |
 | Heat capacity; _printed: Cp_ | 28.8552 J/mol-atom/K | 1100 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 26; `ORC-7T6MTDOIBE.005ff8` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 29.288 J/mol-atom/K | 1100 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 10; `ORC-4NEV5GRAFQ.0965a8` |  |
-| Heat capacity; _printed: Cp_ | 31.38 J/mol-atom/K | 1100 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 5; `ORC-ZPB4D7LX7A.4a919f` |  |
 | Heat capacity; _printed: Cp_ | 30.002 J/mol-atom/K | 1200 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 11; `ORC-ZSLXXRJEFD.541065` |  |
 | Heat capacity; _printed: Cp_ | 29.7625 J/mol-atom/K | 1200 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 11; `ORC-CWXEJE7ZF4.1dc1a9` |  |
 | Heat capacity; _printed: Cp_ | 30.1499 J/mol-atom/K | 1200 | U0.4C0.6; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 11; `ORC-CWXEJE7ZF4.8f22fe` |  |
 | Heat capacity; _printed: Cp_ | 32.0704 J/mol-atom/K | 1200 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 11; `ORC-ZSLXXRJEFD.ea1e9f` |  |
 | Heat capacity; _printed: Cp_ | 32.1959 J/mol-atom/K | 1200 | U0.5C0.5; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 11; `ORC-CWXEJE7ZF4.01f500` |  |
+| Heat capacity; _printed: Cp_ | 32.0913 J/mol-atom/K | 1200 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 6; `ORC-22H75DIX7G.4151e5` |  |
 | Heat capacity; _printed: Cp_ | 32.0913 J/mol-atom/K | 1200 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 6; `ORC-U7PC23R5WQ.7f3d32` |  |
 | Heat capacity; _printed: Cp_ | 29.3024 J/mol-atom/K | 1200 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 27; `ORC-MDRD4RQCRR.9a6a05` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 29.7625 J/mol-atom/K | 1200 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 11; `ORC-CWXEJE7ZF4.0422e0` |  |
-| Heat capacity; _printed: Cp_ | 32.0913 J/mol-atom/K | 1200 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 6; `ORC-22H75DIX7G.4151e5` |  |
 | Heat capacity; _printed: Cp_ | 31.2158 J/mol-atom/K | 1300 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 12; `ORC-DCSG5FT4TH.7568f4` |  |
 | Heat capacity; _printed: Cp_ | 31.6541 J/mol-atom/K | 1300 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 6; `ORC-7HC4TSOM3T.c203e3` |  |
 | Heat capacity; _printed: Cp_ | 30.1651 J/mol-atom/K | 1300 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 12; `ORC-VLLVDMA2N5.bb2d38` |  |
@@ -575,18 +575,18 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp_ | 32.6561 J/mol-atom/K | 1300 | U0.5C0.5; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 12; `ORC-VLLVDMA2N5.4eee47` |  |
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 31.3131 J/mol-atom/K | 1300 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 12; `ORC-VLLVDMA2N5.27f102` |  |
 | Heat capacity; _printed: Cp_ | 32.8235 J/mol-atom/K | 1300 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 7; `ORC-AXZOODW34P.0f22dc` |  |
+| Heat capacity; _printed: Cp_ | 32.8235 J/mol-atom/K | 1300 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 7; `ORC-FE7ZJCCSSS.184fbe` |  |
 | Heat capacity; _printed: Cp_ | 29.7497 J/mol-atom/K | 1300 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 28; `ORC-RAWZA6CRWM.ae9637` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 30.1651 J/mol-atom/K | 1300 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 12; `ORC-VLLVDMA2N5.a2642d` |  |
-| Heat capacity; _printed: Cp_ | 32.8235 J/mol-atom/K | 1300 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 7; `ORC-FE7ZJCCSSS.184fbe` |  |
 | Heat capacity; _printed: Cp_ | 32.7009 J/mol-atom/K | 1400 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 13; `ORC-CNQT3RPMZD.750c95` |  |
 | Heat capacity; _printed: Cp_ | 30.5101 J/mol-atom/K | 1400 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 13; `ORC-XURJQ4CMKE.18e94b` |  |
 | Heat capacity; _printed: Cp_ | 33.2 J/mol-atom/K | 1400 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 13; `ORC-CNQT3RPMZD.b98c2a` |  |
 | Heat capacity; _printed: Cp_ | 33.1582 J/mol-atom/K | 1400 | U0.5C0.5; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 13; `ORC-XURJQ4CMKE.5eda23` |  |
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 32.6352 J/mol-atom/K | 1400 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 13; `ORC-XURJQ4CMKE.4afe21` |  |
+| Heat capacity; _printed: Cp_ | 33.5348 J/mol-atom/K | 1400 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 8; `ORC-QGIF2Q35HY.ed57ca` |  |
 | Heat capacity; _printed: Cp_ | 33.5348 J/mol-atom/K | 1400 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 8; `ORC-Z64QWWQJ3A.ba938b` |  |
 | Heat capacity; _printed: Cp_ | 30.1825 J/mol-atom/K | 1400 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 29; `ORC-LGLYNZTRYX.0c0f2e` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 30.5101 J/mol-atom/K | 1400 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 13; `ORC-XURJQ4CMKE.cc03bc` |  |
-| Heat capacity; _printed: Cp_ | 33.5348 J/mol-atom/K | 1400 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 8; `ORC-QGIF2Q35HY.ed57ca` |  |
 | Heat capacity; _printed: C_p_ | 33.943 J/mol-atom/K | 1484 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 1; `ORC-OBDHR3TCXP.36f004` |  |
 | Heat capacity; _printed: C_p_ | 33.943 J/mol-atom/K | 1490 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 2; `ORC-UQQOVF2DGH.af465e` |  |
 | Heat capacity; _printed: Cp_ | 34.4716 J/mol-atom/K | 1500 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 14; `ORC-DPNHQHVNW2.189c9b` |  |
@@ -597,37 +597,37 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 34.1163 J/mol-atom/K | 1500 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 14; `ORC-H2IHJXL6GB.d4e7d9` |  |
 | Heat capacity; _printed: Cp(U0.5C0.5)_ | 33.7021 J/mol-atom/K | 1500 | UC; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 14; `ORC-H2IHJXL6GB.8d71b7` |  |
 | Heat capacity; _printed: Cp_ | 34.267 J/mol-atom/K | 1500 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 9; `ORC-KFBOAZXLU2.d3e191` |  |
+| Heat capacity; _printed: Cp_ | 34.267 J/mol-atom/K | 1500 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 9; `ORC-YJV6QXLZ4X.b77740` |  |
 | Heat capacity; _printed: Cp_ | 30.6153 J/mol-atom/K | 1500 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 30; `ORC-24A4U4VTMB.e9a311` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 30.7833 J/mol-atom/K | 1500 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 14; `ORC-H2IHJXL6GB.037bbb` |  |
-| Heat capacity; _printed: Cp_ | 34.267 J/mol-atom/K | 1500 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 9; `ORC-YJV6QXLZ4X.b77740` |  |
 | Heat capacity; _printed: C_p_ | 36.181 J/mol-atom/K | 1587 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 3; `ORC-MRZIID7CXJ.1ae8ce` |  |
 | Heat capacity; _printed: Cp_ | 36.4851 J/mol-atom/K | 1600 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 15; `ORC-BAS4W4RSCZ.15f91a` |  |
 | Heat capacity; _printed: Cp_ | 30.9846 J/mol-atom/K | 1600 | U0.345C0.655; _alloy: U 0.345_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 15; `ORC-HADN5DC23A.ace387` |  |
 | Heat capacity; _printed: Cp_ | 34.4552 J/mol-atom/K | 1600 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 15; `ORC-BAS4W4RSCZ.8d565b` |  |
 | Heat capacity; _printed: Cp_ | 34.2879 J/mol-atom/K | 1600 | U0.5C0.5; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 15; `ORC-HADN5DC23A.c0b933` |  |
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 35.7565 J/mol-atom/K | 1600 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 15; `ORC-HADN5DC23A.3e2795` |  |
+| Heat capacity; _printed: Cp_ | 34.9992 J/mol-atom/K | 1600 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 10; `ORC-NLLVGZKMX4.10816c` |  |
 | Heat capacity; _printed: Cp_ | 34.9992 J/mol-atom/K | 1600 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 10; `ORC-WDZEJ6KIOW.7378d7` |  |
 | Heat capacity; _printed: Cp_ | 31.0482 J/mol-atom/K | 1600 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 31; `ORC-O5LPK4NNL2.8b7e46` |  |
 | Heat capacity; _printed: Cp(U0.345C0.655)_ | 30.9846 J/mol-atom/K | 1600 | UC1.90; _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 15; `ORC-HADN5DC23A.9be576` |  |
-| Heat capacity; _printed: Cp_ | 34.9992 J/mol-atom/K | 1600 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 10; `ORC-NLLVGZKMX4.10816c` |  |
 | Heat capacity; _printed: C_p_ | 38.419 J/mol-atom/K | 1689 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 4; `ORC-6RITSJBAJZ.3e3d91` |  |
 | Heat capacity; _printed: Cp_ | 38.6556 J/mol-atom/K | 1700 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 16; `ORC-P3H4QDLH3C.f2df80` |  |
 | Heat capacity; _printed: Cp_ | 39.3729 J/mol-atom/K | 1700 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 8; `ORC-BGLQZKVJ3B.617ffe` |  |
 | Heat capacity; _printed: Cp_ | 37.5556 J/mol-atom/K | 1700 | U0.4C0.6; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 16; `ORC-MBCX2DZN2T.43443f` |  |
 | Heat capacity; _printed: Cp_ | 35.0828 J/mol-atom/K | 1700 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 8; `ORC-BGLQZKVJ3B.e6a57f` |  |
 | Heat capacity; _printed: Cp_ | 35.1456 J/mol-atom/K | 1700 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 16; `ORC-P3H4QDLH3C.71ac23` |  |
+| Heat capacity; _printed: Cp_ | 35.7523 J/mol-atom/K | 1700 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 11; `ORC-UNOIW6O6SB.d289f2` |  |
 | Heat capacity; _printed: Cp_ | 35.7523 J/mol-atom/K | 1700 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 11; `ORC-V6DLUQK6M5.d5abc5` |  |
 | Heat capacity; _printed: Cp_ | 34.8946 J/mol-atom/K | 1700 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 16; `ORC-MBCX2DZN2T.b63804` |  |
 | Heat capacity; _printed: Cp_ | 31.4521 J/mol-atom/K | 1700 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 32; `ORC-BYKTCB3FU6.f0b9aa` |  |
-| Heat capacity; _printed: Cp_ | 35.7523 J/mol-atom/K | 1700 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 11; `ORC-UNOIW6O6SB.d289f2` |  |
 | Heat capacity; _printed: C_p_ | 40.657 J/mol-atom/K | 1794 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 5; `ORC-YNUXUOK4LI.29cfc7` |  |
 | Heat capacity; _printed: Cp_ | 40.9118 J/mol-atom/K | 1800 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 17; `ORC-J3SA3JNOSZ.5a4339` |  |
 | Heat capacity; _printed: Cp_ | 35.836 J/mol-atom/K | 1800 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 17; `ORC-J3SA3JNOSZ.a74ebb` |  |
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 39.5137 J/mol-atom/K | 1800 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 17; `ORC-LXI7SVFLCC.1d6c31` |  |
+| Heat capacity; _printed: Cp_ | 36.5263 J/mol-atom/K | 1800 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 12; `ORC-FVT2VRBGGW.7864f6` |  |
 | Heat capacity; _printed: Cp_ | 36.5263 J/mol-atom/K | 1800 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 12; `ORC-HRMZYM7VPM.700fbe` |  |
 | Heat capacity; _printed: Cp_ | 35.5431 J/mol-atom/K | 1800 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 17; `ORC-LXI7SVFLCC.01bb4f` |  |
 | Heat capacity; _printed: Cp_ | 31.8705 J/mol-atom/K | 1800 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | model | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 33; `ORC-BXRMI6YHE4.444075` |  |
-| Heat capacity; _printed: Cp_ | 36.5263 J/mol-atom/K | 1800 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 12; `ORC-FVT2VRBGGW.7864f6` |  |
 | Heat capacity; _printed: C_p_ | 42.523 J/mol-atom/K | 1878 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 6; `ORC-33GIIPQBST.42a541` |  |
 | Heat capacity; _printed: Cp_ | 43.1252 J/mol-atom/K | 1900 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 18; `ORC-IBDTG4CRHK.88c59b` |  |
 | Heat capacity; _printed: Cp_ | 44.6101 J/mol-atom/K | 1900 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 9; `ORC-XS7NDN5RPG.d1d832` |  |
@@ -635,14 +635,14 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp_ | 36.5682 J/mol-atom/K | 1900 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 9; `ORC-XS7NDN5RPG.db20f2` |  |
 | Heat capacity; _printed: Cp(U0.4C0.6)_ | 41.5028 J/mol-atom/K | 1900 | U2C3; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 18; `ORC-FQUHZORZW3.583c14` |  |
 | Heat capacity; _printed: Cp_ | 37.3422 J/mol-atom/K | 1900 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 13; `ORC-BA4U3STZDG.0f65b8` |  |
+| Heat capacity; _printed: Cp_ | 37.3422 J/mol-atom/K | 1900 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 13; `ORC-NTAWZKHOAU.f004b2` |  |
 | Heat capacity; _printed: Cp_ | 36.2334 J/mol-atom/K | 1900 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 18; `ORC-FQUHZORZW3.88d6d9` |  |
-| Heat capacity; _printed: Cp_ | 37.3422 J/mol-atom/K | 1900 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 13; `ORC-NTAWZKHOAU.f004b2` |  |
 | Heat capacity; _printed: Cp_ | 45.1386 J/mol-atom/K | 2000 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 19; `ORC-3ONWD2V46Q.a1fc75` |  |
 | Heat capacity; _printed: Cp_ | 43.9236 J/mol-atom/K | 2000 | U0.4C0.6; _alloy: U 0.4_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 19; `ORC-DTEJC7MPRG.d20ca4` |  |
 | Heat capacity; _printed: Cp_ | 37.3422 J/mol-atom/K | 2000 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 19; `ORC-3ONWD2V46Q.e6be64` |  |
 | Heat capacity; _printed: Cp_ | 38.2836 J/mol-atom/K | 2000 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 14; `ORC-BNLQRWAFZA.a595c8` |  |
+| Heat capacity; _printed: Cp_ | 38.2836 J/mol-atom/K | 2000 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 14; `ORC-LV4EHHFOEH.7a8a5b` |  |
 | Heat capacity; _printed: Cp_ | 36.9866 J/mol-atom/K | 2000 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 19; `ORC-DTEJC7MPRG.41270f` |  |
-| Heat capacity; _printed: Cp_ | 38.2836 J/mol-atom/K | 2000 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 14; `ORC-LV4EHHFOEH.7a8a5b` |  |
 | Heat capacity; _printed: C_p_ | 45.88 J/mol-atom/K | 2016 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 7; `ORC-4CFQMJELGT.2ff41b` |  |
 | Heat capacity; _printed: C_p_ | 45.88 J/mol-atom/K | 2021 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 8; `ORC-AMBA2N3OEV.0a0b35` |  |
 | Heat capacity; _printed: Cp_ | 48.7652 J/mol-atom/K | 2038 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 10; `ORC-QQIEZQENJI.71a836` |  |
@@ -655,14 +655,14 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp_ | 42.4748 J/mol-atom/K | 2100 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 12; `ORC-ZJQCPK4WVI.0b386a` |  |
 | Heat capacity; _printed: Cp_ | 38.1372 J/mol-atom/K | 2100 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 22; `ORC-TYW7OTQMY6.dd2830` |  |
 | Heat capacity; _printed: Cp_ | 38.2208 J/mol-atom/K | 2100 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 12; `ORC-ZJQCPK4WVI.0f82e6` |  |
+| Heat capacity; _printed: Cp_ | 39.3714 J/mol-atom/K | 2100 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 15; `ORC-K6R7FPRTQE.f24c73` |  |
 | Heat capacity; _printed: Cp_ | 39.3714 J/mol-atom/K | 2100 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 15; `ORC-SDR3RG5JRW.9c3703` |  |
 | Heat capacity; _printed: Cp_ | 37.7606 J/mol-atom/K | 2100 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 20; `ORC-WYYWS2MI55.783a68` |  |
-| Heat capacity; _printed: Cp_ | 39.3714 J/mol-atom/K | 2100 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 15; `ORC-K6R7FPRTQE.f24c73` |  |
 | Heat capacity; _printed: Cp_ | 39.7266 J/mol-atom/K | 2200 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 23; `ORC-IJFELLGK3Y.72479b` |  |
 | Heat capacity; _printed: Cp_ | 38.953 J/mol-atom/K | 2200 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 23; `ORC-IJFELLGK3Y.cd29ef` |  |
 | Heat capacity; _printed: Cp_ | 40.7103 J/mol-atom/K | 2200 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 16; `ORC-5NWPLLHV2M.31e06b` |  |
+| Heat capacity; _printed: Cp_ | 40.7103 J/mol-atom/K | 2200 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 16; `ORC-TA72TCIJNS.662840` |  |
 | Heat capacity; _printed: Cp_ | 38.5765 J/mol-atom/K | 2200 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 21; `ORC-CLXQ3YHSCB.64dd58` |  |
-| Heat capacity; _printed: Cp_ | 40.7103 J/mol-atom/K | 2200 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 16; `ORC-TA72TCIJNS.662840` |  |
 | Heat capacity; _printed: C_p_ | 39.911 J/mol-atom/K | 2213 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 12; `ORC-UVTDLRXYEZ.77aa87` |  |
 | Heat capacity; _printed: C_p_ | 41.403 J/mol-atom/K | 2277 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 13; `ORC-FV55AJCSM7.aaa5b0` |  |
 | Heat capacity; _printed: Cp_ | 41.6972 J/mol-atom/K | 2300 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 24; `ORC-5BAX2CJCQM.67c41c` |  |
@@ -670,41 +670,41 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat capacity; _printed: Cp_ | 39.8108 J/mol-atom/K | 2300 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 24; `ORC-5BAX2CJCQM.37ba20` |  |
 | Heat capacity; _printed: Cp_ | 40.0409 J/mol-atom/K | 2300 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 13; `ORC-KISHC7YH3P.b9846d` |  |
 | Heat capacity; _printed: Cp_ | 42.3839 J/mol-atom/K | 2300 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 17; `ORC-7KVA7TIPRJ.496333` |  |
+| Heat capacity; _printed: Cp_ | 42.3839 J/mol-atom/K | 2300 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 17; `ORC-Z6U3X6F3GH.4c8fbf` |  |
 | Heat capacity; _printed: Cp_ | 39.4342 J/mol-atom/K | 2300 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 22; `ORC-QLRPETNCF7.f346d5` |  |
-| Heat capacity; _printed: Cp_ | 42.3839 J/mol-atom/K | 2300 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 17; `ORC-Z6U3X6F3GH.4c8fbf` |  |
 | Heat capacity; _printed: C_p_ | 43.642 J/mol-atom/K | 2393 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 14; `ORC-2HLE6UO57R.313321` |  |
 | Heat capacity; _printed: Cp_ | 43.6678 J/mol-atom/K | 2400 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 25; `ORC-5SMNQKKHXV.3475eb` |  |
 | Heat capacity; _printed: Cp_ | 40.6894 J/mol-atom/K | 2400 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 25; `ORC-5SMNQKKHXV.9a4c95` |  |
+| Heat capacity; _printed: Cp_ | 44.5387 J/mol-atom/K | 2400 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 18; `ORC-2LCUL3K4MJ.23c783` |  |
 | Heat capacity; _printed: Cp_ | 44.5387 J/mol-atom/K | 2400 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 18; `ORC-JBX7HQDS7G.48afb6` |  |
 | Heat capacity; _printed: Cp_ | 40.3338 J/mol-atom/K | 2400 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 23; `ORC-LYDF3AFUB4.81cb6d` |  |
-| Heat capacity; _printed: Cp_ | 44.5387 J/mol-atom/K | 2400 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 18; `ORC-2LCUL3K4MJ.23c783` |  |
 | Heat capacity; _printed: C_p_ | 45.134 J/mol-atom/K | 2483 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 15; `ORC-QS2KNZFWMZ.ec20d3` |  |
 | Heat capacity; _printed: Cp_ | 45.6384 J/mol-atom/K | 2500 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 26; `ORC-YGO24CPY6M.a04355` |  |
 | Heat capacity; _printed: Cp_ | 42.4748 J/mol-atom/K | 2500 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 14; `ORC-5UIZAXQC3L.924daf` |  |
 | Heat capacity; _printed: Cp_ | 42.0492 J/mol-atom/K | 2500 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 14; `ORC-5UIZAXQC3L.2a2fb9` |  |
 | Heat capacity; _printed: Cp_ | 41.589 J/mol-atom/K | 2500 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 26; `ORC-YGO24CPY6M.f3bc31` |  |
+| Heat capacity; _printed: Cp_ | 47.3629 J/mol-atom/K | 2500 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 19; `ORC-JWUECZAP4I.bd4175` |  |
 | Heat capacity; _printed: Cp_ | 47.3629 J/mol-atom/K | 2500 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 19; `ORC-MUHBNJIVW3.707150` |  |
 | Heat capacity; _printed: Cp_ | 41.2752 J/mol-atom/K | 2500 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 24; `ORC-J5UR6OGODJ.cbc26e` |  |
-| Heat capacity; _printed: Cp_ | 47.3629 J/mol-atom/K | 2500 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 19; `ORC-JWUECZAP4I.bd4175` |  |
 | Heat capacity; _printed: C_p_ | 47.372 J/mol-atom/K | 2581 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 16; `ORC-JMWXRWYCEH.350576` |  |
 | Heat capacity; _printed: Cp_ | 47.5948 J/mol-atom/K | 2600 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 27; `ORC-6CTEBY2CMA.550565` |  |
 | Heat capacity; _printed: Cp_ | 42.5304 J/mol-atom/K | 2600 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 27; `ORC-6CTEBY2CMA.2ff58e` |  |
+| Heat capacity; _printed: Cp_ | 50.982 J/mol-atom/K | 2600 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 20; `ORC-4NXEDH7EU2.a15a50` |  |
 | Heat capacity; _printed: Cp_ | 50.982 J/mol-atom/K | 2600 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 20; `ORC-GLBOSZMY2N.c68743` |  |
 | Heat capacity; _printed: Cp_ | 42.2584 J/mol-atom/K | 2600 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 25; `ORC-YPLQK6KV2H.9ad5da` |  |
-| Heat capacity; _printed: Cp_ | 50.982 J/mol-atom/K | 2600 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 20; `ORC-4NXEDH7EU2.a15a50` |  |
 | Heat capacity; _printed: Cp_ | 49.5654 J/mol-atom/K | 2700 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 28; `ORC-ZPYEDDE4TC.84b5fd` |  |
 | Heat capacity; _printed: Cp_ | 42.4748 J/mol-atom/K | 2700 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 15; `ORC-IDV2HJJECD.bc073e` |  |
 | Heat capacity; _printed: Cp_ | 44.204 J/mol-atom/K | 2700 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 15; `ORC-IDV2HJJECD.733ce7` |  |
 | Heat capacity; _printed: Cp_ | 43.4718 J/mol-atom/K | 2700 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 28; `ORC-ZPYEDDE4TC.88214c` |  |
+| Heat capacity; _printed: Cp_ | 55.6054 J/mol-atom/K | 2700 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 21; `ORC-5UENYCGHMA.164b71` |  |
 | Heat capacity; _printed: Cp_ | 55.6054 J/mol-atom/K | 2700 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 21; `ORC-ZS6L6RA7WP.0a4ae6` |  |
 | Heat capacity; _printed: Cp_ | 43.2835 J/mol-atom/K | 2700 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 26; `ORC-IFE7XZA77W.cde92d` |  |
-| Heat capacity; _printed: Cp_ | 55.6054 J/mol-atom/K | 2700 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 21; `ORC-5UENYCGHMA.164b71` |  |
 | Heat capacity; _printed: Cp_ | 51.536 J/mol-atom/K | 2800 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 29; `ORC-VWXTV7ADJG.7f2ec3` |  |
 | Heat capacity; _printed: Cp_ | 42.4748 J/mol-atom/K | 2800 | U0.345C0.655; _alloy: U 0.345_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 16; `ORC-U2FVIYX4LQ.84fb4f` |  |
 | Heat capacity; _printed: Cp_ | 44.455 J/mol-atom/K | 2800 | U0.500C0.500; _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 29; `ORC-VWXTV7ADJG.8cb133` |  |
+| Heat capacity; _printed: Cp_ | 61.463 J/mol-atom/K | 2800 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 22; `ORC-2NXJOIQB3X.daf6a7` |  |
 | Heat capacity; _printed: Cp_ | 61.463 J/mol-atom/K | 2800 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 22; `ORC-IRAA2SNWE5.cd1c77` |  |
 | Heat capacity; _printed: Cp_ | 44.3504 J/mol-atom/K | 2800 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 27; `ORC-YPN6ZKBBOF.439e09` |  |
-| Heat capacity; _printed: Cp_ | 61.463 J/mol-atom/K | 2800 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 22; `ORC-2NXJOIQB3X.daf6a7` |  |
 | Heat capacity; _printed: Cp_ | 45.6265 J/mol-atom/K | 2823 | U0.500C0.500; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Akhachinski 1970_ [doi](https://doi.org/10.1007/bf01166520) | Table 16, p. 14, row 17; `ORC-RR5E2GXHHR.f7fd0d` |  |
 | Heat capacity; _printed: Cp_ | 44.6224 J/mol-atom/K | 2823 | UC (U0.500C0.500); _alloy: U 0.5_ | model | [1] Chevalier 2001; _cites Oetting 1973_ | Table 20, p. 16, row 28; `ORC-ZTFOYLSKJY.54fb06` |  |
 | Heat capacity; _printed: Cp_ | 53.5067 J/mol-atom/K | 2900 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 30; `ORC-ZWQPM7HSQ5.8eaa04` |  |
@@ -1199,65 +1199,65 @@ Table: Heat capacity / entropy / enthalpy, C–U system
 | Heat content; _printed: HT—H298_ | 103625 J/g at. | 3000 | U0.341C0.659; _alloy: U 0.341_ | model | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 13, p. 12, row 31; `ORC-YKUUGBYGSE.cf161f` |  |
 | Heat content; _printed: HT-H298(UC1.90-1.93)_ | 103625 J/g at. | 3000 | UC1.90-1.93; _alloy: C 0.659, U 0.341_ | experimental | [1] Chevalier 2001; _cites Leitnaker 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990148-1) | Table 23, p. 20, row 110; `ORC-4AS4QY6LDI` |  |
 | Heat content; _printed: HT-H298(UC1.90-1.93)_ | 102908 J/g at. | 3000 | UC1.90-1.93; _alloy: C 0.655, U 0.345_ | model | [1] Chevalier 2001 | Table 23, p. 20, row 111; `ORC-KHOQGQYIWY` |  |
+| heat content from base t; _printed: HT-H700_ | 0 J/g at. | 700 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 1; `ORC-E4YSXQMWEQ.fbf726` |  |
 | heat content from base t; _printed: HT-H700_ | 0 J/g at. | 700 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 1; `ORC-YCHQNZYXKU.0e06a8` |  |
-| heat content from base t; _printed: HT-H700_ | 0 J/g at. | 700 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 1; `ORC-E4YSXQMWEQ.fbf726` |  |
+| heat content from base t; _printed: HT-H700_ | 2887 J/g at. | 800 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 2; `ORC-SOGRNUVJSQ.1bf3a2` |  |
 | heat content from base t; _printed: HT-H700_ | 2887 J/g at. | 800 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 2; `ORC-ZT5QUPW7FY.27b531` |  |
-| heat content from base t; _printed: HT-H700_ | 2887 J/g at. | 800 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 2; `ORC-SOGRNUVJSQ.1bf3a2` |  |
+| heat content from base t; _printed: HT-H700_ | 5837 J/g at. | 900 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 3; `ORC-GGOH2D7XIM.9d6e36` |  |
 | heat content from base t; _printed: HT-H700_ | 5837 J/g at. | 900 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 3; `ORC-LSSFSIWPPD.6592d1` |  |
-| heat content from base t; _printed: HT-H700_ | 5837 J/g at. | 900 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 3; `ORC-GGOH2D7XIM.9d6e36` |  |
 | heat content from base t; _printed: HT-H700_ | 8870 J/g at. | 1000 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 4; `ORC-C3JCZQJ27X.362f9b` |  |
-| heat content from base t; _printed: HT-H700_ | 8870 J/g at. | 1000 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 4; `ORC-SN4OMPJ5MN.ac66ac` |  |
+| heat content from base t; _printed: HT-H700_ | 8870 J/g at. | 1000 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 4; `ORC-SN4OMPJ5MN.ac66ac` |  |
 | heat content from base t; _printed: HT-H700_ | 11966 J/g at. | 1100 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 5; `ORC-QJSGS6MCWV.7f1e1d` |  |
-| heat content from base t; _printed: HT-H700_ | 11966 J/g at. | 1100 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 5; `ORC-ZPB4D7LX7A.aa9697` |  |
+| heat content from base t; _printed: HT-H700_ | 11966 J/g at. | 1100 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 5; `ORC-ZPB4D7LX7A.aa9697` |  |
+| heat content from base t; _printed: HT-H700_ | 15146 J/g at. | 1200 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 6; `ORC-22H75DIX7G.405364` |  |
 | heat content from base t; _printed: HT-H700_ | 15146 J/g at. | 1200 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 6; `ORC-U7PC23R5WQ.ef48cb` |  |
-| heat content from base t; _printed: HT-H700_ | 15146 J/g at. | 1200 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 6; `ORC-22H75DIX7G.405364` |  |
 | heat content from base t; _printed: HT-H700_ | 18395 J/g at. | 1300 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 7; `ORC-AXZOODW34P.4d74a7` |  |
-| heat content from base t; _printed: HT-H700_ | 18395 J/g at. | 1300 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 7; `ORC-FE7ZJCCSSS.096303` |  |
+| heat content from base t; _printed: HT-H700_ | 18395 J/g at. | 1300 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 7; `ORC-FE7ZJCCSSS.096303` |  |
+| heat content from base t; _printed: HT-H700_ | 21715 J/g at. | 1400 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 8; `ORC-QGIF2Q35HY.3cde2b` |  |
 | heat content from base t; _printed: HT-H700_ | 21715 J/g at. | 1400 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 8; `ORC-Z64QWWQJ3A.001578` |  |
-| heat content from base t; _printed: HT-H700_ | 21715 J/g at. | 1400 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 8; `ORC-QGIF2Q35HY.3cde2b` |  |
 | heat content from base t; _printed: H_T-H_310_ | 32750 J/g at. | 1484 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 1; `ORC-OBDHR3TCXP.943d58` |  |
 | heat content from base t; _printed: H_T-H_310_ | 33205 J/g at. | 1490 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 2; `ORC-UQQOVF2DGH.4ccb6c` |  |
 | heat content from base t; _printed: HT-H700_ | 25104 J/g at. | 1500 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 9; `ORC-KFBOAZXLU2.46a080` |  |
-| heat content from base t; _printed: HT-H700_ | 25104 J/g at. | 1500 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 9; `ORC-YJV6QXLZ4X.a9fce0` |  |
+| heat content from base t; _printed: HT-H700_ | 25104 J/g at. | 1500 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 9; `ORC-YJV6QXLZ4X.a9fce0` |  |
 | heat content from base t; _printed: H_T-H_310_ | 36208 J/g at. | 1587 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 3; `ORC-MRZIID7CXJ.15d93b` |  |
+| heat content from base t; _printed: HT-H700_ | 28577 J/g at. | 1600 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 10; `ORC-NLLVGZKMX4.12cf51` |  |
 | heat content from base t; _printed: HT-H700_ | 28577 J/g at. | 1600 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 10; `ORC-WDZEJ6KIOW.491fd1` |  |
-| heat content from base t; _printed: HT-H700_ | 28577 J/g at. | 1600 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 10; `ORC-NLLVGZKMX4.12cf51` |  |
 | heat content from base t; _printed: H_T-H_310_ | 40284 J/g at. | 1689 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 4; `ORC-6RITSJBAJZ.6a8a9d` |  |
+| heat content from base t; _printed: HT-H700_ | 32112 J/g at. | 1700 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 11; `ORC-UNOIW6O6SB.ea13c4` |  |
 | heat content from base t; _printed: HT-H700_ | 32112 J/g at. | 1700 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 11; `ORC-V6DLUQK6M5.fbf583` |  |
-| heat content from base t; _printed: HT-H700_ | 32112 J/g at. | 1700 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 11; `ORC-UNOIW6O6SB.ea13c4` |  |
 | heat content from base t; _printed: H_T-H_310_ | 44425 J/g at. | 1794 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 5; `ORC-YNUXUOK4LI.f389fc` |  |
+| heat content from base t; _printed: HT-H700_ | 35710 J/g at. | 1800 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 12; `ORC-FVT2VRBGGW.d1af2a` |  |
 | heat content from base t; _printed: HT-H700_ | 35710 J/g at. | 1800 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 12; `ORC-HRMZYM7VPM.8ad42b` |  |
-| heat content from base t; _printed: HT-H700_ | 35710 J/g at. | 1800 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 12; `ORC-FVT2VRBGGW.d1af2a` |  |
 | heat content from base t; _printed: H_T-H_310_ | 47894 J/g at. | 1878 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 6; `ORC-33GIIPQBST.06a09f` |  |
 | heat content from base t; _printed: HT-H700_ | 39413 J/g at. | 1900 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 13; `ORC-BA4U3STZDG.9f3b2e` |  |
-| heat content from base t; _printed: HT-H700_ | 39413 J/g at. | 1900 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 13; `ORC-NTAWZKHOAU.fe4166` |  |
+| heat content from base t; _printed: HT-H700_ | 39413 J/g at. | 1900 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 13; `ORC-NTAWZKHOAU.fe4166` |  |
 | heat content from base t; _printed: HT-H700_ | 43199 J/g at. | 2000 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 14; `ORC-BNLQRWAFZA.516243` |  |
-| heat content from base t; _printed: HT-H700_ | 43199 J/g at. | 2000 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 14; `ORC-LV4EHHFOEH.bbabaa` |  |
+| heat content from base t; _printed: HT-H700_ | 43199 J/g at. | 2000 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 14; `ORC-LV4EHHFOEH.bbabaa` |  |
 | heat content from base t; _printed: H_T-H_310_ | 54086 J/g at. | 2016 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 7; `ORC-4CFQMJELGT.c0b8ef` |  |
 | heat content from base t; _printed: H_T-H_310_ | 54086 J/g at. | 2021 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 8; `ORC-AMBA2N3OEV.016f24` |  |
 | heat content from base t; _printed: H_T-H_310_ | 60427 J/g at. | 2081 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 10; `ORC-KPJGMBKYYD.f6d822` |  |
 | heat content from base t; _printed: H_T-H_310_ | 61285 J/g at. | 2086 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 11; `ORC-47ONJBEWJ2.f81787` |  |
+| heat content from base t; _printed: HT-H700_ | 47070 J/g at. | 2100 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 15; `ORC-K6R7FPRTQE.69db66` |  |
 | heat content from base t; _printed: HT-H700_ | 47070 J/g at. | 2100 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 15; `ORC-SDR3RG5JRW.708006` |  |
-| heat content from base t; _printed: HT-H700_ | 47070 J/g at. | 2100 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 15; `ORC-K6R7FPRTQE.69db66` |  |
 | heat content from base t; _printed: HT-H700_ | 51087 J/g at. | 2200 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 16; `ORC-5NWPLLHV2M.78ef3f` |  |
-| heat content from base t; _printed: HT-H700_ | 51087 J/g at. | 2200 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 16; `ORC-TA72TCIJNS.bf164e` |  |
+| heat content from base t; _printed: HT-H700_ | 51087 J/g at. | 2200 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 16; `ORC-TA72TCIJNS.bf164e` |  |
 | heat content from base t; _printed: H_T-H_310_ | 65723 J/g at. | 2213 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 12; `ORC-UVTDLRXYEZ.fb8f1a` |  |
 | heat content from base t; _printed: H_T-H_310_ | 68223 J/g at. | 2277 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 13; `ORC-FV55AJCSM7.99a1ef` |  |
 | heat content from base t; _printed: HT-H700_ | 55229 J/g at. | 2300 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 17; `ORC-7KVA7TIPRJ.1a95d5` |  |
-| heat content from base t; _printed: HT-H700_ | 55229 J/g at. | 2300 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 17; `ORC-Z6U3X6F3GH.ab5dd2` |  |
+| heat content from base t; _printed: HT-H700_ | 55229 J/g at. | 2300 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 17; `ORC-Z6U3X6F3GH.ab5dd2` |  |
 | heat content from base t; _printed: H_T-H_310_ | 73668 J/g at. | 2393 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 14; `ORC-2HLE6UO57R.e5d9bb` |  |
+| heat content from base t; _printed: HT-H700_ | 59580 J/g at. | 2400 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 18; `ORC-2LCUL3K4MJ.43bed5` |  |
 | heat content from base t; _printed: HT-H700_ | 59580 J/g at. | 2400 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 18; `ORC-JBX7HQDS7G.806c33` |  |
-| heat content from base t; _printed: HT-H700_ | 59580 J/g at. | 2400 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 18; `ORC-2LCUL3K4MJ.43bed5` |  |
 | heat content from base t; _printed: H_T-H_310_ | 77249 J/g at. | 2483 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 15; `ORC-QS2KNZFWMZ.d23045` |  |
+| heat content from base t; _printed: HT-H700_ | 64162 J/g at. | 2500 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 19; `ORC-JWUECZAP4I.c68a99` |  |
 | heat content from base t; _printed: HT-H700_ | 64162 J/g at. | 2500 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 19; `ORC-MUHBNJIVW3.319b17` |  |
-| heat content from base t; _printed: HT-H700_ | 64162 J/g at. | 2500 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 19; `ORC-JWUECZAP4I.c68a99` |  |
 | heat content from base t; _printed: H_T-H_310_ | 81837 J/g at. | 2581 | UC1.93; _alloy: U 0.341297_ | experimental | [1] Chevalier 2001; _cites Levinson 1963_ [doi](https://doi.org/10.1063/1.1733939) | Table 11, p. 11, row 16; `ORC-JMWXRWYCEH.53d13e` |  |
+| heat content from base t; _printed: HT-H700_ | 69078 J/g at. | 2600 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 20; `ORC-4NXEDH7EU2.a178ff` |  |
 | heat content from base t; _printed: HT-H700_ | 69078 J/g at. | 2600 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 20; `ORC-GLBOSZMY2N.415f8a` |  |
-| heat content from base t; _printed: HT-H700_ | 69078 J/g at. | 2600 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 20; `ORC-4NXEDH7EU2.a178ff` |  |
+| heat content from base t; _printed: HT-H700_ | 74392 J/g at. | 2700 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 21; `ORC-5UENYCGHMA.2e86d7` |  |
 | heat content from base t; _printed: HT-H700_ | 74392 J/g at. | 2700 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 21; `ORC-ZS6L6RA7WP.68cfb8` |  |
-| heat content from base t; _printed: HT-H700_ | 74392 J/g at. | 2700 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 21; `ORC-5UENYCGHMA.2e86d7` |  |
+| heat content from base t; _printed: HT-H700_ | 80249 J/g at. | 2800 | UC; _alloy: C 0.5, U 0.5_ | experimental | [1] Chevalier 2001 | Table 15, p. 13, row 22; `ORC-2NXJOIQB3X.4038d0` |  |
 | heat content from base t; _printed: HT-H700_ | 80249 J/g at. | 2800 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Aortit 1970_ | Table 15, p. 13, row 22; `ORC-IRAA2SNWE5.042f5d` |  |
-| heat content from base t; _printed: HT-H700_ | 80249 J/g at. | 2800 | UNKNOWN | model | [1] Chevalier 2001 | Table 19, p. 13, row 22; `ORC-2NXJOIQB3X.4038d0` |  |
 | sm increment; _printed: ST–S298_ | 33.4143 J/mol-atom/K | 298.15 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | experimental | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 11; `ORC-23LMFZEDJ3.b8462d` |  |
 | sm increment; _printed: ST–S298_ | 13.7928 J/mol-atom/K | 298.15 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | experimental | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 3; `ORC-3RZ6TU34RS.cc2905` |  |
 | sm increment; _printed: ST–S298_ | 40.6858 J/mol-atom/K | 298.15 | UC1.9 (U0.345C0.655); _alloy: U 0.344828_ | experimental | [1] Chevalier 2001; _cites MacLeod 1969_ | Table 14, p. 13, row 14; `ORC-ASKM5EDP34.8598fe` |  |

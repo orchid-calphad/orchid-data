@@ -1,10 +1,10 @@
 # Cu–Sn system
 
-> Cu–Sn system: 92 accepted literature values (invariant reaction 68, formation 14, phase transition 6, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sn system: 97 accepted literature values (invariant reaction 68, formation 14, phase transition 11, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SN.html · Markdown: https://data.orchid-project.org/systems/CU-SN.md
 
-92 accepted literature values from 4 paper(s) (experimental 35, model 57); 9 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+97 accepted literature values from 4 paper(s) (experimental 40, model 57); 9 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN.json) · [CSV](https://data.orchid-project.org/systems/CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SN/CuSn-02Mie.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SN.html) · [Markdown](https://data.orchid-project.org/systems/CU-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 35 |
+| experimental | 40 |
 | model | 57 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 68 |
-| phase transition | 6 |
+| phase transition | 11 |
 | phase equilibrium | 4 |
 | formation | 14 |
 
@@ -336,18 +336,23 @@ Table: Enthalpies of formation, Cu–Sn system (14)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (11)
 
 Table: Phase transition, Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 624.15 K | 624.15 | other | model | [3] Dong 2014; _cites Li 2013_ [doi](https://doi.org/10.1016/j.intermet.2012.10.010) | p. 2; `ORC-PKIB65PYVH` | “Furthermore, the parameter of Cu41Sn11 was modified on the basis of the work of \[12\], since the decomposition temperature of Cu41Sn11 was estimated to be at 351 °C in \[12\] while this phase was found to be unstable lower than 380 °C in Au-Cu-Sn ternary system \[16\].” |
+| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [4] Liu 2004 | Table II, p. 5, row 2; `ORC-E6O74B5MZL` |  |
+| Phase transition | 847.15 K | 847.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [4] Liu 2004 | Table II, p. 5, row 1; `ORC-4NY6XLHCKU` |  |
+| Phase transition | 922.15 K | 922.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 7; `ORC-ARQWIEGYRH` |  |
 | Phase transition | 941.15 K | 941.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002 | Table IV, p. 6, row 9; `ORC-2UBJRQHYNG` |  |
 | Phase transition | 945 K | 945 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013 | Table 2, p. 6, row 8; `ORC-BJSD6SA7UJ` |  |
 | Phase transition | 949 K | 949 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 7; `ORC-LIM2JQJRB4` |  |
 | Phase transition | 949.15 K | 949.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 7; `ORC-7OPMC4CQIO` |  |
 | Phase transition | 950.15 K | 950.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 8; `ORC-A5ZG6UYITF` |  |
+| Phase transition | 972.15 K | 972.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 11; `ORC-F3XXSQAASS` |  |
+| Phase transition | 984.15 K | 984.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [4] Liu 2004 | Table II, p. 5, row 15; `ORC-3O5TJGGWGH` |  |
 
 ### Phase equilibrium (4)
 

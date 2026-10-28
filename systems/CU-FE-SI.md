@@ -1,12 +1,40 @@
 # Cu–Fe–Si system
 
-> Cu–Fe–Si system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Fe–Si system: 1 accepted literature values (phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-FE-SI.html · Markdown: https://data.orchid-project.org/systems/CU-FE-SI.md
 
-0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 31 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+1 accepted literature values from 1 paper(s) (experimental 1); 0 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-FE-SI.json) · [CSV](https://data.orchid-project.org/systems/CU-FE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-FE-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-FE-SI.html) · [Markdown](https://data.orchid-project.org/systems/CU-FE-SI.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 1 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 1 |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Cu–Fe–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1062.15 K | 1062.15 | CuFeSi-2; _alloy: Fe 0.333333, Si 0.333333_ | experimental | [1] Soldi 2019 | Table 4, p. 6, row 6; `ORC-VXP4AKHVAS` |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Luca Soldi, Annabelle Laplace, Mathieu Roskosz, Stéphane Gossé, Phase diagram and thermodynamic model for the Cu-Si and the Cu-Fe-Si systems, Journal of Alloys and Compounds 803, 61-70 (2019). [doi:10.1016/j.jallcom.2019.06.236](https://doi.org/10.1016/j.jallcom.2019.06.236)
 
 ## Please cite
 

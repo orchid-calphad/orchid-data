@@ -43,8 +43,8 @@ Table: Uncertainty budget of the literature values of Nb3Si
 | -29.6425 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -28.175 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -28.175 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -37.3 | kJ/mol (basis unstated) |  | 0.05 | 40.2 (dft, calibrated) |  |  |  | 40.2 |
-| -34.73 | kJ/mol (basis unstated) |  | 0.005 | 40.2 (dft, calibrated) |  |  |  | 40.2 |
+| -37.3 | kJ/mol (basis unstated) |  | 0.05 | 39.86 (dft, calibrated) |  |  |  | 39.86 |
+| -34.73 | kJ/mol (basis unstated) |  | 0.005 | 39.86 (dft, calibrated) |  |  |  | 39.86 |
 
 ## DFT formation energies
 

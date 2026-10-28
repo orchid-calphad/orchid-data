@@ -1,20 +1,36 @@
 # AsGa: enthalpy of formation
 
-> Enthalpy of formation of AsGa: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AsGa: 17 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AsGa.html · Markdown: https://data.orchid-project.org/compounds/AsGa.md
 
-1 accepted literature formation-enthalpy value(s) (model 1).
+17 accepted literature formation-enthalpy value(s) (experimental 12, model 4, unspecified 1).
 
 Systems: [As–Ga](https://data.orchid-project.org/systems/AS-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AsGa reported in the literature (1)
+Table: Enthalpy of formation of AsGa reported in the literature (17)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.4256 kJ/mol (basis unstated) | Ga0.5As0.5(s) | 298.15 | model |  | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Chatillon 1990 | Table 4, p. 11, row 4; `ORC-SIHQXKIML2.3e3181` |  |
+| -53.12 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 21_ | Table II, p. 4, row 9; `ORC-V4ZIDESFZA` |  |
+| -48.55 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | Flow equilibration | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 23_ | Table II, p. 4, row 12; `ORC-FIW5M47YJY` |  |
+| -47.1 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 20_ | Table II, p. 4, row 7; `ORC-K4ILT3GS7Y` |  |
+| -46.22 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 19_ | Table II, p. 4, row 6; `ORC-KJWNJHO663` |  |
+| -46.15 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 22_ | Table II, p. 4, row 10; `ORC-LPW3FDLTNP` |  |
+| -46.02 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental |  | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 18_ | Table II, p. 4, row 5; `ORC-2YODYIT2MI` |  |
+| -46.02 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 21_ | Table II, p. 4, row 8; `ORC-7DES5PLTU4` |  |
+| -45.22 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 22_ | Table II, p. 4, row 11; `ORC-JK6H5Z7III` |  |
+| -43.85 kJ/mol (basis unstated) ± 2 | Ga0.5As0.5(c) | 298.15 | experimental | E.M.F. | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 16_ | Table II, p. 4, row 3; `ORC-DOJYKZWLEJ.877e10` |  |
+| -39.75 kJ/mol (basis unstated) ± 1.7 | Ga0.5As0.5(c) | 298.15 | experimental | E.M.F. | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 17_ | Table II, p. 4, row 4; `ORC-JQ76SMQPC4.41fe71` |  |
+| -39.68 kJ/mol (basis unstated) ± 0.6 | Ga0.5As0.5(c) | 298.15 | experimental | Solution calorimetry | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 14_ | Table II, p. 4, row 1; `ORC-F6B7KIYO2E` |  |
+| -39.32 kJ/mol (basis unstated) ± 4 | Ga0.5As0.5(c) | 298.15 | experimental | E.M.F. | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [1] Ansara 1984; _cites ref. 15_ | Table II, p. 4, row 2; `ORC-7ROZH4CVVC.c6af34` |  |
+| -105.3 kJ/mol (basis unstated) | GaAs | 298.15 | model |  | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [2] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 18, row 52; `ORC-OBO3SQIZDH` |  |
+| -88.8 kJ/mol (basis unstated) | GaAs | 298.15 | model |  | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 51; `ORC-YCZWXEBPI6.95146a` |  |
+| -86.3 kJ/mol (basis unstated) | GaAs | 298.15 | model |  | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 50; `ORC-7XWIFRQNEB.b8a4c7` |  |
+| -44.4256 kJ/mol (basis unstated) | Ga0.5As0.5(s) | 298.15 | model |  | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [3] Chatillon 1990 | Table 4, p. 11, row 4; `ORC-SIHQXKIML2.3e3181` |  |
+| -71.1 kJ/mol (basis unstated) | GaAs | 298.15 | unspecified |  | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | [2] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 18, row 53; `ORC-VSQ5MV3EZG` |  |
 
 ### Uncertainty budget
 
@@ -24,11 +40,29 @@ Table: Uncertainty budget of the literature values of AsGa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -53.12 | kJ/mol (basis unstated) | 4 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -48.55 | kJ/mol (basis unstated) | 4 | 0.005 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
+| -47.1 | kJ/mol (basis unstated) | 4 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -46.22 | kJ/mol (basis unstated) | 4 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -46.15 | kJ/mol (basis unstated) | 4 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -46.02 | kJ/mol (basis unstated) | 4 | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 4 |
+| -46.02 | kJ/mol (basis unstated) | 4 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -45.22 | kJ/mol (basis unstated) | 4 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -43.85 | kJ/mol (basis unstated) | 2 | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -39.75 | kJ/mol (basis unstated) | 1.7 | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -39.68 | kJ/mol (basis unstated) | 0.6 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -39.32 | kJ/mol (basis unstated) | 4 | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -105.3 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -88.8 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -86.3 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -44.4256 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -71.1 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 
-1. C. Chatillon, I. Ansara, A. Watson, B.B. Argent, Re-assessment of the thermodynamic properties and phase diagrams of the Ga-As and In-As systems, Calphad 14, 203-214 (1990). [doi:10.1016/0364-5916(90)90021-q](https://doi.org/10.1016/0364-5916%2890%2990021-q)
+1. I. Ansara, D. Dutartre, Thermodynamic study of the Al-Ga-As-Ge system, Calphad 8, 323-342 (1984). [doi:10.1016/0364-5916(84)90035-x](https://doi.org/10.1016/0364-5916%2884%2990035-x)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+3. C. Chatillon, I. Ansara, A. Watson, B.B. Argent, Re-assessment of the thermodynamic properties and phase diagrams of the Ga-As and In-As systems, Calphad 14, 203-214 (1990). [doi:10.1016/0364-5916(90)90021-q](https://doi.org/10.1016/0364-5916%2890%2990021-q)
 
 ## Please cite
 

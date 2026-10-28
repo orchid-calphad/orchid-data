@@ -52,17 +52,17 @@ Table: Uncertainty budget of the literature values of TiB2
 | -292.6 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
 | -217.32 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
 | -109.7 | kJ/mol (basis unstated) |  | 0.05 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
-| -105.2 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -83.1 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -78.9 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -68.2 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -56.6 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -46.4 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -32.1 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| -21.7 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| 35 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
-| 68.1 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -105.2 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -83.1 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -78.9 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -68.2 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -56.6 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -46.4 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -32.1 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| -21.7 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| 35 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
+| 68.1 | kJ/mol (basis unstated) |  | 0.05 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
 
 ## Sources
 

@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of ZrH
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -41.24 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
-| -41.4 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -41.4 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

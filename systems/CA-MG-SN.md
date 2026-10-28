@@ -1,10 +1,10 @@
 # Ca–Mg–Sn system
 
-> Ca–Mg–Sn system: 65 accepted literature values (invariant reaction 23, crystal structure 14, phase equilibrium 12, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg–Sn system: 94 accepted literature values (phase transition 37, invariant reaction 23, crystal structure 14, phase equilibrium 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG-SN.html · Markdown: https://data.orchid-project.org/systems/CA-MG-SN.md
 
-65 accepted literature values from 1 paper(s) (experimental 22, model 21, DFT 4, unspecified 18); 0 calculated phase diagram(s). 32 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+94 accepted literature values from 1 paper(s) (experimental 36, model 21, DFT 4, unspecified 33); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG-SN.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 36 |
 | model | 21 |
 | DFT | 4 |
-| unspecified | 18 |
+| unspecified | 33 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 23 |
-| phase transition | 8 |
+| phase transition | 37 |
 | phase equilibrium | 12 |
 | formation | 4 |
 | heat capacity / entropy / enthalpy | 4 |
@@ -73,7 +73,7 @@ Table: Enthalpies of formation, Ca–Mg–Sn system (4)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (37)
 
 Table: Phase transition, Ca–Mg–Sn system
 
@@ -83,10 +83,39 @@ Table: Phase transition, Ca–Mg–Sn system
 | Phase transition | 788.15 K | 788.15 | eutectic: E3: L ↔ (Mg) + Mg2Ca + Ca2-xMgxSn; _alloy: Ca 0.222, Mg 0.667, Sn 0.111_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 11; `ORC-YBCABM7PMS` |  |
 | Phase transition | 794.15 K | 794.15 | eutectic: E3: L ↔ (Mg) + Mg2Ca + Ca2-xMgxSn; _alloy: Ca 0.222, Mg 0.667, Sn 0.111_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 10; `ORC-OREPAZRW6Z` |  |
 | Phase transition | 794.15 K | 794.15 | eutectic: E3: L ↔ (Mg) + Mg2Ca + Ca2-xMgxSn; _alloy: Ca 0.283, Mg 0.667, Sn 5.000e-4_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 5; `ORC-Q7RKZ3XHW3` |  |
+| Phase transition | 800.15 K | 800.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + (Mg); _alloy: Ca 0.222, Mg 0.667, Sn 0.111_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 9; `ORC-CWDKRBZ52E` |  |
 | Phase transition | 835.95 K | 835.95 | eutectic: E2: L ↔ (Mg) + Ca2-xMgxSn + Mg2Sn; _alloy: Ca 5.000e-4, Mg 0.667, Sn 0.283_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 21; `ORC-UOOJGWKDLQ` |  |
 | Phase transition | 836.15 K | 836.15 | eutectic: E2: L ↔ (Mg) + Ca2-xMgxSn + Mg2Sn; _alloy: Ca 5.000e-4, Mg 0.667, Sn 0.283_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 20; `ORC-XHXYDW22XR` |  |
+| Phase transition | 849.15 K | 849.15 | U5: L + Ca6.2Mg3.8Sn7 ↔ Ca2-xMgxSn + CaSn3; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 31; `ORC-ESEL52GRAG` |  |
+| Phase transition | 864.15 K | 864.15 | U5: L + Ca6.2Mg3.8Sn7 ↔ Ca2-xMgxSn + CaSn3; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 30; `ORC-UWH7Q6DMR3` |  |
+| Phase transition | 908.15 K | 908.15 | max4: L + Ca2-xMgxSn/Ca2-xMgxSn + (Mg); _alloy: Ca 0.167, Mg 0.667, Sn 0.166_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 14; `ORC-KD7HG2T6UX` |  |
+| Phase transition | 913.15 K | 913.15 | max4: L + Ca2-xMgxSn/Ca2-xMgxSn + (Mg); _alloy: Ca 0.167, Mg 0.667, Sn 0.166_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 15; `ORC-OUFKORZH62` |  |
+| Phase transition | 931.15 K | 931.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + Mg2Ca; _alloy: Ca 0.283, Mg 0.667, Sn 5.000e-4_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 3; `ORC-7FAL2VKZIG` |  |
+| Phase transition | 939.15 K | 939.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + Mg2Ca; _alloy: Ca 0.283, Mg 0.667, Sn 5.000e-4_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 4; `ORC-IN2XMRBS7F` |  |
 | Phase transition | 964.15 K | 964.15 | peritectic: P: L + Ca2-xMgxSn ↔ Ca6.2Mg3.8Sn7 + CaSn3; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 29; `ORC-NVF6WIMMKT` |  |
 | Phase transition | 973.15 K | 973.15 | peritectic: P: L + Ca2-xMgxSn ↔ Ca6.2Mg3.8Sn7 + CaSn3; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 28; `ORC-USDLEJIOOM` |  |
+| Phase transition | 1018.15 K | 1018.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + Mg2Sn; _alloy: Ca 5.000e-4, Mg 0.667, Sn 0.283_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 18; `ORC-CWQQ2QK3CC` |  |
+| Phase transition | 1022.15 K | 1022.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + Mg2Sn; _alloy: Ca 5.000e-4, Mg 0.667, Sn 0.283_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 19; `ORC-OLCIF4VPWV` |  |
+| Phase transition | 1037.15 K | 1037.15 | max2: L ↔ Ca2-xMgxSn + Mg2Sn; _alloy: Ca 0.05, Mg 0.617, Sn 0.333_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 34; `ORC-D2VWUKQQ7K` |  |
+| Phase transition | 1043.15 K | 1043.15 | max2: L ↔ Ca2-xMgxSn + Mg2Sn; _alloy: Ca 0.05, Mg 0.617, Sn 0.333_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 35; `ORC-SQ4J4IMSTT` |  |
+| Phase transition | 1134.15 K | 1134.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.283, Mg 0.667, Sn 5.000e-4_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 2; `ORC-6OW6WPZFWY` |  |
+| Phase transition | 1146.15 K | 1146.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.283, Mg 0.667, Sn 5.000e-4_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 1; `ORC-75PNJLZKC3` |  |
+| Phase transition | 1163.15 K | 1163.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.05, Mg 0.617, Sn 0.333_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 32; `ORC-JWWOF5ZEUX` |  |
+| Phase transition | 1164.15 K | 1164.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.05, Mg 0.617, Sn 0.333_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 33; `ORC-ZLTOQJ6MJ4` |  |
+| Phase transition | 1189.15 K | 1189.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + CaSn; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 27; `ORC-XXVMXHF4ZI` |  |
+| Phase transition | 1198.15 K | 1198.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + CaSn; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 26; `ORC-UVPLO6VRDW` |  |
+| Phase transition | 1225.15 K | 1225.15 | L/L + Ca2-xMgxSn; _alloy: Ca 5.000e-4, Mg 0.667, Sn 0.283_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 17; `ORC-AD4Q3NIVRD` |  |
+| Phase transition | 1226.15 K | 1226.15 | L/L + Ca2-xMgxSn; _alloy: Ca 5.000e-4, Mg 0.667, Sn 0.283_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 16; `ORC-2RMADU7XXK` |  |
+| Phase transition | 1314.15 K | 1314.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.222, Mg 0.667, Sn 0.111_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 7; `ORC-2UONCPZDWK` |  |
+| Phase transition | 1321.15 K | 1321.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.222, Mg 0.667, Sn 0.111_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 8; `ORC-4EOLH4TTPA` |  |
+| Phase transition | 1358.15 K | 1358.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.167, Mg 0.667, Sn 0.166_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 13; `ORC-ZGJ2TOMZZH` |  |
+| Phase transition | 1360.15 K | 1360.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 24; `ORC-K7FTGERWTY` |  |
+| Phase transition | 1362.15 K | 1362.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.167, Mg 0.667, Sn 0.166_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 12; `ORC-5HYW22F5U3` |  |
+| Phase transition | 1365.15 K | 1365.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 25; `ORC-BOSO7F6BUK` |  |
+| Phase transition | 1435.15 K | 1435.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.333, Mg 0.333, Sn 0.334_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 23; `ORC-6HHC6CQI6P` |  |
+| Phase transition | 1457.15 K | 1457.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.333, Mg 0.333, Sn 0.334_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 22; `ORC-E2SSDNMRGW` |  |
+| Phase transition | 1494.15 K | 1494.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.5, Mg 0.167, Sn 0.333_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 36; `ORC-N5INTJMGLT` |  |
+| Phase transition | 1500.15 K | 1500.15 | L/L + Ca2-xMgxSn; _alloy: Ca 0.5, Mg 0.167, Sn 0.333_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 37; `ORC-4MI4O3H5Q2` |  |
 
 ### Phase equilibrium (12)
 

@@ -1,30 +1,40 @@
 # MoN: enthalpy of formation
 
-> Enthalpy of formation of MoN: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of MoN: 21 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MoN.html · Markdown: https://data.orchid-project.org/compounds/MoN.md
 
-11 accepted literature formation-enthalpy value(s) (model 9, unspecified 2); Materials Project -52.788 kJ/mol-atom (mp-aaaaaeed); OQMD -45.43 kJ/mol-atom (oqmd-19511).
+21 accepted literature formation-enthalpy value(s) (model 17, unspecified 4); Materials Project -52.788 kJ/mol-atom (mp-aaaaaeed); OQMD -45.43 kJ/mol-atom (oqmd-19511).
 
 Systems: [Mo–N](https://data.orchid-project.org/systems/MO-N.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MoN reported in the literature (11)
+Table: Enthalpy of formation of MoN reported in the literature (21)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -53.7423 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.70cb3f` |  |
+| -53.7423 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.7723a2` |  |
 | -53.742 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.0cba83` |  |
+| -53.742 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.ff279c` |  |
 | -51.8126 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.80b22b` |  |
+| -51.8126 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.8e4721` |  |
 | -51.812 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.a6ad4a` |  |
+| -51.812 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.ae9955` |  |
 | -44.2868 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.2852cb` |  |
+| -44.2868 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.2fbf4a` |  |
 | -44.286 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.10c72a` |  |
+| -44.286 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.b14827` |  |
+| -39.2512 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.6c898b` |  |
 | -39.2512 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.7d83d8` |  |
+| -39.251 kJ/mol-atom | MoN-delta |  | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.6d413b` |  |
 | -39.251 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.9b16d7` |  |
 | -24.5 kJ/mol-atom | MoN | 298.15 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [2] Frisk 1991 | Table I, p. 6, row 9; `ORC-GPC3ZUWDUO` |  |
 | -37.7537 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.c0656f` |  |
+| -37.7537 kJ/mol-atom | MoN-delta |  | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.cf89c6` |  |
 | -37.753 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.18934a` |  |
+| -37.753 kJ/mol-atom | MoN-delta |  | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.907ce3` |  |
 
 ### Uncertainty budget
 
@@ -35,16 +45,26 @@ Table: Uncertainty budget of the literature values of MoN
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -53.7423 | kJ/mol-atom |  | 0.04824 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -53.7423 | kJ/mol-atom |  | 0.04824 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -53.742 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -53.742 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -51.8126 | kJ/mol-atom |  | 0.04824 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -51.8126 | kJ/mol-atom |  | 0.04824 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -51.812 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -51.812 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -44.2868 | kJ/mol-atom |  | 0.04824 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -44.2868 | kJ/mol-atom |  | 0.04824 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -44.286 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -44.286 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -39.2512 | kJ/mol-atom |  | 4.824e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -39.2512 | kJ/mol-atom |  | 4.824e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -39.251 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -39.251 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -24.5 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -37.7537 | kJ/mol-atom |  | 4.824e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -37.7537 | kJ/mol-atom |  | 4.824e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -37.753 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -37.753 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

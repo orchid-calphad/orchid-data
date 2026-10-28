@@ -29,7 +29,7 @@ Table: Uncertainty budget of the literature values of NiSi3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -8.61 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | 22.867 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| 20.6 | kJ/mol-atom |  | 0.05 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| 20.6 | kJ/mol-atom |  | 0.05 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 | 22.881 | kJ/mol-atom |  | 5.000e-4 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
 
 ## DFT formation energies

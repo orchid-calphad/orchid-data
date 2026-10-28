@@ -1,10 +1,10 @@
 # Mn–Nd system
 
-> Mn–Nd system: 43 accepted literature values (invariant reaction 31, phase equilibrium 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Nd system: 46 accepted literature values (invariant reaction 31, phase equilibrium 12, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-ND.html · Markdown: https://data.orchid-project.org/systems/MN-ND.md
 
-43 accepted literature values from 1 paper(s) (experimental 29, model 9, unspecified 5); 1 calculated phase diagram(s). 57 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+46 accepted literature values from 1 paper(s) (experimental 32, model 9, unspecified 5); 1 calculated phase diagram(s). 54 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-ND.json) · [CSV](https://data.orchid-project.org/systems/MN-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-ND/MnNd-16Ron.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MN-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-ND.html) · [Markdown](https://data.orchid-project.org/systems/MN-ND.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 32 |
 | model | 9 |
 | unspecified | 5 |
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
+| phase transition | 3 |
 | phase equilibrium | 12 |
 
 ## Calculated phase diagrams
@@ -102,6 +103,16 @@ Table: Invariant reactions reported in the literature for the Mn–Nd system (31
 | 753 | eutectoid: Mn23Nd6 -> Mn17Nd2 + α-Nd | Mn23Nd6: Nd 0.207; Mn17Nd2: Nd 0.105; α-Nd: Nd 0.983 | model | [1] Rong 2016 | Table 3, p. 6, row 31; `ORC-Y52X3BQZXJ` |  |
 
 ## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Mn–Nd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 968.8 K | 968.8 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.7, Nd 0.3_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 28; `ORC-VE4VZXWJ4L` |  |
+| Phase transition | 969.4 K | 969.4 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.75, Nd 0.25_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 32; `ORC-JBERDL6EIS` |  |
+| Phase transition | 971.1 K | 971.1 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.8, Nd 0.2_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 35; `ORC-X3QDO6IM3G` |  |
 
 ### Phase equilibrium (12)
 

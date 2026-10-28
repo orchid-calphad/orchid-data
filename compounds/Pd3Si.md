@@ -1,21 +1,22 @@
 # Pd3Si: enthalpy of formation
 
-> Enthalpy of formation of Pd3Si: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Pd3Si: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pd3Si.html · Markdown: https://data.orchid-project.org/compounds/Pd3Si.md
 
-2 accepted literature formation-enthalpy value(s) (model 1, DFT 1).
+3 accepted literature formation-enthalpy value(s) (model 1, DFT 2).
 
 Systems: [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pd3Si reported in the literature (2)
+Table: Enthalpy of formation of Pd3Si reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -57.9 kJ/mol (basis unstated) | Pd3Si-β |  | model |  | [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html) | [1] Zhou 2016; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table I, p. 3, row 14; `ORC-ZS6QHEAMRL.012434` |  |
 | -57.4 kJ/mol (basis unstated) | Pd3Si-β | 0 | DFT | first-principles | [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html) | [1] Zhou 2016 | Table I, p. 3, row 13; `ORC-DZZEZSNOQ4.1827be` |  |
+| -57.4 kJ/mol (basis unstated) | Pd3Si-β |  | DFT | first-principles | [Pd–Si](https://data.orchid-project.org/systems/PD-SI.html) | [1] Zhou 2016 | Table I, p. 3, row 13; `ORC-DZZEZSNOQ4.8078a5` |  |
 
 ### Uncertainty budget
 
@@ -26,7 +27,8 @@ Table: Uncertainty budget of the literature values of Pd3Si
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -57.9 | kJ/mol (basis unstated) |  | 0.05 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
-| -57.4 | kJ/mol (basis unstated) |  | 0.05 | 40.2 (dft, calibrated) |  |  |  | 40.2 |
+| -57.4 | kJ/mol (basis unstated) |  | 0.05 | 39.86 (dft, calibrated) |  |  |  | 39.86 |
+| -57.4 | kJ/mol (basis unstated) |  | 0.05 | 39.86 (dft, calibrated) |  |  |  | 39.86 |
 
 ## Sources
 

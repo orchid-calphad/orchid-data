@@ -1,23 +1,26 @@
 # InSb: enthalpy of formation
 
-> Enthalpy of formation of InSb: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of InSb: 7 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/InSb.html · Markdown: https://data.orchid-project.org/compounds/InSb.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2).
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 4, unspecified 1).
 
 Systems: [In–Sb](https://data.orchid-project.org/systems/IN-SB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of InSb reported in the literature (4)
+Table: Enthalpy of formation of InSb reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -18.003 kJ/mol (basis unstated) | InSb | 723 | experimental |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013; _cites Kleppa 1955_ [doi](https://doi.org/10.1021/ja01609a025) | Table V, p. 9, row 3; `ORC-P2IP3IATME` |  |
 | -14.53 kJ/mol (basis unstated) | InSb | 273 | experimental |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013; _cites Schottky 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990069-5) | Table V, p. 9, row 1; `ORC-VKAVYWJVBM` |  |
+| -32.47 kJ/mol (basis unstated) | InSb | 298.15 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.ce5911` |  |
+| -30 kJ/mol (basis unstated) | InSb | 298.15 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 25; `ORC-5RT26BWS36.06bccb` |  |
 | -20.615 kJ/mol (basis unstated) | InSb | 723 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013 | Table V, p. 9, row 4; `ORC-J23XL3YR7P` |  |
 | -18.367 kJ/mol (basis unstated) | InSb | 273 | model |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [1] Cao 2013 | Table V, p. 9, row 2; `ORC-5U6I7MN4LT` |  |
+| -30.5 kJ/mol (basis unstated) | InSb | 298.15 | unspecified |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html) | [2] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 27; `ORC-LIMGRBQSRY` |  |
 
 ### Uncertainty budget
 
@@ -29,12 +32,16 @@ Table: Uncertainty budget of the literature values of InSb
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -18.003 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -14.53 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -32.47 | kJ/mol (basis unstated) |  | 0.005 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -30 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -20.615 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -18.367 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -30.5 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 
 1. Zhanmin Cao, Wei Xie, Kunpeng Wang, Guangwei Du, Zhiyu Qiao, Thermodynamic Assessment of the In-Ni-Sb System and Predictions for Thermally Stable Contacts to InSb, Journal of Elec Materi 42, 2615-2629 (2013). [doi:10.1007/s11664-013-2599-7](https://doi.org/10.1007/s11664-013-2599-7)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

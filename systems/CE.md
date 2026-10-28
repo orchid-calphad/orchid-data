@@ -67,13 +67,13 @@ Table: Crystal structure, Ce system
 | Lattice c | 11.857 Å | 298.15 | βCe; _alloy: Ce 1_ | unspecified | [4] Dong 2013 | Table 1, p. 2, row 3; `ORC-W5DFKBFDXF.ad2050` |  |
 | Lattice c | 5.161 not_printed | 298.15 | γ(Ce) | experimental | [6] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.f5f379` |  |
 | Lattice c | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [6] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-QUTJ6UQCOU.d1e30f` |  |
+| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.759 Å |  | bcc; _alloy: Ce 1_ | DFT | [7] Zhang 2008 | Table 1, p. 2, row 5; `ORC-Q2VXLQC73N.64877b` |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 3.756 Å | 1041 | Ce; _alloy: Ce 1_ | DFT | [7] Zhang 2008 | Table 1, p. 2, row 3; `ORC-35EQDN7AUN.cfaa06` |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce; _alloy: Ce 1_ | experimental | [7] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 4; `ORC-SXSOTOHSCL.1a860d` |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | experimental | [7] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6; `ORC-BDXH2CZH7Q.8b1fdc` |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 3.759 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | DFT | [7] Zhang 2008 | Table 1, p. 2, row 5; `ORC-Q2VXLQC73N.bf484d` |  |
 | lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.756 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [7] Zhang 2008 | Table 1, p. 2, row 3; `ORC-35EQDN7AUN.5adfc9` |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | bcc; _alloy: Ce 1_ | experimental | [7] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6; `ORC-BDXH2CZH7Q.1225d9` |  |
-| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.759 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [7] Zhang 2008 | Table 1, p. 2, row 5; `ORC-Q2VXLQC73N.64877b` |  |
 
 ## Sources
 

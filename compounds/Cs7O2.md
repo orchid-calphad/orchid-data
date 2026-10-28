@@ -1,20 +1,22 @@
 # Cs7O2: enthalpy of formation
 
-> Enthalpy of formation of Cs7O2: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Cs7O2: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cs7O2.html · Markdown: https://data.orchid-project.org/compounds/Cs7O2.md
 
-2 accepted literature formation-enthalpy value(s) (model 1, DFT 1).
+4 accepted literature formation-enthalpy value(s) (model 2, DFT 2).
 
 Systems: [Cs–O](https://data.orchid-project.org/systems/CS-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cs7O2 reported in the literature (2)
+Table: Enthalpy of formation of Cs7O2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -682.3 kJ/mol (basis unstated) | Cs7O2 | 298.15 | model | CALPHAD | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.0e3914` |  |
 | -75.8111 kJ/mol-atom | Cs7O2 | 298.15 | model | CALPHAD | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.d14fb0` |  |
+| -576 kJ/mol (basis unstated) | Cs7O2 | 298.15 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.872b13` |  |
 | -64 kJ/mol-atom | Cs7O2 | 298.15 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.e1d05d` |  |
 
 ### Uncertainty budget
@@ -25,8 +27,10 @@ Table: Uncertainty budget of the literature values of Cs7O2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -682.3 | kJ/mol (basis unstated) |  | 0.05 | 35.1 (model_calculated, calibrated) |  |  |  | 35.1 |
 | -75.8111 | kJ/mol-atom |  | 0.005556 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -64 | kJ/mol-atom |  | 0.005556 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -576 | kJ/mol (basis unstated) |  | 0.05 | 89.69 (dft, calibrated) |  |  |  | 89.69 |
+| -64 | kJ/mol-atom |  | 0.005556 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## Sources
 

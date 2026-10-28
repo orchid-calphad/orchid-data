@@ -1,10 +1,10 @@
 # In–N system
 
-> In–N system: 33 accepted literature values (phase transition 13, heat capacity / entropy / enthalpy 11, formation 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–N system: 41 accepted literature values (formation 17, phase transition 13, heat capacity / entropy / enthalpy 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-N.html · Markdown: https://data.orchid-project.org/systems/IN-N.md
 
-33 accepted literature values from 1 paper(s) (experimental 22, model 7, unspecified 4); 1 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 1 paper(s) (experimental 22, model 9, unspecified 10); 1 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-N.json) · [CSV](https://data.orchid-project.org/systems/IN-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-N/InN-02Ond.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IN-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-N.html) · [Markdown](https://data.orchid-project.org/systems/IN-N.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 22 |
-| model | 7 |
-| unspecified | 4 |
+| model | 9 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 13 |
-| formation | 9 |
+| formation | 17 |
 | heat capacity / entropy / enthalpy | 11 |
 
 ## Calculated phase diagrams
@@ -46,19 +46,27 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, In–N system (9)
+Table: Enthalpies of formation, In–N system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | InN |  | -143.5 per formula unit | 298.15 | experimental |  |  | [1] Onderka 2002; _cites MacChesney 1970_ | Table III, p. 10, row 2; `ORC-5ZZPDB3WXP` |  |
 | InN |  | -136.4 per formula unit ± 19 | 298.15 | experimental |  |  | [1] Onderka 2002; _cites Vorobev 1973_ | Table III, p. 10, row 5; `ORC-K2CR4AML5C` |  |
+| InN |  | -133.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1973_ | Table AI, p. 18, row 42; `ORC-R7FZQR2TXE` |  |
 | InN |  | -132.6 per formula unit ± 6 | 298.15 | experimental |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table III, p. 10, row 4; `ORC-KG247AZFLI` |  |
 | InN |  | -131.4 per formula unit ± 7 | 298.15 | experimental |  |  | [1] Onderka 2002; _cites Jones 1987_ | Table III, p. 10, row 7; `ORC-JPAAK7XKGA` |  |
+| InN |  | -129.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41; `ORC-AH33WT326L.21e423` |  |
+| InN |  | -128.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Jones 1987_ | Table AI, p. 18, row 44; `ORC-UFKYGNYLFG` |  |
 | InN |  | -127.6 per formula unit ± 3 | 298.15 | experimental |  |  | [1] Onderka 2002; _cites Gordienko 1977_ | Table III, p. 10, row 6; `ORC-K6P6OQMYWH` |  |
+| InN |  | -124.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Gordienko 1977_ | Table AI, p. 18, row 43; `ORC-MAVHC4CD3V` |  |
 | InN |  | -113 per formula unit ± 42 | 298.15 | experimental |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table III, p. 10, row 3; `ORC-YPILMCKBB5` |  |
+| InN |  | -109.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Vorobev 1971_ | Table AI, p. 18, row 41; `ORC-AH33WT326L.7e4e05` |  |
 | InN |  | -96.5 per formula unit | 298.15 | model |  |  | [1] Onderka 2002 | Table III, p. 10, row 11; `ORC-B6ADNN3GTU` |  |
+| InN |  | -96.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.1ee054` |  |
 | InN |  | -28.6 per formula unit ± 9.2 | 298.15 | experimental |  |  | [1] Onderka 2002; _cites Ranade 2001_ | Table III, p. 10, row 8; `ORC-N4XTQZIX2C` |  |
+| InN |  | -28.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.6e34c4` |  |
 | InN |  | -19.2 per formula unit ± 2 | 298.15 | experimental |  |  | [1] Onderka 2002; _cites Hahn 1940_ | Table III, p. 10, row 10; `ORC-FXZ7TGT3UG` |  |
+| InN |  | -19.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hahn 1940_ | Table AI, p. 18, row 40; `ORC-OWH4QAWTAQ` |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Al–N system
 
-> Al–N system: 24 accepted literature values (phase equilibrium 14, heat capacity / entropy / enthalpy 8, activity / EMF / Gibbs energy 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–N system: 30 accepted literature values (phase equilibrium 14, heat capacity / entropy / enthalpy 8, formation 6, activity / EMF / Gibbs energy 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-N.html · Markdown: https://data.orchid-project.org/systems/AL-N.md
 
-24 accepted literature values from 3 paper(s) (experimental 14, model 4, unspecified 6); 4 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+30 accepted literature values from 3 paper(s) (experimental 14, model 4, unspecified 12); 4 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-N.json) · [CSV](https://data.orchid-project.org/systems/AL-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-N/AlN-12Pav.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-N.html) · [Markdown](https://data.orchid-project.org/systems/AL-N.md)
 
@@ -14,13 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 14 |
 | model | 4 |
-| unspecified | 6 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 14 |
+| formation | 6 |
 | heat capacity / entropy / enthalpy | 8 |
 | activity / EMF / Gibbs energy | 2 |
 
@@ -50,6 +51,21 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-N.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-N.json) · [CALPHAD hull AlN-12Pav](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-N--AlN-12Pav.json) · [CALPHAD hull AlN-92Hil](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-N--AlN-92Hil.json) · [CALPHAD hull AlN-98Luk-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-N--AlN-98Luk-LB.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–N system (6)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| AlN |  | -318.4 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.364abc` |  |
+| AlN |  | -317.9 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Era 1977_ | Table AI, p. 18, row 13; `ORC-SCJ6PTKNQD` |  |
+| AlN |  | -316.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hildebrand 1963_ | Table AI, p. 18, row 12; `ORC-4D3CFBSIUE` |  |
+| AlN |  | -313 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Neugebauer 1957_ | Table AI, p. 18, row 11; `ORC-H3GAN2DCZE` |  |
+| AlN |  | -312.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Sato 1932_ | Table AI, p. 18, row 10; `ORC-CGJSSMUS7E` |  |
+| AlN |  | -311.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites McHale 1999_ | Table AI, p. 18, row 14; `ORC-LZU5HZK74A` |  |
+
 ## Other properties
 
 ### Phase equilibrium (14)
@@ -58,20 +74,20 @@ Table: Phase equilibrium, Al–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 660 (>) | molten Al + liquid Al; _molten Al: Al 0.55, N 0.45; liquid Al: Al 0.55, N 0.45_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 9; `ORC-2YKHUHSMHQ` |  |
-| Phase composition |  | 923.15 | molten Al + liquid Al; _molten Al: Al 1, N 0; liquid Al: Al 1, N 0_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 1; `ORC-3FSJU2W3H5` |  |
-| Phase composition |  | 963.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 5; `ORC-ZVET4JTZ4J` |  |
-| Phase composition |  | 973.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 10; `ORC-JHSN2KNOM3` |  |
-| Phase composition |  | 1033.15 | molten Al + liquid Al; _molten Al: Al 0.68, N 0.32; liquid Al: Al 0.68, N 0.32_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 6; `ORC-UH2ZDDWHD2` |  |
-| Phase composition |  | 1123.15 | molten Al + liquid Al; _molten Al: Al 0.61, N 0.39; liquid Al: Al 0.61, N 0.39_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 11; `ORC-36FLNF4JVS` |  |
-| Phase composition |  | 1173.15 | molten Al + liquid Al; _molten Al: Al 0.56, N 0.44; liquid Al: Al 0.56, N 0.44_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 2; `ORC-T3H62NK6L4` |  |
-| Phase composition |  | 1203.15 | molten Al + liquid Al; _molten Al: Al 0.53, N 0.47; liquid Al: Al 0.53, N 0.47_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 8; `ORC-UY62PLEW2D` |  |
-| Phase composition |  | 1213.15 | molten Al + liquid Al; _molten Al: Al 0.52, N 0.48; liquid Al: Al 0.52, N 0.48_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 12; `ORC-62RTZ4D3JK` |  |
-| Phase composition |  | 1223.15 | molten Al + liquid Al; _molten Al: Al 0.51, N 0.49; liquid Al: Al 0.51, N 0.49_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 13; `ORC-MQPR3QGJJT` |  |
-| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.3, N 0.7; liquid Al: Al 0.3, N 0.7_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 3; `ORC-6UYJKZKJNF` |  |
-| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.998, N 0.002; liquid Al: Al 0.998, N 0.002_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 15; `ORC-ZMEFMBGHFY` |  |
-| Phase composition |  | 1673.15 | molten Al + liquid Al; _molten Al: Al 0.12, N 0.88; liquid Al: Al 0.12, N 0.88_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 16; `ORC-ZBARUE47EY` |  |
-| Phase composition |  | 1773.15 | molten Al + liquid Al; _molten Al: Al 0.04, N 0.96; liquid Al: Al 0.04, N 0.96_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 4; `ORC-463AUQ3OAS` |  |
+| Phase composition |  | 660 (>) | molten Al + liquid Al; _molten Al: Al 0.55, N 0.45; liquid Al: Al 0.55, N 0.45_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 9; `ORC-2YKHUHSMHQ` |  |
+| Phase composition |  | 923.15 | molten Al + liquid Al; _molten Al: Al 1, N 0; liquid Al: Al 1, N 0_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 1; `ORC-3FSJU2W3H5` |  |
+| Phase composition |  | 963.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 5; `ORC-ZVET4JTZ4J` |  |
+| Phase composition |  | 973.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 10; `ORC-JHSN2KNOM3` |  |
+| Phase composition |  | 1033.15 | molten Al + liquid Al; _molten Al: Al 0.68, N 0.32; liquid Al: Al 0.68, N 0.32_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 6; `ORC-UH2ZDDWHD2` |  |
+| Phase composition |  | 1123.15 | molten Al + liquid Al; _molten Al: Al 0.61, N 0.39; liquid Al: Al 0.61, N 0.39_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 11; `ORC-36FLNF4JVS` |  |
+| Phase composition |  | 1173.15 | molten Al + liquid Al; _molten Al: Al 0.56, N 0.44; liquid Al: Al 0.56, N 0.44_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 2; `ORC-T3H62NK6L4` |  |
+| Phase composition |  | 1203.15 | molten Al + liquid Al; _molten Al: Al 0.53, N 0.47; liquid Al: Al 0.53, N 0.47_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 8; `ORC-UY62PLEW2D` |  |
+| Phase composition |  | 1213.15 | molten Al + liquid Al; _molten Al: Al 0.52, N 0.48; liquid Al: Al 0.52, N 0.48_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 12; `ORC-62RTZ4D3JK` |  |
+| Phase composition |  | 1223.15 | molten Al + liquid Al; _molten Al: Al 0.51, N 0.49; liquid Al: Al 0.51, N 0.49_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 13; `ORC-MQPR3QGJJT` |  |
+| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.3, N 0.7; liquid Al: Al 0.3, N 0.7_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 3; `ORC-6UYJKZKJNF` |  |
+| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.998, N 0.002; liquid Al: Al 0.998, N 0.002_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 15; `ORC-ZMEFMBGHFY` |  |
+| Phase composition |  | 1673.15 | molten Al + liquid Al; _molten Al: Al 0.12, N 0.88; liquid Al: Al 0.12, N 0.88_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 16; `ORC-ZBARUE47EY` |  |
+| Phase composition |  | 1773.15 | molten Al + liquid Al; _molten Al: Al 0.04, N 0.96; liquid Al: Al 0.04, N 0.96_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 4; `ORC-463AUQ3OAS` |  |
 
 ### Heat capacity / entropy / enthalpy (8)
 
@@ -79,14 +95,14 @@ Table: Heat capacity / entropy / enthalpy, Al–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔmS_ | 63.6 J/mol-formula K | 298.15 | AlN | model | [2] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 6; `ORC-4SUFGCWB5N` |  |
-| Entropy; _printed: ΔmS_ | 66.9 J/mol-formula K | 298.15 | AlN | model | [2] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 5; `ORC-5ZUETBL665` |  |
-| Entropy; _printed: S°298_ | 20.1 J/mol-formula K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.c7e276` |  |
-| Entropy; _printed: S°298_ | 19.69 J/mol-formula K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.0c1b29` |  |
-| Entropy; _printed: ΔmS_ | 69.5 J/mol-formula K | 3487 | AlN | unspecified | [2] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 3; `ORC-MMEMZ4U37H` |  |
-| Heat capacity; _printed: Cp,298_ | 34.6 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 9; `ORC-3J2PIHG6TF` |  |
-| Heat capacity; _printed: Cp,298_ | 30.04 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.78a9c1` |  |
-| Heat capacity; _printed: Cp,298_ | 30.25 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.1204bc` |  |
+| Entropy; _printed: ΔmS_ | 63.6 J/mol-formula K | 298.15 | AlN | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 6; `ORC-4SUFGCWB5N` |  |
+| Entropy; _printed: ΔmS_ | 66.9 J/mol-formula K | 298.15 | AlN | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 5; `ORC-5ZUETBL665` |  |
+| Entropy; _printed: S°298_ | 20.1 J/mol-formula K | 298.15 | AlN | unspecified | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.c7e276` |  |
+| Entropy; _printed: S°298_ | 19.69 J/mol-formula K | 298.15 | AlN | unspecified | [1] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.0c1b29` |  |
+| Entropy; _printed: ΔmS_ | 69.5 J/mol-formula K | 3487 | AlN | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 3; `ORC-MMEMZ4U37H` |  |
+| Heat capacity; _printed: Cp,298_ | 34.6 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [1] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 9; `ORC-3J2PIHG6TF` |  |
+| Heat capacity; _printed: Cp,298_ | 30.04 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [1] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.78a9c1` |  |
+| Heat capacity; _printed: Cp,298_ | 30.25 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [1] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.1204bc` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -101,8 +117,8 @@ Table: Activity / EMF / Gibbs energy, Al–N system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. D. Pavlyuchkov, O. Fabrichnaya, M. Herrmann, H. J. Seifert, Thermodynamic Assessments of the Al2O3-Al4C3-AlN and Al4C3-AlN-SiC Systems, J. Phase Equilib. Diffus. 33, 357-368 (2012). [doi:10.1007/s11669-012-0073-5](https://doi.org/10.1007/s11669-012-0073-5)
-2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+1. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+2. D. Pavlyuchkov, O. Fabrichnaya, M. Herrmann, H. J. Seifert, Thermodynamic Assessments of the Al2O3-Al4C3-AlN and Al4C3-AlN-SiC Systems, J. Phase Equilib. Diffus. 33, 357-368 (2012). [doi:10.1007/s11669-012-0073-5](https://doi.org/10.1007/s11669-012-0073-5)
 3. Mats Hillert, Stefan Jonsson, An Assessment of the Al- Fe- N System, Metall Trans A 23, 3141-3149 (1992). [doi:10.1007/bf02646133](https://doi.org/10.1007/bf02646133)
 
 ## Please cite

@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of CaO2
 | -219.667 | kJ/mol-atom |  | 0.01667 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -217.567 | kJ/mol-atom |  | 0.01667 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -216.033 | kJ/mol-atom |  | 0.01667 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -216.033 | kJ/mol-atom |  | 0.01667 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -216.033 | kJ/mol-atom |  | 0.01667 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

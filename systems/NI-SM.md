@@ -1,10 +1,10 @@
 # Ni–Sm system
 
-> Ni–Sm system: 92 accepted literature values (invariant reaction 48, formation 27, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sm system: 94 accepted literature values (invariant reaction 48, formation 29, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SM.html · Markdown: https://data.orchid-project.org/systems/NI-SM.md
 
-92 accepted literature values from 2 paper(s) (experimental 37, model 55); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+94 accepted literature values from 2 paper(s) (experimental 39, model 55); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SM.json) · [CSV](https://data.orchid-project.org/systems/NI-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SM/NiSm-16Rah.json) · [phases (15)](https://data.orchid-project.org/phases/pages/NI-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SM.html) · [Markdown](https://data.orchid-project.org/systems/NI-SM.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
+| experimental | 39 |
 | model | 55 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 48 |
 | phase transition | 17 |
-| formation | 27 |
+| formation | 29 |
 
 ## Calculated phase diagrams
 
@@ -155,7 +155,7 @@ Table: Invariant reactions reported in the literature for the Ni–Sm system (48
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Sm system (27)
+Table: Enthalpies of formation, Ni–Sm system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -172,6 +172,7 @@ Table: Enthalpies of formation, Ni–Sm system (27)
 | Sm5Ni19 |  | -34.5 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 20; `ORC-3FTFHG62AG.c7649e` |  |
 | Sm7Ni3 | [Ni3Sm7](https://data.orchid-project.org/compounds/Ni3Sm7.html) | -19.4 kJ/mol-atom | 300 | model |  | -21.791 (oqmd-1785840) | [1] Rahou 2016 | Table 5, p. 6, row 4; `ORC-R3A2CLR433.ff7185` |  |
 | SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -36.4 kJ/mol-atom ± 0.7 | 298.15 | experimental | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8; `ORC-H5OATTV4YI.112d07` |  |
+| SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -36.4 kJ/mol-atom ± 0.7 | 1473 | experimental | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8; `ORC-H5OATTV4YI.99a5c9` |  |
 | SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -34.2 kJ/mol-atom | 300 | model | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016 | Table 5, p. 6, row 6; `ORC-UFNAP3LNTN.669eb3` |  |
 | SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -33 kJ/mol-atom ± 1 | 300 | experimental | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 7; `ORC-TQH35NFF7E.7f567c` |  |
 | SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -27.5 kJ/mol-atom |  | model | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 9; `ORC-4UJCYEEGLP.9f5282` |  |
@@ -186,6 +187,7 @@ Table: Enthalpies of formation, Ni–Sm system (27)
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -31.6 kJ/mol-atom | 300 | model | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016 | Table 5, p. 6, row 22; `ORC-V44SXNOR6E.944019` |  |
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -30.3 kJ/mol-atom | 300 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Pasturel 1984_ [doi](https://doi.org/10.1002/pssb.2221250110) | Table 5, p. 6, row 24; `ORC-UHMYIGYWKU.8cb74d` |  |
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -27.4 kJ/mol-atom | 298.15 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.018b44` |  |
+| SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -27.4 kJ/mol-atom | 1473 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.a7d9ec` |  |
 
 ## Other properties
 

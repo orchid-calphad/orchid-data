@@ -1,10 +1,10 @@
 # Gd–Mg–Zn system
 
-> Gd–Mg–Zn system: 79 accepted literature values (invariant reaction 32, phase equilibrium 28, crystal structure 16, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mg–Zn system: 164 accepted literature values (phase transition 88, invariant reaction 32, phase equilibrium 28, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/GD-MG-ZN.md
 
-79 accepted literature values from 1 paper(s) (experimental 32, model 47); 0 calculated phase diagram(s). 147 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+164 accepted literature values from 1 paper(s) (experimental 64, model 100); 0 calculated phase diagram(s). 62 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/GD-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG-ZN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 32 |
-| model | 47 |
+| experimental | 64 |
+| model | 100 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 32 |
-| phase transition | 3 |
+| phase transition | 88 |
 | phase equilibrium | 28 |
 | crystal structure | 16 |
 
@@ -65,13 +65,98 @@ Table: Invariant reactions reported in the literature for the Gd–Mg–Zn syste
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (88)
 
 Table: Phase transition, Gd–Mg–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 604.15 K | 604.15 | /(Mg) + 14H + GdMg5; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 9; `ORC-5NUSMA6IOY` |  |
+| Phase transition | 617.15 K | 617.15 | other: /L + H1 + (Mg); _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 11; `ORC-SGRMTHGKHU` |  |
+| Phase transition | 620.15 K | 620.15 | other: /L + H1 + (Mg); _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 12; `ORC-EEFQSCZ53B` |  |
+| Phase transition | 629.15 K | 629.15 | /GdMg5 + 14H + GdMg3; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 107; `ORC-TOQPCBMETN` |  |
+| Phase transition | 643.15 K | 643.15 | other: /L + H1 + (Mg); _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 13; `ORC-BI46WRMRZR` |  |
+| Phase transition | 651.15 K | 651.15 | other: /L + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 8; `ORC-ZDIGJWRLK5` |  |
+| Phase transition | 657.15 K | 657.15 | other: /L + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 9; `ORC-HMTDZ4IDF6` |  |
+| Phase transition | 671.15 K | 671.15 | other: /L + F + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 6; `ORC-U4WCNFUATW` |  |
+| Phase transition | 674.15 K | 674.15 | other: /L + F + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 5; `ORC-2FWLVCUYYR` |  |
+| Phase transition | 729.15 K | 729.15 | /GdMg5 + 14H; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 106; `ORC-2CJWHKACSU` |  |
+| Phase transition | 736.15 K | 736.15 | other: /14H + GdMg3 + W; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 29; `ORC-KMZOW2CKCS` |  |
+| Phase transition | 745.15 K | 745.15 | /L + F + (Mg); _alloy: Gd 0.01, Mg 0.8, Zn 0.19_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 26; `ORC-FNUMGJJNJX` |  |
+| Phase transition | 753.15 K | 753.15 | other: /L + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 10; `ORC-5TPI4DVPP2` |  |
+| Phase transition | 755.15 K | 755.15 | /L + F + (Mg); _alloy: Gd 0.01, Mg 0.8, Zn 0.19_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 25; `ORC-KXKTVEDLDB` |  |
+| Phase transition | 759.15 K | 759.15 | /GdMg5 + (Mg) + 14H; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 105; `ORC-WOQTFIS4BC` |  |
+| Phase transition | 764.15 K | 764.15 | /L + F + (Mg); _alloy: Gd 0.01, Mg 0.8, Zn 0.19_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 27; `ORC-27D7L6MCL7` |  |
+| Phase transition | 774.15 K | 774.15 | other: /L + F; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 3; `ORC-D72P6OLD3A` |  |
+| Phase transition | 783.15 K | 783.15 | /L + W + (Mg); _alloy: Gd 0.025, Mg 0.8, Zn 0.175_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 37; `ORC-AAMEIOOV5N` |  |
+| Phase transition | 783.15 K | 783.15 | /L + W + (Mg); _alloy: Gd 0.04, Mg 0.8, Zn 0.16_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 53; `ORC-URIJ26H7UX` |  |
+| Phase transition | 789.15 K | 789.15 | /(Mg) + 14H; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 6; `ORC-V6F53PYHYY` |  |
+| Phase transition | 790.15 K | 790.15 | other: /L + F + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 7; `ORC-X4BSAACDRZ` |  |
+| Phase transition | 791.15 K | 791.15 | /(Mg) + 14H; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 7; `ORC-3DCB64YEXE` |  |
+| Phase transition | 792.15 K | 792.15 | other: /14H + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 26; `ORC-4AIBL2AFYE` |  |
+| Phase transition | 792.15 K | 792.15 | other: /14H + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 27; `ORC-6BAWWYV63S` |  |
+| Phase transition | 798.15 K | 798.15 | /(Mg) + GdMg5 + 14H; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 19; `ORC-RBN3XXTWU7` |  |
+| Phase transition | 798.15 K | 798.15 | other: /14H + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 28; `ORC-BVRD6ZRNSI` |  |
+| Phase transition | 799.15 K | 799.15 | /L + GdMg5 + (Mg); _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 102; `ORC-7P7U6MCORZ` |  |
+| Phase transition | 800.15 K | 800.15 | /(Mg) + GdMg5 + 14H; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 20; `ORC-TKNKMNNPI3` |  |
+| Phase transition | 800.15 K | 800.15 | /L + GdMg5 + (Mg); _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 101; `ORC-M4VFQYK37M` |  |
+| Phase transition | 807.15 K | 807.15 | /GdMg5 + (Mg) + W; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 91; `ORC-45FDI3SCWR` |  |
+| Phase transition | 811.15 K | 811.15 | /(Mg) + 14H; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 8; `ORC-4PASRYSCN5` |  |
+| Phase transition | 812.15 K | 812.15 | /(Mg) + GdMg5 + 14H; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 5; `ORC-6KAX5N3PSB` |  |
+| Phase transition | 813.15 K | 813.15 | /GdMg5 + (Mg) + W; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 90; `ORC-HQCFZHL6RE` |  |
+| Phase transition | 817.15 K | 817.15 | /(Mg) + GdMg5 + 14H; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 18; `ORC-C4KGTKOE3D` |  |
+| Phase transition | 820.15 K | 820.15 | /(Mg) + GdMg5; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 16; `ORC-NGUH3P6IHC` |  |
+| Phase transition | 825.15 K | 825.15 | /(Mg) + GdMg5; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 15; `ORC-YTLH7LAN2Z` |  |
+| Phase transition | 826.15 K | 826.15 | L/L + F; _alloy: Gd 0.01, Mg 0.8, Zn 0.19_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 24; `ORC-DERJSOFMPT` |  |
+| Phase transition | 829.15 K | 829.15 | /GdMg5 + (Mg); _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 104; `ORC-OVI7SXXCP6` |  |
+| Phase transition | 830.15 K | 830.15 | /L + GdMg5 + (Mg); _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 103; `ORC-TB4F6ZGAQI` |  |
+| Phase transition | 831.15 K | 831.15 | /L + W + (Mg); _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 69; `ORC-JDU52MRLJQ` |  |
+| Phase transition | 837.15 K | 837.15 | /GdMg5 + (Mg); _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 88; `ORC-CMHW72GVEY` |  |
+| Phase transition | 841.15 K | 841.15 | /(Mg) + GdMg5; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 4; `ORC-UJRM4GT5O2` |  |
+| Phase transition | 841.15 K | 841.15 | /(Mg) + GdMg5; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 17; `ORC-XGKEIUXP3N` |  |
+| Phase transition | 841.15 K | 841.15 | /L + GdMg5 + (Mg); _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 87; `ORC-KWVDIXJTEX` |  |
+| Phase transition | 851.15 K | 851.15 | /L + GdMg5; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 86; `ORC-PMW4KWPHGL` |  |
+| Phase transition | 852.15 K | 852.15 | /L + GdMg3 + GdMg5; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 85; `ORC-YT7ASDQC7V` |  |
+| Phase transition | 852.15 K | 852.15 | /L + GdMg5 + GdMg3; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 14; `ORC-ZI7XL2LDUH` |  |
+| Phase transition | 853.15 K | 853.15 | other: /GdMg3 + GdMg5; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 25; `ORC-NPBBYHO5I6` |  |
+| Phase transition | 854.15 K | 854.15 | other: /L + GdMg3 + GdMg5; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 24; `ORC-GYBXCIIRC2` |  |
+| Phase transition | 867.15 K | 867.15 | /L + GdMg5; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 100; `ORC-3SN3RSOQLP` |  |
+| Phase transition | 871.15 K | 871.15 | /L + GdMg3 + GdMg5; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 99; `ORC-D5NZADMGUJ` |  |
+| Phase transition | 874.15 K | 874.15 | L/L + W; _alloy: Gd 0.025, Mg 0.8, Zn 0.175_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 36; `ORC-DEDQ77BXYD` |  |
+| Phase transition | 879.15 K | 879.15 | other: /L + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 22; `ORC-JDXUSTZYFP` |  |
+| Phase transition | 881.15 K | 881.15 | /L + W; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 68; `ORC-24FGTJFIGG` |  |
+| Phase transition | 881.15 K | 881.15 | L/L + (Mg); _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 1; `ORC-RF5G3BBV2T` |  |
+| Phase transition | 885.15 K | 885.15 | other: /L + F; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 4; `ORC-Y5GOGN7NXH` |  |
+| Phase transition | 886.15 K | 886.15 | L/L + (Mg); _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 3; `ORC-ZRAA5TXNKV` |  |
+| Phase transition | 888.15 K | 888.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 96; `ORC-4KSM3ZYOZ4` |  |
+| Phase transition | 890.15 K | 890.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 97; `ORC-XUEYINVICX` |  |
+| Phase transition | 890.15 K | 890.15 | /L + GdMg3 + W; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 67; `ORC-5UVTESRVWQ` |  |
+| Phase transition | 890.15 K | 890.15 | L/L + (Mg); _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 2; `ORC-Q6DYHLEKWX` |  |
+| Phase transition | 899.15 K | 899.15 | other: /L + Gd13Zn58 + F; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 2; `ORC-NVFDUNYCGH` |  |
+| Phase transition | 907.15 K | 907.15 | /L + W; _alloy: Gd 0.04, Mg 0.8, Zn 0.16_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 52; `ORC-FMUKICSM6C` |  |
+| Phase transition | 909.15 K | 909.15 | /L + GdMg3; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 66; `ORC-L2R6FDD46Z` |  |
+| Phase transition | 912.15 K | 912.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 65; `ORC-MYWMYBX3BZ` |  |
+| Phase transition | 923.15 K | 923.15 | L/L + GdMg2; _alloy: Gd 0.04, Mg 0.8, Zn 0.16_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 51; `ORC-3HHHVJDIOC` |  |
+| Phase transition | 935.15 K | 935.15 | other: /GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 35; `ORC-F64PE5HIJN` |  |
+| Phase transition | 938.15 K | 938.15 | other: /GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 34; `ORC-CD5P7EIMM3` |  |
+| Phase transition | 944.15 K | 944.15 | other: /L + GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 31; `ORC-OW7CJNTXTG` |  |
+| Phase transition | 945.15 K | 945.15 | /L + GdMg3; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 84; `ORC-EBJMSFLXCL` |  |
+| Phase transition | 946.15 K | 946.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 83; `ORC-Z3BJHS7CKY` |  |
+| Phase transition | 951.15 K | 951.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 13; `ORC-TNMWU4ZXYN` |  |
+| Phase transition | 954.15 K | 954.15 | other: /L + GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 32; `ORC-26QW3MEET2` |  |
+| Phase transition | 956.15 K | 956.15 | other: /L + GdMg2 + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 19; `ORC-RU7KBGBGTC` |  |
+| Phase transition | 957.15 K | 957.15 | L/L + GdMg2; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 12; `ORC-HUI5QE5Q2F` |  |
+| Phase transition | 957.15 K | 957.15 | other: /L + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 23; `ORC-FKSO3ULWNZ` |  |
+| Phase transition | 962.15 K | 962.15 | other: /L + GdMg2 + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 20; `ORC-5HN443ILQ5` |  |
+| Phase transition | 965.15 K | 965.15 | other: /L + GdMg2 + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 21; `ORC-QTVFUMI3MM` |  |
+| Phase transition | 968.15 K | 968.15 | other: /GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 36; `ORC-WWS4ROB2DN` |  |
+| Phase transition | 969.15 K | 969.15 | other: /L + GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 33; `ORC-URX3JDD65C` |  |
+| Phase transition | 971.15 K | 971.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 98; `ORC-BCCGNJLTD2` |  |
+| Phase transition | 973.15 K | 973.15 | L/L + GdMg2; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 64; `ORC-UQJGDJIJTC` |  |
 | Phase transition | 983.15 K | 983.15 | other: L/L + Gd13Zn58; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 1; `ORC-XSXDREJSA6` |  |
+| Phase transition | 995.15 K | 995.15 | L/L + GdMg2; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 11; `ORC-U43XOT26G7` |  |
+| Phase transition | 1069.15 K | 1069.15 | L/L + GdMg2; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 82; `ORC-JIF3XTNWOG` |  |
+| Phase transition | 1107.15 K | 1107.15 | L/L + GdMg2; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 95; `ORC-ZHQXV3YXIM` |  |
 | Phase transition | 1282.15 K | 1282.15 | other: L/L + GdMg2; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 18; `ORC-OFN66E5UE6` |  |
 | Phase transition | 1286.15 K | 1286.15 | other: L/L + GdMg2; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 30; `ORC-PGAD34D3R5` |  |
 

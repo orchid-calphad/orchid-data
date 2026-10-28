@@ -1,10 +1,10 @@
 # Pd–Si system
 
-> Pd–Si system: 77 accepted literature values (invariant reaction 40, formation 19, phase equilibrium 18) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Si system: 94 accepted literature values (invariant reaction 40, formation 36, phase equilibrium 18) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SI.html · Markdown: https://data.orchid-project.org/systems/PD-SI.md
 
-77 accepted literature values from 2 paper(s) (experimental 38, model 22, DFT 17); 5 calculated phase diagram(s). 31 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+94 accepted literature values from 2 paper(s) (experimental 38, model 22, DFT 34); 5 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SI.json) · [CSV](https://data.orchid-project.org/systems/PD-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SI/PdSi-05The.json) · [phases (16)](https://data.orchid-project.org/phases/pages/PD-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SI.html) · [Markdown](https://data.orchid-project.org/systems/PD-SI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 38 |
 | model | 22 |
-| DFT | 17 |
+| DFT | 34 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 40 |
 | phase equilibrium | 18 |
-| formation | 19 |
+| formation | 36 |
 
 ## Calculated phase diagrams
 
@@ -159,28 +159,45 @@ Table: Invariant reactions reported in the literature for the Pd–Si system (40
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–Si system (19)
+Table: Enthalpies of formation, Pd–Si system (36)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Pd-dia |  | 109.6 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 1; `ORC-ECXGBCPIZB.3b4b1b` |  |
 | Pd-dia |  | 109.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 1; `ORC-ECXGBCPIZB.67b285` |  |
+| Pd2Pd-γ |  | 186.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 18; `ORC-MK5LVEJWFB.b3d751` |  |
 | Pd2Pd-γ |  | 186.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 18; `ORC-MK5LVEJWFB.dc0498` |  |
 | Pd2Si-γ |  | -65.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 19; `ORC-2RLQY4V5DI.b764f4` |  |
+| Pd2Si-γ |  | -65.1 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 19; `ORC-2RLQY4V5DI.db54c7` |  |
 | Pd2Si-γ |  | -64.2 kJ/mol (basis unstated) |  | model |  |  | [2] Zhou 2016; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table I, p. 3, row 20; `ORC-VVPRJM6GMO.e9ef86` |  |
+| Pd3Pd-β |  | 44.5 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 12; `ORC-ZXEWLHRFJE.049d47` |  |
 | Pd3Pd-β |  | 44.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 12; `ORC-ZXEWLHRFJE.124c13` |  |
 | Pd3Si-β |  | -57.9 kJ/mol (basis unstated) |  | model |  |  | [2] Zhou 2016; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table I, p. 3, row 14; `ORC-ZS6QHEAMRL.012434` |  |
 | Pd3Si-β |  | -57.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 13; `ORC-DZZEZSNOQ4.1827be` |  |
+| Pd3Si-β |  | -57.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 13; `ORC-DZZEZSNOQ4.8078a5` |  |
 | Pd5Pd-μ |  | 48.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 2; `ORC-2JE3KT5AVL.c43702` |  |
+| Pd5Pd-μ |  | 48.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 2; `ORC-2JE3KT5AVL.d2d24d` |  |
 | Pd5Si-μ |  | -40.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 3; `ORC-DOWXWJJ7EG.55cebe` |  |
+| Pd5Si-μ |  | -40.5 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 3; `ORC-DOWXWJJ7EG.ce7838` |  |
 | Pd9Pd2-α |  | 24.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 7; `ORC-6BC3MSZH62.bf12fe` |  |
+| Pd9Pd2-α |  | 24.5 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 7; `ORC-6BC3MSZH62.faddc8` |  |
 | Pd9Si2-α |  | -42.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 8; `ORC-7ODOD3647J.49b4e5` |  |
+| Pd9Si2-α |  | -42.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 8; `ORC-7ODOD3647J.9388b8` |  |
 | PdPd-δ |  | 34.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 24; `ORC-NGDNRRB32E.16db56` |  |
+| PdPd-δ |  | 34.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 24; `ORC-NGDNRRB32E.71d4cf` |  |
 | PdSi-δ |  | -50.18 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 25; `ORC-DE4VEOBS56.59d955` |  |
+| PdSi-δ |  | -50.18 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 25; `ORC-DE4VEOBS56.e815bd` |  |
+| Si2Pd-γ |  | 169.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 22; `ORC-FWYYWUDL3T.24e9a0` |  |
 | Si2Pd-γ |  | 169.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 22; `ORC-FWYYWUDL3T.930af6` |  |
 | Si3Pd-β |  | 10.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 16; `ORC-36RHXJX5OE.0a00b6` |  |
+| Si3Pd-β |  | 10.6 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 16; `ORC-36RHXJX5OE.1cdaee` |  |
 | Si5Pd-μ |  | 43.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 5; `ORC-ACVP7XIWC6.5e1efc` |  |
+| Si5Pd-μ |  | 43.2 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 5; `ORC-ACVP7XIWC6.ed7bc4` |  |
+| Si9Pd2-α |  | 36.6 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 10; `ORC-M3EZSRVR73.0c0e91` |  |
 | Si9Pd2-α |  | 36.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 10; `ORC-M3EZSRVR73.77fd20` |  |
 | SiPd-δ |  | 43.17 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 27; `ORC-WGCW3MWLH2.0d7cf6` |  |
+| SiPd-δ |  | 43.17 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 27; `ORC-WGCW3MWLH2.2b25c1` |  |
+| SiSi-δ |  | 66.39 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 28; `ORC-H5SSXXWRSD.401b12` |  |
 | SiSi-δ |  | 66.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 28; `ORC-H5SSXXWRSD.5942dc` |  |
 
 ## Other properties

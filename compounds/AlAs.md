@@ -1,23 +1,30 @@
 # AlAs: enthalpy of formation
 
-> Enthalpy of formation of AlAs: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AlAs: 11 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlAs.html · Markdown: https://data.orchid-project.org/compounds/AlAs.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 4).
+11 accepted literature formation-enthalpy value(s) (experimental 8, model 2, unspecified 1).
 
 Systems: [Al–As](https://data.orchid-project.org/systems/AL-AS.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlAs reported in the literature (4)
+Table: Enthalpy of formation of AlAs reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -74.1 kJ/mol (basis unstated) ± 6.5 | Al0.5As0.5(c) | 298.15 | experimental | solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1; `ORC-TPCHL4IPZ3.12ad36` |  |
+| -74.1 unknown ± 6.5 | Al0.5As0.5(c) | 298.15 | experimental | solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 40_ | Table V, p. 8, row 1; `ORC-TPCHL4IPZ3.673b1a` |  |
 | -60.37 kJ/mol (basis unstated) ± 0.63 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3; `ORC-IFH5NT34DE.3c3c1e` |  |
+| -60.37 unknown ± 0.63 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3; `ORC-IFH5NT34DE.d73ff4` |  |
 | -58.2 kJ/mol (basis unstated) ± 1.2 | Al0.5As0.5(c) | 298.15 | experimental | Sn solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2; `ORC-7IUYZXQGF3.1efe92` |  |
+| -58.2 unknown ± 1.2 | Al0.5As0.5(c) | 298.15 | experimental | Sn solution calorimetry | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2; `ORC-7IUYZXQGF3.9aa222` |  |
 | -31 kJ/mol (basis unstated) ± 3.5 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry and Knudsen effusion | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4; `ORC-3LBVASEB5P.33b988` |  |
+| -31 unknown ± 3.5 | Al0.5As0.5(c) | 298.15 | experimental | Mass spectrometry and Knudsen effusion | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4; `ORC-3LBVASEB5P.b1af7d` |  |
+| -117.1 kJ/mol (basis unstated) | AlAs | 298.15 | model |  | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [2] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 18, row 47; `ORC-AGCAJ6VM5G.67b69d` |  |
+| -117.1 kJ/mol (basis unstated) | AlAs | 298.15 | model |  | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [2] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 18, row 49; `ORC-S5FUBWNL62` |  |
+| -134.6 kJ/mol (basis unstated) | AlAs | 298.15 | unspecified |  | [Al–As](https://data.orchid-project.org/systems/AL-AS.html) | [2] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 18, row 48; `ORC-HOK2UWZXHL` |  |
 
 ### Uncertainty budget
 
@@ -28,13 +35,21 @@ Table: Uncertainty budget of the literature values of AlAs
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -74.1 | kJ/mol (basis unstated) | 6.5 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.5 |
+| -74.1 | unknown | 6.5 | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 6.5 |
 | -60.37 | kJ/mol (basis unstated) | 0.63 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -60.37 | unknown | 0.63 | 0.005 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 0.63 |
 | -58.2 | kJ/mol (basis unstated) | 1.2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -58.2 | unknown | 1.2 | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 1.2 |
 | -31 | kJ/mol (basis unstated) | 3.5 | 0.5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -31 | unknown | 3.5 | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 3.5 |
+| -117.1 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -117.1 | kJ/mol (basis unstated) |  | 0.05 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -134.6 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 
 1. I. Ansara, D. Dutartre, Thermodynamic study of the Al-Ga-As-Ge system, Calphad 8, 323-342 (1984). [doi:10.1016/0364-5916(84)90035-x](https://doi.org/10.1016/0364-5916%2884%2990035-x)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

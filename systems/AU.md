@@ -35,7 +35,7 @@ Table: Enthalpies of formation, Au system (6)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | (Au) |  | -22.594 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Ferro 1966_ | Table 4, p. 8, row 7; `ORC-DV5UH6CUFX` |  |
 | (Au) |  | -9.623 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 10; `ORC-EQ2LL63WV6` |  |
-| (Au) |  | -8.033 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 9; `ORC-JJB3GCBTIV` |  |
+| (Au) |  | -8.033 kJ/mol-atom | 773.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 9; `ORC-JJB3GCBTIV` |  |
 | (Au) |  | -4.393 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 8; `ORC-N5SHVAKEBX` |  |
 | fcc(Au) |  | -15.268 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2003 | Table 3, p. 5, row 2; `ORC-XHTY356IIB` |  |
 | fcc(Au) |  | -14.411 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2003; _cites Carpenter 1967_ | Table 3, p. 5, row 1; `ORC-Q66EPRGZRO` |  |

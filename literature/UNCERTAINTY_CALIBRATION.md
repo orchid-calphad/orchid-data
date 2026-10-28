@@ -49,7 +49,7 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | HM_FORM | kems_vapour_third_law | 0 | 0 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
 | HM_FORM | solution_reaction_calorimetry | 80 | 47 | calibrated | 3.145 | 2.202-4.602 | 3.2 | kJ/mol-atom |
 | HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2043 | 359 | calibrated | 3.855 | 3.191-4.581 | 3.9 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2045 | 361 | calibrated | 3.81 | 3.113-4.547 | 3.9 | kJ/mol-atom |
 | GM_FORM | emf | 0 | 0 | prior (kubaschewski) |  |  | 1 | kJ/mol-atom |
 | GM_FORM | experimental_unspecified | 2 | 2 | prior (kubaschewski) |  |  | 2 | kJ/mol-atom |
 | GM_FORM | kems_vapour | 2 | 2 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
@@ -129,7 +129,7 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 
 ## DFT
 
-Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 458, robust sigma 7.19 kJ/mol-atom; strata: magnetic_3d n 105 sigma 3.856, metal n 230 sigma 8.395, pblock_anion n 123 sigma 10.05.
+Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 458, robust sigma 7.151 kJ/mol-atom; strata: magnetic_3d n 105 sigma 3.929, metal n 230 sigma 8.395, pblock_anion n 123 sigma 9.966.
 
 | value type | prior floor | basis |
 |---|---:|---|
@@ -181,7 +181,7 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | ACTIVITY | unknown | 229 | 0 | 0 | 4 |
 | experimental | CPM | dsc_dta | 201 | 2 | 0 | 0 |
 | experimental | CPM | heat_content_calorimetry | 51 | 5 | 4 | 5 |
-| experimental | CPM | unknown | 1348 | 34 | 29 | 180 |
+| experimental | CPM | unknown | 1370 | 34 | 29 | 180 |
 | experimental | EMF | emf | 417 | 208 | 208 | 0 |
 | experimental | EMF | unknown | 10 | 2 | 1 | 0 |
 | experimental | GM_FORM | emf | 49 | 19 | 19 | 0 |
@@ -277,9 +277,9 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | X_PHASE | thermal_analysis | 548 | 0 | 0 | 0 |
 | experimental | X_PHASE | unknown | 12914 | 0 | 0 | 0 |
 | experimental | X_PHASE | xrd | 17 | 0 | 0 | 0 |
-| experimental | none | none | 844 | 26 | 0 | 818 |
+| experimental | none | none | 866 | 26 | 0 | 840 |
 | model | ACTIVITY | model_calculated | 222 | 0 | 0 | 0 |
-| model | CPM | model_calculated | 637 | 23 | 12 | 23 |
+| model | CPM | model_calculated | 615 | 23 | 12 | 23 |
 | model | EMF | model_calculated | 2 | 0 | 0 | 0 |
 | model | GM_FORM | model_calculated | 440 | 0 | 0 | 35 |
 | model | G_MIX_PARTIAL | model_calculated | 387 | 0 | 0 | 18 |
@@ -289,14 +289,14 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | model | LATTICE_ANGLE | model_calculated | 28 | 1 | 1 | 0 |
 | model | LATTICE_LENGTH | model_calculated | 1093 | 40 | 40 | 0 |
 | model | SM_FORM | model_calculated | 587 | 18 | 10 | 24 |
-| model | S_ABS | model_calculated | 991 | 65 | 25 | 100 |
-| model | S_MIX_PARTIAL | model_calculated | 62 | 0 | 0 | 12 |
+| model | S_ABS | model_calculated | 992 | 65 | 25 | 100 |
+| model | S_MIX_PARTIAL | model_calculated | 61 | 0 | 0 | 12 |
 | model | T_CONDITION | model_calculated | 691 | 5 | 0 | 0 |
 | model | T_INVARIANT | model_calculated | 12822 | 69 | 11 | 0 |
 | model | T_TRANSITION | model_calculated | 2844 | 42 | 0 | 0 |
 | model | VOLUME | model_calculated | 116 | 0 | 0 | 0 |
-| model | X_PHASE | model_calculated | 12441 | 0 | 0 | 0 |
-| model | none | none | 448 | 4 | 0 | 444 |
+| model | X_PHASE | model_calculated | 12438 | 0 | 0 | 0 |
+| model | none | none | 426 | 4 | 0 | 422 |
 | unspecified | CPM | evaluated_compilation | 4 | 2 | 1 | 0 |
 | unspecified | CPM | unknown | 55 | 6 | 1 | 4 |
 | unspecified | GM_FORM | experimental_unspecified | 2 | 0 | 0 | 0 |

@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Si4Y5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -93 kJ/mol-atom ± 5.5 | Y5Si4 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15; `ORC-3KKWBH2XDZ.b64d86` |  |
+| -93 kJ/mol-atom ± 5.5 | Y5Si4 | 850.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15; `ORC-3KKWBH2XDZ.b64d86` |  |
 | -81.222 kJ/mol-atom | Y5Si4 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 16; `ORC-O4VSQBSGLF.2aea17` |  |
 | -76.67 kJ/mol-atom | Y5Si4 |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 4; `ORC-ZR6D4A3ZJQ` |  |
 | -65.15 kJ/mol-atom | Y5Si4 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 17; `ORC-OFWJAMR2XL.124240` |  |
@@ -32,7 +32,7 @@ Table: Uncertainty budget of the literature values of Si4Y5
 | -81.222 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -76.67 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -65.15 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -75.09 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -75.09 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

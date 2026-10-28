@@ -1,10 +1,10 @@
 # Ca system
 
-> Ca system: 53 accepted literature values (crystal structure 30, phase transition 12, formation 5, heat capacity / entropy / enthalpy 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca system: 68 accepted literature values (crystal structure 45, phase transition 12, formation 5, heat capacity / entropy / enthalpy 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA.html · Markdown: https://data.orchid-project.org/systems/CA.md
 
-53 accepted literature values from 12 paper(s) (experimental 9, model 5, DFT 26, unspecified 13); 0 calculated phase diagram(s).
+68 accepted literature values from 13 paper(s) (experimental 11, model 5, DFT 39, unspecified 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA.json) · [CSV](https://data.orchid-project.org/systems/CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA.html) · [Markdown](https://data.orchid-project.org/systems/CA.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 11 |
 | model | 5 |
-| DFT | 26 |
+| DFT | 39 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase transition | 12 |
 | formation | 5 |
 | heat capacity / entropy / enthalpy | 4 |
-| crystal structure | 30 |
+| crystal structure | 45 |
 
 ## Invariant reactions (literature)
 
@@ -82,7 +82,7 @@ Table: Heat capacity / entropy / enthalpy, Ca system
 | Heat capacity; _printed: CP298_ | 25.98 J/mol (basis unstated)/K | 0 | α-Ca | DFT | [7] OHNO 2006 | Table 2, p. 4, row 1; `ORC-QIKY35G52Q.86e542` |  |
 | Heat capacity; _printed: CP298_ | 25.31 J/mol (basis unstated)/K | 298.15 | α-Ca | experimental | [7] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 2; `ORC-4JALEXMPCB.1c7d60` |  |
 
-### Crystal structure (30)
+### Crystal structure (45)
 
 Table: Crystal structure, Ca system
 
@@ -106,18 +106,33 @@ Table: Crystal structure, Ca system
 | Lattice a | 3.769 Å | 0 | hcp (A3); _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 26; `ORC-3MKCPUK6W3.652dc5` |  |
 | Lattice a | 3.775 Å | 0 | hcp (A3); _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 25; `ORC-POICVVOORU.c1b3bc` |  |
 | Lattice a | 3.864 Å | 0 | hcp (A3); _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 27; `ORC-SHBTP7FLCM.cec73e` |  |
-| Lattice a | 5.5884 Å | 221.5 | fcc (αCa); _fcc (αCa): _ | unspecified | [10] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 1; `ORC-W4XOSVRQS3` |  |
+| Lattice a | 4.345 Å | 2 | bcc (A2); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 18; `ORC-67SGNAPXPC` |  |
+| Lattice a | 4.48 Å | 2 | bcc (A2); _alloy: Ca 1_ | experimental | [10] Zhong 2006; _cites King 1982_ [doi](https://doi.org/10.1007/bf02892394) | Table 1, p. 4, row 5; `ORC-ARPT66UXCM` |  |
+| Lattice a | 4.218 Å | 2 | bcc (A2); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 17; `ORC-OUJTAKRIDP` |  |
+| Lattice a | 4.211 Å | 2 | bcc (A2); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 4; `ORC-TE65RFLY3N` |  |
+| Lattice a | 5.588 Å | 2 | fcc (A1); _alloy: Ca 1_ | experimental | [10] Zhong 2006; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 4, row 3; `ORC-DAZKPLPHEH` |  |
+| Lattice a | 5.344 Å | 2 | fcc (A1); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 14; `ORC-NHDBXCBKX6` |  |
+| Lattice a | 5.486 Å | 2 | fcc (A1); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 15; `ORC-PF6YVSJU3R` |  |
+| Lattice a | 5.331 Å | 2 | fcc (A1); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 1; `ORC-S5ZXHAVDSF` |  |
+| Lattice a | 5.545 Å | 2 | fcc (A1); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 2; `ORC-UK2QT6EINH` |  |
+| Lattice a | 3.862 Å | 2 | hcp (A3); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 21; `ORC-FPEZO3OFRK.4ee815` |  |
+| Lattice a | 3.775 Å | 2 | hcp (A3); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 6; `ORC-Y22VO4OTBZ.ab0538` |  |
+| Lattice a | 3.764 Å | 2 | hcp (A3); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 20; `ORC-Y3GPNMTSSO.9007ad` |  |
+| Lattice a | 5.5884 Å | 221.5 | fcc (αCa); _fcc (αCa): _ | unspecified | [11] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 1; `ORC-W4XOSVRQS3` |  |
 | Lattice a | 5.582 Å | 298.15 | (αCa); _alloy: Ca 1_ | experimental | [8] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 4; `ORC-AUNQAHH2CN` |  |
-| Lattice a | 0.55884 not_printed | 298.15 | (αCa); _(αCa): Ca 1_ | unspecified | [11] Alcock 1986 | Table 1, p. 2, row 1; `ORC-DK5NYZWB4W` |  |
+| Lattice a | 0.55884 not_printed | 298.15 | (αCa); _(αCa): Ca 1_ | unspecified | [12] Alcock 1986 | Table 1, p. 2, row 1; `ORC-DK5NYZWB4W` |  |
 | Lattice a | 4.48 Å | 298.15 | (βCa); _alloy: Ca 1_ | experimental | [8] Li 2013; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 6; `ORC-ECTKZQFZ2R` |  |
 | Lattice a | 5.57 Å | 298.15 | Ca fcc | experimental | [9] Wang 2011 | Table 3, p. 5, row 5; `ORC-I5RX2P45EA.5a91ca` |  |
-| Lattice a | 4.48 Å | 642.5 | bcc (βCa); _bcc (βCa): _ | unspecified | [10] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 2; `ORC-O7NLFBDPSS` |  |
-| Lattice a | 0.448 not_printed | 1010.15 | (βCa, Ba); _(βCa, Ba): Ca 1_ | unspecified | [11] Alcock 1986; _cites ref. 2_ | Table 1, p. 2, row 3; `ORC-EI2KUGX5RR` |  |
+| Lattice a | 4.48 Å | 642.5 | bcc (βCa); _bcc (βCa): _ | unspecified | [11] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 2; `ORC-O7NLFBDPSS` |  |
+| Lattice a | 0.448 not_printed | 1010.15 | (βCa, Ba); _(βCa, Ba): Ca 1_ | unspecified | [12] Alcock 1986; _cites ref. 2_ | Table 1, p. 2, row 3; `ORC-EI2KUGX5RR` |  |
 | Lattice c | 6.244 Å | 0 | hcp (A3); _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 26; `ORC-3MKCPUK6W3.4b35cf` |  |
 | Lattice c | 6.228 Å | 0 | hcp (A3); _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 25; `ORC-POICVVOORU.2de688` |  |
 | Lattice c | 6.414 Å | 0 | hcp (A3); _alloy: Ca 1_ | DFT | [2] Ozturk 2005 | Table I, p. 3, row 27; `ORC-SHBTP7FLCM.b1f9b9` |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | Ca | experimental | [12] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2; `ORC-VY23HMPA22.7cdfae` |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.4 Å | 0 | Ca | DFT | [12] Zhang 2008 | Table 1, p. 2, row 1; `ORC-YNXT2G6ACN.a5f6fd` |  |
+| Lattice c | 6.411 Å | 2 | hcp (A3); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 21; `ORC-FPEZO3OFRK.f34c18` |  |
+| Lattice c | 6.228 Å | 2 | hcp (A3); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 6; `ORC-Y22VO4OTBZ.17db4f` |  |
+| Lattice c | 6.263 Å | 2 | hcp (A3); _alloy: Ca 1_ | DFT | [10] Zhong 2006 | Table 1, p. 4, row 20; `ORC-Y3GPNMTSSO.e0ad6f` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | Ca | experimental | [13] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2; `ORC-VY23HMPA22.7cdfae` |  |
+| lattice unspecified axis; _printed: Lattice parameter_ | 4.4 Å | 0 | Ca | DFT | [13] Zhang 2008 | Table 1, p. 2, row 1; `ORC-YNXT2G6ACN.a5f6fd` |  |
 
 ## Sources
 
@@ -132,9 +147,10 @@ Reporting papers the values were read from (a value cited from another work name
 7. M OHNO, A KOZLOV, R ARROYAVE, Z LIU, R SCHMIDFETZER, Thermodynamic modeling of the Ca–Sn system based on finite temperature quantities from first-principles and experiment, Acta Materialia 54, 4939-4951 (2006). [doi:10.1016/j.actamat.2006.06.017](https://doi.org/10.1016/j.actamat.2006.06.017)
 8. Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013). [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002)
 9. Kun Wang, Junlin Du, Xiangcheng Kong, Xiaoqin Zeng, Jianxin Zou, Zhilin Li et al., Ab initio and thermodynamic investigation on the Ca–H system, International Journal of Hydrogen Energy 36, 13632-13639 (2011). [doi:10.1016/j.ijhydene.2011.08.018](https://doi.org/10.1016/j.ijhydene.2011.08.018)
-10. J. F. Smith, K. J. Lee, The Ca−V (Calcium-Vanadium), Sr−V (strontium-Vandadium), and Ba−V (Barium-Vanadium) systems, Bulletin of Alloy Phase Diagrams 9, 466-469 (1988). [doi:10.1007/bf02881868](https://doi.org/10.1007/bf02881868)
-11. C. B. Alcock, V. P. Itkin, The Ba−Ca (Barium-Calcium) system, Bulletin of Alloy Phase Diagrams 7, 338-340 (1986). [doi:10.1007/bf02873004](https://doi.org/10.1007/bf02873004)
-12. Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008). [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020)
+10. Yu Zhong, Koray Ozturk, Jorge O. Sofo, Zi-Kui Liu, Contribution of first-principles energetics to the Ca–Mg thermodynamic modeling, Journal of Alloys and Compounds 420, 98-106 (2006). [doi:10.1016/j.jallcom.2005.10.033](https://doi.org/10.1016/j.jallcom.2005.10.033)
+11. J. F. Smith, K. J. Lee, The Ca−V (Calcium-Vanadium), Sr−V (strontium-Vandadium), and Ba−V (Barium-Vanadium) systems, Bulletin of Alloy Phase Diagrams 9, 466-469 (1988). [doi:10.1007/bf02881868](https://doi.org/10.1007/bf02881868)
+12. C. B. Alcock, V. P. Itkin, The Ba−Ca (Barium-Calcium) system, Bulletin of Alloy Phase Diagrams 7, 338-340 (1986). [doi:10.1007/bf02873004](https://doi.org/10.1007/bf02873004)
+13. Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008). [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020)
 
 ## Please cite
 

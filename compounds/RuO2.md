@@ -36,7 +36,7 @@ Table: Uncertainty budget of the literature values of RuO2
 | -306.27 | kJ/mol (basis unstated) | 6.3 | 0.005 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
 | -302.08 | kJ/mol (basis unstated) | 8.37 | 0.005 | 12.3 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 12.3 |
 | -297.08 | kJ/mol (basis unstated) |  | 0.005 | 12.3 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 12.3 |
-| -314.13 | kJ/mol (basis unstated) |  | 0.005 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -314.13 | kJ/mol (basis unstated) |  | 0.005 | 29.9 (dft, calibrated) |  |  |  | 29.9 |
 
 ## Sources
 

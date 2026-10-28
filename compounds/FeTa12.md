@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of FeTa12
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 6.15538 | kJ/mol-atom |  | 3.846e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 6.15538 | kJ/mol-atom |  | 3.846e-5 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

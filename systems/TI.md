@@ -1,10 +1,10 @@
 # Ti system
 
-> Ti system: 156 accepted literature values (crystal structure 75, heat capacity / entropy / enthalpy 57, formation 11, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti system: 157 accepted literature values (crystal structure 76, heat capacity / entropy / enthalpy 57, formation 11, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI.html · Markdown: https://data.orchid-project.org/systems/TI.md
 
-156 accepted literature values from 16 paper(s) (experimental 21, model 63, DFT 45, unspecified 27); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+157 accepted literature values from 17 paper(s) (experimental 21, model 64, DFT 45, unspecified 27); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI.json) · [CSV](https://data.orchid-project.org/systems/TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI.html) · [Markdown](https://data.orchid-project.org/systems/TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 21 |
-| model | 63 |
+| model | 64 |
 | DFT | 45 |
 | unspecified | 27 |
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | formation | 11 |
 | mixing / partial | 3 |
 | heat capacity / entropy / enthalpy | 57 |
-| crystal structure | 75 |
+| crystal structure | 76 |
 
 ## Formation enthalpies
 
@@ -147,7 +147,7 @@ Table: Heat capacity / entropy / enthalpy, Ti system
 | sm fusion; _printed: ΔfusS°_ | 7.288 J/mol (basis unstated)/K |  | Ti | model | [9] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21; `ORC-QOZHVTCQ3I.13ecdb` |  |
 | sm fusion; _printed: ΔfusS°_ | 6.823 J/mol (basis unstated)/K ± 0.25 | 298.15 | Ti | experimental | [9] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 3, p. 4, row 16; `ORC-7LY4Z5FKD7.20ba19` |  |
 
-### Crystal structure (75)
+### Crystal structure (76)
 
 Table: Crystal structure, Ti system
 
@@ -172,18 +172,19 @@ Table: Crystal structure, Ti system
 | Lattice a | 7.4963 Å | 0 | Ti2Ti (C15); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 55; `ORC-4BFO7UK57J.210d3b` |  |
 | Lattice a | 5.069 Å | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.3be9d4` |  |
 | Lattice a | 5.069 Å |  | Ti2Ti (C36); _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 28; `ORC-Z3ZSJ75KAY.c1d29f` |  |
+| Lattice a | 3.3065 Å |  | UNKNOWN; _alloy: Ti 1_ | model | [13] Keyzer 2009 | Table 1, p. 3, row 2; `ORC-NQSMHMCSDK.5715b9` |  |
 | Lattice a | 2.9503 Å |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.9e1174` |  |
 | Lattice a | 2.9504 Å | 298.15 | NM HCP Ti; _alloy: Ti 1_ | experimental | [11] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-XYDM2RAX3B.6495f5` |  |
 | Lattice a | 2.95 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8; `ORC-74EL5PRYOJ.b232cd` |  |
 | Lattice a | 3.31 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Kittel 2005_ | Table 1, p. 4, row 5; `ORC-A4VK6B6GFE` |  |
-| Lattice a | 2.956 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [13] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8; `ORC-5S662LOFCS.f0cd6c` |  |
+| Lattice a | 2.956 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [14] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8; `ORC-5S662LOFCS.f0cd6c` |  |
 | Lattice a | 0.29506 not_printed | 298.15 | αTi; _alloy: Ti 1_ | model | [4] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 4; `ORC-72VUXVTIBS.e1cfe9` |  |
-| Lattice a | 2.9506 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [14] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 7; `ORC-TLKVO7UVBQ.b2bd6f` |  |
+| Lattice a | 2.9506 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [15] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 7; `ORC-TLKVO7UVBQ.b2bd6f` |  |
 | Lattice a | 0.33065 not_printed | 298.15 | βTi; _alloy: Ti 1_ | model | [4] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 5; `ORC-BCXHQ6IWFW` |  |
-| Lattice a | 3.313 Å | 298.15 | βTi; _alloy: Ti 1_ | model | [13] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 9; `ORC-FBFOG4IWQT` |  |
-| Lattice a | 3.3065 Å | 298.15 | βTi; _alloy: Ti 1_ | model | [14] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 6; `ORC-JFYNVHVQXW` |  |
-| Lattice a | 2.9503 Å | 1154.95 (\<) | (αTi); _alloy: Ti 1_ | model | [15] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2; `ORC-EYIOXW3CSS.062d98` |  |
-| Lattice a | 2.952 Å | 1978.15 | αTi; _alloy: Ti 1_ | unspecified | [14] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 8; `ORC-33J2KZOGBM.50c096` |  |
+| Lattice a | 3.313 Å | 298.15 | βTi; _alloy: Ti 1_ | model | [14] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 9; `ORC-FBFOG4IWQT` |  |
+| Lattice a | 3.3065 Å | 298.15 | βTi; _alloy: Ti 1_ | model | [15] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 6; `ORC-JFYNVHVQXW` |  |
+| Lattice a | 2.9503 Å | 1154.95 (\<) | (αTi); _alloy: Ti 1_ | model | [16] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2; `ORC-EYIOXW3CSS.062d98` |  |
+| Lattice a | 2.952 Å | 1978.15 | αTi; _alloy: Ti 1_ | unspecified | [15] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 8; `ORC-33J2KZOGBM.50c096` |  |
 | Lattice b | 2.951 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 2; `ORC-BPWL2QOOEG.a243b3` |  |
 | Lattice b | 2.95 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 4; `ORC-I3RXTQEIXY.06cfc8` |  |
 | Lattice b | 2.9064 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 3; `ORC-J4EYURSZGY.53c80f` |  |
@@ -205,16 +206,16 @@ Table: Crystal structure, Ti system
 | Lattice c | 4.681 Å |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.90d6a7` |  |
 | Lattice c | 4.681 Å | 298.15 | NM HCP Ti; _alloy: Ti 1_ | experimental | [11] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-XYDM2RAX3B.eb0b53` |  |
 | Lattice c | 4.68 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8; `ORC-74EL5PRYOJ.a6e7d4` |  |
-| Lattice c | 4.693 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [13] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8; `ORC-5S662LOFCS.88d33a` |  |
+| Lattice c | 4.693 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [14] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8; `ORC-5S662LOFCS.88d33a` |  |
 | Lattice c | 0.46835 not_printed | 298.15 | αTi; _alloy: Ti 1_ | model | [4] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 4; `ORC-72VUXVTIBS.9010ab` |  |
-| Lattice c | 4.6835 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [14] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 7; `ORC-TLKVO7UVBQ.dde3c1` |  |
-| Lattice c | 4.6836 Å | 1154.95 (\<) | (αTi); _alloy: Ti 1_ | model | [15] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2; `ORC-EYIOXW3CSS.edfaa7` |  |
-| Lattice c | 4.692 Å | 1978.15 | αTi; _alloy: Ti 1_ | unspecified | [14] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 8; `ORC-33J2KZOGBM.ca969b` |  |
+| Lattice c | 4.6835 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [15] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 7; `ORC-TLKVO7UVBQ.dde3c1` |  |
+| Lattice c | 4.6836 Å | 1154.95 (\<) | (αTi); _alloy: Ti 1_ | model | [16] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2; `ORC-EYIOXW3CSS.edfaa7` |  |
+| Lattice c | 4.692 Å | 1978.15 | αTi; _alloy: Ti 1_ | unspecified | [15] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 8; `ORC-33J2KZOGBM.ca969b` |  |
 | Molar volume; _printed: V0_ | 8.58 Å3/atom | 0 | hcp-Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 2, p. 4, row 4; `ORC-DX3YXNBSL2` |  |
 | Molar volume; _printed: V0_ | 8.56 Å3/atom | 0 | hcp-Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012 | Table 2, p. 4, row 3; `ORC-KAWCUEHY2F` |  |
 | Molar volume; _printed: V0_ | 8.82 Å3/atom | 300 | hcp-Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Zhang 2008_ [doi](https://doi.org/10.1103/physrevb.78.054119) | Table 2, p. 4, row 5; `ORC-CV7IB4UUMQ` |  |
-| Molar volume; _printed: VX at 723 K_ | 10.77 10^-6 m^3/mol | 723 | UNKNOWN; _alloy: Ti 1_ | model | [16] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2; `ORC-BZTMPP6P2V.2890f4` |  |
-| Molar volume; _printed: Vm,X_ | 11.6 10^-6 m^3/mol | 1998 | UNKNOWN; _alloy: Ti 1_ | model | [16] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2; `ORC-BZTMPP6P2V.78e3db` |  |
+| Molar volume; _printed: VX at 723 K_ | 10.77 10^-6 m^3/mol | 723 | UNKNOWN; _alloy: Ti 1_ | model | [17] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2; `ORC-BZTMPP6P2V.2890f4` |  |
+| Molar volume; _printed: Vm,X_ | 11.6 10^-6 m^3/mol | 1998 | UNKNOWN; _alloy: Ti 1_ | model | [17] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2; `ORC-BZTMPP6P2V.78e3db` |  |
 | lattice 4e z | 0.1004 not_printed | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.c86d26` |  |
 | lattice 4f z | 0.0523 not_printed | 0 | Ti2Ti (C14); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 54; `ORC-GJOMUOEL6H.a0b122` |  |
 | lattice 4f z 1 | 0.8496 not_printed | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.336e6a` |  |
@@ -245,10 +246,11 @@ Reporting papers the values were read from (a value cited from another work name
 10. Wojciech Gierlotka, Adam Dębski, Władysław Gąsior, Marek Polański, Computational approach to the Ag-Ti system, Computational Materials Science 230, 112519 (2023). [doi:10.1016/j.commatsci.2023.112519](https://doi.org/10.1016/j.commatsci.2023.112519)
 11. J. Pavlů, J. Vřešt’ál, M. Šob, Thermodynamic modeling of Laves phases in the Cr–Hf and Cr–Ti systems: Reassessment using first-principles results, Calphad 34, 215-221 (2010). [doi:10.1016/j.calphad.2010.03.003](https://doi.org/10.1016/j.calphad.2010.03.003)
 12. Chelsey L. Zacherl, Shun-Li Shang, Arkapol Saengdeejing, Zi-Kui Liu, Phase stability and thermodynamic modeling of the Re–Ti system supplemented by first-principles calculations, Calphad 38, 71-80 (2012). [doi:10.1016/j.calphad.2012.05.001](https://doi.org/10.1016/j.calphad.2012.05.001)
-13. G. Cacciamani, R. Ferro, I. Ansara, N. Dupin, Thermodynamic modelling of the Co–Ti system, Intermetallics 8, 213-222 (2000). [doi:10.1016/s0966-9795(99)00098-9](https://doi.org/10.1016/s0966-9795%2899%2900098-9)
-14. H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995). [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248)
-15. Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang et al., Thermodynamic modeling of the Bi-M (M = Ti, Cr, V) systems, J min metall B Metall 49, 307-313 (2013). [doi:10.2298/jmmb130127033c](https://doi.org/10.2298/jmmb130127033c)
-16. K. Doi, S. Ono, H. Ohtani, M. Hasebe, Thermodynamic study of the phase equilibria in the Sn−Ti−Zn ternary system, JPED 27, 63-74 (2006). [doi:10.1361/105497106x92826](https://doi.org/10.1361/105497106x92826)
+13. Jozefien De Keyzer, Gabriele Cacciamani, Nathalie Dupin, Patrick Wollants, Thermodynamic modeling and optimization of the Fe–Ni–Ti system, Calphad 33, 109-123 (2009). [doi:10.1016/j.calphad.2008.10.003](https://doi.org/10.1016/j.calphad.2008.10.003)
+14. G. Cacciamani, R. Ferro, I. Ansara, N. Dupin, Thermodynamic modelling of the Co–Ti system, Intermetallics 8, 213-222 (2000). [doi:10.1016/s0966-9795(99)00098-9](https://doi.org/10.1016/s0966-9795%2899%2900098-9)
+15. H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995). [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248)
+16. Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang et al., Thermodynamic modeling of the Bi-M (M = Ti, Cr, V) systems, J min metall B Metall 49, 307-313 (2013). [doi:10.2298/jmmb130127033c](https://doi.org/10.2298/jmmb130127033c)
+17. K. Doi, S. Ono, H. Ohtani, M. Hasebe, Thermodynamic study of the phase equilibria in the Sn−Ti−Zn ternary system, JPED 27, 63-74 (2006). [doi:10.1361/105497106x92826](https://doi.org/10.1361/105497106x92826)
 
 ## Please cite
 

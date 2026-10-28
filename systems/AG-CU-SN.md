@@ -1,10 +1,10 @@
 # Ag–Cu–Sn system
 
-> Ag–Cu–Sn system: 48 accepted literature values (phase transition 48) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Cu–Sn system: 54 accepted literature values (phase transition 54) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CU-SN.html · Markdown: https://data.orchid-project.org/systems/AG-CU-SN.md
 
-48 accepted literature values from 1 paper(s) (experimental 48); 0 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+54 accepted literature values from 1 paper(s) (experimental 54); 0 calculated phase diagram(s). 24 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CU-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CU-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-CU-SN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
+| experimental | 54 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 48 |
+| phase transition | 54 |
 
 ## Other properties
 
-### Phase transition (48)
+### Phase transition (54)
 
 Table: Phase transition, Ag–Cu–Sn system
 
@@ -52,6 +52,12 @@ Table: Phase transition, Ag–Cu–Sn system
 | Phase transition | 490.45 K | 490.45 | eutectic: Sn 94.50 / Cu 2.00 / Ag 3.50 wt.% - Heating TE; _alloy: Ag 0.03773, Cu 0.0365978, Sn 0.925672_ | experimental | [1] Moon 2000 | Table I, p. 4, row 53; `ORC-BIAFZ2PBP7` |  |
 | Phase transition | 490.45 K | 490.45 | eutectic: Sn 95.80 / Cu 2.70 / Ag 1.50 wt.% - Heating TE; _alloy: Ag 0.0161059, Cu 0.049211, Sn 0.934683_ | experimental | [1] Moon 2000 | Table I, p. 4, row 64; `ORC-VPHTXQS2D4` |  |
 | Phase transition | 490.75 K | 490.75 | eutectic: Sn 91.70 / Cu 0.30 / Ag 8.00 wt.% - Heating TE; _alloy: Ag 0.0871134, Cu 0.00554526, Sn 0.907341_ | experimental | [1] Moon 2000 | Table I, p. 4, row 5; `ORC-TCHGBXFDK7` |  |
+| Phase transition | 491.15 K | 491.15 | other: L+Ag3Sn/L+Ag3Sn + (Sn); _alloy: Ag 0.0392076, Cu 0.0146049, Sn 0.946187_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 3; `ORC-46AS63VOA7` |  |
+| Phase transition | 491.85 K | 491.85 | other: L + Cu6Sn5/L + Cu6Sn5 + (Sn); _alloy: Cu 1_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 6; `ORC-QA5LDTN4AR` |  |
+| Phase transition | 492.15 K | 492.15 | other: L+Ag3Sn/L+Ag3Sn + (Sn); _alloy: Cu 1_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 2; `ORC-Z2BDTEWYRW` |  |
+| Phase transition | 493.55 K | 493.55 | other: L+Ag3Sn/L+Ag3Sn + (Sn); _alloy: Cu 1_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 1; `ORC-QHWMTIMBUK` |  |
+| Phase transition | 494.55 K | 494.55 | other: L + Cu6Sn5/L + Cu6Sn5 + (Sn); _alloy: Cu 1_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 5; `ORC-UDAK6PTL4F` |  |
+| Phase transition | 497.35 K | 497.35 | other: L + Cu6Sn5/L + Cu6Sn5 + (Sn); _alloy: Cu 1_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 4; `ORC-3L2KTAFC7H` |  |
 | Phase transition | 498.15 K | 498.15 | L + Cu6Sn5 + (Sn) + Ag3Sn | experimental | [1] Moon 2000; _cites Gebhardt 1959_ | p. 1; `ORC-5D3TPZVDNP` | “Based on very little data, they proposed a transition reaction, L + Cu6Sn5 → (Sn) + Ag3Sn at 225°C with a liquid composition of 4.0 wt.% Ag, 0.5 wt.% Cu.” |
 | Phase transition | 514.85 K | 514.85 | other: Sn 93.60 / Cu 1.40 / Ag 5.00 wt.% - Cooling TL; _alloy: Ag 0.0540962, Cu 0.0257116, Sn 0.920192_ | experimental | [1] Moon 2000 | Table I, p. 4, row 39; `ORC-PSSI2LBN6E` |  |
 | Phase transition | 516.35 K | 516.35 | other: Sn 93.40 / Cu 1.30 / Ag 5.30 wt.% - Cooling TL; _alloy: Ag 0.0573739, Cu 0.0238884, Sn 0.918738_ | experimental | [1] Moon 2000 | Table I, p. 4, row 33; `ORC-KYF4XRZHR4` |  |

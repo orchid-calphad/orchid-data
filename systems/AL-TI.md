@@ -1,10 +1,10 @@
 # Al–Ti system
 
-> Al–Ti system: 235 accepted literature values (invariant reaction 160, formation 49, phase equilibrium 18, phase transition 6) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ti system: 365 accepted literature values (invariant reaction 160, phase transition 136, formation 49, phase equilibrium 18) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TI.html · Markdown: https://data.orchid-project.org/systems/AL-TI.md
 
-235 accepted literature values from 5 paper(s) (experimental 83, model 109, DFT 20, unspecified 23); 5 calculated phase diagram(s). 143 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+365 accepted literature values from 5 paper(s) (experimental 184, model 138, DFT 20, unspecified 23); 5 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TI/AlTi-00Ohn.json) · [phases (18)](https://data.orchid-project.org/phases/pages/AL-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-TI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 83 |
-| model | 109 |
+| experimental | 184 |
+| model | 138 |
 | DFT | 20 |
 | unspecified | 23 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 160 |
-| phase transition | 6 |
+| phase transition | 136 |
 | phase equilibrium | 18 |
 | formation | 49 |
 | activity / EMF / Gibbs energy | 2 |
@@ -366,16 +366,146 @@ Table: Enthalpies of formation, Al–Ti system (49)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (136)
 
 Table: Phase transition, Al–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 1204 K | 1204 | α2 ↔ α2 + α; _alloy: Al 0.225, Ti 0.775_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 9; `ORC-VKYSY32VGU` |  |
+| Phase transition | 1253 K | 1253 | α2 ↔ α2 + α; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 8; `ORC-2VHMHDEF3P` |  |
+| Phase transition | 1275 K | 1275 | α ↔ α + β; _alloy: Al 0.1, Ti 0.9_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 3; `ORC-X4U7CNQDX4` |  |
+| Phase transition | 1278 K | 1278 | α ↔ α + β; _alloy: Al 0.1, Ti 0.9_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 1; `ORC-4IRSDAOUWA` |  |
+| Phase transition | 1278 K | 1278 | α ↔ α + β; _alloy: Al 0.1, Ti 0.9_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 2; `ORC-QTWQ3654BL` |  |
+| Phase transition | 1284 K | 1284 | α + β ↔ β; _alloy: Al 0.1, Ti 0.9_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 4; `ORC-5YFZJ2G4TR` |  |
+| Phase transition | 1295 K | 1295 | α2 + α ↔ α; _alloy: Al 0.225, Ti 0.775_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 13; `ORC-3IQJF67KAY` |  |
+| Phase transition | 1318 K | 1318 | α2 + α ↔ α; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 12; `ORC-5CY6NUZSVG` |  |
+| Phase transition | 1318 K | 1318 | α2 + α ↔ α; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 10; `ORC-XGBDJWIEIZ` |  |
+| Phase transition | 1338 K | 1338 | α2 + α ↔ α; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 11; `ORC-NOJGFM7OPK` |  |
+| Phase transition | 1384 K | 1384 | α ↔ α + β; _alloy: Al 0.225, Ti 0.775_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 17; `ORC-P7KUQ2R6XJ` |  |
+| Phase transition | 1387 K | 1387 | α ↔ α + β; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 16; `ORC-G2AMVMYASQ` |  |
+| Phase transition | 1387 K | 1387 | α ↔ α + β; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 14; `ORC-ZAFO2VUEIC` |  |
+| Phase transition | 1392 K | 1392 | α + β ↔ β; _alloy: Al 0.225, Ti 0.775_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 18; `ORC-N65KR2ODYP` |  |
+| Phase transition | 1394.15 K | 1394.15 | α2 + α; _alloy: Al 0.414, Ti 0.586_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 12; `ORC-UB343AV3SL` |  |
+| Phase transition | 1405.15 K | 1405.15 | α2 + α; _alloy: Al 0.399, Ti 0.601_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 10; `ORC-OZ7KY624LJ` |  |
+| Phase transition | 1420.15 K | 1420.15 | α2 + α; _alloy: Al 0.377, Ti 0.623_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 8; `ORC-RWSKYZYVTU` |  |
+| Phase transition | 1436.15 K | 1436.15 | α2 + α; _alloy: Al 0.301, Ti 0.699_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 1; `ORC-NOOZAOCTTE` |  |
 | Phase transition | 1437.28 K | 1437.28 | α-Ti -> D019-Ti3Al; _D019-Ti3Al: Ti 0.75_ | model | [4] Liang 2024 | Table 3, p. 8, row 3; `ORC-UH5D7BORP4` |  |
+| Phase transition | 1440.15 K | 1440.15 | α2 + α; _alloy: Al 0.35, Ti 0.65_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 5; `ORC-AZAZRVNFUV` |  |
+| Phase transition | 1442.15 K | 1442.15 | α2 + α; _alloy: Al 0.326, Ti 0.674_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 2; `ORC-QDGRS6XZG6` |  |
+| Phase transition | 1443 K | 1443 | α ↔ α + β; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 15; `ORC-KTGHND5ONJ` |  |
 | Phase transition | 1452 K | 1452 | congruent transformation: AlM-D019 -> hcp-A3; _AlM-D019: Ti 0.682; hcp-A3: Ti 0.682_ | model | [2] (ed.) 1998 | Table I, p. 109, row 9; `ORC-SNT4ELSQD4` |  |
+| Phase transition | 1457.15 K | 1457.15 | α + β2; _alloy: Al 0.326, Ti 0.674_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 3; `ORC-3NEB34LYX7` |  |
+| Phase transition | 1476 K | 1476 | γ ↔ γ + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 28; `ORC-M4HDWMXF7V` |  |
+| Phase transition | 1476 K | 1476 | γ ↔ γ + α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 56; `ORC-XZTNJDLKPF` |  |
+| Phase transition | 1483.15 K | 1483.15 | α + β2; _alloy: Al 0.35, Ti 0.65_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 6; `ORC-TTUDDPNDMJ` |  |
+| Phase transition | 1487 K | 1487 | γ ↔ γ + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 29; `ORC-RRPI5YF3D6` |  |
+| Phase transition | 1488 K | 1488 | γ ↔ γ + α; _alloy: Al 0.475, Ti 0.525_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 31; `ORC-VCARRQTAWP` |  |
+| Phase transition | 1490 K | 1490 | γ ↔ γ + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 30; `ORC-EG6MHXCK4T` |  |
+| Phase transition | 1493 K | 1493 | γ ↔ γ + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 27; `ORC-BNGUCZ3CO4` |  |
 | Phase transition | 1495.56 K | 1495.56 | D023-Ti5Al11 -> TiAl2; _D023-Ti5Al11: Ti 0.3125; TiAl2: Ti 0.333333_ | model | [4] Liang 2024 | Table 3, p. 8, row 7; `ORC-GUID2IVO4O` |  |
+| Phase transition | 1500 K | 1500 | γ ↔ γ + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 26; `ORC-JWPZTC2SLO` |  |
+| Phase transition | 1526.15 K | 1526.15 | α + β2; _alloy: Al 0.377, Ti 0.623_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 9; `ORC-7FE6N5DHMA` |  |
+| Phase transition | 1530 K | 1530 | γ ↔ γ + α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 79; `ORC-MY3X5KA2ZE` |  |
+| Phase transition | 1533 K | 1533 | γ ↔ γ + α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 55; `ORC-KZKRQ6WERR` |  |
+| Phase transition | 1540.15 K | 1540.15 | β2 + β; _alloy: Al 0.326, Ti 0.674_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 4; `ORC-5BWIOFISOJ` |  |
+| Phase transition | 1553 K | 1553 | γ ↔ γ + α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 54; `ORC-VVZEXWAOXR` |  |
+| Phase transition | 1563.15 K | 1563.15 | α + β2; _alloy: Al 0.399, Ti 0.601_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 11; `ORC-SDCD76FB7T` |  |
 | Phase transition | 1567.56 K | 1567.56 | β-Ti -> BCC_B2 | model | [4] Liang 2024 | Table 3, p. 8, row 13; `ORC-RLIFYNQDC3` |  |
+| Phase transition | 1575 K | 1575 | γ ↔ γ + α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 78; `ORC-4XVR4UI72O` |  |
+| Phase transition | 1579 K | 1579 | γ ↔ γ + α; _alloy: Al 0.49, Ti 0.51_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 57; `ORC-MQF4BWINZ5` |  |
+| Phase transition | 1591.15 K | 1591.15 | β2 + β; _alloy: Al 0.35, Ti 0.65_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 7; `ORC-RX5YVSMJAX` |  |
+| Phase transition | 1592.15 K | 1592.15 | α + β2; _alloy: Al 0.414, Ti 0.586_ | experimental | [5] Ohnuma 2000 | Table 2, p. 3, row 13; `ORC-QZBD4KOBZX` |  |
+| Phase transition | 1595 K | 1595 | γ + α ↔ α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 34; `ORC-CQ54LTCWFZ` |  |
+| Phase transition | 1595 K | 1595 | ε(h) ↔ L + ε(h); _alloy: Al 0.753, Ti 0.247_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 112; `ORC-6GEVTJ32GI` |  |
+| Phase transition | 1614 K | 1614 | γ + α ↔ α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 35; `ORC-V6ZLPFTJ3T` |  |
+| Phase transition | 1614 K | 1614 | ε(h) ↔ L + ε(h); _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 109; `ORC-RCW54RU7FJ` |  |
+| Phase transition | 1614 K | 1614 | ε(h) ↔ L + ε(h); _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 111; `ORC-YCPXB26LYA` |  |
+| Phase transition | 1620 K | 1620 | ε(h) ↔ L + ε(h); _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 110; `ORC-OIIMX4UHJW` |  |
+| Phase transition | 1627 K | 1627 | γ ↔ γ + α; _alloy: Al 0.505, Ti 0.495_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 80; `ORC-NHFXTCU3RO` |  |
+| Phase transition | 1638 K | 1638 | ε(h) ↔ L + ε(h); _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 108; `ORC-I2KBMSW2JG` |  |
+| Phase transition | 1644 K | 1644 | γ + α ↔ α; _alloy: Al 0.475, Ti 0.525_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 37; `ORC-6XCXRASB7H` |  |
+| Phase transition | 1645 K | 1645 | γ + α ↔ α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 32; `ORC-4PA7QAYTVQ` |  |
+| Phase transition | 1647 K | 1647 | γ + α ↔ α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 36; `ORC-NQPZWGK26E` |  |
+| Phase transition | 1647 K | 1647 | γ + α ↔ α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 33; `ORC-ROMZLMFL4B` |  |
+| Phase transition | 1655 K | 1655 | γ + α ↔ α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 59; `ORC-NXR56AHODV` |  |
+| Phase transition | 1666.5 K | 1666.5 | γ + α ↔ α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 62; `ORC-K6VS24Q4SW` |  |
+| Phase transition | 1667 K | 1667 | L + ε(h) ↔ L; _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 115; `ORC-BXGSKAF5P3` |  |
+| Phase transition | 1669 K | 1669 | L + ε(h) ↔ L; _alloy: Al 0.753, Ti 0.247_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 117; `ORC-B5X7LVHHQG` |  |
+| Phase transition | 1669 K | 1669 | γ + α ↔ α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 82; `ORC-XFUIXAOUGC` |  |
+| Phase transition | 1669 K | 1669 | ε ↔ L + ζ; _alloy: Al 0.735, Ti 0.265_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 103; `ORC-ARBC2B47IX` |  |
+| Phase transition | 1671 K | 1671 | L + ε(h) ↔ L; _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 116; `ORC-MA4EJIVX2Z` |  |
+| Phase transition | 1674 K | 1674 | γ + α ↔ α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 61; `ORC-PWCMZRU23N` |  |
+| Phase transition | 1675 K | 1675 | L + ε(h) ↔ L; _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 114; `ORC-J2CJX3NOB2` |  |
+| Phase transition | 1676 K | 1676 | L + ζ ↔ L; _alloy: Al 0.735, Ti 0.265_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 107; `ORC-FIVOGG3H4V` |  |
+| Phase transition | 1678 K | 1678 | γ + α ↔ α; _alloy: Al 0.49, Ti 0.51_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 63; `ORC-VJ2GMWAIYP` |  |
+| Phase transition | 1678 K | 1678 | γ + α ↔ α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 58; `ORC-ZFJHC3BASC` |  |
+| Phase transition | 1678 K | 1678 | ε ↔ L + ζ; _alloy: Al 0.735, Ti 0.265_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 102; `ORC-Z5UVILQAXN` |  |
+| Phase transition | 1683 K | 1683 | L + ε(h) ↔ L; _alloy: Al 0.753, Ti 0.247_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 113; `ORC-BOUAKREFSP` |  |
+| Phase transition | 1683 K | 1683 | L + ζ ↔ L; _alloy: Al 0.735, Ti 0.265_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 105; `ORC-2EMNVATDTP` |  |
+| Phase transition | 1683 K | 1683 | L + ζ ↔ L; _alloy: Al 0.735, Ti 0.265_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 106; `ORC-FFEZHNTGQG` |  |
+| Phase transition | 1683 K | 1683 | ε ↔ L + ζ; _alloy: Al 0.735, Ti 0.265_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 101; `ORC-4MFCZCP5AK` |  |
+| Phase transition | 1686.5 K | 1686.5 | γ + α ↔ α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 83; `ORC-I44JDQQOZG` |  |
+| Phase transition | 1702 K | 1702 | α ↔ L + α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 86; `ORC-PYHRLG5BCI` |  |
+| Phase transition | 1704 K | 1704 | γ + α ↔ α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 81; `ORC-YAM54Z5MXQ` |  |
+| Phase transition | 1709 K | 1709 | γ + α ↔ α; _alloy: Al 0.505, Ti 0.495_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 84; `ORC-N3UWHYGHG7` |  |
+| Phase transition | 1713 K | 1713 | γ ↔ L + γ; _alloy: Al 0.55, Ti 0.45_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 94; `ORC-6LGGCKIFG2` |  |
+| Phase transition | 1718 K | 1718 | L + ζ ↔ L; _alloy: Al 0.735, Ti 0.265_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 118; `ORC-BXZODI66ZH` |  |
+| Phase transition | 1723 K | 1723 | L + γ ↔ L; _alloy: Al 0.55, Ti 0.45_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 99; `ORC-5PRNRHLC2D` |  |
+| Phase transition | 1723 K | 1723 | L + γ ↔ L; _alloy: Al 0.55, Ti 0.45_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 98; `ORC-Q4QWONS66D` |  |
+| Phase transition | 1723 K | 1723 | γ ↔ L + γ; _alloy: Al 0.55, Ti 0.45_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 95; `ORC-4EAIOGVGTY` |  |
+| Phase transition | 1723 K | 1723 | γ ↔ L + γ; _alloy: Al 0.55, Ti 0.45_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 93; `ORC-GJCJ3FR3N3` |  |
+| Phase transition | 1728 K | 1728 | L + ζ ↔ L; _alloy: Al 0.735, Ti 0.265_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 104; `ORC-FE4FIATYDU` |  |
+| Phase transition | 1728 K | 1728 | γ ↔ L + γ; _alloy: Al 0.55, Ti 0.45_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 96; `ORC-LORXPC63YC` |  |
+| Phase transition | 1729 K | 1729 | L + γ ↔ L; _alloy: Al 0.55, Ti 0.45_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 100; `ORC-TJOQJ7RXMX` |  |
+| Phase transition | 1732 K | 1732 | α ↔ L + α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 85; `ORC-CLLVR3XXMU` |  |
+| Phase transition | 1732 K | 1732 | α ↔ L + α; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 87; `ORC-CVGOL2NLAZ` |  |
+| Phase transition | 1737 K | 1737 | α ↔ L + α; _alloy: Al 0.505, Ti 0.495_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 88; `ORC-WWKJFZ3LGA` |  |
+| Phase transition | 1744 K | 1744 | L + α ↔ L + β; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 45; `ORC-GU4ATCF62I` |  |
+| Phase transition | 1747 K | 1747 | α ↔ L + α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 65; `ORC-JVXKBBZ3KI` |  |
+| Phase transition | 1747 K | 1747 | α ↔ L + α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 66; `ORC-ZKOKMU2I7R` |  |
+| Phase transition | 1748 K | 1748 | α ↔ L + α; _alloy: Al 0.49, Ti 0.51_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 67; `ORC-BPLDYSODNP` |  |
+| Phase transition | 1751 K | 1751 | L + α ↔ L + β; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 44; `ORC-QTXTSALM5H` |  |
+| Phase transition | 1753 K | 1753 | L + γ ↔ L; _alloy: Al 0.55, Ti 0.45_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 97; `ORC-LGFN53JAVB` |  |
+| Phase transition | 1754 K | 1754 | α ↔ L + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 38; `ORC-IZMVHWS3NW` |  |
+| Phase transition | 1755 K | 1755 | L + α ↔ L; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 90; `ORC-LUQMXNS4XI` |  |
+| Phase transition | 1756 K | 1756 | α ↔ L + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 39; `ORC-KA2WKEEZC7` |  |
+| Phase transition | 1756 K | 1756 | α ↔ L + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 40; `ORC-MPIKYR4Y4P` |  |
+| Phase transition | 1757 K | 1757 | L + α ↔ L; _alloy: Al 0.505, Ti 0.495_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 92; `ORC-MPS6OMVKDM` |  |
+| Phase transition | 1757 K | 1757 | L + α ↔ L + β; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 69; `ORC-ZIOC2OFREQ` |  |
+| Phase transition | 1758 K | 1758 | α ↔ L + α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 64; `ORC-KQIB56XPM7` |  |
+| Phase transition | 1758 K | 1758 | α ↔ L + α; _alloy: Al 0.475, Ti 0.525_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 41; `ORC-NVRWGARVUV` |  |
+| Phase transition | 1761 K | 1761 | L + α ↔ L + β; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 43; `ORC-JD7DZ44FLJ` |  |
+| Phase transition | 1761 K | 1761 | L + α ↔ L + β; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 46; `ORC-WDXOXRQKOK` |  |
+| Phase transition | 1764 K | 1764 | L + α ↔ L + β; _alloy: Al 0.49, Ti 0.51_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 71; `ORC-APTL4PVYCD` |  |
+| Phase transition | 1764 K | 1764 | L + α ↔ L + β; _alloy: Al 0.475, Ti 0.525_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 47; `ORC-BUD6OO7NZB` |  |
+| Phase transition | 1764.5 K | 1764.5 | L + α ↔ L + β; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 70; `ORC-7EDD7QOLBD` |  |
+| Phase transition | 1767 K | 1767 | L + α ↔ L + β; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 42; `ORC-SC7S73P4O2` |  |
+| Phase transition | 1768 K | 1768 | L + β ↔ L; _alloy: Al 0.49, Ti 0.51_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 77; `ORC-BW2I4XFOSS` |  |
+| Phase transition | 1768 K | 1768 | L + β ↔ L; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 75; `ORC-TWDZXPR6LW` |  |
+| Phase transition | 1771 K | 1771 | L + α ↔ L; _alloy: Al 0.505, Ti 0.495_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 89; `ORC-5CK7QEFUA2` |  |
+| Phase transition | 1772 K | 1772 | L + α ↔ L + β; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 68; `ORC-W4VW6ND7MX` |  |
+| Phase transition | 1775 K | 1775 | L + β ↔ L; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 50; `ORC-EENBDXDEJR` |  |
+| Phase transition | 1775.5 K | 1775.5 | L + β ↔ L; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 76; `ORC-4DIQDF3ACW` |  |
+| Phase transition | 1783 K | 1783 | L + β ↔ L; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 51; `ORC-4C6PRTSQAD` |  |
+| Phase transition | 1783 K | 1783 | L + β ↔ L; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 73; `ORC-THNQS2SBL2` |  |
+| Phase transition | 1786 K | 1786 | L + β ↔ L; _alloy: Al 0.475, Ti 0.525_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 53; `ORC-VRKMGECKYD` |  |
+| Phase transition | 1788 K | 1788 | L + β ↔ L; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 74; `ORC-VPRBIO4MZG` |  |
+| Phase transition | 1788 K | 1788 | γ + α ↔ α; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 60; `ORC-RI4WAZFAUQ` |  |
+| Phase transition | 1789.5 K | 1789.5 | L + β ↔ L; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 52; `ORC-45WELYUK72` |  |
+| Phase transition | 1793 K | 1793 | L + β ↔ L; _alloy: Al 0.49, Ti 0.51_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 72; `ORC-NEIEZMU4MT` |  |
+| Phase transition | 1796 K | 1796 | L + β ↔ L; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 49; `ORC-ZQKIBXUGTA` |  |
+| Phase transition | 1800 K | 1800 | L + β ↔ L; _alloy: Al 0.475, Ti 0.525_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 48; `ORC-GQBJ543TQU` |  |
+| Phase transition | 1939 K | 1939 | β ↔ L + β; _alloy: Al 0.225, Ti 0.775_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 21; `ORC-N5PHVP2TWR` |  |
+| Phase transition | 1940 K | 1940 | β ↔ L + β; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 19; `ORC-E5CVUWV6JR` |  |
+| Phase transition | 1940 K | 1940 | β ↔ L + β; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 20; `ORC-QXW3PEU3YK` |  |
+| Phase transition | 1944 K | 1944 | L + β ↔ L; _alloy: Al 0.225, Ti 0.775_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 25; `ORC-AC2XHJYZDH` |  |
+| Phase transition | 1948 K | 1948 | L + β ↔ L; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 23; `ORC-E2INJFGN6L` |  |
+| Phase transition | 1951.5 K | 1951.5 | L + β ↔ L; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 24; `ORC-6GGLWGVXRB` |  |
+| Phase transition | 1955 K | 1955 | L + β ↔ L; _alloy: Al 0.225, Ti 0.775_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 22; `ORC-53N6RUOYLT` |  |
+| Phase transition | 1962 K | 1962 | β ↔ L; _alloy: Al 0.1, Ti 0.9_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 5; `ORC-K4Q6CIJL4T` |  |
+| Phase transition | 1962 K | 1962 | β ↔ L; _alloy: Al 0.1, Ti 0.9_ | experimental | [1] Witusiewicz 2008 | Table 2, p. 3, row 6; `ORC-VQX4ZTPFHU` |  |
+| Phase transition | 1963 K | 1963 | β ↔ L; _alloy: Al 0.1, Ti 0.9_ | model | [1] Witusiewicz 2008 | Table 2, p. 3, row 7; `ORC-DGWSJQ2UOP` |  |
 | Phase transition | 1966.75 K | 1966.75 | L -> β-Ti | model | [4] Liang 2024 | Table 3, p. 8, row 1; `ORC-VW6ZXB42L4` |  |
 | Phase transition | 1989 K | 1989 | congruent melting: bcc-A2 -> liquid; _bcc-A2: Ti 0.788; L: Ti 0.788_ | model | [2] (ed.) 1998 | Table I, p. 109, row 10; `ORC-UR622Z4URC` |  |
 

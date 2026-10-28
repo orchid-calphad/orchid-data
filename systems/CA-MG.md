@@ -1,10 +1,10 @@
 # Ca–Mg system
 
-> Ca–Mg system: 89 accepted literature values (crystal structure 37, formation 19, invariant reaction 19, phase transition 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg system: 74 accepted literature values (crystal structure 22, formation 19, invariant reaction 19, phase transition 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG.html · Markdown: https://data.orchid-project.org/systems/CA-MG.md
 
-89 accepted literature values from 5 paper(s) (experimental 27, model 8, DFT 22, unspecified 32); 6 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+74 accepted literature values from 5 paper(s) (experimental 25, model 8, DFT 9, unspecified 32); 6 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG.json) · [CSV](https://data.orchid-project.org/systems/CA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-MG/CaMg-05Isl.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
+| experimental | 25 |
 | model | 8 |
-| DFT | 22 |
+| DFT | 9 |
 | unspecified | 32 |
 
 Table: Accepted values by property group
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase transition | 11 |
 | formation | 19 |
 | heat capacity / entropy / enthalpy | 3 |
-| crystal structure | 37 |
+| crystal structure | 22 |
 
 ## Calculated phase diagrams
 
@@ -157,7 +157,7 @@ Table: Heat capacity / entropy / enthalpy, Ca–Mg system
 | Entropy; _printed: S298_ | 32.48 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667_ | model | [5] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 8; `ORC-NGIRKMPOWN` |  |
 | Entropy; _printed: S298_ | 32.56 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667_ | model | [5] Kozlov 2008 | Table 2, p. 5, row 9; `ORC-WASZNJLU2C` |  |
 
-### Crystal structure (37)
+### Crystal structure (22)
 
 Table: Crystal structure, Ca–Mg system
 
@@ -169,25 +169,13 @@ Table: Crystal structure, Ca–Mg system
 | Lattice a; _printed: a_ | 6.887 Å | 0 | Ca2Mg-C14; _alloy: Mg 0.333333_ | unspecified | [4] Zhong 2006 | Table 2, p. 4, row 16; `ORC-W3LIEBHNAW.8601dd` |  |
 | Lattice a; _printed: a_ | 6.271 Å |  | Mg2Ca-C14; _alloy: Mg 0.666667_ | experimental | [4] Zhong 2006; _cites Gingl 1993_ [doi](https://doi.org/10.1524/zkri.1993.206.part-2.313) | Table 2, p. 4, row 7; `ORC-UXCVXS5BUG.2807e5` |  |
 | Lattice a; _printed: a (=b)_ | 6.212 Å | 0 | Mg2Ca-C14; _alloy: Mg 0.666667_ | unspecified | [4] Zhong 2006 | Table 2, p. 4, row 6; `ORC-ZPAMVKC7IH.359742` |  |
-| Lattice a | 4.345 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 18; `ORC-67SGNAPXPC` |  |
-| Lattice a | 4.48 Å | 2 | bcc (A2); _alloy: Mg 0_ | experimental | [3] Zhong 2006; _cites King 1982_ [doi](https://doi.org/10.1007/bf02892394) | Table 1, p. 4, row 5; `ORC-ARPT66UXCM` |  |
 | Lattice a | 4.211 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 31; `ORC-CLQDMWYFUM` |  |
 | Lattice a | 4.218 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 38; `ORC-IYYKLL4WRL` |  |
 | Lattice a | 4.345 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 39; `ORC-MW2KUZ3QYH` |  |
-| Lattice a | 4.218 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 17; `ORC-OUJTAKRIDP` |  |
-| Lattice a | 4.211 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 4; `ORC-TE65RFLY3N` |  |
-| Lattice a | 5.588 Å | 2 | fcc (A1); _alloy: Mg 0_ | experimental | [3] Zhong 2006; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 4, row 3; `ORC-DAZKPLPHEH` |  |
 | Lattice a | 5.545 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 30; `ORC-E7MK3JDHXY` |  |
 | Lattice a | 5.344 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 36; `ORC-LUKFYXILQI` |  |
 | Lattice a | 5.331 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 29; `ORC-MZLMLMSSNX` |  |
-| Lattice a | 5.344 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 14; `ORC-NHDBXCBKX6` |  |
 | Lattice a | 5.486 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 37; `ORC-OHT66OJTI2` |  |
-| Lattice a | 5.486 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 15; `ORC-PF6YVSJU3R` |  |
-| Lattice a | 5.331 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 1; `ORC-S5ZXHAVDSF` |  |
-| Lattice a | 5.545 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 2; `ORC-UK2QT6EINH` |  |
-| Lattice a | 3.862 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 21; `ORC-FPEZO3OFRK.4ee815` |  |
-| Lattice a | 3.775 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 6; `ORC-Y22VO4OTBZ.ab0538` |  |
-| Lattice a | 3.764 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 20; `ORC-Y3GPNMTSSO.9007ad` |  |
 | Lattice a | 6.23 Å | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [5] Kozlov 2008 | Table 1, p. 4, row 6; `ORC-S5GHLNLNUB.5395f3` |  |
 | Lattice a | 6.251 not_printed ± 0.004 | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [5] Kozlov 2008 | Table 1, p. 4, row 6; `ORC-S5GHLNLNUB.79a72b` |  |
 | Lattice c; _printed: c_ | 10.05 Å | 0 | C14 | unspecified | [3] Zhong 2006 | Table 4, p. 5, row 1; `ORC-5TF4CUFTLZ.52d842` |  |
@@ -195,9 +183,6 @@ Table: Crystal structure, Ca–Mg system
 | Lattice c; _printed: c_ | 10.836 Å | 0 | Ca2Mg-C14; _alloy: Mg 0.333333_ | unspecified | [4] Zhong 2006 | Table 2, p. 4, row 16; `ORC-W3LIEBHNAW.d0dfe0` |  |
 | Lattice c; _printed: c_ | 10.17 Å |  | Mg2Ca-C14; _alloy: Mg 0.666667_ | experimental | [4] Zhong 2006; _cites Gingl 1993_ [doi](https://doi.org/10.1524/zkri.1993.206.part-2.313) | Table 2, p. 4, row 7; `ORC-UXCVXS5BUG.168a11` |  |
 | Lattice c; _printed: c_ | 10.05 Å | 0 | Mg2Ca-C14; _alloy: Mg 0.666667_ | unspecified | [4] Zhong 2006 | Table 2, p. 4, row 6; `ORC-ZPAMVKC7IH.6776bc` |  |
-| Lattice c | 6.411 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 21; `ORC-FPEZO3OFRK.f34c18` |  |
-| Lattice c | 6.228 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 6; `ORC-Y22VO4OTBZ.17db4f` |  |
-| Lattice c | 6.263 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [3] Zhong 2006 | Table 1, p. 4, row 20; `ORC-Y3GPNMTSSO.e0ad6f` |  |
 | Lattice c | 10.141 not_printed ± 0.007 | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [5] Kozlov 2008 | Table 1, p. 4, row 6; `ORC-S5GHLNLNUB.356e1d` |  |
 | Lattice c | 10.15 Å | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [5] Kozlov 2008 | Table 1, p. 4, row 6; `ORC-S5GHLNLNUB.6946c1` |  |
 

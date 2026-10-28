@@ -1,10 +1,10 @@
 # Al system
 
-> Al system: 43 accepted literature values (crystal structure 22, heat capacity / entropy / enthalpy 14, formation 3, mixing / partial 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al system: 45 accepted literature values (crystal structure 22, heat capacity / entropy / enthalpy 14, formation 3, mixing / partial 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL.html · Markdown: https://data.orchid-project.org/systems/AL.md
 
-43 accepted literature values from 17 paper(s) (experimental 13, model 8, DFT 8, unspecified 14); 0 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+45 accepted literature values from 18 paper(s) (experimental 13, model 9, DFT 9, unspecified 14); 0 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL.json) · [CSV](https://data.orchid-project.org/systems/AL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL.html) · [Markdown](https://data.orchid-project.org/systems/AL.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 8 |
-| DFT | 8 |
+| model | 9 |
+| DFT | 9 |
 | unspecified | 14 |
 
 Table: Accepted values by property group
@@ -25,6 +25,7 @@ Table: Accepted values by property group
 | formation | 3 |
 | mixing / partial | 2 |
 | heat capacity / entropy / enthalpy | 14 |
+| activity / EMF / Gibbs energy | 2 |
 | crystal structure | 22 |
 
 ## Formation enthalpies
@@ -80,33 +81,42 @@ Table: Heat capacity / entropy / enthalpy, Al system
 | hm lattice stability; _printed: H_Al^liq(T_m) - H_Al^FCC(T_m)_ | 10.58 kJ/mol (basis unstated) |  | liquid + FCC | unspecified | [7] He 2021 | Table 1, p. 3, row 8; `ORC-KGPZNS677U` |  |
 | hm lattice stability; _printed: H_Al^liq(T_m) - H_Al^FCC(T_m)_ | 10.58 kJ/mol (basis unstated) | 933.61 | liquid + FCC | experimental | [7] He 2021; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00503647) | Table 1, p. 3, row 7; `ORC-XXBZRK4NEQ` |  |
 
+### Activity / EMF / Gibbs energy (2)
+
+Table: Activity / EMF / Gibbs energy, Al system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 1606 J/mol | 0 | UNKNOWN; _alloy: Al 1_ | model | [8] Yan 2016 | Table 4, p. 5, row 12; `ORC-7UXUOXRBC6` |  |
+| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 1606 J/mol | 0 | UNKNOWN; _alloy: Al 1_ | DFT | [8] Yan 2016 | Table 4, p. 5, row 11; `ORC-KMIG3J6C56` |  |
+
 ### Crystal structure (22)
 
 Table: Crystal structure, Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [8] Benhafid 2019 | Table 1, p. 2, row 2; `ORC-GRPKO3U3M4.f27d03` |  |
+| Lattice a | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [9] Benhafid 2019 | Table 1, p. 2, row 2; `ORC-GRPKO3U3M4.f27d03` |  |
 | Lattice a; _printed: a_ | 4.041 Å |  | A1-Al | experimental | [1] Abe 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2; `ORC-E4QPNGMG2H.70e321` |  |
 | Lattice a; _printed: a_ | 4.056 Å | 0 | A1-Al | model | [1] Abe 2008 | Table 2, p. 3, row 1; `ORC-YMZGKTNVIU.32c0e2` |  |
 | Lattice a; _printed: a_ | 3.242 Å | 0 | A2-Al | model | [1] Abe 2008 | Table 2, p. 3, row 23; `ORC-PUHBWVJERU.cc8146` |  |
 | Lattice a; _printed: a_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.0dd352` |  |
-| Lattice a | 4.0414 Å | 298.15 | (Al); _(Al): Al 1_ | unspecified | [9] McAlister 1989 | Table 3, p. 2, row 1; `ORC-2AHICSJKON` |  |
-| Lattice a | 4.2906 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [10] Murray 1987; _cites ref. 1_ | Table 3, p. 6, row 42; `ORC-SQKLNA5IP3.95f123` |  |
-| Lattice a | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [8] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1; `ORC-WJOJ2SL2Q2.2e4d6f` |  |
-| Lattice a | 4.0497 Å | 298.15 | Al | model | [11] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-KSJXIFYV7S` |  |
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [12] Murray 1998 | Table 3, p. 1, row 1; `ORC-OYKXDZO6DR` |  |
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [13] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 1; `ORC-PUC2XPM7OU` |  |
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [14] Ltd. 1997 | Table 5, p. 5, row 1; `ORC-UHBZI5I2SH` |  |
-| Lattice a | 4.0495 Å | 298.15 | Al | unspecified | [15] Saccone 1998 | Table 1, p. 8, row 15; `ORC-UQLHTIR7CP` |  |
-| Lattice a | 4.05 Å | 298.15 | Al | model | [16] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.e22eec` |  |
-| Lattice a | 4.0496 Å | 298.15 | fcc(Al) | unspecified | [17] Long 2020 | Table 1, p. 2, row 1; `ORC-ZR6WGI326A` |  |
-| Lattice b | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [8] Benhafid 2019 | Table 1, p. 2, row 2; `ORC-GRPKO3U3M4.d056dc` |  |
+| Lattice a | 4.0414 Å | 298.15 | (Al); _(Al): Al 1_ | unspecified | [10] McAlister 1989 | Table 3, p. 2, row 1; `ORC-2AHICSJKON` |  |
+| Lattice a | 4.2906 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [11] Murray 1987; _cites ref. 1_ | Table 3, p. 6, row 42; `ORC-SQKLNA5IP3.95f123` |  |
+| Lattice a | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [9] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1; `ORC-WJOJ2SL2Q2.2e4d6f` |  |
+| Lattice a | 4.0497 Å | 298.15 | Al | model | [12] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-KSJXIFYV7S` |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [13] Murray 1998 | Table 3, p. 1, row 1; `ORC-OYKXDZO6DR` |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [14] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 1; `ORC-PUC2XPM7OU` |  |
+| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1_ | unspecified | [15] Ltd. 1997 | Table 5, p. 5, row 1; `ORC-UHBZI5I2SH` |  |
+| Lattice a | 4.0495 Å | 298.15 | Al | unspecified | [16] Saccone 1998 | Table 1, p. 8, row 15; `ORC-UQLHTIR7CP` |  |
+| Lattice a | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.e22eec` |  |
+| Lattice a | 4.0496 Å | 298.15 | fcc(Al) | unspecified | [18] Long 2020 | Table 1, p. 2, row 1; `ORC-ZR6WGI326A` |  |
+| Lattice b | 4.049 Å | 0 | (Al); _(Al): Al 1_ | DFT | [9] Benhafid 2019 | Table 1, p. 2, row 2; `ORC-GRPKO3U3M4.d056dc` |  |
 | Lattice b; _printed: b_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.1cc83c` |  |
-| Lattice b | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [8] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1; `ORC-WJOJ2SL2Q2.af6be2` |  |
-| Lattice b | 4.05 Å | 298.15 | Al | model | [16] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.4311cd` |  |
+| Lattice b | 4.049 Å | 298.15 | (Al); _(Al): Al 1_ | experimental | [9] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1; `ORC-WJOJ2SL2Q2.af6be2` |  |
+| Lattice b | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.4311cd` |  |
 | Lattice c; _printed: c_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.405635` |  |
-| Lattice c | 4.05 Å | 298.15 | Al | model | [16] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.ea2408` |  |
+| Lattice c | 4.05 Å | 298.15 | Al | model | [17] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1; `ORC-VFHA3ARVTS.ea2408` |  |
 | lattice unspecified axis; _printed: a = b = c_ | 4.041 Å | 0 | fcc-Al | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1; `ORC-FQHD3UBOWV.45b57c` |  |
 
 ## Sources
@@ -120,16 +130,17 @@ Reporting papers the values were read from (a value cited from another work name
 5. J R Taylor, A T Dinsdale, M Hilleit, M Selleby, A Critical Assessment of Thermodynamic and Phase Diagram Data for the Al-O System, Calphad 16, 173-179 (1992). [doi:10.1016/0364-5916(92)90005-i](https://doi.org/10.1016/0364-5916%2892%2990005-i)
 6. V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004). [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126)
 7. Zhangting He, Bartek Kaplan, Huahai Mao, Malin Selleby, The third generation Calphad description of Al–C including revisions of pure Al and C, Calphad 72, 102250 (2021). [doi:10.1016/j.calphad.2021.102250](https://doi.org/10.1016/j.calphad.2021.102250)
-8. R. Benhafid, A. Belgacem Bouzida, Y. Djaballah, A. Candan, A. İyigör, G. Uğur, Thermodynamic Modeling of the Al-Ba and Ba-Ge Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 40, 195-205 (2019). [doi:10.1007/s11669-019-00714-2](https://doi.org/10.1007/s11669-019-00714-2)
-9. A. J. McAlister, The Al-Tl (Aluminum-Thallium) system, Bulletin of Alloy Phase Diagrams 10, 112-114 (1989). [doi:10.1007/bf02881414](https://doi.org/10.1007/bf02881414)
-10. J. L. Murray, H. Okamoto, T. B. Massalski, The Al−Au (Aluminum-gold) system, Bulletin of Alloy Phase Diagrams 8, 20-30 (1987). [doi:10.1007/bf02868887](https://doi.org/10.1007/bf02868887)
-11. G. Shao, Thermodynamic assessment of the Nb–Si–Al system, Intermetallics 12, 655-664 (2004). [doi:10.1016/j.intermet.2004.03.011](https://doi.org/10.1016/j.intermet.2004.03.011)
-12. J. L. Murray, The Al-Sc (aluminum-scandium) system, JPE 19, 380-384 (1998). [doi:10.1361/105497198770342120](https://doi.org/10.1361/105497198770342120)
-13. J. L. Murray, The Al-Cr (aluminum-chromium) system, JPE 19, 367-375 (1998). [doi:10.1007/bf02735058](https://doi.org/10.1007/bf02735058)
-14. Thermotech Ltd., N. Saunders, The Al-Mo system (aluminum-molybdenum), JPE 18, 370-378 (1997). [doi:10.1007/s11669-997-0063-1](https://doi.org/10.1007/s11669-997-0063-1)
-15. A. Saccone, G. Cacciamani, D. Macciò, G. Borzone, R. Ferro, Contribution to the study of the alloys and intermetallic compounds of aluminium with the rare-earth metals, Intermetallics 6, 201-215 (1998). [doi:10.1016/s0966-9795(97)00066-6](https://doi.org/10.1016/s0966-9795%2897%2900066-6)
-16. J.L. Hu, H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic study of the Al-Sc-Y system, Thermochimica Acta 661, 147-159 (2018). [doi:10.1016/j.tca.2018.01.018](https://doi.org/10.1016/j.tca.2018.01.018)
-17. Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020). [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z)
+8. Jia-Yi Yan, G.B. Olson, Computational thermodynamics and kinetics of displacive transformations in titanium-based alloys, Journal of Alloys and Compounds 673, 441-454 (2016). [doi:10.1016/j.jallcom.2016.02.251](https://doi.org/10.1016/j.jallcom.2016.02.251)
+9. R. Benhafid, A. Belgacem Bouzida, Y. Djaballah, A. Candan, A. İyigör, G. Uğur, Thermodynamic Modeling of the Al-Ba and Ba-Ge Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 40, 195-205 (2019). [doi:10.1007/s11669-019-00714-2](https://doi.org/10.1007/s11669-019-00714-2)
+10. A. J. McAlister, The Al-Tl (Aluminum-Thallium) system, Bulletin of Alloy Phase Diagrams 10, 112-114 (1989). [doi:10.1007/bf02881414](https://doi.org/10.1007/bf02881414)
+11. J. L. Murray, H. Okamoto, T. B. Massalski, The Al−Au (Aluminum-gold) system, Bulletin of Alloy Phase Diagrams 8, 20-30 (1987). [doi:10.1007/bf02868887](https://doi.org/10.1007/bf02868887)
+12. G. Shao, Thermodynamic assessment of the Nb–Si–Al system, Intermetallics 12, 655-664 (2004). [doi:10.1016/j.intermet.2004.03.011](https://doi.org/10.1016/j.intermet.2004.03.011)
+13. J. L. Murray, The Al-Sc (aluminum-scandium) system, JPE 19, 380-384 (1998). [doi:10.1361/105497198770342120](https://doi.org/10.1361/105497198770342120)
+14. J. L. Murray, The Al-Cr (aluminum-chromium) system, JPE 19, 367-375 (1998). [doi:10.1007/bf02735058](https://doi.org/10.1007/bf02735058)
+15. Thermotech Ltd., N. Saunders, The Al-Mo system (aluminum-molybdenum), JPE 18, 370-378 (1997). [doi:10.1007/s11669-997-0063-1](https://doi.org/10.1007/s11669-997-0063-1)
+16. A. Saccone, G. Cacciamani, D. Macciò, G. Borzone, R. Ferro, Contribution to the study of the alloys and intermetallic compounds of aluminium with the rare-earth metals, Intermetallics 6, 201-215 (1998). [doi:10.1016/s0966-9795(97)00066-6](https://doi.org/10.1016/s0966-9795%2897%2900066-6)
+17. J.L. Hu, H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic study of the Al-Sc-Y system, Thermochimica Acta 661, 147-159 (2018). [doi:10.1016/j.tca.2018.01.018](https://doi.org/10.1016/j.tca.2018.01.018)
+18. Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020). [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z)
 
 ## Please cite
 

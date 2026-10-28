@@ -13,13 +13,13 @@ Table: Phases of the Ca–Mg system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [AL12MG17_A12](#phase-ca-mg-a12-al12mg17); _phase:ca-mg:a12-al12mg17_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [BCC_A2](#phase-ca-mg-bcc-a2); _phase:ca-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 680–1158.27 K, x(Mg) 0–0.66 | 10 | 6 |
+| [BCC_A2](#phase-ca-mg-bcc-a2); _phase:ca-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 680–1158.27 K, x(Mg) 0–0.66 | 6 | 6 |
 | [C14_LAVES](#phase-ca-mg-c14-laves); _phase:ca-mg:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–984.7 K, x(Mg) 0.65941–0.6703 | 0 | 1 |
 | [C15_LAVES](#phase-ca-mg-c15-laves); _phase:ca-mg:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [C36_LAVES](#phase-ca-mg-c36-laves); _phase:ca-mg:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [CAMG2_C14](#phase-ca-mg-camg2-c14); _phase:ca-mg:camg2-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–987.68 K, x(Mg) 0.6611–0.66763 | 15 | 5 |
-| [FCC_A1](#phase-ca-mg-fcc-a1); _phase:ca-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–716.03 K, x(Mg) 0–0.27 | 14 | 6 |
-| [HCP_A3](#phase-ca-mg-hcp-a3); _phase:ca-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.9 K, x(Mg) 0.99479–1 | 11 | 6 |
+| [FCC_A1](#phase-ca-mg-fcc-a1); _phase:ca-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–716.03 K, x(Mg) 0–0.27 | 9 | 6 |
+| [HCP_A3](#phase-ca-mg-hcp-a3); _phase:ca-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.9 K, x(Mg) 0.99479–1 | 5 | 6 |
 | [LIQUID](#phase-ca-mg-liquid); _phase:ca-mg:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 710.13–2500 K, x(Mg) 0–1 | 20 | 6 |
 
 ## AL12MG17_A12 (Ca–Mg)
@@ -56,7 +56,7 @@ _assessment that models this phase_
 - Id: `phase:ca-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 680–1158.27 K, x(Mg) 0–0.66
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-mg:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:ca-mg:bcc-a2  
@@ -108,7 +108,7 @@ _tdb: _tdb:CaMg-05Isl.tdb:BCC_A2, tdb:CaMg-06Zho.tdb:BCC_A2, tdb:CaMg-08Koz.tdb:
 31: CONST BCC_A2 : CA% MG : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2005.10.033](https://doi.org/10.1016/j.jallcom.2005.10.033) Yu Zhong, Koray Ozturk, Jorge O. Sofo, Zi-Kui Liu, Contribution of first-principles energetics to the Ca–Mg thermodynamic modeling, Journal of Alloys and Compounds 420, 98-106 (2006).  
 _assessment that models this phase; reports values for this phase_
@@ -122,8 +122,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1995-860206](https://doi.org/10.1515/ijmr-1995-860206) R. Agarwal, J.J. Lee, H.L. Lukas, F. Sommer, Z. Metallkd., 86, 103-8(1995).  
 _assessment that models this phase_
-- [doi:10.1007/bf02892394](https://doi.org/10.1007/bf02892394) H. W. King, Temperature-dependent allotropic structures of the elements, Bulletin of Alloy Phase Diagrams 3, 276-276 (1982).  
-_cited as the source of values for this phase_
 
 ## C14_LAVES (Ca–Mg)
 
@@ -275,7 +273,7 @@ _assessment that models this phase_
 - Id: `phase:ca-mg:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–716.03 K, x(Mg) 0–0.27
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-mg:fcc-a1)
 
 Names (9): _corpus: _corpus:phase:ca-mg:fcc-a1  
@@ -327,11 +325,11 @@ _tdb: _tdb:CaMg-05Isl.tdb:FCC_A1, tdb:CaMg-06Zho.tdb:FCC_A1, tdb:CaMg-08Koz.tdb:
 26: CONST FCC_A1 : CA% MG : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.jallcom.2005.10.033](https://doi.org/10.1016/j.jallcom.2005.10.033) Yu Zhong, Koray Ozturk, Jorge O. Sofo, Zi-Kui Liu, Contribution of first-principles energetics to the Ca–Mg thermodynamic modeling, Journal of Alloys and Compounds 420, 98-106 (2006).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523) F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2005.10.033](https://doi.org/10.1016/j.jallcom.2005.10.033) Yu Zhong, Koray Ozturk, Jorge O. Sofo, Zi-Kui Liu, Contribution of first-principles energetics to the Ca–Mg thermodynamic modeling, Journal of Alloys and Compounds 420, 98-106 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02667878](https://doi.org/10.1007/BF02667878) B. Hallstedt, J. Phase Equilib., 14, 662-75(1993).  
 _assessment that models this phase_
@@ -341,19 +339,17 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1995-860206](https://doi.org/10.1515/ijmr-1995-860206) R. Agarwal, J.J. Lee, H.L. Lukas, F. Sommer, Z. Metallkd., 86, 103-8(1995).  
 _assessment that models this phase_
-- [doi:10.1007/bf02868307](https://doi.org/10.1007/bf02868307) H. W. King, Crystal structures of the elements at 25°C, Bulletin of Alloy Phase Diagrams 2, 401-402 (1981).  
-_cited as the source of values for this phase_
 
 ## HCP_A3 (Ca–Mg)
 
 - Id: `phase:ca-mg:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–2499.9 K, x(Mg) 0.99479–1
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-mg:hcp-a3)
 
-Names (9): _corpus: _corpus:phase:ca-mg:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2005.10.033:hcp (A3), paper:10.1179/cmq.2005.44.4.523:Mg-hcp  
+Names (8): _corpus: _corpus:phase:ca-mg:hcp-a3  
+_paper: _paper:10.1179/cmq.2005.44.4.523:Mg-hcp  
 _tdb: _tdb:CaMg-05Isl.tdb:HCP_A3, tdb:CaMg-06Zho.tdb:HCP_A3, tdb:CaMg-08Koz.tdb:HCP_A3, tdb:CaMg-23Hal.tdb:HCP_A3, tdb:CaMg-93Hal.tdb:HCP_A3, tdb:CaMg-95Aga-LB.tdb:HCP_A3  
 
 
@@ -403,8 +399,6 @@ _tdb: _tdb:CaMg-05Isl.tdb:HCP_A3, tdb:CaMg-06Zho.tdb:HCP_A3, tdb:CaMg-08Koz.tdb:
 
 Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.jallcom.2005.10.033](https://doi.org/10.1016/j.jallcom.2005.10.033) Yu Zhong, Koray Ozturk, Jorge O. Sofo, Zi-Kui Liu, Contribution of first-principles energetics to the Ca–Mg thermodynamic modeling, Journal of Alloys and Compounds 420, 98-106 (2006).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523) F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02667878](https://doi.org/10.1007/BF02667878) B. Hallstedt, J. Phase Equilib., 14, 662-75(1993).  
@@ -412,6 +406,8 @@ _assessment that models this phase_
 - [doi:10.1016/j.calphad.2023.102577](https://doi.org/10.1016/j.calphad.2023.102577) B. Hallstedt, M. Noori, Calphad, 82, 102577(2023).  
 _assessment that models this phase_
 - [doi:10.1016/j.intermet.2007.10.010](https://doi.org/10.1016/j.intermet.2007.10.010) A. Kozlov, M. Ohno, R. Arroyave, Z.K. Liu, R. Schmid-Fetzer, Phase equilibria, thermodynamics and solidification microstructures of Mg–Sn–Ca alloys, Part 1: Experimental investigation and thermodynamic modeling of the ternary Mg–Sn–Ca system, Intermetallics 16, 299-315 (2008).  
+_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2005.10.033](https://doi.org/10.1016/j.jallcom.2005.10.033) Yu Zhong, Koray Ozturk, Jorge O. Sofo, Zi-Kui Liu, Contribution of first-principles energetics to the Ca–Mg thermodynamic modeling, Journal of Alloys and Compounds 420, 98-106 (2006).  
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1995-860206](https://doi.org/10.1515/ijmr-1995-860206) R. Agarwal, J.J. Lee, H.L. Lukas, F. Sommer, Z. Metallkd., 86, 103-8(1995).  
 _assessment that models this phase_

@@ -1,22 +1,26 @@
 # NaSb: enthalpy of formation
 
-> Enthalpy of formation of NaSb: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NaSb: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NaSb.html · Markdown: https://data.orchid-project.org/compounds/NaSb.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 3, model 1, DFT 2); experimental median -35 kJ/mol-atom (n = 3); Materials Project -40.415 kJ/mol-atom (mp-aaaaalto); OQMD -37.498 kJ/mol-atom (oqmd-5018).
+10 accepted literature formation-enthalpy value(s) (experimental 6, model 2, DFT 2); experimental median -35 kJ/mol-atom (n = 3); Materials Project -40.415 kJ/mol-atom (mp-aaaaalto); OQMD -37.498 kJ/mol-atom (oqmd-5018).
 
 Systems: [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NaSb reported in the literature (6)
+Table: Enthalpy of formation of NaSb reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -72 kJ/mol (basis unstated) | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.268fff` |  |
+| -70 kJ/mol (basis unstated) | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.8b0e5f` |  |
+| -66 kJ/mol (basis unstated) | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9; `ORC-2PS7PBSDCO.2aa15a` |  |
 | -36 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.8a3797` |  |
 | -35 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.969e7f` |  |
 | -33 kJ/mol-atom | NaSb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9; `ORC-2PS7PBSDCO.3dc764` |  |
+| -75 kJ/mol (basis unstated) | NaSb(s) |  | model |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.167c5a` |  |
 | -37.5 kJ/mol-atom | NaSb(s) |  | model |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.6827e9` |  |
 | -0.679 eV | NaSb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 21; `ORC-Q554IN4K7G` |  |
 | -0.663 eV | NaSb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 22; `ORC-JLANE57MRZ` |  |
@@ -29,12 +33,16 @@ Table: Uncertainty budget of the literature values of NaSb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -72 | kJ/mol (basis unstated) |  | 0.5 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -70 | kJ/mol (basis unstated) |  | 0.5 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -66 | kJ/mol (basis unstated) |  | 0.5 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -36 | kJ/mol-atom |  | 0.25 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -35 | kJ/mol-atom |  | 0.25 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -33 | kJ/mol-atom |  | 0.25 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -75 | kJ/mol (basis unstated) |  | 0.5 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -37.5 | kJ/mol-atom |  | 0.25 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -0.679 | eV |  | 5.000e-4 | 0.2084 (dft, calibrated) |  |  |  | 0.2084 |
-| -0.663 | eV |  | 5.000e-4 | 0.2084 (dft, calibrated) |  |  |  | 0.2084 |
+| -0.679 | eV |  | 5.000e-4 | 0.2066 (dft, calibrated) |  |  |  | 0.2066 |
+| -0.663 | eV |  | 5.000e-4 | 0.2066 (dft, calibrated) |  |  |  | 0.2066 |
 
 ## DFT formation energies
 

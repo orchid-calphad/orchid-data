@@ -48,7 +48,7 @@ Table: Uncertainty budget of the literature values of YC2
 | -36.5 | kJ/mol (basis unstated) |  | 0.05 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
 | -36.5 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -34.17 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -29.16 | kJ/mol-atom |  | 0.005 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -29.16 | kJ/mol-atom |  | 0.005 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

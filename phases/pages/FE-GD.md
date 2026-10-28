@@ -334,7 +334,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Mn23Th6 · cF116 · Fm-3m — FeGd-02Zin-newGd.tdb: 'Prototype Mn23Th6 (cF116, Fm-3m)'
 - Stoichiometry: Fe 0.7931, Gd 0.2069
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1551.48 K, x(Gd) 0.2069–0.2069
-- Literature: 11 values (9 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-gd:fe23gd6)
 
 Names (3): _corpus: _corpus:phase:fe-gd:fe23gd6  
@@ -505,7 +505,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Fe 0.7500, Gd 0.2500
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1433.33 K, x(Gd) 0.25–0.25
-- Literature: 30 values (27 accepted) from 3 papers
+- Literature: 30 values (30 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-gd:fe3gd)
 
 Names (10): _corpus: _corpus:phase:fe-gd:fe3gd  

@@ -1,19 +1,20 @@
 # Cs5Te3: enthalpy of formation
 
-> Enthalpy of formation of Cs5Te3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cs5Te3: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cs5Te3.html · Markdown: https://data.orchid-project.org/compounds/Cs5Te3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -107.426 kJ/mol-atom (mp-aaacppvd); OQMD -94.605 kJ/mol-atom (oqmd-6410).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -117.775 kJ/mol-atom (n = 1); Materials Project -107.426 kJ/mol-atom (mp-aaacppvd); OQMD -94.605 kJ/mol-atom (oqmd-6410).
 
 Systems: [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cs5Te3 reported in the literature (2)
+Table: Enthalpy of formation of Cs5Te3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -117.775 kJ/mol-atom ± 8300 | Cs5Te3 | 298.15 | experimental | Solution calorimetry at 298.15 K | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 8; `ORC-ZEICEVWLP3` |  |
 | -942.2 kJ/mol (basis unstated) ± 8.3 | Cs₅Te₃ | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6; `ORC-U7KZL2PX7B.339d56` |  |
 | -117.775 kJ/mol-atom ± 1.0375 | Cs5Te3 | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6; `ORC-U7KZL2PX7B.ac75e5` |  |
 
@@ -25,6 +26,7 @@ Table: Uncertainty budget of the literature values of Cs5Te3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -117.775 | kJ/mol-atom | 8300 | 6.250e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 8300 |
 | -942.2 | kJ/mol (basis unstated) | 8.3 | 5.000e-5 | 31.2 (model_calculated, calibrated) |  |  |  | 31.2 |
 | -117.775 | kJ/mol-atom | 1.038 | 6.250e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 

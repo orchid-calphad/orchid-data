@@ -1,10 +1,10 @@
 # Ga–Sb system
 
-> Ga–Sb system: 2 accepted literature values (heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Sb system: 8 accepted literature values (heat capacity / entropy / enthalpy 4, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-SB.html · Markdown: https://data.orchid-project.org/systems/GA-SB.md
 
-2 accepted literature values from 1 paper(s) (model 2); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+8 accepted literature values from 1 paper(s) (model 6, unspecified 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SB.json) · [CSV](https://data.orchid-project.org/systems/GA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SB/GaSb-94Ans-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SB.html) · [Markdown](https://data.orchid-project.org/systems/GA-SB.md)
 
@@ -12,13 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
+| model | 6 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 2 |
+| formation | 4 |
+| heat capacity / entropy / enthalpy | 4 |
 
 ## Calculated phase diagrams
 
@@ -46,9 +48,22 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-SB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-SB.json) · [CALPHAD hull GaSb-94Ans-LB](https://data.orchid-project.org/hulls/calphad-sgte/GA/GA-SB--GaSb-94Ans-LB.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ga–Sb system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| GaSb |  | -44.84 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 22; `ORC-JR6EHAD7OF.083dad` |  |
+| GaSb |  | -42.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hultgren 1973_ | Table AI, p. 19, row 24; `ORC-WRLF6MZNU2` |  |
+| GaSb |  | -41.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 23; `ORC-PJY4ZQYYI4` |  |
+| GaSb |  | -41.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 21; `ORC-PKBXETSVCR.75bc22` |  |
+
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (2)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, Ga–Sb system
 
@@ -56,6 +71,8 @@ Table: Heat capacity / entropy / enthalpy, Ga–Sb system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S°298_ | 72.89 J/mol-formula K | 298.15 | GaSb | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 22; `ORC-JR6EHAD7OF.fe2fe8` |  |
 | Heat capacity; _printed: Cp,298_ | 47.61 J/mol (basis unstated)/K | 298.15 | GaSb | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 22; `ORC-JR6EHAD7OF.99fc29` |  |
+| sm fusion; _printed: ΔmS_ | 67.1 J/mol-formula K | 981 | GaSb; _alloy: Ga 0.5, Sb 0.5_ | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 21; `ORC-PKBXETSVCR.4084f0` |  |
+| sm fusion; _printed: ΔmS_ | 70.55 J/mol-formula K | 982.6 | GaSb; _alloy: Ga 0.5, Sb 0.5_ | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 22; `ORC-JR6EHAD7OF.aceb96` |  |
 
 ## Sources
 

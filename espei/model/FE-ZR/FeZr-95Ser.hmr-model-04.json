@@ -122,7 +122,7 @@
      "sigma_effective": 3900.0,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 2043,
+     "method_n_pairs": 2045,
      "method_entry": "model/HM_FORM"
     },
     "sigma_effective_used": 3900.0,

@@ -1,10 +1,10 @@
 # Fe–Gd system
 
-> Fe–Gd system: 130 accepted literature values (invariant reaction 68, phase transition 31, formation 18, heat capacity / entropy / enthalpy 13) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Gd system: 144 accepted literature values (invariant reaction 68, formation 32, phase transition 31, heat capacity / entropy / enthalpy 13) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-GD.html · Markdown: https://data.orchid-project.org/systems/FE-GD.md
 
-130 accepted literature values from 3 paper(s) (experimental 87, model 43); 6 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+144 accepted literature values from 3 paper(s) (experimental 91, model 53); 6 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-GD.json) · [CSV](https://data.orchid-project.org/systems/FE-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-GD/FeGd-00Zin.json) · [phases (11)](https://data.orchid-project.org/phases/pages/FE-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-GD.html) · [Markdown](https://data.orchid-project.org/systems/FE-GD.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 87 |
-| model | 43 |
+| experimental | 91 |
+| model | 53 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 68 |
 | phase transition | 31 |
-| formation | 18 |
+| formation | 32 |
 | heat capacity / entropy / enthalpy | 13 |
 
 ## Calculated phase diagrams
@@ -240,28 +240,42 @@ Table: Invariant reactions reported in the literature for the Fe–Gd system (68
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Gd system (18)
+Table: Enthalpies of formation, Fe–Gd system (32)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Fe17Gd2 | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -2.3 kJ/mol-atom ± 1.6 | 298.15 | experimental | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 4; `ORC-L4LH5UJX5O` |  |
+| Fe17Gd2(R) |  | -4.34 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 3; `ORC-ST7FDFMX44.193b7b` |  |
 | Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -4.34 kJ/mol-atom | 298.15 | model | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002 | Table 12, p. 13, row 3; `ORC-ST7FDFMX44.9b8b16` |  |
+| Fe17Gd2(R) |  | -3.65 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2; `ORC-BWDWD4QDIT.1e01c7` |  |
 | Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -3.65 kJ/mol-atom | 298.15 | model | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2; `ORC-BWDWD4QDIT.89c066` |  |
+| Fe17Gd2(R) |  | -2.3 per mol-atom ± 1.6 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1; `ORC-GULMEPWYY2.12959b` |  |
 | Fe17Gd2(R) | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | -2.3 kJ/mol-atom ± 1.6 | 298.15 | experimental | -0.552 (mp-aaacqckz) | -0.034 (oqmd-89232) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1; `ORC-GULMEPWYY2.b2cb0e` |  |
+| Fe23Gd6 |  | -6.44 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 5; `ORC-GFLCDMFT2S.afccbd` |  |
 | Fe23Gd6 | [Fe23Gd6](https://data.orchid-project.org/compounds/Fe23Gd6.html) | -6.44 kJ/mol-atom | 298.15 | model | 119.903 (mp-aaacpzco) | -1.306 (oqmd-30181) | [2] Zinkevich 2002 | Table 12, p. 13, row 5; `ORC-GFLCDMFT2S.df124f` |  |
+| Fe23Gd6 |  | -4.74 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4; `ORC-QHUFQDX7VW.43496f` |  |
 | Fe23Gd6 | [Fe23Gd6](https://data.orchid-project.org/compounds/Fe23Gd6.html) | -4.74 kJ/mol-atom | 298.15 | model | 119.903 (mp-aaacpzco) | -1.306 (oqmd-30181) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4; `ORC-QHUFQDX7VW.d21cdf` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -11.6 kJ/mol-atom ± 2 | 298.15 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9; `ORC-FGKIBVFKMX.551bc0` |  |
+| Fe2Gd |  | -11.6 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9; `ORC-FGKIBVFKMX.ce0b6f` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -11.6 kJ/mol-atom ± 2 | 298.15 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 2; `ORC-XVCLD777MT` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -6.81 kJ/mol-atom | 1078 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002 | Table 12, p. 13, row 14; `ORC-HXPBIXMIXD.3ba26f` |  |
+| Fe2Gd |  | -6.81 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 14; `ORC-HXPBIXMIXD.8deb2a` |  |
+| Fe2Gd |  | -5.94 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 11; `ORC-GXB5PU32U5.707e28` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -5.94 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002 | Table 12, p. 13, row 11; `ORC-GXB5PU32U5.b8ac0f` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.59 kJ/mol-atom | 298.15 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10; `ORC-DWSOOBGST7.2379bf` |  |
+| Fe2Gd |  | -4.59 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10; `ORC-DWSOOBGST7.2e5ba1` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -4.38 kJ/mol-atom | 1078 | model | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13; `ORC-HN34UL6CGG.36704a` |  |
+| Fe2Gd |  | -4.38 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13; `ORC-HN34UL6CGG.cc7c65` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12; `ORC-HMWXYNWIGB.6907f1` |  |
+| Fe2Gd |  | -3.5 per mol-atom ± 1.5 | 1078 | experimental |  |  | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12; `ORC-HMWXYNWIGB.dda405` |  |
 | Fe2Gd | [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.html) | -3.5 kJ/mol-atom ± 1.5 | 1078 | experimental | 1.566 (mp-aaaabdsr) | -3.181 (oqmd-18836) | [3] Zinkevich 2000; _cites Deodhar 1975_ | Table 2, p. 3, row 1; `ORC-RPGFJXHR3N` |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [3] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 3; `ORC-C4OO3X3NOB` |  |
+| Fe3Gd |  | -9.3 per mol-atom ± 1.9 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6; `ORC-WP5O6SRVVR.306964` |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6; `ORC-WP5O6SRVVR.5cb599` |  |
+| Fe3Gd |  | -7.78 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 8; `ORC-U66H6KLTTF.51c215` |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -7.78 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002 | Table 12, p. 13, row 8; `ORC-U66H6KLTTF.65806e` |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -4.93 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7; `ORC-JJOX6EABNX.62c265` |  |
+| Fe3Gd |  | -4.93 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7; `ORC-JJOX6EABNX.663286` |  |
 
 ## Other properties
 

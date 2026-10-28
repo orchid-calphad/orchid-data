@@ -1,19 +1,20 @@
 # FeLaO3: enthalpy of formation
 
-> Enthalpy of formation of FeLaO3: 3 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of FeLaO3: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/FeLaO3.html · Markdown: https://data.orchid-project.org/compounds/FeLaO3.md
 
-3 accepted literature formation-enthalpy value(s) (experimental 2, model 1); experimental median -270.818 kJ/mol-atom (n = 2).
+4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -270.818 kJ/mol-atom (n = 2).
 
 Systems: [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of FeLaO3 reported in the literature (3)
+Table: Enthalpy of formation of FeLaO3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -1373.48 kJ/mol (basis unstated) ± 2.61 | LaFeO3 | 298.15 | experimental | drop solution calorimetry | [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html) | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 2; `ORC-XFO2BSHJ5P.f1064e` |  |
 | -274.696 kJ/mol-atom ± 0.522 | LaFeO3 | 298.15 | experimental | drop solution calorimetry | [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html) | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 2; `ORC-XFO2BSHJ5P.3298ce` |  |
 | -266.94 kJ/mol-atom | LaFeO3 | 298.15 | experimental | Calvet microcalorimetry | [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html) | [1] Povoden-Karadeniz 2009; _cites Parida 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900699-9) | Table 1, p. 4, row 3; `ORC-ECDQUYQARF` |  |
 | -273.64 kJ/mol-atom | LaFeO3 | 298.15 | model |  | [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html) | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 1; `ORC-Y3ROVI6K5X` |  |
@@ -26,6 +27,7 @@ Table: Uncertainty budget of the literature values of FeLaO3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -1373.48 | kJ/mol (basis unstated) | 2.61 | 0.005 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -274.696 | kJ/mol-atom | 0.522 | 0.001 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -266.94 | kJ/mol-atom |  | 0.01 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -273.64 | kJ/mol-atom |  | 0.01 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |

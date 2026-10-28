@@ -1,10 +1,10 @@
 # Ca–H system
 
-> Ca–H system: 13 accepted literature values (crystal structure 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–H system: 23 accepted literature values (crystal structure 13, formation 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-H.html · Markdown: https://data.orchid-project.org/systems/CA-H.md
 
-13 accepted literature values from 1 paper(s) (experimental 7, DFT 6); 2 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+23 accepted literature values from 1 paper(s) (experimental 12, DFT 11); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-H.json) · [CSV](https://data.orchid-project.org/systems/CA-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-H/CaH-11Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-H.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-H.html) · [Markdown](https://data.orchid-project.org/systems/CA-H.md)
 
@@ -12,13 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| DFT | 6 |
+| experimental | 12 |
+| DFT | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| formation | 10 |
 | crystal structure | 13 |
 
 ## Calculated phase diagrams
@@ -53,6 +54,25 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CaH-12Wan.tdb | 630.31 | FCC_A1 (x(H) 0.01797) + HCP_A3 (x(H) 0.03502) + CAH2_C37 (x(H) 0.66667) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CA/CA-H.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CA/CA-H.json) · [CALPHAD hull CaH-11Wan](https://data.orchid-project.org/hulls/calphad-sgte/CA/CA-H--CaH-11Wan.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ca–H system (10)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| CaH2 |  | -208 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Johnson 1939_ [doi](https://doi.org/10.1021/ja01871a026) | Table 1, p. 3, row 3; `ORC-3POTPGMTRO` |  |
+| CaH2 |  | -188 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Treadwell 1953_ | Table 1, p. 3, row 2; `ORC-BYEUSIRE5A` |  |
+| CaH2 |  | -184 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Mueller 1968_ | Table 1, p. 3, row 5; `ORC-2PWBRWN2NQ.91ce80` |  |
+| CaH2 |  | -183.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Lide 2002_ | Table 1, p. 3, row 6; `ORC-FNYHN7DC65` |  |
+| CaH2 |  | -172.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4; `ORC-OSD4XXYUXX.90f83d` |  |
+| CaH2 |  | -172 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2004_ [doi](https://doi.org/10.1103/physrevb.69.144109) | Table 1, p. 3, row 7; `ORC-OG33NNLVSQ` |  |
+| CaH2 |  | -170.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Mueller 1968_ | Table 1, p. 3, row 5; `ORC-2PWBRWN2NQ.de869b` |  |
+| CaH2 |  | -167.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011 | Table 1, p. 3, row 1; `ORC-QJI7MFDWDD.ac1821` |  |
+| CaH2 |  | -162.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011 | Table 1, p. 3, row 1; `ORC-QJI7MFDWDD.b13078` |  |
+| CaH2 |  | -161.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4; `ORC-OSD4XXYUXX.ca94c0` |  |
 
 ## Other properties
 

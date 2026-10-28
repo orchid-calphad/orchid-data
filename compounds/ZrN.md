@@ -39,8 +39,8 @@ Table: Uncertainty budget of the literature values of ZrN
 | -182.75 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -182.75 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -203 | kJ/mol-atom |  | 0.25 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -208.299 | kJ/mol-atom |  | 2.500e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
-| -166.448 | kJ/mol-atom |  | 2.500e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -208.299 | kJ/mol-atom |  | 2.500e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
+| -166.448 | kJ/mol-atom |  | 2.500e-4 | 9.966 (dft, calibrated) |  |  |  | 9.966 |
 
 ## DFT formation energies
 

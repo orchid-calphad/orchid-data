@@ -219,7 +219,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cs 0.6250, Te 0.3750
 - Stability: stable in 1 of 1 calculated diagram(s): 300–934.23 K, x(Te) 0.375–0.375
-- Literature: 12 values (10 accepted) from 1 papers
+- Literature: 12 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-te:cs5te3)
 
 Names (4): _corpus: _corpus:phase:cs-te:cs5te3  

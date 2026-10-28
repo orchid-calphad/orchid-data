@@ -1,21 +1,22 @@
 # Ni5Sm: enthalpy of formation
 
-> Enthalpy of formation of Ni5Sm: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ni5Sm: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ni5Sm.html · Markdown: https://data.orchid-project.org/compounds/Ni5Sm.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -28.85 kJ/mol-atom (n = 2); Materials Project -28.805 kJ/mol-atom (mp-aaaaabpj); OQMD -29.302 kJ/mol-atom (oqmd-17806).
+5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -27.4 kJ/mol-atom (n = 3); Materials Project -28.805 kJ/mol-atom (mp-aaaaabpj); OQMD -29.302 kJ/mol-atom (oqmd-17806).
 
 Systems: [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ni5Sm reported in the literature (4)
+Table: Enthalpy of formation of Ni5Sm reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -30.3 kJ/mol-atom | SmNi5 | 300 | experimental | Al calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Pasturel 1984_ [doi](https://doi.org/10.1002/pssb.2221250110) | Table 5, p. 6, row 24; `ORC-UHMYIGYWKU.8cb74d` |  |
 | -27.4 kJ/mol-atom | SmNi5 | 298.15 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.018b44` |  |
+| -27.4 kJ/mol-atom | SmNi5 | 1473 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.a7d9ec` |  |
 | -35.5 kJ/mol-atom | SmNi5 |  | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 25; `ORC-5GMPTGCBUF.9876b0` |  |
 | -31.6 kJ/mol-atom | SmNi5 | 300 | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016 | Table 5, p. 6, row 22; `ORC-V44SXNOR6E.944019` |  |
 
@@ -28,6 +29,7 @@ Table: Uncertainty budget of the literature values of Ni5Sm
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -30.3 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -27.4 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -27.4 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -35.5 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -31.6 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |

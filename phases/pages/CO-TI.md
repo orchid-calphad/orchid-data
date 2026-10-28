@@ -752,7 +752,7 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1
-- Literature: 139 values (121 accepted) from 5 papers
+- Literature: 139 values (139 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:liquid)
 
 Names (15): _corpus: _corpus:phase:co-ti:liquid  

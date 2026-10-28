@@ -1,10 +1,10 @@
 # Sn system
 
-> Sn system: 88 accepted literature values (crystal structure 51, phase transition 16, heat capacity / entropy / enthalpy 8, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn system: 89 accepted literature values (crystal structure 51, phase transition 16, heat capacity / entropy / enthalpy 8, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN.html · Markdown: https://data.orchid-project.org/systems/SN.md
 
-88 accepted literature values from 19 paper(s) (experimental 29, model 24, DFT 18, unspecified 17); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+89 accepted literature values from 19 paper(s) (experimental 29, model 25, DFT 18, unspecified 17); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN.json) · [CSV](https://data.orchid-project.org/systems/SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN.html) · [Markdown](https://data.orchid-project.org/systems/SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 29 |
-| model | 24 |
+| model | 25 |
 | DFT | 18 |
 | unspecified | 17 |
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 5 |
 | phase transition | 16 |
 | formation | 1 |
-| mixing / partial | 3 |
+| mixing / partial | 4 |
 | heat capacity / entropy / enthalpy | 8 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 51 |
@@ -77,7 +77,7 @@ Table: Phase transition, Sn system
 | Phase transition | 497.15 K | 497.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [7] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 70; `ORC-QIQEYQLXPF` |  |
 | Phase transition | 497.15 K | 497.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [7] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 18; `ORC-WN2IJIA7PS` |  |
 
-### Mixing / partial (3)
+### Mixing / partial (4)
 
 Table: Mixing / partial, Sn system
 
@@ -86,6 +86,7 @@ Table: Mixing / partial, Sn system
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Sn 1_ | model | [9] Charles 1999 | Table 7, p. 8, row 2; `ORC-5QOPBHTUJR` |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Sn 1_ | model | [9] Charles 1999 | Table 7, p. 8, row 3; `ORC-SWACH2RY55` |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Sn 1_ | model | [9] Charles 1999 | Table 7, p. 8, row 6; `ORC-PBIQYHWPCF` |  |
+| sm fusion; _printed: ΔSmelt_ | 13.91 J/mol (basis unstated)/K | 505.1 | UNKNOWN; _alloy: Sn 1_ | model | [9] Charles 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 4, row 2; `ORC-TPCARVYVBQ` |  |
 
 ### Heat capacity / entropy / enthalpy (8)
 

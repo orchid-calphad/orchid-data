@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of CrTa2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 74.39 | kJ/mol (basis unstated) |  | 0.005 | 11.57 (dft, calibrated) |  |  |  | 11.57 |
-| 75.34 | kJ/mol (basis unstated) |  | 0.005 | 11.57 (dft, calibrated) |  |  |  | 11.57 |
-| 76.35 | kJ/mol (basis unstated) |  | 0.005 | 11.57 (dft, calibrated) |  |  |  | 11.57 |
+| 74.39 | kJ/mol (basis unstated) |  | 0.005 | 11.79 (dft, calibrated) |  |  |  | 11.79 |
+| 75.34 | kJ/mol (basis unstated) |  | 0.005 | 11.79 (dft, calibrated) |  |  |  | 11.79 |
+| 76.35 | kJ/mol (basis unstated) |  | 0.005 | 11.79 (dft, calibrated) |  |  |  | 11.79 |
 
 ## Sources
 

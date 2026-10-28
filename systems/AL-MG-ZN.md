@@ -1,10 +1,10 @@
 # Al–Mg–Zn system
 
-> Al–Mg–Zn system: 154 accepted literature values (phase equilibrium 78, invariant reaction 76) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–Zn system: 161 accepted literature values (phase equilibrium 78, invariant reaction 76, phase transition 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/AL-MG-ZN.md
 
-154 accepted literature values from 3 paper(s) (experimental 87, model 46, unspecified 21); 0 calculated phase diagram(s). 36 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+161 accepted literature values from 3 paper(s) (experimental 94, model 46, unspecified 21); 0 calculated phase diagram(s). 29 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 87 |
+| experimental | 94 |
 | model | 46 |
 | unspecified | 21 |
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 76 |
+| phase transition | 7 |
 | phase equilibrium | 78 |
 
 ## Invariant reactions (literature)
@@ -107,6 +108,20 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Zn syste
 | 496.36 | other: MgZn + τ \<-> Mg2Zn3 + Φ | MgZn: Zn 0.0648; τ: Zn 0.1632; Mg2Zn3: Zn 0.48; Φ: Zn 0.4552 | model | [1] Liang 1998 | Table 8, p. 19, row 12; `ORC-S4KPEFVYBM` |  |
 
 ## Other properties
+
+### Phase transition (7)
+
+Table: Phase transition, Al–Mg–Zn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 633 K | 633 | L + γ + (Mg) + Φ; _alloy: Al 0.25, Mg 0.55, Zn 0.2_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 12; `ORC-UZ35QLJQOA` |  |
+| Phase transition | 663 K | 663 | L + γ + τ + Φ; _alloy: Al 0.28, Mg 0.54, Zn 0.18_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 10; `ORC-M7KEIFUAW5` |  |
+| Phase transition | 663 K | 663 | L + γ + τ + Φ; _alloy: Al 0.28, Mg 0.52, Zn 0.2_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 11; `ORC-T3UNHHQNQS` |  |
+| Phase transition | 665 K | 665 | L + γ + τ + Φ; _alloy: Al 0.3, Mg 0.48, Zn 0.22_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 6; `ORC-RSBWX6IWOK` |  |
+| Phase transition | 756 K | 756 | L + (Al) + τ; _alloy: Al 0.3, Mg 0.32, Zn 0.38_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 9; `ORC-RV3PRLD2WD` |  |
+| Phase transition | 799 K | 799 | L + MgZn2 + τ; _alloy: Al 0.2, Mg 0.36, Zn 0.44_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 18; `ORC-HKN7ZBOXGB` |  |
+| Phase transition | 800 K | 800 | L + MgZn2 + τ; _alloy: Al 0.18, Mg 0.36, Zn 0.46_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 21; `ORC-YPECYAAWPS` |  |
 
 ### Phase equilibrium (78)
 

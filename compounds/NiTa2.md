@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of NiTa2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -21.15 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
-| 5 | kJ/mol-atom |  | 0.5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -21.15 | kJ/mol-atom |  | 0.005 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
+| 5 | kJ/mol-atom |  | 0.5 | 3.929 (dft, calibrated) |  |  |  | 3.929 |
 
 ## Sources
 

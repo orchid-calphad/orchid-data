@@ -42,11 +42,11 @@ Table: Uncertainty budget of the literature values of Fe23Zr6
 | -22.364 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -19 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -16.705 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -16.21 | kJ/mol (basis unstated) |  | 0.005 | 19.28 (dft, calibrated) |  |  |  | 19.28 |
-| -16 | kJ/mol (basis unstated) |  | 0.5 | 19.28 (dft, calibrated) |  |  |  | 19.28 |
-| 19 | kJ/mol (basis unstated) |  | 0.5 | 19.28 (dft, calibrated) |  |  |  | 19.28 |
-| 34.71 | kJ/mol (basis unstated) |  | 0.005 | 19.28 (dft, calibrated) |  |  |  | 19.28 |
-| 45.12 | kJ/mol (basis unstated) |  | 0.005 | 19.28 (dft, calibrated) |  |  |  | 19.28 |
+| -16.21 | kJ/mol (basis unstated) |  | 0.005 | 19.64 (dft, calibrated) |  |  |  | 19.64 |
+| -16 | kJ/mol (basis unstated) |  | 0.5 | 19.64 (dft, calibrated) |  |  |  | 19.64 |
+| 19 | kJ/mol (basis unstated) |  | 0.5 | 19.64 (dft, calibrated) |  |  |  | 19.64 |
+| 34.71 | kJ/mol (basis unstated) |  | 0.005 | 19.64 (dft, calibrated) |  |  |  | 19.64 |
+| 45.12 | kJ/mol (basis unstated) |  | 0.005 | 19.64 (dft, calibrated) |  |  |  | 19.64 |
 
 ## DFT formation energies
 

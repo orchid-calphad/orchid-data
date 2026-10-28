@@ -9746,7 +9746,6 @@
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AG.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-AM.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-GE.html</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-IN-P-SB.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-IN.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-P.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -9927,7 +9926,6 @@
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-FE-MN-NI.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-FE-MN-O.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-FE-MN.html</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-FE-MO-NB-SN-TA-V.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-FE-MO.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-FE-N.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/AL-FE-NB.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -11227,7 +11225,6 @@
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/CO-FE-MO.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/CO-FE-NB.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/CO-FE-ND.html</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://data.orchid-project.org/bibliography/pages/systems/CO-FE-NI-PT.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/CO-FE-NI.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/CO-FE-O-SR.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/bibliography/pages/systems/CO-FE-O.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -13880,6 +13877,7 @@
 <url><loc>https://data.orchid-project.org/compounds/AlLi3.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/AlMo.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/AlMo3.html</loc><lastmod>2026-10-23</lastmod></url>
+<url><loc>https://data.orchid-project.org/compounds/AlN.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/AlNi.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/AlNi2Pr2.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/AlNi2Pt.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -13910,6 +13908,7 @@
 <url><loc>https://data.orchid-project.org/compounds/As2Ge.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/AsGa.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/AsGe.html</loc><lastmod>2026-10-23</lastmod></url>
+<url><loc>https://data.orchid-project.org/compounds/AsIn.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Au1.17Pt1.82Sn4.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Au10Ho7.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Au10Tm7.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -14093,6 +14092,7 @@
 <url><loc>https://data.orchid-project.org/compounds/CaGa4.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/CaGe.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/CaGe2.html</loc><lastmod>2026-10-23</lastmod></url>
+<url><loc>https://data.orchid-project.org/compounds/CaH2.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/CaIn.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/CaIn2.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/CaLi2.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -14417,6 +14417,7 @@
 <url><loc>https://data.orchid-project.org/compounds/Ga2Mg.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Ga2Mg5.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Ga2Ni3.html</loc><lastmod>2026-10-23</lastmod></url>
+<url><loc>https://data.orchid-project.org/compounds/Ga2O3.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Ga2Pt.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Ga2Se3.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/Ga2Sr.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -14458,12 +14459,14 @@
 <url><loc>https://data.orchid-project.org/compounds/GaNb3.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaNi.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaNi3.html</loc><lastmod>2026-10-23</lastmod></url>
+<url><loc>https://data.orchid-project.org/compounds/GaP.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaPd.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaPd2.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaPd3.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaPt.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaPt2.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaPt3.html</loc><lastmod>2026-10-23</lastmod></url>
+<url><loc>https://data.orchid-project.org/compounds/GaSb.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaSe.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaTe.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/GaY.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -14614,6 +14617,7 @@
 <url><loc>https://data.orchid-project.org/compounds/InMn3.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/InN.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/InNi2.html</loc><lastmod>2026-10-23</lastmod></url>
+<url><loc>https://data.orchid-project.org/compounds/InP.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/InSb.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/InSc.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/compounds/InSc2.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -16520,7 +16524,6 @@
 <url><loc>https://data.orchid-project.org/systems/AG.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-AM.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-AS-GA-GE.html</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-AS.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-AU.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-B-CR.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -16569,7 +16572,6 @@
 <url><loc>https://data.orchid-project.org/systems/AL-DY.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-ER.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-FE-MN.html</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-FE-MO.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-FE-NB.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/AL-FE-NI.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -17112,7 +17114,6 @@
 <url><loc>https://data.orchid-project.org/systems/CO-ER.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/CO-FE-GD.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/CO-FE-MN-NI.html</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://data.orchid-project.org/systems/CO-FE-NI-PT.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/CO-FE-ZR.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/CO-FE.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/CO-GA.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -17839,7 +17840,6 @@
 <url><loc>https://data.orchid-project.org/systems/MO-S.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/MO-SC.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/MO-SI.html</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://data.orchid-project.org/systems/MO-TA-W.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/MO-TA.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/MO-TH.html</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://data.orchid-project.org/systems/MO-TI.html</loc><lastmod>2026-10-23</lastmod></url>
