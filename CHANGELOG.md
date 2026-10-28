@@ -246,7 +246,7 @@ second Claude read (`claude-opus-5.5#2`) counts as a second reader. DFT benchmar
 cross-check unchanged (162 formulas, MAE 3.85 kJ/mol-atom). Phase registry, Parquet tables and static pages rebuilt.
 
 New dataset **ORCHID ESPEI datasets from the literature** (`espei/`, Zenodo record `espei`,
-10.5281/zenodo.PENDING-espei, `hasPart` of the umbrella; Version 1, machine-extracted): 7,639 ESPEI 0.9.1
+10.5281/zenodo.23735788, `hasPart` of the umbrella; Version 1, machine-extracted): 7,639 ESPEI 0.9.1
 datasets with 19,419 values — experimental 1,679, model
 758, invariant ZPF 2,143, DFT literature
 479, Materials Project 1,290, OQMD
@@ -254,7 +254,7 @@ datasets with 19,419 values — experimental 1,679, model
 source DOI, uncertainty (printed, ESPEI default or DFT sigma calibrated against experiment) and ESPEI weight;
 validated with ESPEI check_dataset / load_datasets. Built by `tools/build_espei_bundle.py` (orchid-project.org).
 
-New dataset **ORCHID bibliography** (`bibliography/`, Zenodo record `bibliography`, 10.5281/zenodo.PENDING-bibliography,
+New dataset **ORCHID bibliography** (`bibliography/`, Zenodo record `bibliography`, 10.5281/zenodo.23736021,
 `hasPart` of the umbrella; Version 1, machine-extracted): 9,568 works (7,812 with DOI),
 their roles in ORCHID, evidence counts and 60,231 typed relations with provenance; Crossref metadata (CC0).
 DOIs that upstream matchers found for printed references (handbook source lines, cited sources of values, TDB header
@@ -270,7 +270,7 @@ Release metadata: nine Zenodo records (eight datasets plus the umbrella); `zenod
 ## Unreleased — assessed phase assemblages v1 (2026-10-23)
 
 New dataset **ORCHID assessed phase assemblages (binary systems)** (`assessed-phase-assemblages/`, Zenodo record
-`assessed-phase-assemblages`, 10.5281/zenodo.PENDING-assessed-phase-assemblages, `hasPart` of the umbrella; Version 1,
+`assessed-phase-assemblages`, 10.5281/zenodo.23735996, `hasPart` of the umbrella; Version 1,
 machine-extracted): one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary
 diagrams compiled in Okamoto's Desk Handbook (annotation run-20261021h-full), evidence class `assessed_phase_diagram`.
 23,131 points from 2,178 diagrams (area centroid 21,618, pole of inaccessibility 1,513), with phase-registry ids,
@@ -284,7 +284,7 @@ variant), validated with ESPEI 0.9.1. Data only: no page images, crops or handbo
 ## Unreleased — phase registry v0 (2026-10-23)
 
 New dataset **ORCHID phase registry (binary systems)** (`phases/`, Zenodo record `phase-registry`,
-10.5281/zenodo.PENDING-phase-registry, `hasPart` of the umbrella): 10,496 phases in 1,241 binary systems, 43,251 names
+10.5281/zenodo.23735970, `hasPart` of the umbrella): 10,496 phases in 1,241 binary systems, 43,251 names
 (TDB 22,556, paper labels 8,463, corpus 10,916, Materials Project 658, OQMD 658), 22,556 TDB phase declarations, stability from the
 calculated diagrams, up to 10 example references per phase (9,927 phases with references, 3,014 distinct DOIs).
 Structure types: 6,259 from the standard phase name (tier A), 150 DFT-supported (tier B: unique Materials Project +
@@ -321,11 +321,11 @@ the umbrella record *ORCHID data* that links them (DataCite `isPartOf` / `hasPar
 
 | Record | DOI | Content |
 |---|---|---|
-| ORCHID data (umbrella) | 10.5281/zenodo.PENDING-orchid-data | README, CHANGELOG, DATASET_CARD, licences and attributions, Parquet manifest, Zenodo metadata |
-| ORCHID literature values | 10.5281/zenodo.PENDING-literature | `literature/` (except the DFT benchmark files); Parquet `literature_values`, `papers`, `experimental_context` |
-| ORCHID calculated binary phase diagrams | 10.5281/zenodo.PENDING-phase-diagrams | `phase-diagrams/`; Parquet `phase_diagram_index`, `phase_diagram_invariants` |
-| ORCHID binary convex hulls (MP, OQMD, assessed CALPHAD) | 10.5281/zenodo.PENDING-hulls | `hulls/`; Parquet `hull_vertices` |
-| ORCHID DFT-vs-experiment formation-enthalpy benchmark | 10.5281/zenodo.PENDING-dft-benchmark | `literature/dft_parity.json`, `literature/kim2017_crosscheck.*`; Parquet `dft_parity` |
+| ORCHID data (umbrella) | 10.5281/zenodo.23736065 | README, CHANGELOG, DATASET_CARD, licences and attributions, Parquet manifest, Zenodo metadata |
+| ORCHID literature values | 10.5281/zenodo.23735569 | `literature/` (except the DFT benchmark files); Parquet `literature_values`, `papers`, `experimental_context` |
+| ORCHID calculated binary phase diagrams | 10.5281/zenodo.23735859 | `phase-diagrams/`; Parquet `phase_diagram_index`, `phase_diagram_invariants` |
+| ORCHID binary convex hulls (MP, OQMD, assessed CALPHAD) | 10.5281/zenodo.23735891 | `hulls/`; Parquet `hull_vertices` |
+| ORCHID DFT-vs-experiment formation-enthalpy benchmark | 10.5281/zenodo.23735943 | `literature/dft_parity.json`, `literature/kim2017_crosscheck.*`; Parquet `dft_parity` |
 
 File lists with sizes and SHA-256: `zenodo/<record>.files.json`.
 

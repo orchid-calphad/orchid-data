@@ -16,13 +16,13 @@ authors:
     orcid: "https://orcid.org/0000-0002-5797-3423"
     affiliation: "Oak Ridge National Laboratory"
 version: "2026.10"
-doi: "10.5281/zenodo.PENDING-phase-registry"
+doi: "10.5281/zenodo.23735970"
 license: CC-BY-4.0
 url: "https://data.orchid-project.org"
 repository-code: "https://github.com/orchid-calphad/orchid-data"
 abstract: "One entry per phase of each binary system: every name it goes by (TDB, corpus, paper labels, Materials Project / OQMD ids), the CALPHAD models that describe it, where the calculated diagrams make it stable, example literature references, and a structure type assigned only when the stored evidence supports an assignment under the stated tier rules (standard name or unique DFT match), otherwise a review candidate list. Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes."
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.PENDING-orchid-data"
+    value: "10.5281/zenodo.23736065"
     description: "Umbrella record ORCHID data (all datasets of release v2026.10)"
 keywords: [CALPHAD, thermodynamics, phase diagrams, convex hull, DFT, formation enthalpy, AI-ready data]

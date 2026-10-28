@@ -127,7 +127,7 @@ Require all ten distinct real DOI mappings before writeback, then search the com
 contents for every `PENDING-` placeholder, including identifiers not present in the supplied map. `writeback` enforces
 both (since 2026-10-27): it refuses a map that lacks any of the ten records, repeats a DOI or contains a placeholder,
 and after substitution it searches every file of the candidate trees (text, binary, and `.gz` decompressed; `tools/`
-code excepted) for `zenodo.PENDING-` and fails if one remains.
+code excepted) for `unassigned DOI marker` and fails if one remains.
 
 **Do not run writeback against the shared live trees.** Its literature synchronization no longer deletes: a file present
 only in `orchid-data/literature/` is moved to `~/projects/orchid-superseded/<date>-zenodo-writeback/<path>` and listed in
@@ -158,7 +158,7 @@ multi-pass sequence used for this release. Use a staged copy approved by the loc
    configuration files, rather than assuming only README and citation files change. Inspect the full diff against the
    untouched copy.
 5. Run every builder `--check`, the record-level cross-format checks (JSONL, CSV, Parquet), the ESPEI membership checks
-   and the restricted-file checks; search the whole candidate once more for `zenodo.PENDING-`; then `z manifest`,
+   and the restricted-file checks; search the whole candidate once more for `unassigned DOI marker`; then `z manifest`,
    `z manifest --check`, `z metadata --check`.
 6. Only then does the lock owner install the candidate into the live trees (moving superseded files to
    `~/projects/orchid-superseded/`, never deleting) and log it on the coordination board.

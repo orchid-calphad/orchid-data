@@ -75269,10 +75269,10 @@
   "license": "CC-BY-4.0",
   "status": "Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.",
   "title": "ORCHID-Registry: phase registry of binary systems",
-  "doi": "10.5281/zenodo.PENDING-phase-registry",
-  "url": "https://doi.org/10.5281/zenodo.PENDING-phase-registry",
-  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry",
-  "bibtex": "@misc{orchid_phase_registry_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Registry: phase registry of binary systems}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-registry},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},\n  note      = {Version 1, machine-extracted}\n}",
+  "doi": "10.5281/zenodo.23735970",
+  "url": "https://doi.org/10.5281/zenodo.23735970",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735970",
+  "bibtex": "@misc{orchid_phase_registry_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Registry: phase registry of binary systems}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23735970},\n  url       = {https://doi.org/10.5281/zenodo.23735970},\n  note      = {Version 1, machine-extracted}\n}",
   "also_cite": [
    "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file",
    "A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0)",
@@ -75281,10 +75281,10 @@
   ],
   "part_of": {
    "title": "ORCHID data: umbrella record of the ORCHID datasets",
-   "doi": "10.5281/zenodo.PENDING-orchid-data",
-   "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+   "doi": "10.5281/zenodo.23736065",
+   "url": "https://doi.org/10.5281/zenodo.23736065",
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736065",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23736065},\n  url       = {https://doi.org/10.5281/zenodo.23736065},\n  note      = {Version 1, machine-extracted}\n}"
   }
  }
 }

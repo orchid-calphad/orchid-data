@@ -16,13 +16,13 @@ authors:
     orcid: "https://orcid.org/0000-0002-5797-3423"
     affiliation: "Oak Ridge National Laboratory"
 version: "2026.10"
-doi: "10.5281/zenodo.PENDING-espei"
+doi: "10.5281/zenodo.23735788"
 license: CC-BY-4.0
 url: "https://data.orchid-project.org"
 repository-code: "https://github.com/orchid-calphad/orchid-data"
 abstract: "ESPEI-format datasets (thermochemical, phase-equilibrium ZPF and invariant-reaction ZPF) built from the ORCHID literature values, one folder per evidence class (experimental, model, DFT: literature, Materials Project, OQMD), every value traced to its published ORCHID observation id and source DOI, with its uncertainty in physical units (printed, ESPEI's experimental default, or calibrated for DFT against experiment) and the ESPEI weight derived from it; plus optional, tagged phase-constraint datasets (derived invariant-temperature brackets and liquid-stability points, assessed handbook assemblages) in the phase names of each assessment. Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes."
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.PENDING-orchid-data"
+    value: "10.5281/zenodo.23736065"
     description: "Umbrella record ORCHID data (all datasets of release v2026.10)"
 keywords: [CALPHAD, ESPEI, thermodynamics, phase diagrams, ZPF, DFT, formation enthalpy, uncertainty, AI-ready data]

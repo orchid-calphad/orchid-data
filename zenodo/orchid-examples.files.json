@@ -4,9 +4,9 @@
  "version": "2026.10",
  "bundle": "orchid-examples-v2026.10.zip",
  "source": "git archive of github.com/orchid-calphad/orchid-examples",
- "commit": "e695580ab2590a6dfedee01a3dae7364eee164bb",
+ "commit": "6d68789772775a74b55b54a1b3de62843899833f",
  "n_files": 426,
- "total_bytes": 13931528,
+ "total_bytes": 13931483,
  "files": [
   {
    "path": ".github/workflows/examples.yml",
@@ -30,8 +30,8 @@
   },
   {
    "path": "CITATION.cff",
-   "bytes": 4006,
-   "sha256": "c84b95917aa8e5f216da6645fe04ef794f767d4005a5a724e2984c338253caab"
+   "bytes": 3991,
+   "sha256": "bae28885c0ef52ce9b9b965d9b3269762e646d5542fc690c1e3eeabc0ce60e34"
   },
   {
    "path": "CITATIONS.json",
@@ -60,8 +60,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 6748,
-   "sha256": "faa92da6ea3f6846db892828e46afdf27f54e614a0a6cfacac81785564a33e4e"
+   "bytes": 6718,
+   "sha256": "9cf8bb2697a71ee39eaf7f4c1f439bf3725d316848c4cabf7f6c66f1c6d07cdd"
   },
   {
    "path": "ZENODO_LARGE_FILES.md",

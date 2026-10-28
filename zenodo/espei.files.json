@@ -16,12 +16,12 @@
  ],
  "exclude": [],
  "n_files": 8618,
- "total_bytes": 73530699,
+ "total_bytes": 73529976,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 38061,
-   "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
+   "bytes": 37951,
+   "sha256": "ca6f2d7b39d7724ab8939d8f94ac72806b96f94ea0622fbc7b64e72b379657fe"
   },
   {
    "path": "CITATIONS.json",
@@ -50,8 +50,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 9300,
-   "sha256": "4055c5f5ee11cee87769a5bbf833b1d750d657a4741b5ae4e1bbb1789c8973bb"
+   "bytes": 9080,
+   "sha256": "b71aa6474d52cb2d1ba8f32675f6e8deed5d2bae56b6818419d4030e7e655099"
   },
   {
    "path": "espei/BORIDE_EVIDENCE_REVIEW.json",
@@ -60,8 +60,8 @@
   },
   {
    "path": "espei/CITATION.cff",
-   "bytes": 2248,
-   "sha256": "579b4c15f4fbe23785756f5cc89b9c5b3012612e214aa1085e943ccb7640cd14"
+   "bytes": 2232,
+   "sha256": "ecbf94c8b2790666f77fe7767dc0b38a187721e1b3d4727f746a6a5caae476c5"
   },
   {
    "path": "espei/DFT_EVIDENCE_IDENTITIES.json",
@@ -80,8 +80,8 @@
   },
   {
    "path": "espei/README.md",
-   "bytes": 31396,
-   "sha256": "85fc270e06c5f0870b32f90d6abd63cb47912b9b9d5e6ca67945d3b61bffe0f0"
+   "bytes": 31380,
+   "sha256": "be6424e849ad54a49f49c34048c3fe6d9099dde451d9625add2dd969d058d3e7"
   },
   {
    "path": "espei/SCHEMA.md",
@@ -96,7 +96,7 @@
   {
    "path": "espei/UNCERTAINTY_SUMMARY.md",
    "bytes": 5413,
-   "sha256": "31386b5217a991129191a8b75f4aea3cc1650c7c7970353811d077afcea8c318"
+   "sha256": "530abf4bf8829a7b806aedd1008c86ae17ef6dff87f882350ffe121d67ca9bc4"
   },
   {
    "path": "espei/UPSTREAM_CORRECTIONS.md",
@@ -105,8 +105,8 @@
   },
   {
    "path": "espei/VALIDATION.md",
-   "bytes": 66773,
-   "sha256": "e8ab3e5a7c9260e59defdb7b97a671ef7e6cf7069368c097cdc554e907916cbc"
+   "bytes": 66791,
+   "sha256": "dde0e8b2ac18f6fc9b0213b7809c2de0201e489ac2a9b2f2ac7258fba33271e7"
   },
   {
    "path": "espei/assessed/AG-AL/AgAl-04Wit.AG-AL-p46.json",
@@ -4907,11 +4907,6 @@
    "path": "espei/derived/invariant-brackets/CD-TE/CdTe-09Liu.zpf-05.json",
    "bytes": 5669,
    "sha256": "d124027f2b855f6a1c760bff87ec09761f4c35ae2bdf2bd9dab1f2294684c505"
-  },
-  {
-   "path": "espei/derived/invariant-brackets/CD-TL/CdTl-09Liu.zpf-00.json",
-   "bytes": 5503,
-   "sha256": "5e2a5f723480c1132dd620797a7924e52243fc7d3177b8a3eea40275943e078f"
   },
   {
    "path": "espei/derived/invariant-brackets/CD-TL/CdTl-09Liu.zpf-01.json",
@@ -32840,13 +32835,13 @@
   },
   {
    "path": "espei/index.csv",
-   "bytes": 4579677,
-   "sha256": "fa5686236b12037a1e9fdf6191279225555fc5d36d66b39367183f0c371a2001"
+   "bytes": 4579965,
+   "sha256": "e96cb30a6f6a7945b78e63181e5002d9a53eb0ed9477c138f57a1b8e5ec741a4"
   },
   {
    "path": "espei/index.json",
-   "bytes": 11572783,
-   "sha256": "403659c13e0a265d4f460e0f05d13c6374d39f0560ce921246fadb606e0b7bbf"
+   "bytes": 11572993,
+   "sha256": "79605c32d0d19c7316b5bfd1568ce138db6b0aa7f6188d5a51d104950cb44a19"
   },
   {
    "path": "espei/invariants/AG-AL/AgAl-04Wit.zpf-00.json",
@@ -40929,6 +40924,11 @@
    "sha256": "28b250b199664fd8f92e6e67134bb997e8e5c5469dfd2bafb55c637be3e8b7ae"
   },
   {
+   "path": "espei/model/C-TI/TiC-03Fri.sm-model-01.json",
+   "bytes": 4861,
+   "sha256": "b612ac73e1ef3297286be5c0af3e2b0e91acb193fa9589c2c1d3fa66f9a7edfe"
+  },
+  {
    "path": "espei/model/C-V/VC-06Hu.zpf-model-00.json",
    "bytes": 3835,
    "sha256": "4ec8bc5f4916b9a9511a4300adfd15f14cafaa4c38b2dfd784f33ae223251e73"
@@ -43100,13 +43100,13 @@
   },
   {
    "path": "espei/validation.json",
-   "bytes": 4385482,
-   "sha256": "0538951606691bbddab509eca9dfbb13a8013bd6afe97edd5830588558df1a94"
+   "bytes": 4385344,
+   "sha256": "cebce3566d8571ccd9f620596893ddd3b797675ce7a639311b4a0ef0df2d8c79"
   },
   {
    "path": "zenodo/espei.metadata.json",
-   "bytes": 14581,
-   "sha256": "6133663eab009de8515d7036866f201fec93a44d3a1ba1c5e8f17baa31d8020d"
+   "bytes": 14484,
+   "sha256": "adab47621777b08d3163c169c256f0e240038644629ff700ed7dad15c1ed78c8"
   }
  ]
 }

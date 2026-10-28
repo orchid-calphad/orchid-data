@@ -9,13 +9,13 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 | folder | files | loaded by load_datasets | result |
 |---|---:|---:|---|
 | experimental | 1118 | 1118 | ok |
-| model | 503 | 503 | ok |
+| model | 504 | 504 | ok |
 | invariants | 1546 | 1546 | ok |
 | dft/literature | 783 | 783 | ok |
 | dft/mp | 1251 | 1251 | ok |
 | dft/oqmd | 1251 | 1251 | ok |
 | assessed | 643 | 643 | ok |
-| derived/invariant-brackets | 1073 | 1073 | ok |
+| derived/invariant-brackets | 1072 | 1072 | ok |
 | derived/liquid-stability | 421 | 421 | ok |
 
 Invalid files in the final bundle: **0**.
@@ -61,7 +61,7 @@ Datasets evaluated in the final bundle: **8589**; all finite: **yes**.
 | folder | quantity | datasets | values | median of dataset median abs | p90 of dataset median abs |
 |---|---|---:|---:|---:|---:|
 | assessed | zpf_driving_force_J | 643 | 14185 | 0.0038 | 1.3915 |
-| derived/invariant-brackets | zpf_driving_force_J | 1073 | 6875 | 2.7757 | 108.7677 |
+| derived/invariant-brackets | zpf_driving_force_J | 1072 | 6872 | 2.7815 | 108.7677 |
 | derived/liquid-stability | zpf_driving_force_J | 421 | 3789 | 0.0 | 0.0 |
 | dft/literature | nonequilibrium_log_likelihood | 783 | 783 | 19.9733 | 40.4258 |
 | dft/mp | nonequilibrium_log_likelihood | 1251 | 1251 | 10.1461 | 11.7814 |
@@ -73,7 +73,7 @@ Datasets evaluated in the final bundle: **8589**; all finite: **yes**.
 | invariants | zpf_driving_force_J | 1546 | 14147 | 13.4763 | 456.9472 |
 | model | activity_residual | 53 | 53 | 9.3681 | 47.6979 |
 | model | nonequilibrium_log_likelihood | 295 | 295 | 9.1877 | 18.383 |
-| model | residual | 143 | 204 | 27.6945 | 35656.7976 |
+| model | residual | 144 | 205 | 27.6945 | 35656.7976 |
 | model | zpf_driving_force_J | 12 | 189 | 0.9473 | 11.8035 |
 
 (Residuals: J/mol-atom, J/K/mol-atom or activity; driving forces J/mol; non-equilibrium: log likelihood. Against the TDB's own parameters, i.e. how far the published values lie from the assessment the folder is named after.)
@@ -99,6 +99,7 @@ Not written after the evaluation: 387 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_nonfinite | derived/invariant-brackets/AU-ND/AuNd-16Mou.zpf-01.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/CD-GD/CdGd-24Azz.zpf-00.json |  |
 | espei_evaluation_nonfinite | derived/invariant-brackets/CD-GD/CdGd-24Azz.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/CD-TL/CdTl-09Liu.zpf-00.json |  |
 | espei_evaluation_tdb_error | derived/invariant-brackets/CR-RE/CrRe-10Pal.zpf-00.json | ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
 | espei_evaluation_tdb_error | derived/invariant-brackets/CR-RE/CrRe-10Pal.zpf-01.json | ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
 | espei_evaluation_nonfinite | derived/invariant-brackets/GE-TI/GeTi-23Zob.zpf-01.json |  |
@@ -439,7 +440,6 @@ Not written after the evaluation: 387 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-03-M5C2.json | KeyError: 'GRAPHITE' |
 | espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-04-CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
 | espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-05-M23C6_D84.json | KeyError: 'GRAPHITE' |
-| espei_evaluation_nonfinite | model/C-TI/TiC-03Fri.sm-model-01.json |  |
 | espei_evaluation_error | model/C-U/UC-01Che.hmr-model-01-U2C3_D5C.json | KeyError: 'GRAPHITE' |
 | espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-00-CEGA6_HT.json | KeyError: 'ORTHORHOMBIC_GA' |
 | espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-01-CEGA6_LT.json | KeyError: 'ORTHORHOMBIC_GA' |
@@ -491,7 +491,7 @@ Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 | folder | datasets | ZPF points | systems |
 |---|---:|---:|---:|
 | assessed | 643 | 8007 | 471 |
-| derived/invariant-brackets | 1073 | 4744 | 390 |
+| derived/invariant-brackets | 1072 | 4742 | 390 |
 | derived/liquid-stability | 421 | 3789 | 305 |
 
 Invariant brackets written: above 2529, below 2464; skipped: another_invariant_within_offset (above) 747, another_invariant_within_offset (below) 812, composition_not_between_the_two_phases 141, invariant_composition_unknown 393, phase_unmapped_or_repeated 40, reaction_label_not_matched 626, reaction_not_parsed 133, reaction_phases_differ_from_dataset 11, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 49.
@@ -554,7 +554,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `duplicate_identical_zpf`: 122
 - `duplicate_of_other_dataset`: 1
 - `espei_evaluation_error`: 68
-- `espei_evaluation_nonfinite`: 57
+- `espei_evaluation_nonfinite`: 56
 - `espei_evaluation_tdb_error`: 13
 - `espei_evaluation_tdb_not_found`: 3
 - `evidence_class_mismatch`: 11
@@ -683,7 +683,7 @@ Values per folder and output (sigma_effective in ESPEI units):
 | model | GMR | 17 | 0 | 0 | 17 | 0 | 0 | 11 | 6 | 0 | 0 | J/mol-atom | 700.0 | 700.0 | 700.0 | 1000.0 | 1000.0 |
 | model | HMR | 149 | 0 | 0 | 149 | 0 | 0 | 111 | 38 | 1 | 149 | J/mol-atom | 1000.0 | 1000.0 | 3900.0 | 3900.0 | 3900.0 |
 | model | HM_FORM | 301 | 0 | 0 | 301 | 0 | 0 | 301 | 0 | 0 | 301 | J/mol-atom | 3900.0 | 3900.0 | 3900.0 | 3900.0 | 3900.0 |
-| model | SM | 18 | 0 | 0 | 18 | 0 | 0 | 0 | 18 | 0 | 18 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
+| model | SM | 19 | 0 | 0 | 19 | 0 | 0 | 0 | 19 | 0 | 19 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
 | model | SMR | 14 | 0 | 0 | 14 | 0 | 0 | 10 | 4 | 0 | 14 | J/mol-atom/K | 1.0 | 1.575 | 3.3 | 3.3 | 3.3 |
 | model | SM_FORM | 62 | 0 | 0 | 62 | 0 | 0 | 62 | 0 | 0 | 62 | J/mol-atom/K | 3.3 | 3.3 | 3.3 | 3.3 | 3.3 |
 | model | ZPF | 161 | 0 | 0 | 0 | 0 | 161 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |

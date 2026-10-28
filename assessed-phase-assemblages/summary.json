@@ -216,26 +216,26 @@
   "license": "CC-BY-4.0",
   "status": "Version 1, machine-extracted: phase fields of expert-drawn (assessed) diagrams named by deterministic rules, model readers, an adjudicator and partial expert review (basis and review state per record); one point deep inside each field; boundary and tie-line positions are drawing-based and of low credence.",
   "title": "ORCHID-Assemblages: assessed phase assemblages of binary systems",
-  "doi": "10.5281/zenodo.PENDING-assessed-phase-assemblages",
-  "url": "https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages",
-  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages",
-  "bibtex": "@misc{orchid_assessed_assemblages_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Assemblages: assessed phase assemblages of binary systems}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  note      = {Version 1, machine-extracted}\n}",
+  "doi": "10.5281/zenodo.23735996",
+  "url": "https://doi.org/10.5281/zenodo.23735996",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735996",
+  "bibtex": "@misc{orchid_assessed_assemblages_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Assemblages: assessed phase assemblages of binary systems}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23735996},\n  url       = {https://doi.org/10.5281/zenodo.23735996},\n  note      = {Version 1, machine-extracted}\n}",
   "also_cite": [
    "for every diagram used, its original evaluation (citations[role=original_evaluation], DOI where matched) and H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International (2010) as the compilation",
    "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
   ],
   "part_of": {
    "title": "ORCHID data: umbrella record of the ORCHID datasets",
-   "doi": "10.5281/zenodo.PENDING-orchid-data",
-   "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+   "doi": "10.5281/zenodo.23736065",
+   "url": "https://doi.org/10.5281/zenodo.23736065",
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736065",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23736065},\n  url       = {https://doi.org/10.5281/zenodo.23736065},\n  note      = {Version 1, machine-extracted}\n}"
   }
  },
  "files": {
   "bytes_by_file_or_dir": {
-   "CITATION.cff": 1905,
-   "dense-field-grid": 381618,
+   "CITATION.cff": 1868,
+   "dense-field-grid": 381061,
    "espei-zpf": 8681278,
    "espei-zpf-dense": 270307,
    "espei-zpf-with-tie-lines": 8659636,
@@ -244,7 +244,7 @@
    "exclusions.jsonl": 542755,
    "records.csv": 12639690,
    "records.jsonl.gz": 4771823,
-   "records.parquet": 1722192,
+   "records.parquet": 1721635,
    "sgte_not_comparable.csv": 1215857,
    "summary.json": 0
   }

@@ -6,19 +6,19 @@
   "license": "CC-BY-4.0",
   "status": "Version 1 (calculated / third-party derived data)",
   "title": "ORCHID-Diagrams: calculated binary phase diagrams",
-  "doi": "10.5281/zenodo.PENDING-phase-diagrams",
-  "url": "https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
-  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
-  "bibtex": "@misc{orchid_phase_diagrams_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-diagrams},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}\n}",
+  "doi": "10.5281/zenodo.23735859",
+  "url": "https://doi.org/10.5281/zenodo.23735859",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.23735859",
+  "bibtex": "@misc{orchid_phase_diagrams_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23735859},\n  url       = {https://doi.org/10.5281/zenodo.23735859}\n}",
   "also_cite": [
    "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
   ],
   "part_of": {
    "title": "ORCHID data: umbrella record of the ORCHID datasets",
-   "doi": "10.5281/zenodo.PENDING-orchid-data",
-   "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+   "doi": "10.5281/zenodo.23736065",
+   "url": "https://doi.org/10.5281/zenodo.23736065",
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736065",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23736065},\n  url       = {https://doi.org/10.5281/zenodo.23736065},\n  note      = {Version 1, machine-extracted}\n}"
   }
  },
  "source": "SGTE binary collection (Hallstedt 2025), CC BY 4.0",

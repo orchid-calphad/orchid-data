@@ -5,7 +5,7 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
 | experimental | 1118 | 2387 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
-| model | 503 | 781 | 81 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
+| model | 504 | 782 | 82 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
 | invariants | 1546 | 5061 | 464 | ZPF datasets from experimental invariant-reaction tables |
 | dft/literature | 783 | 1781 | 91 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
 | dft/mp | 1251 | 1251 | 381 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
@@ -16,7 +16,7 @@ Optional phase constraints (separate folders; never mixed with measured data; se
 | folder | datasets | ZPF points | systems | content |
 |---|---:|---:|---:|---|
 | assessed | 643 | 8007 | 471 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`); the dense field grid of the validated diagrams (Cu-Zr) is a separate dataset per TDB, suffix `.dense.json`, tag `dense_field_grid` |
-| derived/invariant-brackets | 1073 | 4744 | 390 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
+| derived/invariant-brackets | 1072 | 4742 | 390 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
 | derived/liquid-stability | 421 | 3789 | 305 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
 
 ## Use with ESPEI
@@ -197,9 +197,9 @@ Counts (brackets written and skipped by reason, systems with liquid-stability po
 
 ## Citation
 
-R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
+R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735788
 
-Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736065
 
 Also cite the original source of every value you use (each dataset's `reference` / `bibtex`, references.bib; index.csv lists the DOIs); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 

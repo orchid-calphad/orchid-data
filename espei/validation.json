@@ -6,8 +6,8 @@
    "loaded": 643
   },
   "derived/invariant-brackets": {
-   "files": 1073,
-   "loaded": 1073
+   "files": 1072,
+   "loaded": 1072
   },
   "derived/liquid-stability": {
    "files": 421,
@@ -34,8 +34,8 @@
    "loaded": 1546
   },
   "model": {
-   "files": 503,
-   "loaded": 503
+   "files": 504,
+   "loaded": 504
   }
  },
  "invalid_final": {},
@@ -285,6 +285,12 @@
   {
    "path": "derived/invariant-brackets/CD-GD/CdGd-24Azz.zpf-01.json",
    "source": "invariants/CD-GD/CdGd-24Azz.zpf-01.json",
+   "reason": "espei_evaluation_nonfinite",
+   "error": null
+  },
+  {
+   "path": "derived/invariant-brackets/CD-TL/CdTl-09Liu.zpf-00.json",
+   "source": "invariants/CD-TL/CdTl-09Liu.zpf-00.json",
    "reason": "espei_evaluation_nonfinite",
    "error": null
   },
@@ -2254,19 +2260,19 @@
    "path": "model/AL-FE/AlFe-18Zie.gmr-model-02.json",
    "source": "db-v2.1/general/espei-model/AlFe-18Zie/gmr-model-02.json",
    "reason": "espei_evaluation_error",
-   "error": "DofError: AL5FE2: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('AL', 'AL1'), Species('VA', 'VA1')})) has no component"
+   "error": "DofError: AL5FE2: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('VA', 'VA1'), Species('AL', 'AL1')})) has no component"
   },
   {
    "path": "model/AL-FE/AlFe-18Zie.gmr-model-05.json",
    "source": "db-v2.1/general/espei-model/AlFe-18Zie/gmr-model-05.json",
    "reason": "espei_evaluation_error",
-   "error": "DofError: AL2FE: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('FE', 'FE1'), Species('AL', 'AL1')})) has no components"
+   "error": "DofError: AL2FE: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('AL', 'AL1'), Species('FE', 'FE1')})) has no components"
   },
   {
    "path": "model/AL-FE/AlFe-18Zie.gmr-model-08.json",
    "source": "db-v2.1/general/espei-model/AlFe-18Zie/gmr-model-08.json",
    "reason": "espei_evaluation_error",
-   "error": "DofError: AL13FE4: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('AL', 'AL1'), Species('VA', 'VA1')})) has no componen"
+   "error": "DofError: AL13FE4: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('VA', 'VA1'), Species('AL', 'AL1')})) has no componen"
   },
   {
    "path": "model/AL-FE/AlFe-23Ila.gmr-model-02.json",
@@ -2278,7 +2284,7 @@
    "path": "model/AL-FE/AlFe-23Ila.gmr-model-08.json",
    "source": "db-v2.1/general/espei-model/AlFe-23Ila/gmr-model-08.json",
    "reason": "espei_evaluation_error",
-   "error": "DofError: AL13FE4: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('AL', 'AL1'), Species('VA', 'VA1')})) has no componen"
+   "error": "DofError: AL13FE4: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species('FE', 'FE1')}), frozenset({Species('VA', 'VA1'), Species('AL', 'AL1')})) has no componen"
   },
   {
    "path": "model/BA-O/BaO-95Zim.sm-model-01.json",
@@ -2309,12 +2315,6 @@
    "source": "db-v2.1/general/espei-model/MnC-10Dju/hmr-model-05.json",
    "reason": "espei_evaluation_error",
    "error": "KeyError: 'GRAPHITE'"
-  },
-  {
-   "path": "model/C-TI/TiC-03Fri.sm-model-01.json",
-   "source": "db-v2.1/general/espei-model/TiC-03Fri/sm-model-01.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
   },
   {
    "path": "model/C-U/UC-01Che.hmr-model-01-U2C3_D5C.json",
@@ -2655,9 +2655,9 @@
     "p90_of_dataset_median_abs": 1.3915
    },
    "derived/invariant-brackets|zpf_driving_force_J": {
-    "datasets": 1073,
-    "values": 6875,
-    "median_of_dataset_median_abs": 2.7757,
+    "datasets": 1072,
+    "values": 6872,
+    "median_of_dataset_median_abs": 2.7815,
     "p90_of_dataset_median_abs": 108.7677
    },
    "derived/liquid-stability|zpf_driving_force_J": {
@@ -2727,8 +2727,8 @@
     "p90_of_dataset_median_abs": 18.383
    },
    "model|residual": {
-    "datasets": 143,
-    "values": 204,
+    "datasets": 144,
+    "values": 205,
     "median_of_dataset_median_abs": 27.6945,
     "p90_of_dataset_median_abs": 35656.7976
    },
@@ -17397,13 +17397,6 @@
    "source": "general/espei-model/MnC-10Dju/hmr-model-05.json",
    "reason": [
     "espei_evaluation_error"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei-model/TiC-03Fri/sm-model-01.json",
-   "reason": [
-    "espei_evaluation_nonfinite"
    ],
    "values": 1
   },
@@ -167756,8 +167749,8 @@
     "systems": 471
    },
    "derived/invariant-brackets": {
-    "datasets": 1073,
-    "points": 4744,
+    "datasets": 1072,
+    "points": 4742,
     "systems": 390
    },
    "derived/liquid-stability": {
@@ -167800,8 +167793,8 @@
   }
  },
  "summary": {
-  "datasets": 6452,
-  "values": 12512,
+  "datasets": 6453,
+  "values": 12513,
   "by_folder": {
    "experimental": {
     "datasets": 1118,
@@ -167809,9 +167802,9 @@
     "systems": 185
    },
    "model": {
-    "datasets": 503,
-    "values": 781,
-    "systems": 81
+    "datasets": 504,
+    "values": 782,
+    "systems": 82
    },
    "invariants": {
     "datasets": 1546,
@@ -167865,7 +167858,7 @@
    "model/GMR": 12,
    "model/HMR": 95,
    "model/HM_FORM": 252,
-   "model/SM": 18,
+   "model/SM": 19,
    "model/SMR": 12,
    "model/SM_FORM": 43,
    "model/ZPF": 12
@@ -167892,7 +167885,7 @@
    "duplicate_identical_zpf": 122,
    "duplicate_of_other_dataset": 1,
    "espei_evaluation_error": 68,
-   "espei_evaluation_nonfinite": 57,
+   "espei_evaluation_nonfinite": 56,
    "espei_evaluation_tdb_error": 13,
    "espei_evaluation_tdb_not_found": 3,
    "evidence_class_mismatch": 11,
@@ -167985,7 +167978,7 @@
    "experimental/single_reader_text_layer": 66,
    "invariants/multi_reader": 5517,
    "invariants/single_reader_text_layer": 32,
-   "model/multi_reader": 766,
+   "model/multi_reader": 767,
    "model/single_reader": 7,
    "model/single_reader_text_layer": 8
   },
@@ -168055,8 +168048,8 @@
      "systems": 471
     },
     "derived/invariant-brackets": {
-     "datasets": 1073,
-     "points": 4744,
+     "datasets": 1072,
+     "points": 4742,
      "systems": 390
     },
     "derived/liquid-stability": {

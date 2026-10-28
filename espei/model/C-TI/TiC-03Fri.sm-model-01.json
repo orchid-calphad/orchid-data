@@ -1,0 +1,140 @@
+{
+ "components": [
+  "C",
+  "TI",
+  "VA"
+ ],
+ "phases": [
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TI": [
+   0.5
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    12.0
+   ]
+  ]
+ ],
+ "reference": "Frisk 2003, doi:10.1016/j.calphad.2004.01.004",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-M3ZR2NE26Z.0a9e87",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "TiC-03Fri.tdb",
+   "path": "databases/sgte-binary/TiC-03Fri.tdb",
+   "sha256": "9f4e6802632c842e13cd4b81a9fbae51a3f4e0d34475bcfab24858cd331d065b",
+   "catalog_entry": {
+    "name": "TiC-03Fri.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2004-01-004",
+   "doi": "10.1016/j.calphad.2004.01.004",
+   "citation": {
+    "authors": "see doi",
+    "title": "K. Frisk, Calphad, 27, 367-73(2003).",
+    "year": "2003"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 0.2,
+ "bibtex": "frisk2003_9a8ff0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-M3ZR2NE26Z.0a9e87",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2004.01.004",
+    "measured_in": "doi:10.1016/j.calphad.2004.01.004"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2004.01.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2004.01.004"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/TiC-03Fri/sm-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release; model-calculated values: sigma_method is the model class's deviation from experiment (or its prior), not a measurement uncertainty; exclude them with the `model` tag if you prefer",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 1.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1.0,
+     "method_class": "model_calculated",
+     "method_basis": "prior",
+     "method_n_pairs": 260,
+     "method_entry": "model/S_ABS"
+    },
+    "sigma_effective_used": 1.0,
+    "weight_per_value_equivalent": 0.2,
+    "weight_used": 0.2
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
+  "suggested_weight": 1.0,
+  "weight_before_2026_10_24": 1.0,
+  "weight_written": 0.2,
+  "sigma_floor": 0.2,
+  "sigma_floor_unit": "J/mol/K",
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "FCC_A1"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-M3ZR2NE26Z.0a9e87",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

@@ -40,21 +40,21 @@ Table: Folders of the data site
 
 ## Licence and citation
 
-Release v2026.10 is archived on Zenodo as eight citable datasets, each with its own DOI, linked by an umbrella record: [ORCHID data: umbrella record of the ORCHID datasets](https://doi.org/10.5281/zenodo.PENDING-orchid-data); [ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature](https://doi.org/10.5281/zenodo.PENDING-literature); [ORCHID-Diagrams: calculated binary phase diagrams](https://doi.org/10.5281/zenodo.PENDING-phase-diagrams); [ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)](https://doi.org/10.5281/zenodo.PENDING-hulls); [ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark](https://doi.org/10.5281/zenodo.PENDING-dft-benchmark); [ORCHID-Registry: phase registry of binary systems](https://doi.org/10.5281/zenodo.PENDING-phase-registry); [ORCHID-Assemblages: assessed phase assemblages of binary systems](https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages); [ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs](https://doi.org/10.5281/zenodo.PENDING-espei); [ORCHID-Bibliography: papers and typed citation relations](https://doi.org/10.5281/zenodo.PENDING-bibliography).
+Release v2026.10 is archived on Zenodo as eight citable datasets, each with its own DOI, linked by an umbrella record: [ORCHID data: umbrella record of the ORCHID datasets](https://doi.org/10.5281/zenodo.23736065); [ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature](https://doi.org/10.5281/zenodo.23735569); [ORCHID-Diagrams: calculated binary phase diagrams](https://doi.org/10.5281/zenodo.23735859); [ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)](https://doi.org/10.5281/zenodo.23735891); [ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark](https://doi.org/10.5281/zenodo.23735943); [ORCHID-Registry: phase registry of binary systems](https://doi.org/10.5281/zenodo.23735970); [ORCHID-Assemblages: assessed phase assemblages of binary systems](https://doi.org/10.5281/zenodo.23735996); [ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs](https://doi.org/10.5281/zenodo.23735788); [ORCHID-Bibliography: papers and typed citation relations](https://doi.org/10.5281/zenodo.23736021).
 
 Derived data: CC BY 4.0. Cite the ORCHID release ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original source of every value you use (its paper and DOI). Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Licences of the DFT and CALPHAD sources: [LICENSES.md](https://data.orchid-project.org/LICENSES.md), [NOTICE.md](https://data.orchid-project.org/NOTICE.md).
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
-- R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-bibliography
-- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735569
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.23735859
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.23735891
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735943
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735970
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735996
+- R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735788
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736021
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736065
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; for every diagram used, its original evaluation (citations[role=original_evaluation], DOI where matched) and H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International (2010) as the compilation; the original source of every value you use (each dataset's `reference` / `bibtex`, references.bib; index.csv lists the DOIs); the papers themselves when you use their data (doi / citation of each bibliography record).
 
@@ -67,8 +67,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-literature},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  doi       = {10.5281/zenodo.23735569},
+  url       = {https://doi.org/10.5281/zenodo.23735569},
   note      = {Version 1, machine-extracted}
 }
 
@@ -78,8 +78,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-phase-diagrams},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}
+  doi       = {10.5281/zenodo.23735859},
+  url       = {https://doi.org/10.5281/zenodo.23735859}
 }
 
 @misc{orchid_hulls_2026,
@@ -88,8 +88,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-hulls},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-hulls}
+  doi       = {10.5281/zenodo.23735891},
+  url       = {https://doi.org/10.5281/zenodo.23735891}
 }
 
 @misc{orchid_dft_benchmark_2026,
@@ -98,8 +98,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-dft-benchmark},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-dft-benchmark},
+  doi       = {10.5281/zenodo.23735943},
+  url       = {https://doi.org/10.5281/zenodo.23735943},
   note      = {Version 1, machine-extracted}
 }
 
@@ -109,8 +109,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-phase-registry},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},
+  doi       = {10.5281/zenodo.23735970},
+  url       = {https://doi.org/10.5281/zenodo.23735970},
   note      = {Version 1, machine-extracted}
 }
 
@@ -120,8 +120,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-assessed-phase-assemblages},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages},
+  doi       = {10.5281/zenodo.23735996},
+  url       = {https://doi.org/10.5281/zenodo.23735996},
   note      = {Version 1, machine-extracted}
 }
 
@@ -131,8 +131,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-espei},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-espei},
+  doi       = {10.5281/zenodo.23735788},
+  url       = {https://doi.org/10.5281/zenodo.23735788},
   note      = {Version 1, machine-extracted}
 }
 
@@ -142,8 +142,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-bibliography},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-bibliography},
+  doi       = {10.5281/zenodo.23736021},
+  url       = {https://doi.org/10.5281/zenodo.23736021},
   note      = {Version 1, machine-extracted}
 }
 
@@ -153,8 +153,8 @@ Version 1, machine-extracted: values were read by language-model readers constra
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-orchid-data},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  doi       = {10.5281/zenodo.23736065},
+  url       = {https://doi.org/10.5281/zenodo.23736065},
   note      = {Version 1, machine-extracted}
 }
 ```

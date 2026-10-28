@@ -4690,7 +4690,7 @@ One record: `https://data.orchid-project.org/bibliography/papers/<key>.json` wit
 ### Licence
 
 Crossref bibliographic metadata: CC0 (as distributed by Crossref). ORCHID-derived fields (roles, evidence counts,
-relations, systems, checks): CC BY 4.0 — cite this bibliography: R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-bibliography.
+relations, systems, checks): CC BY 4.0 — cite this bibliography: R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736021.
 
 ### Ids
 

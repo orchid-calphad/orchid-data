@@ -7,10 +7,10 @@
   "license": "CC-BY-4.0",
   "status": "Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.",
   "title": "ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs",
-  "doi": "10.5281/zenodo.PENDING-espei",
-  "url": "https://doi.org/10.5281/zenodo.PENDING-espei",
-  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei",
-  "bibtex": "@misc{orchid_espei_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-espei},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-espei},\n  note      = {Version 1, machine-extracted}\n}",
+  "doi": "10.5281/zenodo.23735788",
+  "url": "https://doi.org/10.5281/zenodo.23735788",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735788",
+  "bibtex": "@misc{orchid_espei_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23735788},\n  url       = {https://doi.org/10.5281/zenodo.23735788},\n  note      = {Version 1, machine-extracted}\n}",
   "also_cite": [
    "the original source of every value you use (each dataset's `reference` / `bibtex`, references.bib; index.csv lists the DOIs)",
    "A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0)",
@@ -18,15 +18,15 @@
   ],
   "part_of": {
    "title": "ORCHID data: umbrella record of the ORCHID datasets",
-   "doi": "10.5281/zenodo.PENDING-orchid-data",
-   "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+   "doi": "10.5281/zenodo.23736065",
+   "url": "https://doi.org/10.5281/zenodo.23736065",
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736065",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.23736065},\n  url       = {https://doi.org/10.5281/zenodo.23736065},\n  note      = {Version 1, machine-extracted}\n}"
   }
  },
  "totals": {
-  "datasets": 6452,
-  "values": 12512,
+  "datasets": 6453,
+  "values": 12513,
   "by_folder": {
    "experimental": {
     "datasets": 1118,
@@ -34,9 +34,9 @@
     "systems": 185
    },
    "model": {
-    "datasets": 503,
-    "values": 781,
-    "systems": 81
+    "datasets": 504,
+    "values": 782,
+    "systems": 82
    },
    "invariants": {
     "datasets": 1546,
@@ -90,7 +90,7 @@
    "model/GMR": 12,
    "model/HMR": 95,
    "model/HM_FORM": 252,
-   "model/SM": 18,
+   "model/SM": 19,
    "model/SMR": 12,
    "model/SM_FORM": 43,
    "model/ZPF": 12
@@ -117,7 +117,7 @@
    "duplicate_identical_zpf": 122,
    "duplicate_of_other_dataset": 1,
    "espei_evaluation_error": 68,
-   "espei_evaluation_nonfinite": 57,
+   "espei_evaluation_nonfinite": 56,
    "espei_evaluation_tdb_error": 13,
    "espei_evaluation_tdb_not_found": 3,
    "evidence_class_mismatch": 11,
@@ -210,7 +210,7 @@
    "experimental/single_reader_text_layer": 66,
    "invariants/multi_reader": 5517,
    "invariants/single_reader_text_layer": 32,
-   "model/multi_reader": 766,
+   "model/multi_reader": 767,
    "model/single_reader": 7,
    "model/single_reader_text_layer": 8
   },
@@ -280,8 +280,8 @@
      "systems": 471
     },
     "derived/invariant-brackets": {
-     "datasets": 1073,
-     "points": 4744,
+     "datasets": 1072,
+     "points": 4742,
      "systems": 390
     },
     "derived/liquid-stability": {
@@ -49053,58 +49053,6 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/CD-TE/CdTe-09Liu.zpf-05.json"
-  },
-  {
-   "path": "derived/invariant-brackets/CD-TL/CdTl-09Liu.zpf-00.json",
-   "folder": "derived/invariant-brackets",
-   "system": "CD-TL",
-   "components": [
-    "CD",
-    "TL",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "BCC_A2",
-    "HCP_A3",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 0,
-   "T_min_K": 453.0,
-   "T_max_K": 497.0,
-   "evidence_class": "derived",
-   "reference": "Liu 2009, doi:10.1016/j.jallcom.2008.05.106",
-   "bibtex": "liu2009_29d7da",
-   "dois": [
-    "10.1016/j.jallcom.2008.05.106"
-   ],
-   "papers": [
-    "doi:10.1016/j.jallcom.2008.05.106"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/CD-TL/CdTl-09Liu.zpf-00.json"
   },
   {
    "path": "derived/invariant-brackets/CD-TL/CdTl-09Liu.zpf-01.json",
@@ -451523,6 +451471,66 @@
    "model_link_basis": "reporting_paper_own_model (TDB header cites this paper)",
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/general/espei-model/BiO-95Ris-LB/sm-model-01.json"
+  },
+  {
+   "path": "model/C-TI/TiC-03Fri.sm-model-01.json",
+   "folder": "model",
+   "system": "C-TI",
+   "components": [
+    "C",
+    "TI",
+    "VA"
+   ],
+   "output": "SM",
+   "phases": [
+    "FCC_A1"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 298.15,
+   "T_max_K": 298.15,
+   "evidence_class": "model",
+   "reference": "Frisk 2003, doi:10.1016/j.calphad.2004.01.004",
+   "bibtex": "frisk2003_9a8ff0",
+   "dois": [
+    "10.1016/j.calphad.2004.01.004"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2004.01.004"
+   ],
+   "observation_ids": [
+    "ORC-M3ZR2NE26Z.0a9e87"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "model_value",
+    "evidence_class:model",
+    "thermochemical_table",
+    "model",
+    "orchid"
+   ],
+   "weight": 0.2,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 1.0,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "model_budget": 1,
+    "method_prior": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": "TiC-03Fri.tdb",
+   "tdb_sha256": "9f4e6802632c842e13cd4b81a9fbae51a3f4e0d34475bcfab24858cd331d065b",
+   "model_link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei-model/TiC-03Fri/sm-model-01.json"
   },
   {
    "path": "model/C-V/VC-06Hu.zpf-model-00.json",

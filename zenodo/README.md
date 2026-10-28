@@ -34,7 +34,7 @@ from the GitHub integration and are not described here. All records go to the Ze
 - `<name>.files.json` — the files of the record (repository paths, bytes, SHA-256), written by
   `tools/zenodo_release.py manifest` from the rules in that script.
 - `dois.json` — the DOI of each record. Until DOIs are reserved they are placeholders
-  `10.5281/zenodo.PENDING-<name>`; every builder reads this file (through `tools/orchid_cite.py` in the website
+  `unassigned per-record DOI`; every builder reads this file (through `tools/orchid_cite.py` in the website
   repository), so the citations embedded in the data (`cite_as`, Parquet metadata, static pages) follow it.
 
 The tools live in the website repository `orchid-calphad/orchid-project.org` (`tools/zenodo_release.py`) and expect

@@ -102,11 +102,11 @@
    "source": "espei/index.json"
   },
   "es_datasets": {
-   "value": 6452,
+   "value": 6453,
    "source": "espei/index.json"
   },
   "es_derived": {
-   "value": 1494,
+   "value": 1493,
    "source": "espei/index.json"
   },
   "es_dft": {
@@ -122,7 +122,7 @@
    "source": "espei/index.json (datasets by folder)"
   },
   "es_model": {
-   "value": 503,
+   "value": 504,
    "source": "espei/index.json (datasets by folder)"
   },
   "es_systems": {
@@ -130,7 +130,7 @@
    "source": "espei/index.json"
   },
   "es_values": {
-   "value": 12512,
+   "value": 12513,
    "source": "espei/index.json"
   },
   "es_version": {
@@ -154,7 +154,7 @@
    "source": "parquet/literature_values.parquet"
   },
   "ex_commit": {
-   "value": "e695580ab2",
+   "value": "6d68789772",
    "source": "zenodo/orchid-examples.files.json"
   },
   "ex_files": {
@@ -162,7 +162,7 @@
    "source": "zenodo/orchid-examples.files.json"
   },
   "ex_kb": {
-   "value": 13932,
+   "value": 13931,
    "source": "zenodo/orchid-examples.files.json (total_bytes / 1000)"
   },
   "h_mp_agree": {

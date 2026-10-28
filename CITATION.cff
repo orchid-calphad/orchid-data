@@ -16,37 +16,37 @@ authors:
     orcid: "https://orcid.org/0000-0002-5797-3423"
     affiliation: "Oak Ridge National Laboratory"
 version: "2026.10"
-doi: "10.5281/zenodo.PENDING-orchid-data"
+doi: "10.5281/zenodo.23736065"
 license: CC-BY-4.0
 url: "https://data.orchid-project.org"
 repository-code: "https://github.com/orchid-calphad/orchid-data"
 abstract: "Umbrella record of the ORCHID data release: literature values, calculated binary phase diagrams, binary convex hulls, the DFT-vs-experiment formation-enthalpy benchmark, the phase registry, assessed phase assemblages, ESPEI datasets and the bibliography. Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress."
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.PENDING-orchid-data"
+    value: "10.5281/zenodo.23736065"
     description: "ORCHID data (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-literature"
+    value: "10.5281/zenodo.23735569"
     description: "ORCHID literature values (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-phase-diagrams"
+    value: "10.5281/zenodo.23735859"
     description: "ORCHID calculated binary phase diagrams (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-hulls"
+    value: "10.5281/zenodo.23735891"
     description: "ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-dft-benchmark"
+    value: "10.5281/zenodo.23735943"
     description: "ORCHID DFT-vs-experiment formation-enthalpy benchmark (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-phase-registry"
+    value: "10.5281/zenodo.23735970"
     description: "ORCHID phase registry (binary systems) (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-assessed-phase-assemblages"
+    value: "10.5281/zenodo.23735996"
     description: "ORCHID assessed phase assemblages (binary systems) (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-espei"
+    value: "10.5281/zenodo.23735788"
     description: "ORCHID ESPEI datasets from the literature (Zenodo, v2026.10)"
   - type: doi
-    value: "10.5281/zenodo.PENDING-bibliography"
+    value: "10.5281/zenodo.23736021"
     description: "ORCHID bibliography (Zenodo, v2026.10)"
 keywords: [CALPHAD, thermodynamics, phase diagrams, convex hull, DFT, formation enthalpy, AI-ready data]

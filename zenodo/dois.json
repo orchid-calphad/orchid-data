@@ -1,16 +1,16 @@
 {
- "description": "Zenodo DOIs of the ORCHID data release v2026.10 (umbrella + eight datasets) and of the software record orchid-examples. Placeholders (10.5281/zenodo.PENDING-<name>) until the DOIs are reserved; set by tools/zenodo_release.py writeback in the orchid-project.org repository, read by every builder (tools/orchid_cite.py).",
+ "description": "Zenodo DOIs of the ORCHID data release v2026.10 (umbrella + eight datasets) and of the software record orchid-examples. Placeholders (unassigned per-record DOI) until the DOIs are reserved; set by tools/zenodo_release.py writeback in the orchid-project.org repository, read by every builder (tools/orchid_cite.py).",
  "dois": {
-  "assessed-phase-assemblages": "10.5281/zenodo.PENDING-assessed-phase-assemblages",
-  "bibliography": "10.5281/zenodo.PENDING-bibliography",
-  "dft-benchmark": "10.5281/zenodo.PENDING-dft-benchmark",
-  "espei": "10.5281/zenodo.PENDING-espei",
-  "hulls": "10.5281/zenodo.PENDING-hulls",
-  "literature": "10.5281/zenodo.PENDING-literature",
-  "orchid-data": "10.5281/zenodo.PENDING-orchid-data",
-  "orchid-examples": "10.5281/zenodo.PENDING-orchid-examples",
-  "phase-diagrams": "10.5281/zenodo.PENDING-phase-diagrams",
-  "phase-registry": "10.5281/zenodo.PENDING-phase-registry"
+  "assessed-phase-assemblages": "10.5281/zenodo.23735996",
+  "bibliography": "10.5281/zenodo.23736021",
+  "dft-benchmark": "10.5281/zenodo.23735943",
+  "espei": "10.5281/zenodo.23735788",
+  "hulls": "10.5281/zenodo.23735891",
+  "literature": "10.5281/zenodo.23735569",
+  "orchid-data": "10.5281/zenodo.23736065",
+  "orchid-examples": "10.5281/zenodo.23736043",
+  "phase-diagrams": "10.5281/zenodo.23735859",
+  "phase-registry": "10.5281/zenodo.23735970"
  },
  "release_tag": "v2026.10",
  "version": "2026.10"

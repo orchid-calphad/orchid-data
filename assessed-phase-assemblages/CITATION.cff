@@ -16,13 +16,13 @@ authors:
     orcid: "https://orcid.org/0000-0002-5797-3423"
     affiliation: "Oak Ridge National Laboratory"
 version: "2026.10"
-doi: "10.5281/zenodo.PENDING-assessed-phase-assemblages"
+doi: "10.5281/zenodo.23735996"
 license: CC-BY-4.0
 url: "https://data.orchid-project.org"
 repository-code: "https://github.com/orchid-calphad/orchid-data"
 abstract: "One (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary phase diagrams compiled in Okamoto's Desk Handbook, with the phase assemblage present, phase-registry ids, coordinate uncertainty, naming basis, confidence, review state, a cross-check against calculated SGTE diagrams and ESPEI ZPF datasets; evidence class assessed_phase_diagram. Version 1, machine-extracted: phase fields of expert-drawn (assessed) diagrams named by deterministic rules, model readers, an adjudicator and partial expert review (basis and review state per record); one point deep inside each field; boundary and tie-line positions are drawing-based and of low credence."
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.PENDING-orchid-data"
+    value: "10.5281/zenodo.23736065"
     description: "Umbrella record ORCHID data (all datasets of release v2026.10)"
 keywords: [CALPHAD, thermodynamics, phase diagrams, convex hull, DFT, formation enthalpy, AI-ready data]

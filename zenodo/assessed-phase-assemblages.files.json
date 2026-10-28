@@ -16,12 +16,12 @@
  ],
  "exclude": [],
  "n_files": 2161,
- "total_bytes": 41133290,
+ "total_bytes": 41131481,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 38061,
-   "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
+   "bytes": 37951,
+   "sha256": "ca6f2d7b39d7724ab8939d8f94ac72806b96f94ea0622fbc7b64e72b379657fe"
   },
   {
    "path": "CITATIONS.json",
@@ -50,18 +50,18 @@
   },
   {
    "path": "README.md",
-   "bytes": 9300,
-   "sha256": "4055c5f5ee11cee87769a5bbf833b1d750d657a4741b5ae4e1bbb1789c8973bb"
+   "bytes": 9080,
+   "sha256": "b71aa6474d52cb2d1ba8f32675f6e8deed5d2bae56b6818419d4030e7e655099"
   },
   {
    "path": "assessed-phase-assemblages/CITATION.cff",
-   "bytes": 1905,
-   "sha256": "f18a7c81dc0700fb029a0005273b4f39244b0a7f279778b23d12e3923aa8ac79"
+   "bytes": 1868,
+   "sha256": "e92751e085bbe72c6b80d97938eb2aa6eaefeb4e72d4b358423e03ecbaf0c804"
   },
   {
    "path": "assessed-phase-assemblages/README.md",
-   "bytes": 10225,
-   "sha256": "7c9e98e239ee7a04429a299bb552a4e81127cf990ca6bf624845976439e226d8"
+   "bytes": 10188,
+   "sha256": "47ed9b58432136006545d2f1f252790648958820f09c6f19bfd2075e32eb4a43"
   },
   {
    "path": "assessed-phase-assemblages/SCHEMA.md",
@@ -85,8 +85,8 @@
   },
   {
    "path": "assessed-phase-assemblages/dense-field-grid/records.parquet",
-   "bytes": 36141,
-   "sha256": "03f9ff32191b4dde31910606dce4de8ba3e6b78addd6a0d26b642f61396e5a41"
+   "bytes": 35584,
+   "sha256": "09d3d553d40126d3094059a96c915852ba9e03a440619d20bd1c0f39e153aa84"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json",
@@ -10805,8 +10805,8 @@
   },
   {
    "path": "assessed-phase-assemblages/records.parquet",
-   "bytes": 1722192,
-   "sha256": "7d21206f474f7a6c907b2708eb30b3879d65afd1a3cab0bfdb12ed9940c8d0cc"
+   "bytes": 1721635,
+   "sha256": "7ab46798ab1c3c1637660e53277c8237608b60464e29954758789becab0dac03"
   },
   {
    "path": "assessed-phase-assemblages/sgte_not_comparable.csv",
@@ -10815,13 +10815,13 @@
   },
   {
    "path": "assessed-phase-assemblages/summary.json",
-   "bytes": 9708,
-   "sha256": "2cb03320ffc863a6996071f91df165112c8516dcf755f9a8d1167086865757f7"
+   "bytes": 9523,
+   "sha256": "9dee11d3f5771c4ce860e2bb567074aa183d24374afacb079a0df99a8a3be569"
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",
-   "bytes": 9780,
-   "sha256": "1ceaeeba214b6057ad03060bd0db7981d9fd451fff86ba6d4724538d1ace0271"
+   "bytes": 9674,
+   "sha256": "33e038ddcb9a349fda6c66b0d57bcff05d5a9fcf421039b847a4701934446f53"
   }
  ]
 }

@@ -19,12 +19,12 @@
  ],
  "exclude": [],
  "n_files": 2791,
- "total_bytes": 123662037,
+ "total_bytes": 123660238,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 38061,
-   "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
+   "bytes": 37951,
+   "sha256": "ca6f2d7b39d7724ab8939d8f94ac72806b96f94ea0622fbc7b64e72b379657fe"
   },
   {
    "path": "CITATIONS.json",
@@ -53,28 +53,28 @@
   },
   {
    "path": "README.md",
-   "bytes": 9300,
-   "sha256": "4055c5f5ee11cee87769a5bbf833b1d750d657a4741b5ae4e1bbb1789c8973bb"
+   "bytes": 9080,
+   "sha256": "b71aa6474d52cb2d1ba8f32675f6e8deed5d2bae56b6818419d4030e7e655099"
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 26588,
-   "sha256": "0a42c08ed73bb141cf8dedf2f530866b84f71b8f62583ad5201357abc2bab2ef"
+   "bytes": 26103,
+   "sha256": "d2cf9bff42195114693718682033f59b4d3a20794efee1514f8e10dda326747c"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",
-   "bytes": 265380,
-   "sha256": "b7b7c4d01a0008604bcb34d468165f615d9d5a781c52e69b826b5f3977e0db80"
+   "bytes": 265015,
+   "sha256": "a28210e3cc7201f7badb66a2c9a913c900001e444088ba50a679bb3e7c04183b"
   },
   {
    "path": "parquet/phase_diagram_invariants.parquet",
-   "bytes": 691861,
-   "sha256": "f75d19a9d5ff73ad74b4517e8746124704a785e6d587dba46f0ef166136d7996"
+   "bytes": 691496,
+   "sha256": "fcb200ecb0225cffa5bf30d66130ce6d28230269520f3cee29b0b56aaaa0841b"
   },
   {
    "path": "phase-diagrams/CITATION.cff",
-   "bytes": 1339,
-   "sha256": "e1f1467d48bd5f0cd26f1b4232e250fcc6e9c3d5a80670d6d485e61ffca5632c"
+   "bytes": 1314,
+   "sha256": "943567a406a9ee08d76e879b5ea73c9e22f57c9ca17e053004496e1c64c7bb95"
   },
   {
    "path": "phase-diagrams/EMPTY_OUTPUT_REVIEW.json",
@@ -93,8 +93,8 @@
   },
   {
    "path": "phase-diagrams/index.json",
-   "bytes": 851381,
-   "sha256": "3a08f5d48dd8b48fcb75a07284cb194cd6c6359d449b954e29cb57c87e6903d8"
+   "bytes": 851256,
+   "sha256": "0b00858a7e3f6b9e6aeba61538036a00a3d8bc462bc728d85494b21c56c0d728"
   },
   {
    "path": "phase-diagrams/sgte/AgAl-04Wit.json",
@@ -13973,8 +13973,8 @@
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
-   "bytes": 11859,
-   "sha256": "b5b7a1cff41114a416a01c5a3df4939dd7436ccc0aa1d82610763d0cff375115"
+   "bytes": 11755,
+   "sha256": "5d139222f2b5529a7a6e553b74ea7cbb940a766e2164d75268ed3bd8eb03f744"
   }
  ]
 }

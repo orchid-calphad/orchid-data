@@ -48,15 +48,15 @@ source of every value (its paper and DOI).
 
 | Dataset | Content | DOI |
 |---|---|---|
-| ORCHID literature values | `literature/` (except the DFT benchmark files), Parquet `literature_values`, `papers`, `experimental_context` | [10.5281/zenodo.PENDING-literature](https://doi.org/10.5281/zenodo.PENDING-literature) |
-| ORCHID calculated binary phase diagrams | `phase-diagrams/`, Parquet `phase_diagram_index`, `phase_diagram_invariants` | [10.5281/zenodo.PENDING-phase-diagrams](https://doi.org/10.5281/zenodo.PENDING-phase-diagrams) |
-| ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) | `hulls/`, Parquet `hull_vertices` | [10.5281/zenodo.PENDING-hulls](https://doi.org/10.5281/zenodo.PENDING-hulls) |
-| ORCHID DFT-vs-experiment formation-enthalpy benchmark | `literature/dft_parity.json`, `literature/kim2017_crosscheck.*`, Parquet `dft_parity` | [10.5281/zenodo.PENDING-dft-benchmark](https://doi.org/10.5281/zenodo.PENDING-dft-benchmark) |
-| ORCHID phase registry (binary systems) | `phases/` (registry JSON, CSV, Parquet, JSON-LD, structure types, review queue) | [10.5281/zenodo.PENDING-phase-registry](https://doi.org/10.5281/zenodo.PENDING-phase-registry) |
-| ORCHID assessed phase assemblages (binary systems) | `assessed-phase-assemblages/` (JSONL, CSV, Parquet, ESPEI ZPF datasets, exclusions) | [10.5281/zenodo.PENDING-assessed-phase-assemblages](https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages) |
-| ORCHID ESPEI datasets from the literature | `espei/` (ESPEI JSON per evidence class, index, references, validation, DFT calibration) | [10.5281/zenodo.PENDING-espei](https://doi.org/10.5281/zenodo.PENDING-espei) |
-| ORCHID bibliography | `bibliography/` (papers, edges, per-paper and per-system JSON, BibTeX, CSL-JSON, JSON-LD), Parquet `bibliography_papers`, `bibliography_edges` | [10.5281/zenodo.PENDING-bibliography](https://doi.org/10.5281/zenodo.PENDING-bibliography) |
-| ORCHID data | umbrella: documentation, licences, `DATASET_CARD.md`, Parquet manifest, Zenodo metadata | [10.5281/zenodo.PENDING-orchid-data](https://doi.org/10.5281/zenodo.PENDING-orchid-data) |
+| ORCHID literature values | `literature/` (except the DFT benchmark files), Parquet `literature_values`, `papers`, `experimental_context` | [10.5281/zenodo.23735569](https://doi.org/10.5281/zenodo.23735569) |
+| ORCHID calculated binary phase diagrams | `phase-diagrams/`, Parquet `phase_diagram_index`, `phase_diagram_invariants` | [10.5281/zenodo.23735859](https://doi.org/10.5281/zenodo.23735859) |
+| ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) | `hulls/`, Parquet `hull_vertices` | [10.5281/zenodo.23735891](https://doi.org/10.5281/zenodo.23735891) |
+| ORCHID DFT-vs-experiment formation-enthalpy benchmark | `literature/dft_parity.json`, `literature/kim2017_crosscheck.*`, Parquet `dft_parity` | [10.5281/zenodo.23735943](https://doi.org/10.5281/zenodo.23735943) |
+| ORCHID phase registry (binary systems) | `phases/` (registry JSON, CSV, Parquet, JSON-LD, structure types, review queue) | [10.5281/zenodo.23735970](https://doi.org/10.5281/zenodo.23735970) |
+| ORCHID assessed phase assemblages (binary systems) | `assessed-phase-assemblages/` (JSONL, CSV, Parquet, ESPEI ZPF datasets, exclusions) | [10.5281/zenodo.23735996](https://doi.org/10.5281/zenodo.23735996) |
+| ORCHID ESPEI datasets from the literature | `espei/` (ESPEI JSON per evidence class, index, references, validation, DFT calibration) | [10.5281/zenodo.23735788](https://doi.org/10.5281/zenodo.23735788) |
+| ORCHID bibliography | `bibliography/` (papers, edges, per-paper and per-system JSON, BibTeX, CSL-JSON, JSON-LD), Parquet `bibliography_papers`, `bibliography_edges` | [10.5281/zenodo.23736021](https://doi.org/10.5281/zenodo.23736021) |
+| ORCHID data | umbrella: documentation, licences, `DATASET_CARD.md`, Parquet manifest, Zenodo metadata | [10.5281/zenodo.23736065](https://doi.org/10.5281/zenodo.23736065) |
 
 Machine-readable: a top-level `cite_as` object (text, BibTeX, DOI) in every index/catalog JSON and in each
 `literature/systems/*.json`; `orchid.cite_as` metadata in the Parquet files; `literature/CITATION.txt` beside the

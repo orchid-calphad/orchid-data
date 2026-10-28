@@ -117,9 +117,9 @@ Traced boundary geometry, reader/adjudicator reasons and review pages are not pa
 Cite this dataset, the umbrella ORCHID data record, and, for every diagram you use, its **original evaluation**
 (`citations[role=original_evaluation]`, DOI where matched) followed by the Okamoto handbook as the compilation.
 
-R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
+R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23735996
 
-Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.23736065
 
 
 ## Dense field grid (derived points of the assessed-diagram class)
