@@ -1,6 +1,6 @@
 # Changelog
 
-## v2026.10 — Version 1, first public release (29 October 2026)
+## v2026.10 — Version 1, first public release (28 October 2026)
 
 ORCHID's first public release. It gathers openly available CALPHAD thermodynamic databases and the evidence behind them, with every value stored as an observation of an equilibrium state: the phases, temperature, pressure, compositions and reference state, together with the source, the page, the quoted sentence or table row, and an evidence class (experimental, model, DFT, assessed phase diagram, unspecified) that is never mixed.
 
