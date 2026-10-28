@@ -1,10 +1,10 @@
 # Li–Te system
 
-> Li–Te system: 22 accepted literature values (invariant reaction 10, formation 5, phase transition 4, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Te system: 19 accepted literature values (invariant reaction 10, formation 5, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-TE.html · Markdown: https://data.orchid-project.org/systems/LI-TE.md
 
-22 accepted literature values from 1 paper(s) (experimental 6, model 12, DFT 4); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+19 accepted literature values from 1 paper(s) (experimental 6, model 9, DFT 4); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-TE.json) · [CSV](https://data.orchid-project.org/systems/LI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-TE/LiTe-22Yu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/LI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-TE.html) · [Markdown](https://data.orchid-project.org/systems/LI-TE.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 12 |
+| model | 9 |
 | DFT | 4 |
 
 Table: Accepted values by property group
@@ -23,7 +23,6 @@ Table: Accepted values by property group
 | invariant reaction | 10 |
 | phase transition | 4 |
 | formation | 5 |
-| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -90,16 +89,6 @@ Table: Phase transition, Li–Te system
 | Phase transition | 733 K | 733 | L -> LiTe3; _L: Te 0.75; LiTe3: Te 0.75_ | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 12; `ORC-QFLM5Z5AVL` |  |
 | Phase transition | 1468.2 K | 1468.2 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | model | [1] Yu 2022 | Table 6, p. 16, row 9; `ORC-VFH3W56XIH` |  |
 | Phase transition | 1472 K | 1472 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 10; `ORC-CA37ENEZCO` |  |
-
-### Crystal structure (3)
-
-Table: Crystal structure, Li–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.652 Å | 298.15 | Li2Te; _alloy: Li 0.666667, Te 0.333333_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 22; `ORC-TNG6SCPIM5` |  |
-| Lattice a | 0.871 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23; `ORC-X65AGFPNYE.19529d` |  |
-| Lattice c | 2.135 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23; `ORC-X65AGFPNYE.b14198` |  |
 
 ## Sources
 

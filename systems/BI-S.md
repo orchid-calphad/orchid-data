@@ -1,10 +1,10 @@
 # Bi–S system
 
-> Bi–S system: 9 accepted literature values (heat capacity / entropy / enthalpy 3, phase transition 3, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–S system: 6 accepted literature values (phase transition 3, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-S.html · Markdown: https://data.orchid-project.org/systems/BI-S.md
 
-9 accepted literature values from 1 paper(s) (experimental 2, model 5, unspecified 2); 1 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 1, model 4, unspecified 1); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-S.json) · [CSV](https://data.orchid-project.org/systems/BI-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-S/BiS-14Hua.json) · [phases (8)](https://data.orchid-project.org/phases/pages/BI-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-S.html) · [Markdown](https://data.orchid-project.org/systems/BI-S.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 5 |
-| unspecified | 2 |
+| experimental | 1 |
+| model | 4 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 3 |
 | phase transition | 3 |
-| heat capacity / entropy / enthalpy | 3 |
 
 ## Calculated phase diagrams
 
@@ -66,16 +65,6 @@ Table: Phase transition, Bi–S system
 | Phase transition | 1036 K | 1036 | congruent transformation | experimental | [1] Huang 2014; _cites Glatz 1966_ [doi](https://doi.org/10.1021/j100883a513) | Table VI, p. 6, row 3; `ORC-OXKRFLCFJQ` |  |
 | Phase transition | 1043 K | 1043 | congruent transformation | model | [1] Huang 2014 | Table VI, p. 6, row 1; `ORC-YOGBSIZEHI` |  |
 | Phase transition | 1048 K | 1048 | congruent transformation | unspecified | [1] Huang 2014; _cites ref. 32_ | Table VI, p. 6, row 2; `ORC-ZT2MVI3ET7` |  |
-
-### Heat capacity / entropy / enthalpy (3)
-
-Table: Heat capacity / entropy / enthalpy, Bi–S system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy of Melting_ | 38 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [1] Huang 2014; _cites Itagaki 1985_ [doi](https://doi.org/10.1016/0040-6031%2885%2985439-3) | Table III, p. 5, row 3; `ORC-JBLMBCG6C6` |  |
-| Entropy; _printed: Entropy of Melting_ | 49.4 J/mol (basis unstated)/K |  | UNKNOWN | unspecified | [1] Huang 2014; _cites Shamsuddin 1981_ | Table III, p. 5, row 2; `ORC-KPZJ42RVEJ` |  |
-| Entropy; _printed: Entropy of Melting_ | 55.1 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Huang 2014 | Table III, p. 5, row 1; `ORC-Z7IMWLN4LN` |  |
 
 ## Sources
 

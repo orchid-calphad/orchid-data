@@ -12,9 +12,9 @@ Table: Phases of the Gd–Zr system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-gd-zr-bcc-a2); _phase:gd-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300.25–3999.1 K, x(Zr) 0–1 | 26 | 4 |
+| [BCC_A2](#phase-gd-zr-bcc-a2); _phase:gd-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300.25–3999.1 K, x(Zr) 0–1 | 24 | 4 |
 | [FCC_A1](#phase-gd-zr-fcc-a1); _phase:gd-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [HCP_A3](#phase-gd-zr-hcp-a3); _phase:gd-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1625.95 K, x(Zr) 0–1 | 51 | 4 |
+| [HCP_A3](#phase-gd-zr-hcp-a3); _phase:gd-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1625.95 K, x(Zr) 0–1 | 40 | 4 |
 | [LIQUID](#phase-gd-zr-liquid); _phase:gd-zr:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1475.4–4000 K, x(Zr) 0–1 | 23 | 4 |
 
 ## BCC_A2 (Gd–Zr)
@@ -22,7 +22,7 @@ Table: Phases of the Gd–Zr system (4)
 - Id: `phase:gd-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300.25–3999.1 K, x(Zr) 0–1
-- Literature: 26 values (26 accepted) from 3 papers
+- Literature: 24 values (24 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-zr:bcc-a2)
 
 Names (10): _corpus: _corpus:phase:gd-zr:bcc-a2  
@@ -129,7 +129,7 @@ _assessment that models this phase_
 - Id: `phase:gd-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1625.95 K, x(Zr) 0–1
-- Literature: 51 values (51 accepted) from 2 papers
+- Literature: 40 values (40 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-zr:hcp-a3)
 
 Names (8): _corpus: _corpus:phase:gd-zr:hcp-a3  

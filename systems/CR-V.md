@@ -1,10 +1,10 @@
 # Cr–V system
 
-> Cr–V system: 12 accepted literature values (heat capacity / entropy / enthalpy 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–V system: 6 accepted literature values (heat capacity / entropy / enthalpy 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-V.html · Markdown: https://data.orchid-project.org/systems/CR-V.md
 
-12 accepted literature values from 1 paper(s) (experimental 12); 4 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+6 accepted literature values from 1 paper(s) (experimental 6); 4 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-V.json) · [CSV](https://data.orchid-project.org/systems/CR-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-V/CrV-02Gho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-V.html) · [Markdown](https://data.orchid-project.org/systems/CR-V.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 12 |
+| heat capacity / entropy / enthalpy | 6 |
 
 ## Calculated phase diagrams
 
@@ -37,18 +37,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (12)
+### Heat capacity / entropy / enthalpy (6)
 
 Table: Heat capacity / entropy / enthalpy, Cr–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S'298_ | 24.5 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6; `ORC-CVGPP2EES2.902166` |  |
-| Entropy; _printed: S'298_ | 24.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3; `ORC-EPYUWME3S2.4b91f9` |  |
-| Entropy; _printed: S'298_ | 23.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4; `ORC-HLSQ32LD7W.813e3a` |  |
-| Entropy; _printed: S'298_ | 21.8 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5; `ORC-HRCXWJ5ASY.680328` |  |
-| Entropy; _printed: S'298_ | 30.6 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1; `ORC-MFUTBPJ73V.a91205` |  |
-| Entropy; _printed: S'298_ | 26.7 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2; `ORC-NKAWVPI72A.406946` |  |
 | Heat capacity; _printed: Cp, 298_ | 23.58 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6; `ORC-CVGPP2EES2.280500` |  |
 | Heat capacity; _printed: Cp, 298_ | 23.35 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3; `ORC-EPYUWME3S2.d891c2` |  |
 | Heat capacity; _printed: Cp, 298_ | 23.56 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4; `ORC-HLSQ32LD7W.9589eb` |  |

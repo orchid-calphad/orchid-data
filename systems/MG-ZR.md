@@ -106,8 +106,8 @@ Table: Heat capacity / entropy / enthalpy, Mg–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Heat capacity Cp_ | 0.972 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Mg 0.991, Zr 0.001_ | experimental | [3] Zhu 2018 | Table 5, p. 11, row 2; `ORC-7RH5I2DJLP` |  |
-| Heat capacity; _printed: Heat capacity Cp_ | 0.991 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Mg 0.997, Zr 0.001_ | experimental | [3] Zhu 2018 | Table 5, p. 11, row 1; `ORC-VKVQ25457O` |  |
+| Heat capacity; _printed: Heat capacity Cp_ | 0.972 J/g/K | 298.15 | UNKNOWN; _alloy: Mg 0.991, Zr 0.001_ | experimental | [3] Zhu 2018 | Table 5, p. 11, row 2; `ORC-7RH5I2DJLP` |  |
+| Heat capacity; _printed: Heat capacity Cp_ | 0.991 J/g/K | 298.15 | UNKNOWN; _alloy: Mg 0.997, Zr 0.001_ | experimental | [3] Zhu 2018 | Table 5, p. 11, row 1; `ORC-VKVQ25457O` |  |
 
 ## Sources
 

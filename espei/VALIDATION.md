@@ -65,7 +65,7 @@ Datasets evaluated in the final bundle: **8593**; all finite: **yes**.
 | derived/liquid-stability | zpf_driving_force_J | 421 | 3789 | 0.0 | 0.0 |
 | dft/literature | nonequilibrium_log_likelihood | 783 | 783 | 19.7782 | 40.2065 |
 | dft/mp | nonequilibrium_log_likelihood | 1251 | 1251 | 10.14 | 11.8093 |
-| dft/oqmd | nonequilibrium_log_likelihood | 1251 | 1251 | 10.0422 | 11.7164 |
+| dft/oqmd | nonequilibrium_log_likelihood | 1251 | 1251 | 10.0417 | 11.7164 |
 | experimental | activity_residual | 180 | 180 | 702.974 | 10643.2517 |
 | experimental | nonequilibrium_log_likelihood | 467 | 467 | 9.4496 | 15.6294 |
 | experimental | residual | 283 | 709 | 304.0 | 11251.128 |
@@ -519,13 +519,13 @@ Liquid-stability systems: above_a_boiling_point 82, element_not_a_condensed_liqu
 | formation_magnitude_implausible: formation enthalpy / Gibbs energy outside [-450, +100] kJ/mol-atom (per-formula value or unit error) | 2 |
 | gas_without_printed_pressure: ZPF region with a gas phase and no printed pressure | 23 |
 | model_phase_rejected_by_label_check: the record's model phase was rejected by the printed-label check (tools/phase_label_check.py; audit round 2, A2 class 1) | 417 |
-| not_accepted: published with extraction_accepted = false | 45 |
-| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 1112 |
+| not_accepted: published with extraction_accepted = false | 51 |
+| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 1115 |
 | phase_not_in_target_tdb: the value's phase has no model in the target TDB (the assessment folder) | 106 |
-| phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 703 |
+| phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 701 |
 | phase_rule:liquid_impossible_at_T: physical phase rule: liquid printed at a temperature below the lowest possible liquid temperature of the system | 3 |
-| phase_rule:not_espei_ready: the published value is not espei_ready | 300 |
-| phase_rule:phase_label_ambiguous: physical phase rule: the printed label maps to several registry phases | 148 |
+| phase_rule:not_espei_ready: the published value is not espei_ready | 294 |
+| phase_rule:phase_label_ambiguous: physical phase rule: the printed label maps to several registry phases | 147 |
 | phase_rule:phase_label_not_mapped: physical phase rule: the printed phase label is not mapped to a model phase by the phase registry | 685 |
 | phase_rule:phase_not_printed: physical phase rule: no phase printed for the value and the caption does not name the liquid (no default phase is assigned) | 7 |
 | phase_rule:temperature_implausible: physical phase rule: the temperature is zero, a composition, or (phase equilibria) below 0.25 x the lowest element melting point | 22 |
@@ -566,12 +566,12 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `model_phase_rejected_by_label_check`: 66
 - `model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert`: 2
 - `model_phase_rejected_by_label_check;zpf_region_inert`: 41
-- `not_accepted`: 8
+- `not_accepted`: 9
 - `not_accepted;phase_rule:not_espei_ready`: 1
 - `not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 1
 - `not_accepted;temperature_differs_from_release`: 1
 - `not_accepted;value_differs_from_release`: 2
-- `not_espei_ready:literature_gate`: 148
+- `not_espei_ready:literature_gate`: 149
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb`: 3
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped`: 1
 - `not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable`: 2
@@ -587,9 +587,9 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `phase_rule:compound_property_not_fittable;phase_rule:phase_label_ambiguous`: 1
 - `phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped`: 4
 - `phase_rule:liquid_impossible_at_T`: 1
-- `phase_rule:not_espei_ready`: 14
+- `phase_rule:not_espei_ready`: 13
 - `phase_rule:not_espei_ready;zpf_region_inert`: 2
-- `phase_rule:phase_label_ambiguous`: 65
+- `phase_rule:phase_label_ambiguous`: 64
 - `phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 7
 - `phase_rule:phase_label_ambiguous;reference_state_not_ser`: 4
 - `phase_rule:phase_label_not_mapped`: 282
@@ -604,7 +604,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `value_differs_from_release`: 53
 - `zpf_region_inert`: 237
 
-Datasets kept with some values removed: **1231** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 13273 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
+Datasets kept with some values removed: **1231** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 13271 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
 
 ## DFT endmember datasets
 
@@ -629,7 +629,7 @@ Every exclusion is listed in `validation.json` (`dft_excluded`).
 
 ## Uncertainty budget and method floors (2026-10-24)
 
-Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 (audit round 2) sha256 1822df56c224` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
+Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 (audit round 2) sha256 31e436d04997` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
 
 | value type | method class | pairs | states | basis | robust sigma | 95 % CI | floor | unit |
 |---|---|---:|---:|---|---:|---|---:|---|
@@ -641,8 +641,8 @@ Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + comp
 | HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
 | HM_FORM | model_calculated (vs experiment) | 2043 | 359 | calibrated | 3.855 | 3.191-4.581 | 3.9 | kJ/mol-atom |
 | LATTICE_LENGTH | unknown | 586 | 192 | calibrated | 0.002196 | 0.001793-0.002549 | 0.0022 | relative (fraction of the value) |
-| LATTICE_LENGTH | xrd | 26 | 21 | calibrated | 0.001144 | 0.000794-0.001872 | 0.0012 | relative (fraction of the value) |
-| LATTICE_LENGTH | model_calculated (vs experiment) | 173 | 88 | calibrated | 0.007665 | 0.00508-0.01271 | 0.0077 | relative (fraction of the value) |
+| LATTICE_LENGTH | xrd | 30 | 25 | calibrated | 0.001223 | 0.000866-0.003941 | 0.0013 | relative (fraction of the value) |
+| LATTICE_LENGTH | model_calculated (vs experiment) | 175 | 90 | calibrated | 0.007665 | 0.005826-0.01271 | 0.0077 | relative (fraction of the value) |
 | SM_FORM | model_calculated (vs experiment) | 118 | 42 | calibrated | 3.232 | 1.938-4.144 | 3.3 | J/K/mol-atom |
 | S_ABS | unknown | 77 | 20 | calibrated | 0.6571 | 0.2851-1.174 | 0.7 | J/K/mol |
 | T_INVARIANT | unknown | 4912 | 1680 | calibrated | 10.48 | 9.435-10.48 | 11 | K |
@@ -657,7 +657,7 @@ Values per folder and output (sigma_effective in ESPEI units):
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|
 | dft/literature | HM_FORM | 1770 | 0 | 0 | 0 | 1770 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 3947.0 | 4221.0 | 7929.0 | 8500.0 | 12165.0 |
 | dft/mp | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4664.0 | 6183.0 | 9157.0 | 9157.0 | 11815.0 |
-| dft/oqmd | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4627.0 | 7013.0 | 7444.0 | 8067.0 | 9524.0 |
+| dft/oqmd | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4627.0 | 7013.0 | 7452.0 | 8062.0 | 9524.0 |
 | experimental | ACR_CD | 7 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 1 (activity) | 2899.2272 | 2899.4808 | 2899.9191 | 2900.48 | 2900.6931 |
 | experimental | ACR_CO | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 1 (activity) | 2899.0572 | 2899.3424 | 2899.7339 | 2900.1703 | 2900.8997 |
 | experimental | ACR_CR | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 (activity) | 2900.0197 | 2900.0232 | 2900.0268 | 2900.0303 | 2900.0339 |

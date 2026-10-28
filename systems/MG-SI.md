@@ -354,7 +354,7 @@ Table: Crystal structure, Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.6347 not_printed ± 4.000e-4 | 298.15 | Mg2Si; _alloy: Mg 0.666667, Si 0.333333_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 13; `ORC-6EAHMIRD2G` |  |
+| Lattice a | 6.347 Å ± 0.004 | 298.15 | Mg2Si; _alloy: Mg 0.666667, Si 0.333333_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 13; `ORC-6EAHMIRD2G` |  |
 
 ### Other property (1)
 

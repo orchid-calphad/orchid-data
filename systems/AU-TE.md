@@ -104,12 +104,12 @@ Table: Crystal structure, Au–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.098 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 4; `ORC-4A43HV2WNV` |  |
-| Lattice a | 4.108 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 2; `ORC-IQMAJJYWQW` |  |
-| Lattice a | 4.095 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 8; `ORC-LITTMJK7JB` |  |
-| Lattice a | 4.091 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 10; `ORC-NFBW5EI7HF` |  |
-| Lattice a | 4.097 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 12; `ORC-UQDDDJRXQA` |  |
-| Lattice a | 4.099 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 6; `ORC-VRENDOGBZY` |  |
+| Lattice a | 4.098 Å | 298.15 | Au; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 4; `ORC-4A43HV2WNV` |  |
+| Lattice a | 4.108 Å | 298.15 | Au; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 2; `ORC-IQMAJJYWQW` |  |
+| Lattice a | 4.095 Å | 298.15 | Au; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 8; `ORC-LITTMJK7JB` |  |
+| Lattice a | 4.091 Å | 298.15 | Au; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 10; `ORC-NFBW5EI7HF` |  |
+| Lattice a | 4.097 Å | 298.15 | Au; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 12; `ORC-UQDDDJRXQA` |  |
+| Lattice a | 4.099 Å | 298.15 | Au; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 6; `ORC-VRENDOGBZY` |  |
 
 ### Other property (1)
 

@@ -213,7 +213,6 @@ Table: Mixing / partial, Ru–Sn system
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.774 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12; `ORC-V6RA3MWPZ6.f78e5e` |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.837 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40; `ORC-VRVFVNNLIK.64b578` |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.87 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18; `ORC-WFKR27PEJ5.7a67f5` |  |
-| Entropy of mixing; _printed: ΔSmelt_ | 14.8 J/mol (basis unstated)/K | 2607 | UNKNOWN; _alloy: Sn 0_ | model | [2] Charles 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 4, row 1; `ORC-N7AVZDCEWQ` |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1.794 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8; `ORC-7WFWVB42KW.ebc134` |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1.911 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7; `ORC-BJV75EA6LD.549c2e` |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.645 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43; `ORC-BOTUX572DN.0c5b90` |  |
@@ -262,6 +261,7 @@ Table: Mixing / partial, Ru–Sn system
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.081 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12; `ORC-V6RA3MWPZ6.ee90af` |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.352 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40; `ORC-VRVFVNNLIK.345cb2` |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.29 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18; `ORC-WFKR27PEJ5.d006d5` |  |
+| sm fusion; _printed: ΔSmelt_ | 14.8 J/mol (basis unstated)/K | 2607 | UNKNOWN; _alloy: Sn 0_ | model | [2] Charles 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 4, row 1; `ORC-N7AVZDCEWQ` |  |
 
 ### Activity / EMF / Gibbs energy (67)
 

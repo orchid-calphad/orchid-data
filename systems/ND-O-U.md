@@ -1,10 +1,10 @@
 # Nd–O–U system
 
-> Nd–O–U system: 30 accepted literature values (crystal structure 20, phase equilibrium 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–O–U system: 29 accepted literature values (crystal structure 19, phase equilibrium 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-O-U.html · Markdown: https://data.orchid-project.org/systems/ND-O-U.md
 
-30 accepted literature values from 1 paper(s) (experimental 20, model 10); 0 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 19, model 10); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-O-U.json) · [CSV](https://data.orchid-project.org/systems/ND-O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-O-U) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-O-U.html) · [Markdown](https://data.orchid-project.org/systems/ND-O-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 19 |
 | model | 10 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 10 |
-| crystal structure | 20 |
+| crystal structure | 19 |
 
 ## Other properties
 
@@ -41,7 +41,7 @@ Table: Phase equilibrium, Nd–O–U system
 | Phase composition |  |  | FCC 2; _FCC 2: Nd 0.051, O 0.658, U 0.291_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 6; `ORC-Z3INW7C72Q` |  |
 | Phase composition |  |  | FCC 2; _FCC 2: Nd 0.136, O 0.643, U 0.221_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 10; `ORC-ZNKPM26OZG` |  |
 
-### Crystal structure (20)
+### Crystal structure (19)
 
 Table: Crystal structure, Nd–O–U system
 
@@ -59,7 +59,6 @@ Table: Crystal structure, Nd–O–U system
 | Lattice a | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10; `ORC-KKKTYXICJD.cc73aa` |  |
 | Lattice a | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 7; `ORC-OVNKNV4A6U` |  |
 | Lattice a | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12; `ORC-Z55NPRZ6G5.4bef2c` |  |
-| Lattice a | 5.47 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 3; `ORC-6LKYG4AZKC` |  |
 | lattice unspecified axis | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8; `ORC-TPABATPOZV.f3e8e0` |  |
 | lattice unspecified axis | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13; `ORC-6QE547BW7C.8df3ad` |  |
 | lattice unspecified axis | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9; `ORC-LPLNRIFGPQ.ac8357` |  |

@@ -55,11 +55,11 @@ Table: Crystal structure, Si–Ta–V system
 | Lattice a | 0.7643 not_printed ± 7.000e-4 | 298.15 | (TaxV1−x)6Si5 | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47; `ORC-FIMCEAJCHH.d7f02b` |  |
 | Lattice a | 0.7258 not_printed ± 6.000e-4 | 298.15 | τ1-(TaxV1−x)5Si3 | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 23; `ORC-GWTBGG37U4.d696c8` |  |
 | Lattice a | 5.05 Å | 298.15 | τ2-Ta(TaVSi)2; _alloy: Si 0.285714, Ta 0.428571, V 0.285714_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28; `ORC-GJEEPWPUFV.89d5fa` |  |
-| Lattice a | 0.5 not_printed ± 0.003 | 298.15 | τ2-Ta(TaVSi)2; _alloy: Si 0.285714, Ta 0.428571, V 0.285714_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27; `ORC-PQUHS3KDS4.73ef87` |  |
 | Lattice a | 3.315 Å (range 3.305 to 3.325) | 300 | (Ta1−xVx) | experimental | [1] Broz 2013; _cites Rudy 1969_ | Table 1, p. 3, row 49; `ORC-YTQ6H7OHMU` |  |
 | Lattice a | 4.67 Å (range 4.574 to 4.766) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52; `ORC-QVO4FVML2O.3790f7` |  |
 | Lattice a | 3.0266 Å (range 3.0232 to 3.03) | 300 | (V1−xSix) | experimental | [1] Broz 2013; _cites Bruning 1967_ | Table 1, p. 3, row 50; `ORC-FPOE3TIC7D` |  |
 | Lattice a | 7.2945 Å (range 7.1976 to 7.3914) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51; `ORC-VUEX5TYIZZ.8335a9` |  |
+| Lattice a | 5 Å ± 0.03 | 300 | τ2-Ta(TaVSi)2; _alloy: Si 0.285714, Ta 0.428571, V 0.285714_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27; `ORC-PQUHS3KDS4.73ef87` |  |
 | Lattice a | 0.7151 not_printed ± 1.000e-5 | 1773.15 | τ3-Ta(TaxV1−x−ySiy)2 | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 31; `ORC-MVZKZIXZYT` |  |
 | Lattice b | 1.609 not_printed ± 0.001 | 298.15 | (TaxV1−x)6Si5 | experimental | [1] Broz 2013; _cites Steinmetz 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990006-6) | Table 1, p. 3, row 46; `ORC-2MWSPHFCD6.4d30a9` |  |
 | Lattice b | 1.6078 not_printed ± 5.000e-4 | 298.15 | (TaxV1−x)6Si5 | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47; `ORC-FIMCEAJCHH.cc284f` |  |
@@ -73,9 +73,9 @@ Table: Crystal structure, Si–Ta–V system
 | Lattice c | 0.4939 not_printed ± 5.000e-4 | 298.15 | (TaxV1−x)6Si5 | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47; `ORC-FIMCEAJCHH.9b594b` |  |
 | Lattice c | 0.4926 not_printed ± 3.000e-4 | 298.15 | τ1-(TaxV1−x)5Si3 | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 23; `ORC-GWTBGG37U4.b86c3a` |  |
 | Lattice c | 8.23 Å | 298.15 | τ2-Ta(TaVSi)2; _alloy: Si 0.285714, Ta 0.428571, V 0.285714_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28; `ORC-GJEEPWPUFV.4625b7` |  |
-| Lattice c | 0.826 not_printed | 298.15 | τ2-Ta(TaVSi)2; _alloy: Si 0.285714, Ta 0.428571, V 0.285714_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27; `ORC-PQUHS3KDS4.1914a6` |  |
 | Lattice c | 6.453 Å (range 6.357 to 6.549) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52; `ORC-QVO4FVML2O.f64184` |  |
 | Lattice c | 4.95205 Å (range 4.8906 to 5.0135) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51; `ORC-VUEX5TYIZZ.d41190` |  |
+| Lattice c | 8.26 Å | 300 | τ2-Ta(TaVSi)2; _alloy: Si 0.285714, Ta 0.428571, V 0.285714_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27; `ORC-PQUHS3KDS4.1914a6` |  |
 
 ## Sources
 

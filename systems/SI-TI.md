@@ -1,10 +1,10 @@
 # Si–Ti system
 
-> Si–Ti system: 18 accepted literature values (invariant reaction 7, crystal structure 5, formation 4, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ti system: 17 accepted literature values (invariant reaction 7, formation 4, crystal structure 4, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TI.html · Markdown: https://data.orchid-project.org/systems/SI-TI.md
 
-18 accepted literature values from 2 paper(s) (model 9, DFT 9); 6 calculated phase diagram(s).
+17 accepted literature values from 2 paper(s) (model 9, DFT 8); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TI.json) · [CSV](https://data.orchid-project.org/systems/SI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TI/SiTi-04Tok.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TI.html) · [Markdown](https://data.orchid-project.org/systems/SI-TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | model | 9 |
-| DFT | 9 |
+| DFT | 8 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 7 |
 | phase transition | 2 |
 | formation | 4 |
-| crystal structure | 5 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -184,7 +184,7 @@ Table: Phase transition, Si–Ti system
 | Phase transition | 1757 K | 1757 | congruent melting: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] (ed.) 1998 | Table I, p. 284, row 3; `ORC-L6R3XYAI2M` |  |
 | Phase transition | 2394 K | 2394 | congruent melting: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] (ed.) 1998 | Table I, p. 284, row 6; `ORC-V22O4MJJUD` |  |
 
-### Crystal structure (5)
+### Crystal structure (4)
 
 Table: Crystal structure, Si–Ti system
 
@@ -193,7 +193,6 @@ Table: Crystal structure, Si–Ti system
 | Lattice a; _printed: a_ | 3.8409 Å | 0 | Si3Ti(L12); _alloy: Si 0.75, Ti 0.25_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 8; `ORC-OFBN2BBTOG.8eb8a0` |  |
 | Lattice a; _printed: a_ | 3.1161 Å | 0 | SiTi(B2); _alloy: Si 0.5, Ti 0.5_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 4; `ORC-5CY2SJP2BB.357d4a` |  |
 | Lattice a; _printed: a_ | 5.6223 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14; `ORC-DFRE7YPWVK.05a571` |  |
-| Lattice a; _printed: a_ | 39.753 Å | 0 | Ti3Si(L12); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 9; `ORC-JK4YXYGXWZ.1d6581` |  |
 | Lattice c; _printed: c_ | 9.1503 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14; `ORC-DFRE7YPWVK.4dd438` |  |
 
 ## Sources

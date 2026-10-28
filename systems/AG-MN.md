@@ -65,15 +65,15 @@ Table: Crystal structure, Ag–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4; `ORC-EDKIMJE3BJ.87a45c` |  |
-| Lattice a | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5; `ORC-M3FWOPTKJL.104894` |  |
-| Lattice a | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6; `ORC-UMQCX4AYSU.d97ff3` |  |
+| Lattice a | 4.08606 Å | 294.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4; `ORC-EDKIMJE3BJ.87a45c` |  |
+| Lattice a | 4.08602 Å | 294.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5; `ORC-M3FWOPTKJL.104894` |  |
+| Lattice a | 4.08606 Å | 294.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6; `ORC-UMQCX4AYSU.d97ff3` |  |
 | Lattice a | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7; `ORC-KANLZLMGBF.301610` |  |
 | Lattice a | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3; `ORC-LIXYLGEXQC.57717c` |  |
 | Lattice a | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8; `ORC-Y4LFZRT4I7.82f0c6` |  |
-| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4; `ORC-EDKIMJE3BJ.b71619` |  |
-| lattice unspecified axis | 4.08602 Å | 848.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5; `ORC-M3FWOPTKJL.b3eb0e` |  |
-| lattice unspecified axis | 4.08606 Å | 848.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6; `ORC-UMQCX4AYSU.717d86` |  |
+| lattice unspecified axis | 4.08606 Å | 294.15 | (Ag); _(Ag): Ag 0.9792, Mn 0.0208_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 4; `ORC-EDKIMJE3BJ.b71619` |  |
+| lattice unspecified axis | 4.08602 Å | 294.15 | (Ag); _(Ag): Ag 0.9541, Mn 0.0459_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 5; `ORC-M3FWOPTKJL.b3eb0e` |  |
+| lattice unspecified axis | 4.08606 Å | 294.15 | (Ag); _(Ag): Ag 0.9511, Mn 0.0489_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 6; `ORC-UMQCX4AYSU.717d86` |  |
 | lattice unspecified axis | 4.078 Å | 1173.15 | (Ag); _(Ag): Ag 0.925, Mn 0.075_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 7; `ORC-KANLZLMGBF.c82917` |  |
 | lattice unspecified axis | 4.08605 Å | 1173.15 | (Ag); _(Ag): Ag 0.9819, Mn 0.0181_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 3; `ORC-LIXYLGEXQC.296d45` |  |
 | lattice unspecified axis | 4.073 Å | 1173.15 | (Ag); _(Ag): Ag 0.85, Mn 0.15_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 8; `ORC-Y4LFZRT4I7.879ccb` |  |

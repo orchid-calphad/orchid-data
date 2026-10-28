@@ -69,7 +69,7 @@ Table: Crystal structure, Au system
 | Lattice a | 4.089 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 11; `ORC-IIVFLRKUEZ` |  |
 | Lattice a | 4.087 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 3; `ORC-QT5Q2UOQWF` |  |
 | Lattice a | 4.09 Å | 298.15 | Au | experimental | [5] Feutelais 1994 | Table 3, p. 2, row 7; `ORC-ZIQ6VVHKQB` |  |
-| Lattice a | 4.072 Å | 298.15 | Au-fcc | model | [7] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 1; `ORC-2PCQQCMZNH` |  |
+| Lattice a | 4.072 Å | 298.15 | Au-fcc; _alloy: Au 1_ | model | [7] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 1; `ORC-2PCQQCMZNH` |  |
 | Lattice a | 4.072 Å | 298.15 | Au-fcc | model | [7] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 20; `ORC-VW4ZLDISGT` |  |
 
 ## Sources

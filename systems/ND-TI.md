@@ -90,17 +90,17 @@ Table: Crystal structure, Nd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3655 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6; `ORC-5R2HI7CDPG.858226` |  |
-| Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4; `ORC-FPBHVKIWB6.701df9` |  |
-| Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2; `ORC-QCYXDLN5KN.9ae549` |  |
-| Lattice a | 0.2952 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3; `ORC-7JQEN47YEK.b44be5` |  |
-| Lattice a | 0.2951 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7; `ORC-D4HPEMQP4D.7d2589` |  |
-| Lattice a | 0.2949 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5; `ORC-EJQGH4RA2D.d2d3a0` |  |
-| Lattice c | 1.177 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6; `ORC-5R2HI7CDPG.22adde` |  |
-| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4; `ORC-FPBHVKIWB6.af5429` |  |
-| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2; `ORC-QCYXDLN5KN.3dfb18` |  |
-| Lattice c | 0.4691 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3; `ORC-7JQEN47YEK.1d368f` |  |
-| Lattice c | 0.4687 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7; `ORC-D4HPEMQP4D.59646d` |  |
+| Lattice a | 3.655 Å ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6; `ORC-5R2HI7CDPG.858226` |  |
+| Lattice a | 3.658 Å ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4; `ORC-FPBHVKIWB6.701df9` |  |
+| Lattice a | 3.658 Å ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2; `ORC-QCYXDLN5KN.9ae549` |  |
+| Lattice a | 2.952 Å ± 0.001 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3; `ORC-7JQEN47YEK.b44be5` |  |
+| Lattice a | 2.951 Å ± 0.001 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7; `ORC-D4HPEMQP4D.7d2589` |  |
+| Lattice a | 2.949 Å ± 0.001 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5; `ORC-EJQGH4RA2D.d2d3a0` |  |
+| Lattice c | 11.77 Å ± 0.01 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6; `ORC-5R2HI7CDPG.22adde` |  |
+| Lattice c | 11.78 Å ± 0.01 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4; `ORC-FPBHVKIWB6.af5429` |  |
+| Lattice c | 11.78 Å ± 0.01 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2; `ORC-QCYXDLN5KN.3dfb18` |  |
+| Lattice c | 4.691 Å ± 0.002 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3; `ORC-7JQEN47YEK.1d368f` |  |
+| Lattice c | 4.687 Å ± 0.002 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7; `ORC-D4HPEMQP4D.59646d` |  |
 | Lattice c | 4.688 Å ± 0.002 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | experimental | [1] Mattern 2014 | Table 2, p. 5, row 5; `ORC-EJQGH4RA2D.490526` |  |
 
 ## Sources

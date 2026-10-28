@@ -30,25 +30,25 @@ Table: Crystal structure, Fe–Ni–Ti system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.224 Å |  | UNKNOWN | model | [1] Keyzer 2009 | Table 1, p. 3, row 2; `ORC-NQSMHMCSDK.34c830` |  |
 | Lattice a | 3.3065 Å |  | UNKNOWN | model | [1] Keyzer 2009 | Table 1, p. 3, row 2; `ORC-NQSMHMCSDK.5715b9` |  |
-| Lattice a | 2.8665 Å |  | UNKNOWN | model | [1] Keyzer 2009 | Table 1, p. 3, row 2; `ORC-NQSMHMCSDK.7622a8` |  |
-| Lattice a | 3 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.333333, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.09c08b` |  |
-| Lattice a | 2.9818 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.333333, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.7fc89f` |  |
+| Lattice a | 2.8665 Å |  | UNKNOWN; _alloy: Ni 0, Ti 0_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 2; `ORC-NQSMHMCSDK.7622a8` |  |
+| Lattice a | 3 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.398, Ti 0.5_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.09c08b` |  |
+| Lattice a | 2.9818 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.147, Ti 0.5_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.7fc89f` |  |
 | Lattice a | 3.01 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.333333, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.917b0f` |  |
-| Lattice a | 2.985 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.333333, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.ae61ce` |  |
-| Lattice a | 2.9891 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.333333, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.e568b6` |  |
-| Lattice a | 2.9789 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.333333, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.e8a0af` |  |
-| Lattice a | 3.652 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.0984c6` |  |
+| Lattice a | 2.985 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.25, Ti 0.5_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.ae61ce` |  |
+| Lattice a | 2.9891 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0.247, Ti 0.5_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.e568b6` |  |
+| Lattice a | 2.9789 Å | 298.15 | (Fe, Ni)Ti; _alloy: Ni 0, Ti 0.5_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 7; `ORC-WDC6LCRASA.e8a0af` |  |
 | Lattice a | 3.5232 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.2d4c95` |  |
-| Lattice a | 3.59 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.30efca` |  |
-| Lattice a | 3.589 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.41fcd5` |  |
+| Lattice a | 3.59 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0.63, Ti 0.06_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.30efca` |  |
+| Lattice a | 3.589 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0.304, Ti 0.013_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.41fcd5` |  |
 | Lattice a | 3.5568 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.447c88` |  |
-| Lattice a | 2.94 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.63cb4f` |  |
-| Lattice a | 3.575 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.83361f` |  |
-| Lattice a | 3.6467 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.8b94ab` |  |
-| Lattice a | 3.5913 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.adba10` |  |
-| Lattice a | 3.5837 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.bb8b00` |  |
-| Lattice a | 3.5939 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.f0a1f7` |  |
+| Lattice a | 2.94 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0, Ti 0.2_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.63cb4f` |  |
+| Lattice a | 3.575 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0.5, Ti 0_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.83361f` |  |
+| Lattice a | 3.6467 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0, Ti 0_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.8b94ab` |  |
+| Lattice a | 3.5913 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0.269, Ti 0.048_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.adba10` |  |
+| Lattice a | 3.5837 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0.271, Ti 0.012_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.bb8b00` |  |
+| Lattice a | 3.5939 Å | 298.15 | γ-(Fe, Ni); _alloy: Ni 0.296, Ti 0.06_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.f0a1f7` |  |
 | Lattice a | 2.9506 Å | 1155.15 (\<) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3; `ORC-KUE7R3ZWC3.1dc8ec` |  |
+| Lattice a | 3.652 Å | 1173.15 | γ-(Fe, Ni); _alloy: Ni 0.63, Ti 0.06_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.0984c6` |  |
 | Lattice c | 4.6825 Å | 1155.15 (\<) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3; `ORC-KUE7R3ZWC3.2d49d0` |  |
 
 ## Sources

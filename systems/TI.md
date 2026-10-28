@@ -1,10 +1,10 @@
 # Ti system
 
-> Ti system: 158 accepted literature values (crystal structure 77, heat capacity / entropy / enthalpy 57, formation 11, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti system: 156 accepted literature values (crystal structure 75, heat capacity / entropy / enthalpy 57, formation 11, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI.html · Markdown: https://data.orchid-project.org/systems/TI.md
 
-158 accepted literature values from 16 paper(s) (experimental 21, model 63, DFT 45, unspecified 29); 0 calculated phase diagram(s).
+156 accepted literature values from 16 paper(s) (experimental 21, model 63, DFT 45, unspecified 27); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI.json) · [CSV](https://data.orchid-project.org/systems/TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI.html) · [Markdown](https://data.orchid-project.org/systems/TI.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 21 |
 | model | 63 |
 | DFT | 45 |
-| unspecified | 29 |
+| unspecified | 27 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | formation | 11 |
 | mixing / partial | 3 |
 | heat capacity / entropy / enthalpy | 57 |
-| crystal structure | 77 |
+| crystal structure | 75 |
 
 ## Formation enthalpies
 
@@ -147,7 +147,7 @@ Table: Heat capacity / entropy / enthalpy, Ti system
 | sm fusion; _printed: ΔfusS°_ | 7.288 J/mol (basis unstated)/K |  | Ti | model | [9] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21; `ORC-QOZHVTCQ3I.13ecdb` |  |
 | sm fusion; _printed: ΔfusS°_ | 6.823 J/mol (basis unstated)/K ± 0.25 | 298.15 | Ti | experimental | [9] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 3, p. 4, row 16; `ORC-7LY4Z5FKD7.20ba19` |  |
 
-### Crystal structure (77)
+### Crystal structure (75)
 
 Table: Crystal structure, Ti system
 
@@ -172,7 +172,7 @@ Table: Crystal structure, Ti system
 | Lattice a | 7.4963 Å | 0 | Ti2Ti (C15); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 55; `ORC-4BFO7UK57J.210d3b` |  |
 | Lattice a | 5.069 Å | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.3be9d4` |  |
 | Lattice a | 5.069 Å |  | Ti2Ti (C36); _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 28; `ORC-Z3ZSJ75KAY.c1d29f` |  |
-| Lattice a | 0.29503 not_printed |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.9e1174` |  |
+| Lattice a | 2.9503 Å |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.9e1174` |  |
 | Lattice a | 2.9504 Å | 298.15 | NM HCP Ti; _alloy: Ti 1_ | experimental | [11] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-XYDM2RAX3B.6495f5` |  |
 | Lattice a | 2.95 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8; `ORC-74EL5PRYOJ.b232cd` |  |
 | Lattice a | 3.31 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Kittel 2005_ | Table 1, p. 4, row 5; `ORC-A4VK6B6GFE` |  |
@@ -184,8 +184,6 @@ Table: Crystal structure, Ti system
 | Lattice a | 3.3065 Å | 298.15 | βTi; _alloy: Ti 1_ | model | [14] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 6; `ORC-JFYNVHVQXW` |  |
 | Lattice a | 2.9503 Å | 1154.95 (\<) | (αTi); _alloy: Ti 1_ | model | [15] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2; `ORC-EYIOXW3CSS.062d98` |  |
 | Lattice a | 2.952 Å | 1978.15 | αTi; _alloy: Ti 1_ | unspecified | [14] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 8; `ORC-33J2KZOGBM.50c096` |  |
-| Lattice a | 4.309 Å | 2646.15 | αTi; _alloy: Ti 1_ | unspecified | [14] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 48; `ORC-YFL4ICUSTO` |  |
-| Lattice a | 4.308 Å | 2733.15 | αTi; _alloy: Ti 1_ | unspecified | [14] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 43; `ORC-W5V43DNCYM` |  |
 | Lattice b | 2.951 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 2; `ORC-BPWL2QOOEG.a243b3` |  |
 | Lattice b | 2.95 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 4; `ORC-I3RXTQEIXY.06cfc8` |  |
 | Lattice b | 2.9064 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 3; `ORC-J4EYURSZGY.53c80f` |  |
@@ -204,7 +202,7 @@ Table: Crystal structure, Ti system
 | Lattice c | 8.9465 Å | 0 | Ti2Ti (C14); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 54; `ORC-GJOMUOEL6H.3ea4cf` |  |
 | Lattice c | 18.8228 Å | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.6634d3` |  |
 | Lattice c | 18.8228 Å |  | Ti2Ti (C36); _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 28; `ORC-Z3ZSJ75KAY.8f09e3` |  |
-| Lattice c | 0.4681 not_printed |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.90d6a7` |  |
+| Lattice c | 4.681 Å |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.90d6a7` |  |
 | Lattice c | 4.681 Å | 298.15 | NM HCP Ti; _alloy: Ti 1_ | experimental | [11] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-XYDM2RAX3B.eb0b53` |  |
 | Lattice c | 4.68 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8; `ORC-74EL5PRYOJ.a6e7d4` |  |
 | Lattice c | 4.693 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [13] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8; `ORC-5S662LOFCS.88d33a` |  |
@@ -215,7 +213,7 @@ Table: Crystal structure, Ti system
 | Molar volume; _printed: V0_ | 8.58 Å3/atom | 0 | hcp-Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 2, p. 4, row 4; `ORC-DX3YXNBSL2` |  |
 | Molar volume; _printed: V0_ | 8.56 Å3/atom | 0 | hcp-Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012 | Table 2, p. 4, row 3; `ORC-KAWCUEHY2F` |  |
 | Molar volume; _printed: V0_ | 8.82 Å3/atom | 300 | hcp-Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Zhang 2008_ [doi](https://doi.org/10.1103/physrevb.78.054119) | Table 2, p. 4, row 5; `ORC-CV7IB4UUMQ` |  |
-| Molar volume; _printed: VX at 723 K_ | 10.77 10^-6 m^3/mol | 1998 | UNKNOWN; _alloy: Ti 1_ | model | [16] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2; `ORC-BZTMPP6P2V.2890f4` |  |
+| Molar volume; _printed: VX at 723 K_ | 10.77 10^-6 m^3/mol | 723 | UNKNOWN; _alloy: Ti 1_ | model | [16] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2; `ORC-BZTMPP6P2V.2890f4` |  |
 | Molar volume; _printed: Vm,X_ | 11.6 10^-6 m^3/mol | 1998 | UNKNOWN; _alloy: Ti 1_ | model | [16] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2; `ORC-BZTMPP6P2V.78e3db` |  |
 | lattice 4e z | 0.1004 not_printed | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.c86d26` |  |
 | lattice 4f z | 0.0523 not_printed | 0 | Ti2Ti (C14); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 54; `ORC-GJOMUOEL6H.a0b122` |  |

@@ -28,20 +28,20 @@ Table: Heat capacity / entropy / enthalpy, Al–As–Ga–In–P–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔmS_ | 58.53 J/mol-formula K | 798 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 25; `ORC-5RT26BWS36.aa471e` |  |
-| Entropy; _printed: ΔmS_ | 61.83 J/mol-formula K | 800 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.20a74c` |  |
-| Entropy; _printed: ΔmS_ | 67.1 J/mol-formula K | 981 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 21; `ORC-PKBXETSVCR.4084f0` |  |
-| Entropy; _printed: ΔmS_ | 70.55 J/mol-formula K | 982.6 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 22; `ORC-JR6EHAD7OF.aceb96` |  |
-| Entropy; _printed: ΔmS_ | 63.98 J/mol-formula K | 1211 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.11fb36` |  |
-| Entropy; _printed: ΔmS_ | 63.92 J/mol-formula K | 1215 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 1; `ORC-BNDRK7LA5U.564d06` |  |
-| Entropy; _printed: ΔmS_ | 65.94 J/mol-formula K | 1327 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 15; `ORC-XWAKEBZHFO.eccc38` |  |
-| Entropy; _printed: ΔmS_ | 59.1 J/mol-formula K | 1328 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 14; `ORC-LSSUFHMGNU.4ce43c` |  |
-| Entropy; _printed: ΔmS_ | 60.64 J/mol-formula K | 1332 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.3c4edd` |  |
-| Entropy; _printed: ΔmS_ | 59.32 J/mol-formula K | 1338 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 18; `ORC-WWDIHZM6SW.8a5f39` |  |
-| Entropy; _printed: ΔmS_ | 67.49 J/mol-formula K | 1749 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 10; `ORC-6ZJOA6T6ZU.925487` |  |
-| Entropy; _printed: ΔmS_ | 66.1 J/mol-formula K | 1760 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 9; `ORC-5VH676PKIY.8e752f` |  |
-| Entropy; _printed: ΔmS_ | 61.66 J/mol-formula K | 2824 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 5; `ORC-OLOTHSW7JQ` |  |
-| Entropy; _printed: ΔmS_ | 104.16 J/mol-formula K | 2827 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.6adcd8` |  |
+| sm fusion; _printed: ΔmS_ | 58.53 J/mol-formula K | 798 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 25; `ORC-5RT26BWS36.aa471e` |  |
+| sm fusion; _printed: ΔmS_ | 61.83 J/mol-formula K | 800 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.20a74c` |  |
+| sm fusion; _printed: ΔmS_ | 67.1 J/mol-formula K | 981 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 21; `ORC-PKBXETSVCR.4084f0` |  |
+| sm fusion; _printed: ΔmS_ | 70.55 J/mol-formula K | 982.6 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 22; `ORC-JR6EHAD7OF.aceb96` |  |
+| sm fusion; _printed: ΔmS_ | 63.98 J/mol-formula K | 1211 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.11fb36` |  |
+| sm fusion; _printed: ΔmS_ | 63.92 J/mol-formula K | 1215 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 1; `ORC-BNDRK7LA5U.564d06` |  |
+| sm fusion; _printed: ΔmS_ | 65.94 J/mol-formula K | 1327 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 15; `ORC-XWAKEBZHFO.eccc38` |  |
+| sm fusion; _printed: ΔmS_ | 59.1 J/mol-formula K | 1328 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 14; `ORC-LSSUFHMGNU.4ce43c` |  |
+| sm fusion; _printed: ΔmS_ | 60.64 J/mol-formula K | 1332 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.3c4edd` |  |
+| sm fusion; _printed: ΔmS_ | 59.32 J/mol-formula K | 1338 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 18; `ORC-WWDIHZM6SW.8a5f39` |  |
+| sm fusion; _printed: ΔmS_ | 67.49 J/mol-formula K | 1749 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 10; `ORC-6ZJOA6T6ZU.925487` |  |
+| sm fusion; _printed: ΔmS_ | 66.1 J/mol-formula K | 1760 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 9; `ORC-5VH676PKIY.8e752f` |  |
+| sm fusion; _printed: ΔmS_ | 61.66 J/mol-formula K | 2824 | unspecified | model | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 5; `ORC-OLOTHSW7JQ` |  |
+| sm fusion; _printed: ΔmS_ | 104.16 J/mol-formula K | 2827 | unspecified | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.6adcd8` |  |
 
 ## Sources
 

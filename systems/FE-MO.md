@@ -219,7 +219,7 @@ Table: Crystal structure, Fe–Mo system
 | Lattice c; _printed: c_ | 7.793 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5; `ORC-5EKNC66ZUO.4c0ee6` |  |
 | Lattice c; _printed: c_ | 7.725 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4; `ORC-NFKK23S4O3.d4c4ed` |  |
 | Lattice c; _printed: c_ | 19.004 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10; `ORC-JFNLDN5LIA.8960f6` |  |
-| Lattice c; _printed: c_ | 19.353 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9; `ORC-KIMJSUJ7JN.bc7529` |  |
+| Lattice c; _printed: c_ | 19.353 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.375_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9; `ORC-KIMJSUJ7JN.bc7529` |  |
 | Lattice c; _printed: c_ | 25.807 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15; `ORC-AQJIQW5CLL.9f3940` |  |
 | Lattice c; _printed: c_ | 25.68 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14; `ORC-QDG32JGG3P.12dd02` |  |
 | Lattice c; _printed: c_ | 4.905 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20; `ORC-I36VPO2LUR.db96d3` |  |

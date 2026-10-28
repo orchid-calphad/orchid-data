@@ -113,15 +113,15 @@ Table: Crystal structure, Mn–Nb system
 | Lattice a | 5.465 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 40; `ORC-MDMIAAJB2I.7c138b` |  |
 | Lattice a | 4.971 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 37; `ORC-OO2KGJILYV.4f671b` |  |
 | Lattice a | 5.456 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 39; `ORC-OTBUBFBO2H.2030d7` |  |
-| Lattice a | 0.48801 not_printed ± 1.000e-5 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 4; `ORC-ZLYJ2TYSIO.6c591c` |  |
-| Lattice a | 0.48824 not_printed ± 1.000e-5 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 3; `ORC-IMUETBYVN6.fb9b3e` |  |
-| Lattice a | 0.48834 not_printed ± 1.000e-5 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 2; `ORC-XT5HMRSZ6D.3f86ff` |  |
+| Lattice a | 4.8801 Å ± 1.000e-4 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 4; `ORC-ZLYJ2TYSIO.6c591c` |  |
+| Lattice a | 4.8824 Å ± 1.000e-4 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 3; `ORC-IMUETBYVN6.fb9b3e` |  |
+| Lattice a | 4.8834 Å ± 1.000e-4 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 2; `ORC-XT5HMRSZ6D.3f86ff` |  |
 | Lattice a | 4.89376 Å ± 4.000e-5 | 298.15 | Nb1.08Mn1.92; _alloy: Mn 0.6, Nb 0.4_ | experimental | [2] Yan 2021 | Table 3, p. 9, row 1; `ORC-TLDC4BHCAX.b94780` |  |
 | Lattice a | 0.48898 not_printed ± 1.000e-5 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 1; `ORC-KGVQ2GBBWR.e78d59` |  |
 | Lattice a | 4.8898 Å ± 1.000e-4 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 5; `ORC-XMVXEW2F2E.bee461` |  |
-| Lattice b | 0.48801 not_printed ± 1.000e-5 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 4; `ORC-ZLYJ2TYSIO.a11da6` |  |
-| Lattice b | 0.48824 not_printed ± 1.000e-5 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 3; `ORC-IMUETBYVN6.03b23d` |  |
-| Lattice b | 0.48834 not_printed ± 1.000e-5 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 2; `ORC-XT5HMRSZ6D.5d282d` |  |
+| Lattice b | 4.8801 Å ± 1.000e-4 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 4; `ORC-ZLYJ2TYSIO.a11da6` |  |
+| Lattice b | 4.8824 Å ± 1.000e-4 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 3; `ORC-IMUETBYVN6.03b23d` |  |
+| Lattice b | 4.8834 Å ± 1.000e-4 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 2; `ORC-XT5HMRSZ6D.5d282d` |  |
 | Lattice b | 0.48898 not_printed ± 1.000e-5 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 1; `ORC-KGVQ2GBBWR.d95924` |  |
 | Lattice b | 4.8898 Å ± 1.000e-4 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 5; `ORC-XMVXEW2F2E.f2efbe` |  |
 | Lattice c | 8.428 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 4; `ORC-BL3Y3HCOKR.225d04` |  |
@@ -136,9 +136,9 @@ Table: Crystal structure, Mn–Nb system
 | Lattice c | 27.784 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 40; `ORC-MDMIAAJB2I.d16e89` |  |
 | Lattice c | 27.167 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 37; `ORC-OO2KGJILYV.467f0a` |  |
 | Lattice c | 27.855 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 39; `ORC-OTBUBFBO2H.49cbf6` |  |
-| Lattice c | 0.79798 not_printed ± 1.000e-5 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 4; `ORC-ZLYJ2TYSIO.f3eb48` |  |
-| Lattice c | 0.79823 not_printed ± 1.000e-5 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 3; `ORC-IMUETBYVN6.07048e` |  |
-| Lattice c | 0.79853 not_printed ± 2.000e-5 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 2; `ORC-XT5HMRSZ6D.7707c2` |  |
+| Lattice c | 7.9798 Å ± 1.000e-4 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 4; `ORC-ZLYJ2TYSIO.f3eb48` |  |
+| Lattice c | 7.9823 Å ± 1.000e-4 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 3; `ORC-IMUETBYVN6.07048e` |  |
+| Lattice c | 7.9853 Å ± 2.000e-4 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 2; `ORC-XT5HMRSZ6D.7707c2` |  |
 | Lattice c | 8.00616 Å ± 9.000e-5 | 298.15 | Nb1.08Mn1.92; _alloy: Mn 0.6, Nb 0.4_ | experimental | [2] Yan 2021 | Table 3, p. 9, row 1; `ORC-TLDC4BHCAX.5a1e09` |  |
 | Lattice c | 0.7997 not_printed ± 1.000e-5 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 1; `ORC-KGVQ2GBBWR.f7d3d7` |  |
 | Lattice c | 7.997 Å ± 1.000e-4 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 5; `ORC-XMVXEW2F2E.c1a41e` |  |

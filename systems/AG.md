@@ -65,9 +65,10 @@ Table: Crystal structure, Ag system
 | Lattice a | 4.149 Å |  | Ag | DFT | [4] Hao 2012 | Table 1, p. 5, row 8; `ORC-JUS2FDGFF3` |  |
 | Lattice a; _printed: a_ | 4.155 Å |  | Ag | model | [5] Long 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 3, row 23; `ORC-PNP62ZBLT2` |  |
 | Lattice a; _printed: a_ | 4.086 Å |  | Ag | model | [5] Long 2010; _cites Straumanis 1965_ | Table 1, p. 3, row 24; `ORC-WYRMRAX6IY` |  |
-| Lattice a | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [6] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1; `ORC-YYVN2DF6OA.780394` |  |
+| Lattice a | 4.08612 Å | 294.15 | (Ag); _(Ag): Ag 1_ | unspecified | [6] Karakaya 1990 | Table 3, p. 5, row 2; `ORC-FK6CDRNCKY.f19f53` |  |
+| Lattice a | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [7] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1; `ORC-YYVN2DF6OA.780394` |  |
 | Lattice a | 4.085 Å | 298.15 | Ag | experimental | [4] Hao 2012; _cites Spreadborough 1959_ | Table 1, p. 5, row 7; `ORC-B76QT27NQU` |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 1; `ORC-CNN4FAK62S.44ae1c` |  |
+| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [6] Karakaya 1990 | Table 3, p. 5, row 1; `ORC-CNN4FAK62S.44ae1c` |  |
 | Lattice a | 4.0782 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 2; `ORC-CVEBKSJBEX` |  |
 | Lattice a; _printed: a_ | 4.154 Å | 298.15 | Ag | DFT | [5] Long 2010 | Table 1, p. 3, row 22; `ORC-HTZ3J7KHVO` |  |
 | Lattice a | 4.0857 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [8] Karakaya 1993 | Table 2, p. 4, row 3; `ORC-MG75L7CKXK` |  |
@@ -78,11 +79,10 @@ Table: Crystal structure, Ag system
 | Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [11] Karakaya 1986 | Table 1, p. 2, row 1; `ORC-TL6RWRZFVX.2f2b4c` |  |
 | Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [12] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1; `ORC-TNYUDAOXB4.ba77be` |  |
 | Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [13] Karakaya 1986 | Table 1, p. 2, row 1; `ORC-Z4GYAM2GXT` |  |
-| Lattice a | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 2; `ORC-FK6CDRNCKY.f19f53` |  |
-| lattice unspecified axis | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [6] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1; `ORC-YYVN2DF6OA.308f06` |  |
-| lattice unspecified axis | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 1; `ORC-CNN4FAK62S.e85f87` |  |
+| lattice unspecified axis | 4.08612 Å | 294.15 | (Ag); _(Ag): Ag 1_ | unspecified | [6] Karakaya 1990 | Table 3, p. 5, row 2; `ORC-FK6CDRNCKY.98f875` |  |
+| lattice unspecified axis | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1_ | experimental | [7] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1; `ORC-YYVN2DF6OA.308f06` |  |
+| lattice unspecified axis | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1_ | unspecified | [6] Karakaya 1990 | Table 3, p. 5, row 1; `ORC-CNN4FAK62S.e85f87` |  |
 | lattice unspecified axis | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1_ | unspecified | [9] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 1; `ORC-RNABF3L75O.610bc5` |  |
-| lattice unspecified axis | 4.08612 Å | 848.15 | (Ag); _(Ag): Ag 1_ | unspecified | [7] Karakaya 1990 | Table 3, p. 5, row 2; `ORC-FK6CDRNCKY.98f875` |  |
 
 ## Sources
 
@@ -93,8 +93,8 @@ Reporting papers the values were read from (a value cited from another work name
 3. Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Thermodynamic Assessment of the Silver–Oxygen System, Journal of the American Ceramic Society 80, 3054-3060 (1997). [doi:10.1111/j.1151-2916.1997.tb03232.x](https://doi.org/10.1111/j.1151-2916.1997.tb03232.x)
 4. D. Hao, M. Bu, Y. Wang, Y. Tang, Q. Gao, M. Wang et al., Thermodynamic modeling of the Na-X (X = Si, Ag, Cu, Cr) systems, J min metall B Metall 48, 273-282 (2012). [doi:10.2298/jmmb120113024h](https://doi.org/10.2298/jmmb120113024h)
 5. Z.H. Long, Y.J. Yang, S. Jin, H.S. Liu, F. Zheng, Z.P. Jin, Thermodynamic assessments of Ag–Dy and Ag–Er binary systems, Journal of Alloys and Compounds 489, 146-151 (2010). [doi:10.1016/j.jallcom.2009.09.036](https://doi.org/10.1016/j.jallcom.2009.09.036)
-6. I. Karakaya, W. T. Thompson, The Ag-Pt (Silver-Platinum) system, Bulletin of Alloy Phase Diagrams 8, 334-340 (1987). [doi:10.1007/bf02869269](https://doi.org/10.1007/bf02869269)
-7. I. Karakaya, W. T. Thompson, The Ag-Mn (Silver-Manganese) system, Bulletin of Alloy Phase Diagrams 11, 480-486 (1990). [doi:10.1007/bf02898263](https://doi.org/10.1007/bf02898263)
+6. I. Karakaya, W. T. Thompson, The Ag-Mn (Silver-Manganese) system, Bulletin of Alloy Phase Diagrams 11, 480-486 (1990). [doi:10.1007/bf02898263](https://doi.org/10.1007/bf02898263)
+7. I. Karakaya, W. T. Thompson, The Ag-Pt (Silver-Platinum) system, Bulletin of Alloy Phase Diagrams 8, 334-340 (1987). [doi:10.1007/bf02869269](https://doi.org/10.1007/bf02869269)
 8. I. Karakaya, W. T. Thompson, The Ag-Bi (Silver-Bismuth) System, JPE 14, 525-530 (1993). [doi:10.1007/bf02671975](https://doi.org/10.1007/bf02671975)
 9. I. Karakaya, W. T. Thompson, The Ag−Os (Silver-Osmium) system, Bulletin of Alloy Phase Diagrams 7, 360-362 (1986). [doi:10.1007/bf02873022](https://doi.org/10.1007/bf02873022)
 10. I. Karakaya, W. T. Thompson, The Ag−P (Silver-Phosphorus) system, Bulletin of Alloy Phase Diagrams 9, 232-236 (1988). [doi:10.1007/bf02881270](https://doi.org/10.1007/bf02881270)

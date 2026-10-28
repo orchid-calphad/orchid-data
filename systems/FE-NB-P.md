@@ -65,18 +65,18 @@ Table: Crystal structure, Fe–Nb–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.13 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | experimental | [2] Tokunaga 2009 | Table 1, p. 4, row 18; `ORC-6EDRTL7K4A.46ab24` |  |
+| Lattice a | 6.13 Å |  | FeNb4P; _alloy: Nb 0.666667, P 0.166667_ | experimental | [2] Tokunaga 2009 | Table 1, p. 4, row 18; `ORC-6EDRTL7K4A.46ab24` |  |
+| Lattice a | 6.16 Å |  | FeNb4P; _alloy: Nb 0.666667, P 0.166667_ | model | [2] Tokunaga 2009 | Table 1, p. 4, row 17; `ORC-TU624ULLNW.1b173c` |  |
 | Lattice a | 6.139 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | experimental | [2] Tokunaga 2009 | Table 1, p. 4, row 16; `ORC-B4FAOGIBII.d9affb` |  |
 | Lattice a | 6.347 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | model | [2] Tokunaga 2009 | Table 1, p. 4, row 15; `ORC-TAKC57Z5R4.33ada5` |  |
-| Lattice a | 6.16 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | model | [2] Tokunaga 2009 | Table 1, p. 4, row 17; `ORC-TU624ULLNW.1b173c` |  |
 | Lattice a | 6.578 Å |  | Nb2P in FeNbP | model | [2] Tokunaga 2009 | Table 1, p. 4, row 4; `ORC-UUP4B45PIZ.2f1e09` |  |
 | Lattice b | 3.585 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | experimental | [2] Tokunaga 2009 | Table 1, p. 4, row 16; `ORC-B4FAOGIBII.2d599f` |  |
 | Lattice b | 3.706 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | model | [2] Tokunaga 2009 | Table 1, p. 4, row 15; `ORC-TAKC57Z5R4.b0978e` |  |
 | Lattice b | 3.941 Å |  | Nb2P in FeNbP | model | [2] Tokunaga 2009 | Table 1, p. 4, row 4; `ORC-UUP4B45PIZ.06eab4` |  |
-| Lattice c | 5.006 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | experimental | [2] Tokunaga 2009 | Table 1, p. 4, row 18; `ORC-6EDRTL7K4A.675b70` |  |
+| Lattice c | 5.006 Å |  | FeNb4P; _alloy: Nb 0.666667, P 0.166667_ | experimental | [2] Tokunaga 2009 | Table 1, p. 4, row 18; `ORC-6EDRTL7K4A.675b70` |  |
+| Lattice c | 5.03 Å |  | FeNb4P; _alloy: Nb 0.666667, P 0.166667_ | model | [2] Tokunaga 2009 | Table 1, p. 4, row 17; `ORC-TU624ULLNW.f47870` |  |
 | Lattice c | 7.006 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | experimental | [2] Tokunaga 2009 | Table 1, p. 4, row 16; `ORC-B4FAOGIBII.d15be7` |  |
 | Lattice c | 7.243 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | model | [2] Tokunaga 2009 | Table 1, p. 4, row 15; `ORC-TAKC57Z5R4.187b04` |  |
-| Lattice c | 5.03 Å |  | FeNbP; _alloy: Nb 0.333333, P 0.333333_ | model | [2] Tokunaga 2009 | Table 1, p. 4, row 17; `ORC-TU624ULLNW.f47870` |  |
 | Lattice c | 7.552 Å |  | Nb2P in FeNbP | model | [2] Tokunaga 2009 | Table 1, p. 4, row 4; `ORC-UUP4B45PIZ.bb06a0` |  |
 
 ## Sources

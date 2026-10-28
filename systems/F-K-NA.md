@@ -62,9 +62,9 @@ Table: Crystal structure, F–K–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: Lattice constant a_ | 3.052 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 37; `ORC-AWMVKLLL4H` |  |
-| Lattice a; _printed: Lattice constant a_ | 3.082 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 36; `ORC-D4W3TGOIME` |  |
-| Lattice a; _printed: Lattice constant a_ | 2.869 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 35; `ORC-HMZUDT57BH` |  |
+| Lattice a; _printed: Lattice constant a_ | 3.052 Å | 0 | Halite; _alloy: K 0.125, Na 0.375_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 37; `ORC-AWMVKLLL4H` |  |
+| Lattice a; _printed: Lattice constant a_ | 3.082 Å | 0 | Halite; _alloy: K 0.25, Na 0.25_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 36; `ORC-D4W3TGOIME` |  |
+| Lattice a; _printed: Lattice constant a_ | 2.869 Å | 0 | Halite; _alloy: K 0.375, Na 0.125_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 35; `ORC-HMZUDT57BH` |  |
 | Lattice a; _printed: Lattice constant a_ | 5.026 Å | 0 | bcc; _alloy: Na 0.25_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 32; `ORC-2KGQQC3M2K` |  |
 | Lattice a; _printed: Lattice constant a_ | 4.763 Å | 0 | bcc; _alloy: Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 33; `ORC-2YR56PTUGJ` |  |
 | Lattice a; _printed: Lattice constant a_ | 4.508 Å | 0 | bcc; _alloy: Na 0.75_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 34; `ORC-INBPJ3RJR3` |  |

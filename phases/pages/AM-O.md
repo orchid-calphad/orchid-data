@@ -12,7 +12,7 @@ Table: Phases of the Am–O system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AM2O3_D52](#phase-am-o-am2o3-d52); _phase:am-o:am2o3-d52_ | A-La2O3 · D5_2 · hP5 · P-3m1 (164) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–675 K, x(O) 0.6–0.6 | 1 | 2 |
+| [AM2O3_D52](#phase-am-o-am2o3-d52); _phase:am-o:am2o3-d52_ | A-La2O3 · D5_2 · hP5 · P-3m1 (164) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–675 K, x(O) 0.6–0.6 | 0 | 2 |
 | [AMO1_62_D53](#phase-am-o-amo1-d53-62); _phase:am-o:amo1-d53-62_ |  | needs_review | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [AMO2_C1](#phase-am-o-amo2-c1); _phase:am-o:amo2-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2306.9 K, x(O) 0.62168–0.66667 | 0 | 2 |
 | [BCC_A2](#phase-am-o-bcc-a2); _phase:am-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -28,11 +28,10 @@ Table: Phases of the Am–O system (10)
 - Id: `phase:am-o:am2o3-d52`; status `assigned`
 - Structure: A-La2O3 · D5_2 · hP5 · P-3m1 (164); type `st:d5-2-a-la2o3-hp5`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–675 K, x(O) 0.6–0.6
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:am-o:am2o3-d52)
 
-Names (4): _corpus: _corpus:phase:am-o:am2o3-d52  
-_paper: _paper:10.1021/acs.inorgchem.7b00572:Am2O3  
+Names (3): _corpus: _corpus:phase:am-o:am2o3-d52  
 _tdb: _tdb:AmO-11Got.tdb:AM2O3_D52, tdb:AmO-17Epi.tdb:AM2O3_D52  
 
 
@@ -54,9 +53,9 @@ _tdb: _tdb:AmO-11Got.tdb:AM2O3_D52, tdb:AmO-17Epi.tdb:AM2O3_D52
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1021/acs.inorgchem.7b00572](https://doi.org/10.1021/acs.inorgchem.7b00572) Enrica Epifano, Christine Guéneau, Renaud C. Belin, Romain Vauchy, Florent Lebreton, Jean-Christophe Richaud et al., Insight into the Am–O Phase Equilibria: A Thermodynamic Study Coupling High-Temperature XRD and CALPHAD Modeling, Inorg. Chem. 56, 7416-7432 (2017).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnucmat.2011.05.014](https://doi.org/10.1016/j.jnucmat.2011.05.014) P. Gotcu-Freis, J.-Y. Colle, C. Guéneau, N. Dupin, B. Sundman, R.J.M. Konings, A thermodynamic study of the Pu–Am–O system, Journal of Nuclear Materials 414, 408-421 (2011).  
+_assessment that models this phase_
+- [doi:10.1021/acs.inorgchem.7b00572](https://doi.org/10.1021/acs.inorgchem.7b00572) Enrica Epifano, Christine Guéneau, Renaud C. Belin, Romain Vauchy, Florent Lebreton, Jean-Christophe Richaud et al., Insight into the Am–O Phase Equilibria: A Thermodynamic Study Coupling High-Temperature XRD and CALPHAD Modeling, Inorg. Chem. 56, 7416-7432 (2017).  
 _assessment that models this phase_
 
 ## AMO1_62_D53 (Am–O)

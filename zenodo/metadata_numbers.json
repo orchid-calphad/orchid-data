@@ -2,7 +2,7 @@
  "_comment": "Every number in the descriptions of zenodo/*.metadata.json (except ORCHID-Assemblages, written by tools/build_assessed_assemblages.py) with the release file it was read from. Written by tools/build_zenodo_metadata.py.",
  "numbers": {
   "accepted": {
-   "value": 65311,
+   "value": 65284,
    "source": "parquet/literature_values.parquet"
   },
   "asm_diagrams": {
@@ -270,7 +270,7 @@
    "source": "literature/dft_parity.json"
   },
   "par_mp_n": {
-   "value": 1077,
+   "value": 1076,
    "source": "literature/dft_parity.json"
   },
   "par_mp_spearman": {
@@ -286,7 +286,7 @@
    "source": "literature/dft_parity.json"
   },
   "par_oqmd_n": {
-   "value": 1114,
+   "value": 1113,
    "source": "literature/dft_parity.json"
   },
   "par_oqmd_spearman": {
@@ -354,7 +354,7 @@
    "source": "phases/registry.json"
   },
   "reg_names": {
-   "value": 43269,
+   "value": 43268,
    "source": "phases/registry.json"
   },
   "reg_phases": {

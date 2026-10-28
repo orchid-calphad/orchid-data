@@ -34,13 +34,13 @@ Table: Crystal structure, H–Nb–Zr system
 | Lattice a | 4.7849 not_printed ± 0.0018 | 1023.15 | δ-ZrH2-x; _alloy: H 0, Nb 0.18, Zr 0.82_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 4; `ORC-F4NDSKD2H6` |  |
 | Lattice a | 4.7805 not_printed ± 5.000e-4 | 1023.15 | δ-ZrH2-x; _alloy: H 0, Nb 0.01, Zr 0.99_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 13; `ORC-KTXKGELAN4` |  |
 | Lattice a | 4.7808 not_printed ± 4.000e-4 | 1023.15 | δ-ZrH2-x; _alloy: H 0, Nb 0.05, Zr 0.95_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 8; `ORC-OVRZN62DOQ` |  |
-| Lattice a | 3.4795 not_printed ± 0.0014 | 1023.15 | δ-ZrH2-x; _alloy: H 0, Nb 0.18, Zr 0.82_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 5; `ORC-VCMFHNWJAM.55ae82` |  |
 | Lattice a | 4.7804 not_printed ± 7.000e-4 | 1023.15 | δ-ZrH2-x; _alloy: H 0, Nb 0.05, Zr 0.95_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 12; `ORC-XRQ2L5GD5F` |  |
+| Lattice a | 3.4795 not_printed ± 0.0014 | 1023.15 | ε-ZrH2; _alloy: H 0, Nb 0.18, Zr 0.82_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 5; `ORC-VCMFHNWJAM.55ae82` |  |
 | Lattice a | 3.5156 not_printed ± 5.000e-4 | 1123.15 | ε-ZrH2; _alloy: H 0, Nb 0.01, Zr 0.99_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 16; `ORC-VL3Z22ZRJB.ec3447` |  |
 | Lattice c | 4.3471 not_printed ± 4.000e-4 | 703.15 | ε-ZrH2; _alloy: H 0, Nb 0.18, Zr 0.82_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 7; `ORC-RCKNGEAUWO.82f132` |  |
 | Lattice c | 4.9711 not_printed ± 0.0012 | 1023.15 | γ-ZrH; _alloy: H 0, Nb 0.01, Zr 0.99_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 14; `ORC-K5HV6QNIHX.588501` |  |
 | Lattice c | 4.9649 not_printed ± 0.0018 | 1023.15 | γ-ZrH; _alloy: H 0, Nb 0.05, Zr 0.95_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 9; `ORC-MXNTSHFI55.54c92b` |  |
-| Lattice c | 4.528 not_printed ± 0.0026 | 1023.15 | δ-ZrH2-x; _alloy: H 0, Nb 0.18, Zr 0.82_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 5; `ORC-VCMFHNWJAM.e6c09f` |  |
+| Lattice c | 4.528 not_printed ± 0.0026 | 1023.15 | ε-ZrH2; _alloy: H 0, Nb 0.18, Zr 0.82_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 5; `ORC-VCMFHNWJAM.e6c09f` |  |
 | Lattice c | 4.4674 not_printed ± 8.000e-4 | 1123.15 | ε-ZrH2; _alloy: H 0, Nb 0.01, Zr 0.99_ | experimental | [1] Dottor 2023 | Table 2, p. 5, row 16; `ORC-VL3Z22ZRJB.ca3d1a` |  |
 
 ## Sources

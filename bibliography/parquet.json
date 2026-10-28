@@ -3,15 +3,15 @@
   "table": "papers.parquet",
   "rows": 9570,
   "id_column": "id",
-  "csv_sha256": "3b557e02f32f2c8edd80259d68d9b5a6c7e172657701d142d05b1365ead52e3b",
-  "content_sha256": "5bfbcc1d12907fe1364531b0724c747263ef91f7a31de6f83ef3606664ad03b7"
+  "csv_sha256": "302955021ef1b1a66b5ea892a180cf6c16db00409f41579272f77166b8bf3221",
+  "content_sha256": "20b6f0e2584c1c45606400c63b143fbe97e9fde11ed8e40f734ba03b39ef7f3d"
  },
  "edges": {
   "table": "edges.parquet",
   "rows": 60235,
   "id_column": "id",
-  "csv_sha256": "e4ef71d61362b2be209275411d864552fc54178037183e88125bb1c1dc680563",
-  "content_sha256": "aa36fd2e102943309cd1ffd0300f41b4164d99353a02b7192ba102f3c99aab61"
+  "csv_sha256": "447aab95df51f35f20502e761746257162a7ee030171839d5c63d7dcdc585d5a",
+  "content_sha256": "440ff8f28343f1f085494202f3b4bb58f7d5676d2888774ca7053942bfe89dda"
  },
  "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder",
  "fields": {

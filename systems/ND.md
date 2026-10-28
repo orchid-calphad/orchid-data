@@ -52,10 +52,10 @@ Table: Crystal structure, Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3656 not_printed ± 1.000e-4 |  | dhcp-Nd | unspecified | [3] Mattern 2014 | Table 2, p. 5, row 1; `ORC-FHJ3I37Y3L.43fdb7` |  |
-| Lattice a | 0.36593 not_printed |  | dhcp-Nd | model | [3] Mattern 2014; _cites Mattern 2008_ [doi](https://doi.org/10.1016/j.jnoncrysol.2007.08.035) | Table 2, p. 5, row 8; `ORC-P6R4ABFNCY.d63437` |  |
-| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd | unspecified | [3] Mattern 2014 | Table 2, p. 5, row 1; `ORC-FHJ3I37Y3L.96e12a` |  |
-| Lattice c | 1.1799 not_printed |  | dhcp-Nd | model | [3] Mattern 2014; _cites Mattern 2008_ [doi](https://doi.org/10.1016/j.jnoncrysol.2007.08.035) | Table 2, p. 5, row 8; `ORC-P6R4ABFNCY.a69f42` |  |
+| Lattice a | 3.656 Å ± 0.001 |  | dhcp-Nd | unspecified | [3] Mattern 2014 | Table 2, p. 5, row 1; `ORC-FHJ3I37Y3L.43fdb7` |  |
+| Lattice a | 3.6593 Å |  | dhcp-Nd | model | [3] Mattern 2014; _cites Mattern 2008_ [doi](https://doi.org/10.1016/j.jnoncrysol.2007.08.035) | Table 2, p. 5, row 8; `ORC-P6R4ABFNCY.d63437` |  |
+| Lattice c | 11.78 Å ± 0.01 |  | dhcp-Nd | unspecified | [3] Mattern 2014 | Table 2, p. 5, row 1; `ORC-FHJ3I37Y3L.96e12a` |  |
+| Lattice c | 11.799 Å |  | dhcp-Nd | model | [3] Mattern 2014; _cites Mattern 2008_ [doi](https://doi.org/10.1016/j.jnoncrysol.2007.08.035) | Table 2, p. 5, row 8; `ORC-P6R4ABFNCY.a69f42` |  |
 
 ## Sources
 

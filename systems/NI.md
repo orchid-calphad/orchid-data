@@ -109,13 +109,13 @@ Table: Crystal structure, Ni system
 | Lattice a | 3.523 Å |  | fcc; _alloy: Ni 1_ | model | [13] Kim 2011 | Table 1, p. 2, row 9; `ORC-F5WYALFFST` |  |
 | Lattice a | 3.517 Å |  | fcc; _alloy: Ni 1_ | model | [13] Kim 2011 | Table 1, p. 2, row 8; `ORC-GS6IVXN2DL` |  |
 | Lattice a | 3.498 Å |  | fcc; _alloy: Ni 1_ | model | [13] Kim 2011 | Table 1, p. 2, row 7; `ORC-RTF7TN4GBQ` |  |
-| Lattice a; _printed: a_ | 3.531 Å | 0 | fcc-Ni | DFT | [14] Hu 2017 | Table 3, p. 26, row 3; `ORC-IAXRV6DN7K.189ffc` |  |
+| Lattice a; _printed: a_ | 3.531 Å | 0 | fcc-Ni; _alloy: Ni 1_ | DFT | [14] Hu 2017 | Table 3, p. 26, row 3; `ORC-IAXRV6DN7K.189ffc` |  |
 | Lattice a; _printed: a_ | 3.54 Å | 0 | fcc-Ni | DFT | [14] Hu 2017 | Table 3, p. 26, row 4; `ORC-ZJ37KVI7VQ.224856` |  |
 | Lattice a | 3.523 Å | 298.15 | Ni; _alloy: Ni 1_ | unspecified | [15] An 2012 | Table 2, p. 5, row 4; `ORC-OZI6YJRPV3` |  |
 | Lattice a | 3.523 Å | 298.15 | Ni; _alloy: Ni 1_ | unspecified | [16] An 2013 | Table 3, p. 5, row 4; `ORC-PBEQT7JZZK.484054` |  |
 | Lattice a | 3.524 Å | 298.15 | fcc(Ni); _alloy: Ni 1_ | model | [17] Liu 2016; _cites Massalski 1990_ | Table II, p. 2, row 6; `ORC-VHADNQ7HST` |  |
-| Lattice a; _printed: Lattice parameter a_ | 3.525 Å | 298.15 | fcc-Ni | experimental | [14] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 2; `ORC-TDHPQBYUMS.127862` |  |
-| Lattice a; _printed: a_ | 3.524 Å | 298.15 | fcc-Ni | experimental | [14] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 1; `ORC-ZFHGIWUYEC.261581` |  |
+| Lattice a; _printed: Lattice parameter a_ | 3.525 Å | 298.15 | fcc-Ni; _alloy: Ni 1_ | experimental | [14] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 2; `ORC-TDHPQBYUMS.127862` |  |
+| Lattice a; _printed: a_ | 3.524 Å | 298.15 | fcc-Ni; _alloy: Ni 1_ | experimental | [14] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 1; `ORC-ZFHGIWUYEC.261581` |  |
 | Molar volume; _printed: V0_ | 10.88 Å3/atom | 0 | fcc(Ni); _alloy: Ni 1_ | DFT | [18] Zhou 2020 | Table V, p. 12, row 3; `ORC-6I27XH5CWH` |  |
 | lattice unspecified axis; _printed: a0_ | 2.8 Å | 0 | Ni A1; _alloy: Ni 1_ | DFT | [4] Cacciamani 2010 | Table 3, p. 7, row 13; `ORC-SV2DYP2GC2` |  |
 | lattice unspecified axis; _printed: a0_ | 3.518 Å | 0 | Ni A2; _alloy: Ni 1_ | DFT | [4] Cacciamani 2010 | Table 3, p. 7, row 14; `ORC-32TJT4ZUEC` |  |

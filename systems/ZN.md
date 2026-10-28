@@ -74,8 +74,8 @@ Table: Crystal structure, Zn system
 | Lattice c | 5.0268 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [9] Gong 2022 | Table 3, p. 29, row 3; `ORC-ZGCPMHB342.60aa4c` |  |
 | Lattice c | 4.9251 Å | 291.15 | Zn; _Zn: Zn 1_ | unspecified | [10] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6; `ORC-W6WIBAJMEI.9fcee4` |  |
 | Lattice c | 0.49641 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [7] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3; `ORC-4ZBVWU5F4I.cf080e` |  |
-| Molar volume; _printed: VX at 723 K_ | 9.98 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Zn 1_ | model | [11] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3; `ORC-BBSZGAHZ7B.8ea17d` |  |
 | Molar volume; _printed: Vm,X_ | 9.94 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Zn 1_ | model | [11] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3; `ORC-BBSZGAHZ7B.fee6c0` |  |
+| Molar volume; _printed: VX at 723 K_ | 9.98 10^-6 m^3/mol | 723 | UNKNOWN; _alloy: Zn 1_ | model | [11] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3; `ORC-BBSZGAHZ7B.8ea17d` |  |
 | volume; _printed: V0_ | 15.185 Å3/atom |  | Zn; _alloy: Zn 1_ | experimental | [9] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 6; `ORC-4G7IEAWFVU.54c06b` |  |
 | volume; _printed: V0_ | 15.491 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [9] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 5; `ORC-4RPAEUYDDW.cb0992` |  |
 | volume; _printed: V0_ | 15.336 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [9] Gong 2022 | Table 4, p. 30, row 4; `ORC-KXOQKMERLJ.996397` |  |

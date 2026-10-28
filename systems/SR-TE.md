@@ -1,10 +1,10 @@
 # Sr–Te system
 
-> Sr–Te system: 16 accepted literature values (invariant reaction 8, formation 5, phase transition 2, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sr–Te system: 15 accepted literature values (invariant reaction 8, formation 5, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SR-TE.html · Markdown: https://data.orchid-project.org/systems/SR-TE.md
 
-16 accepted literature values from 1 paper(s) (experimental 5, model 7, DFT 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+15 accepted literature values from 1 paper(s) (experimental 5, model 6, DFT 4); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SR-TE.json) · [CSV](https://data.orchid-project.org/systems/SR-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SR-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SR-TE/SrTe-22Yu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/SR-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SR-TE.html) · [Markdown](https://data.orchid-project.org/systems/SR-TE.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| model | 7 |
+| model | 6 |
 | DFT | 4 |
 
 Table: Accepted values by property group
@@ -23,7 +23,6 @@ Table: Accepted values by property group
 | invariant reaction | 8 |
 | phase transition | 2 |
 | formation | 5 |
-| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -89,14 +88,6 @@ Table: Phase transition, Sr–Te system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1763 K | 1763 | L -> SrTe; _L: Te 0.5; SrTe: Te 0.5_ | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 10; `ORC-RC3O4W4YLK` |  |
 | Phase transition | 1764 K | 1764 | L -> SrTe; _L: Te 0.5; SrTe: Te 0.5_ | model | [1] Yu 2022 | Table 7, p. 18, row 9; `ORC-RCMSIU7NLK` |  |
-
-### Crystal structure (1)
-
-Table: Crystal structure, Sr–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.666 Å | 298.15 | SrTe; _alloy: Sr 0.5, Te 0.5_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 24; `ORC-TEFMWQKH6V` |  |
 
 ## Sources
 

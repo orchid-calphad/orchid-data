@@ -17,8 +17,8 @@
  "exclude": [
   "phases/pages/**"
  ],
- "n_files": 1263,
- "total_bytes": 112721159,
+ "n_files": 1266,
+ "total_bytes": 112738777,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -68,7 +68,12 @@
   {
    "path": "phases/SCHEMA.md",
    "bytes": 18233,
-   "sha256": "2bf779ce401c5ae8cfbd2d17cecc7fb52aedd0fa2bf096b50648960f5193ace2"
+   "sha256": "c23a7e363ba839ca7735c63908f7d8468288e1d06e1ec23f780b687c246820fc"
+  },
+  {
+   "path": "phases/TDB_PROVENANCE.md",
+   "bytes": 2577,
+   "sha256": "b81b25f032d6a65615a48c66e6c76d1535126bce28e8ffc9f8e2ce933d0d2f43"
   },
   {
    "path": "phases/context.jsonld",
@@ -77,33 +82,33 @@
   },
   {
    "path": "phases/index.json",
-   "bytes": 1264521,
-   "sha256": "242c04bd6decdc3ee01f6e2f31f4d0e535fd8225c47213cdb84816f6e19cc734"
+   "bytes": 1264515,
+   "sha256": "d07e2801eb3b8384a0910034940fac4802cc574ff4942b1d922cafb7cf97eb6d"
   },
   {
    "path": "phases/parquet.json",
    "bytes": 584,
-   "sha256": "a95eb16c819b5aace417cac1cb97960150110f21beb9d4d0a8795e4fc086f81a"
+   "sha256": "fa470b2ed9f1f84b1eff4620f0b68f90d27bf52e8f0e78ce09803aca34858f63"
   },
   {
    "path": "phases/registry.csv",
-   "bytes": 3308188,
-   "sha256": "0660370e1b228f118bb221cb19e165dd7514ad69c189c10a3f80bbeb5002adff"
+   "bytes": 3308187,
+   "sha256": "ff1272a089d7a097e5665d180a58523f5ff567f73bcafc43f9e36e456940fc12"
   },
   {
    "path": "phases/registry.json",
-   "bytes": 7814413,
-   "sha256": "f8a9d80e0f16380883c9e0230ac9b74ae2a64ff3da7a0009a778fe75889993e5"
+   "bytes": 7814368,
+   "sha256": "9ebe493137642f1b01b373cc1755440c659386fc8d8dfdc2516cc2a6f0a78bdd"
   },
   {
    "path": "phases/registry.jsonld",
-   "bytes": 25951659,
-   "sha256": "54b1541213b3dac7bc76e9931c94b3466d7f51ee83216c965b5b45d7946ce278"
+   "bytes": 25951615,
+   "sha256": "b1adba9a540b619b6fdb0c97370418509233784de037f0ed9d9c55daec97d5c0"
   },
   {
    "path": "phases/registry.parquet",
-   "bytes": 452202,
-   "sha256": "435d9dfc549aa9cd76427e02c766b24eb8127f1d6042114c4c934e37c8903fe0"
+   "bytes": 452194,
+   "sha256": "940ba3df98df175354a8e0d22315fb055729dd7fedb490fa127e0a6e3097ae5e"
   },
   {
    "path": "phases/review_queue.json",
@@ -118,7 +123,7 @@
   {
    "path": "phases/structure_types.json",
    "bytes": 915974,
-   "sha256": "425d7b447b43c26ee653c2c3de4be9af65f6f1a4a0bfc8168fbd5553512ab32e"
+   "sha256": "e02ec9103942df5ad32a088eb8300ec1685c9c284ce567be8eb817fc4b60af60"
   },
   {
    "path": "phases/structure_types.parquet",
@@ -782,8 +787,8 @@
   },
   {
    "path": "phases/systems/AM-O.json",
-   "bytes": 58866,
-   "sha256": "d19f844143473099a6a0b672511eac5ab0d0cb64e35e2b82ce74fb23e53ed011"
+   "bytes": 58703,
+   "sha256": "3a70eb5fdff6150059b469939e1683d09f406f78a5fdc0c239e040888d740e9a"
   },
   {
    "path": "phases/systems/AM-PU.json",
@@ -3722,8 +3727,8 @@
   },
   {
    "path": "phases/systems/GD-ZR.json",
-   "bytes": 46242,
-   "sha256": "2f5cf67d20d01afaefd49188f6452c7cd1356af42c5bf5f056ec3366b5c12e9a"
+   "bytes": 46241,
+   "sha256": "3bfc8dab5cfee7592f2b3d9b5c22d6b642b414bf993abff6654694cf5d2efb2d"
   },
   {
    "path": "phases/systems/GE-HF.json",
@@ -4517,8 +4522,8 @@
   },
   {
    "path": "phases/systems/LI-TE.json",
-   "bytes": 32428,
-   "sha256": "fea4458312cf7f3132aebd7565cad418f13d9b8526fa831be27b7bd539f97876"
+   "bytes": 32427,
+   "sha256": "95d72a1e61f53b0576f2dd3e6ba53aafe1cc32fe884799512e9019194029cc6c"
   },
   {
    "path": "phases/systems/LI-V.json",
@@ -6331,9 +6336,19 @@
    "sha256": "ea226db8887625b6c92ebe41d7d458bb41685219985193f7c8dcdc13f1bf61a8"
   },
   {
+   "path": "phases/tdb_provenance.json",
+   "bytes": 8827,
+   "sha256": "bb91526a3c8f6d7025fb1d860ac65be2b8d08873227eff052b8a6d1032afaf20"
+  },
+  {
+   "path": "phases/tdb_provenance.schema.json",
+   "bytes": 6483,
+   "sha256": "b6ea1398250ccb4bd0344f086f7da9a55b84e0427707f2bdb00e88f5ca032e0e"
+  },
+  {
    "path": "zenodo/phase-registry.metadata.json",
    "bytes": 14414,
-   "sha256": "05dab9a0b5c2130ace2a4b9f66f42bc59f631e3c459886be49a058bbf018abd4"
+   "sha256": "86720c1cdbc41e8ad5f9acea8698500dbdaf321b10cfe6c55e3a90305543d991"
   }
  ]
 }

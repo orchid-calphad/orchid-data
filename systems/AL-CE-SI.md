@@ -128,11 +128,11 @@ Table: Crystal structure, Al–Ce–Si system
 | Lattice a | 4.25 Å | 773.15 | τ1 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 5; `ORC-G2APF5Y6H5.e20989` |  |
 | Lattice a | 3.85 Å | 773.15 | τ2 AlCeSi2; _alloy: Ce 0.25, Si 0.5_ | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 8; `ORC-4RYJLVRGW2.2f2bab` |  |
 | Lattice a | 4.32 Å | 773.15 | τ3 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 11; `ORC-2PTFDAXCQ7.548700` |  |
-| Lattice a | 0.4315 not_printed ± 5.000e-4 | 773.15 | τ3 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 12; `ORC-3OBHQHQSSY.60d7b3` |  |
+| Lattice a | 4.315 Å ± 0.005 | 773.15 | τ3 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 12; `ORC-3OBHQHQSSY.60d7b3` |  |
 | Lattice a | 4.21 Å | 773.15 | τ4 Al2CeSi2; _alloy: Ce 0.2, Si 0.4_ | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 13; `ORC-MOHP7LR4FM.57a093` |  |
-| Lattice a | 0.41887 not_printed ± 1.000e-5 | 773.15 | τ5 Al4Ce3Si6; _alloy: Ce 0.230769, Si 0.461538_ | experimental | [1] Gröbner 2004 | Table II, p. 3, row 15; `ORC-WA3K5TPJGA.6b882f` |  |
-| Lattice a | 0.41707 not_printed ± 1.000e-5 | 873.15 | τ2 AlCeSi2; _alloy: Ce 0.25, Si 0.5_ | experimental | [1] Gröbner 2004; _cites Flandorfer 1996_ [doi](https://doi.org/10.1006/jssc.1996.0388) | Table II, p. 3, row 9; `ORC-AXCANF4U7F.79db1e` |  |
-| Lattice a | 0.428 not_printed ± 5.000e-4 | 1273.15 | τ1 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 7; `ORC-GFHTB3F6K7.ebe6ea` |  |
+| Lattice a | 4.1887 Å ± 1.000e-4 | 773.15 | τ5 Al4Ce3Si6; _alloy: Ce 0.230769, Si 0.461538_ | experimental | [1] Gröbner 2004 | Table II, p. 3, row 15; `ORC-WA3K5TPJGA.6b882f` |  |
+| Lattice a | 4.1707 Å ± 1.000e-4 | 873.15 | τ2 AlCeSi2; _alloy: Ce 0.25, Si 0.5_ | experimental | [1] Gröbner 2004; _cites Flandorfer 1996_ [doi](https://doi.org/10.1006/jssc.1996.0388) | Table II, p. 3, row 9; `ORC-AXCANF4U7F.79db1e` |  |
+| Lattice a | 4.28 Å ± 0.005 | 1273.15 | τ1 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 7; `ORC-GFHTB3F6K7.ebe6ea` |  |
 | Lattice a | 0.415 not_printed ± 5.000e-4 | 1273.15 | τ1 | experimental | [1] Gröbner 2004; _cites Raman 1967_ | Table II, p. 3, row 2; `ORC-J4F5IARA4X.9b038e` |  |
 | Lattice c | 13.9 Å | 298.15 | τ1 | model | [1] Gröbner 2004; _cites Munitz 1989_ [doi](https://doi.org/10.1007/bf02882179) | Table II, p. 3, row 1; `ORC-4GAECWG6XX.9422e0` |  |
 | Lattice c | 4.3 Å | 298.15 | τ3 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 10; `ORC-SCXWYHTGXQ.654971` |  |
@@ -143,11 +143,11 @@ Table: Crystal structure, Al–Ce–Si system
 | Lattice c | 14.54 Å | 773.15 | τ1 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 5; `ORC-G2APF5Y6H5.eb6ede` |  |
 | Lattice c | 9.47 Å | 773.15 | τ2 AlCeSi2; _alloy: Ce 0.25, Si 0.5_ | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 8; `ORC-4RYJLVRGW2.b15475` |  |
 | Lattice c | 4.43 Å | 773.15 | τ3 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 11; `ORC-2PTFDAXCQ7.ff168d` |  |
-| Lattice c | 0.4298 not_printed ± 5.000e-4 | 773.15 | τ3 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 12; `ORC-3OBHQHQSSY.bca13b` |  |
+| Lattice c | 4.298 Å ± 0.005 | 773.15 | τ3 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 12; `ORC-3OBHQHQSSY.bca13b` |  |
 | Lattice c | 6.94 Å | 773.15 | τ4 Al2CeSi2; _alloy: Ce 0.2, Si 0.4_ | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 13; `ORC-MOHP7LR4FM.c9a38b` |  |
-| Lattice c | 1.81202 not_printed ± 6.000e-5 | 773.15 | τ5 Al4Ce3Si6; _alloy: Ce 0.230769, Si 0.461538_ | experimental | [1] Gröbner 2004 | Table II, p. 3, row 15; `ORC-WA3K5TPJGA.1c9d0b` |  |
-| Lattice c | 1.12147 not_printed ± 2.000e-5 | 873.15 | τ2 AlCeSi2; _alloy: Ce 0.25, Si 0.5_ | experimental | [1] Gröbner 2004; _cites Flandorfer 1996_ [doi](https://doi.org/10.1006/jssc.1996.0388) | Table II, p. 3, row 9; `ORC-AXCANF4U7F.537f3b` |  |
-| Lattice c | 1.49 not_printed ± 0.001 | 1273.15 | τ1 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 7; `ORC-GFHTB3F6K7.97b6e1` |  |
+| Lattice c | 18.1202 Å ± 6.000e-4 | 773.15 | τ5 Al4Ce3Si6; _alloy: Ce 0.230769, Si 0.461538_ | experimental | [1] Gröbner 2004 | Table II, p. 3, row 15; `ORC-WA3K5TPJGA.1c9d0b` |  |
+| Lattice c | 11.2147 Å ± 2.000e-4 | 873.15 | τ2 AlCeSi2; _alloy: Ce 0.25, Si 0.5_ | experimental | [1] Gröbner 2004; _cites Flandorfer 1996_ [doi](https://doi.org/10.1006/jssc.1996.0388) | Table II, p. 3, row 9; `ORC-AXCANF4U7F.537f3b` |  |
+| Lattice c | 14.9 Å ± 0.01 | 1273.15 | τ1 | experimental | [1] Gröbner 2004; _cites Muraveva 1972_ | Table II, p. 3, row 7; `ORC-GFHTB3F6K7.97b6e1` |  |
 | Lattice c | 1.387 not_printed ± 1.000e-4 | 1273.15 | τ1 | experimental | [1] Gröbner 2004; _cites Raman 1967_ | Table II, p. 3, row 2; `ORC-J4F5IARA4X.517700` |  |
 
 ## Sources

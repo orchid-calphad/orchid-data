@@ -62,7 +62,7 @@ Table: Crystal structure, Sn–Ti–Zn system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Molar volume; _printed: Vm,X_ | 17 10^-6 m^3/mol | 505 | UNKNOWN; _alloy: Ti 0, Zn 0_ | unspecified | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 1; `ORC-D6CC22Q666.176fad` |  |
-| Molar volume; _printed: VX at 723 K_ | 17.32 10^-6 m^3/mol | 505 | UNKNOWN; _alloy: Ti 0, Zn 0_ | unspecified | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 1; `ORC-D6CC22Q666.e88f78` |  |
+| Molar volume; _printed: VX at 723 K_ | 17.32 10^-6 m^3/mol | 723 | UNKNOWN; _alloy: Ti 0, Zn 0_ | unspecified | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 1; `ORC-D6CC22Q666.e88f78` |  |
 
 ## Sources
 

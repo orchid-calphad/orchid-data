@@ -2693,7 +2693,7 @@
    "dft/oqmd|nonequilibrium_log_likelihood": {
     "datasets": 1251,
     "values": 1251,
-    "median_of_dataset_median_abs": 10.0422,
+    "median_of_dataset_median_abs": 10.0417,
     "p90_of_dataset_median_abs": 11.7164
    },
    "experimental|activity_residual": {
@@ -4922,7 +4922,7 @@
   {
    "source": "general/espei/CrV-82Smi/sm-01.json",
    "reason": [
-    "phase_rule:not_espei_ready"
+    "not_accepted"
    ],
    "values": 6
   },
@@ -4986,7 +4986,7 @@
   {
    "source": "general/espei/CsTe-15Pha/hmr-00.json",
    "reason": [
-    "phase_rule:phase_label_ambiguous"
+    "not_espei_ready:literature_gate"
    ],
    "values": 1
   },
@@ -22565,37 +22565,37 @@
   {
    "source": "general/espei/CrV-82Smi/sm-01.json",
    "index": 0,
-   "reason": "phase_rule:not_espei_ready",
+   "reason": "not_accepted",
    "orchid_id": "ORC-MFUTBPJ73V.a91205"
   },
   {
    "source": "general/espei/CrV-82Smi/sm-01.json",
    "index": 1,
-   "reason": "phase_rule:not_espei_ready",
+   "reason": "not_accepted",
    "orchid_id": "ORC-NKAWVPI72A.406946"
   },
   {
    "source": "general/espei/CrV-82Smi/sm-01.json",
    "index": 2,
-   "reason": "phase_rule:not_espei_ready",
+   "reason": "not_accepted",
    "orchid_id": "ORC-EPYUWME3S2.4b91f9"
   },
   {
    "source": "general/espei/CrV-82Smi/sm-01.json",
    "index": 3,
-   "reason": "phase_rule:not_espei_ready",
+   "reason": "not_accepted",
    "orchid_id": "ORC-HLSQ32LD7W.813e3a"
   },
   {
    "source": "general/espei/CrV-82Smi/sm-01.json",
    "index": 4,
-   "reason": "phase_rule:not_espei_ready",
+   "reason": "not_accepted",
    "orchid_id": "ORC-HRCXWJ5ASY.680328"
   },
   {
    "source": "general/espei/CrV-82Smi/sm-01.json",
    "index": 5,
-   "reason": "phase_rule:not_espei_ready",
+   "reason": "not_accepted",
    "orchid_id": "ORC-CVGPP2EES2.902166"
   },
   {
@@ -22717,7 +22717,7 @@
   {
    "source": "general/espei/CsTe-15Pha/hmr-00.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_ambiguous",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-4IKMXI5UTB.3dd9ab"
   },
   {
@@ -38455,6 +38455,12 @@
   },
   {
    "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
+   "index": 4,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-5JTV2YD5ZE.92926b"
+  },
+  {
+   "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
    "index": 1,
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-74PDWOUQ6D.656ab0",
@@ -38513,12 +38519,6 @@
    "index": 2,
    "reason": "phase_rule:compound_property_not_fittable",
    "orchid_id": "ORC-XIB343EK4O.aff151"
-  },
-  {
-   "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
-   "index": 4,
-   "reason": "phase_rule:compound_property_not_fittable",
-   "orchid_id": "ORC-5JTV2YD5ZE.92926b"
   },
   {
    "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
@@ -38613,6 +38613,12 @@
   },
   {
    "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
+   "index": 4,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-5JTV2YD5ZE.0a54c3"
+  },
+  {
+   "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
    "index": 1,
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-74PDWOUQ6D.6cd4d8",
@@ -38671,12 +38677,6 @@
    "index": 2,
    "reason": "phase_rule:compound_property_not_fittable",
    "orchid_id": "ORC-XIB343EK4O.441b7e"
-  },
-  {
-   "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
-   "index": 4,
-   "reason": "phase_rule:compound_property_not_fittable",
-   "orchid_id": "ORC-5JTV2YD5ZE.0a54c3"
   },
   {
    "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
@@ -167698,12 +167698,12 @@
    "model_phase_rejected_by_label_check": 66,
    "model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert": 2,
    "model_phase_rejected_by_label_check;zpf_region_inert": 41,
-   "not_accepted": 8,
+   "not_accepted": 9,
    "not_accepted;phase_rule:not_espei_ready": 1,
    "not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_accepted;temperature_differs_from_release": 1,
    "not_accepted;value_differs_from_release": 2,
-   "not_espei_ready:literature_gate": 148,
+   "not_espei_ready:literature_gate": 149,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb": 3,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped": 1,
    "not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable": 2,
@@ -167719,9 +167719,9 @@
    "phase_rule:compound_property_not_fittable;phase_rule:phase_label_ambiguous": 1,
    "phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped": 4,
    "phase_rule:liquid_impossible_at_T": 1,
-   "phase_rule:not_espei_ready": 14,
+   "phase_rule:not_espei_ready": 13,
    "phase_rule:not_espei_ready;zpf_region_inert": 2,
-   "phase_rule:phase_label_ambiguous": 65,
+   "phase_rule:phase_label_ambiguous": 64,
    "phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 7,
    "phase_rule:phase_label_ambiguous;reference_state_not_ser": 4,
    "phase_rule:phase_label_not_mapped": 282,
@@ -167755,13 +167755,13 @@
    "formation_magnitude_implausible": 2,
    "gas_without_printed_pressure": 23,
    "model_phase_rejected_by_label_check": 417,
-   "not_accepted": 45,
-   "not_espei_ready:literature_gate": 1112,
+   "not_accepted": 51,
+   "not_espei_ready:literature_gate": 1115,
    "phase_not_in_target_tdb": 106,
-   "phase_rule:compound_property_not_fittable": 703,
+   "phase_rule:compound_property_not_fittable": 701,
    "phase_rule:liquid_impossible_at_T": 3,
-   "phase_rule:not_espei_ready": 300,
-   "phase_rule:phase_label_ambiguous": 148,
+   "phase_rule:not_espei_ready": 294,
+   "phase_rule:phase_label_ambiguous": 147,
    "phase_rule:phase_label_not_mapped": 685,
    "phase_rule:phase_not_printed": 7,
    "phase_rule:temperature_implausible": 22,
@@ -167787,7 +167787,7 @@
   },
   "reader_agreement_source": "release",
   "observation_match": {
-   "id": 13273
+   "id": 13271
   },
   "datasets_with_espei_evaluation": 0,
   "dft_candidates": {

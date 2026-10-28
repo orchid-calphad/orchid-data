@@ -336,19 +336,19 @@ Table: Crystal structure, La–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.037 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11; `ORC-7NEUDDP5BB.4b23ab` |  |
-| Lattice a | 1.4822 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10; `ORC-QT7PK5JOLJ.2a857c` |  |
-| Lattice a | 0.3962 not_printed | 298.15 | LaMg; _alloy: Mg 0.5_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 7; `ORC-WAVRPOVDSX` |  |
-| Lattice a | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.0dfffd` |  |
-| Lattice a | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.fc0e32` |  |
-| Lattice a | 0.8774 not_printed | 298.15 | LaMg2; _alloy: Mg 0.666667_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 8; `ORC-6COBH63FRG` |  |
-| Lattice a | 0.7494 not_printed | 298.15 | LaMg3; _alloy: Mg 0.75_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 9; `ORC-XA77JJGDNV` |  |
-| Lattice b | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.002340` |  |
-| Lattice b | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.fa6290` |  |
-| Lattice c | 1.024 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11; `ORC-7NEUDDP5BB.ae1049` |  |
-| Lattice c | 1.0468 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10; `ORC-QT7PK5JOLJ.6f035c` |  |
-| Lattice c | 7.774 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.30a067` |  |
-| Lattice c | 7.749 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.bcf718` |  |
+| Lattice a | 10.37 Å | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11; `ORC-7NEUDDP5BB.4b23ab` |  |
+| Lattice a | 14.822 Å | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10; `ORC-QT7PK5JOLJ.2a857c` |  |
+| Lattice a | 3.962 Å | 298.15 | LaMg; _alloy: Mg 0.5_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 7; `ORC-WAVRPOVDSX` |  |
+| Lattice a | 10.34 Å | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.0dfffd` |  |
+| Lattice a | 10.33 Å | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.fc0e32` |  |
+| Lattice a | 8.774 Å | 298.15 | LaMg2; _alloy: Mg 0.666667_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 8; `ORC-6COBH63FRG` |  |
+| Lattice a | 7.494 Å | 298.15 | LaMg3; _alloy: Mg 0.75_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 9; `ORC-XA77JJGDNV` |  |
+| Lattice b | 10.33 Å | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.002340` |  |
+| Lattice b | 10.34 Å | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.fa6290` |  |
+| Lattice c | 10.24 Å | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11; `ORC-7NEUDDP5BB.ae1049` |  |
+| Lattice c | 10.468 Å | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10; `ORC-QT7PK5JOLJ.6f035c` |  |
+| Lattice c | 77.74 Å | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.30a067` |  |
+| Lattice c | 77.49 Å | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12; `ORC-HZUJZOOUFX.bcf718` |  |
 
 ## Sources
 

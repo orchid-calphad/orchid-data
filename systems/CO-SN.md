@@ -174,10 +174,10 @@ Table: Enthalpies of formation, Co–Sn system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| AuSn4 |  | -7.2 kJ/mol (basis unstated) | 10 | model |  |  | [4] Dong 2009 | Table II, p. 4, row 10; `ORC-SWZZVGOYZS.0a530c` |  |
+| AuSn4 |  | -7.19 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Dong 2009 | Table II, p. 4, row 9; `ORC-HSM3BPNK47.567916` |  |
 | NiAs-type CoSn |  | -3.82 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Dong 2009 | Table II, p. 4, row 1; `ORC-WR4H7JQYRM.da54de` |  |
 | NiAs-type CoSn |  | -3.75 kJ/mol (basis unstated) | 10 | model |  |  | [4] Dong 2009 | Table II, p. 4, row 2; `ORC-GIYKV3WK3V.26c5f5` |  |
-| PdSn4 type, AuSn4 |  | -7.2 kJ/mol (basis unstated) | 10 | model |  |  | [4] Dong 2009 | Table II, p. 4, row 10; `ORC-SWZZVGOYZS.0a530c` |  |
-| PdSn4 type, AuSn4 |  | -7.19 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Dong 2009 | Table II, p. 4, row 9; `ORC-HSM3BPNK47.567916` |  |
 
 ## Other properties
 

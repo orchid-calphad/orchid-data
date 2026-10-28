@@ -14,7 +14,7 @@
   "open-tdb/hulls/dft-mp/catalog.json": "d5cbcdd8535214082b4fe7256af1d426edd1770c3df8253b69fb6b92a099d302",
   "open-tdb/hulls/dft-oqmd/catalog.json": "442f2fd62b3acb628c29b600e30443728d290ce7d06ce77dd574eb92ae967d2c",
   "orchid-data/literature/papers.json": "45f65e9db7b08b7e4dec82ebb293826e5287da3d369b1c71339181e10ff38f4a",
-  "orchid-data/literature/systems/*.json (sha256 of 'sha256  name' lines)": "6e1c86e5995141be462b20fee6a1eb7a8a2a198782e6920be8ab4b28830d0093",
+  "orchid-data/literature/systems/*.json (sha256 of 'sha256  name' lines)": "cfc17e589f31c9f71550f2af7333866e72c35ac4936ffeb181e494ab3d4a5d70",
   "orchid-data/phase-diagrams/sgte/*.json (sha256 of 'sha256  name' lines)": "498e3bae997846e9d749e8e7ea481c7bdffc2ba2b6dd812c4da8a958898450d1",
   "orchid-pipeline origin/main:databases (git tree id)": "a8ed3aa4252a581510fb06fff73d87ab32b57024",
   "orchid-project.org/tools/doi_corrections.json": "1406a2c1b91197ce810bbced42af8ecf80fe2c58b53e5bef60091cdf47655d96",

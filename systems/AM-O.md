@@ -152,7 +152,7 @@ Table: Crystal structure, Am–O system
 | Lattice a | 5.444 Å ± 0.001 | 1273 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 8; `ORC-UCRCPM2QPA` |  |
 | Lattice a | 5.455 Å ± 0.001 | 1373 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 7; `ORC-CQOQMMDD62` |  |
 | Lattice a | 5.468 Å ± 0.001 | 1473 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 6; `ORC-G4VEKRML5P` |  |
-| Lattice a | 5.527 Å ± 0.001 | 1500 | Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017 | Table 6, p. 10, row 19; `ORC-KQIFQQSMIU` |  |
+| Lattice a | 5.527 Å ± 0.001 | 1500 | AmO2-x | experimental | [2] Epifano 2017 | Table 6, p. 10, row 19; `ORC-KQIFQQSMIU` |  |
 | Lattice a | 5.483 Å ± 0.001 | 1573 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 5; `ORC-OQG377M4VS` |  |
 | Lattice a | 5.497 Å ± 0.001 | 1673 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 4; `ORC-4MCO4GRANJ` |  |
 | Lattice a | 5.511 Å ± 0.001 | 1773 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 3; `ORC-3XK267HKH5` |  |

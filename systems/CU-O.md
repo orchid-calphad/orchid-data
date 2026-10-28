@@ -246,9 +246,9 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 | Gibbs energy; _printed: ΔG0_ | -75000 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites ref. 71Jac_ | Table 3, p. 9, row 23; `ORC-NMBWFWIITG.7a1eaa` |  |
 | Gibbs energy; _printed: ΔG0_ | -75960 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9; `ORC-S3NQ2UDDAZ.073cbf` |  |
 | Gibbs energy; _printed: ΔG0_ | -76900 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9; `ORC-S3NQ2UDDAZ.d763d8` |  |
+| Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -110.21 kJ/mol | 290 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 10All_ | Table 11, p. 13, row 2; `ORC-OF7WFZ4FIS` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -112.67 kJ/mol | 298.15 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Maier 1929_ [doi](https://doi.org/10.1021/ja01376a024) | Table 11, p. 13, row 4; `ORC-GNTGZPTRWU.544bc1` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -107.6 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994 | Table 11, p. 13, row 10; `ORC-JFNBHZ6QIT.c5018b` |  |
-| Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -110.21 kJ/mol | 298.15 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 10All_ | Table 11, p. 13, row 2; `ORC-OF7WFZ4FIS` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -108.7 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 11, p. 13, row 9; `ORC-PYTD2C6HQG.620249` |  |
 | Gibbs energy; _printed: ΔG0_ | -76590 J/mol | 1373 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Fitzner 1978_ | Table 3, p. 9, row 35; `ORC-3EFJSN4QOF.75bda9` |  |
 | Gibbs energy; _printed: ΔG0_ | -76650 J/mol | 1408 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Nanda 1970_ [doi](https://doi.org/10.1007/bf02900236) | Table 3, p. 9, row 20; `ORC-XZ62TAIPXP.a0c217` |  |

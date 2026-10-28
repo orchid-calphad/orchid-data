@@ -187,9 +187,16 @@ Table: Crystal structure, Al–Au system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.236 Å |  | β; _β: Al 0.2, Au 0.8_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 27; `ORC-QTQSVPNVPV` |  |
 | Lattice a | 5.988 Å | 4.2 | Al2Au; _Al2Au: Al 0.667, Au 0.333_ | experimental | [1] Murray 1987; _cites ref. 65Jan_ | Table 3, p. 6, row 43; `ORC-AWAE5IL7KG.2648ba` |  |
+| Lattice a | 5.988 Å | 4.2 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 6; `ORC-WPOEPZBFIF` |  |
+| Lattice a | 5.9864 Å | 40 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 15; `ORC-FYUR4VWYNC` |  |
 | Lattice a | 5.9864 Å | 40 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 47; `ORC-ZKPDT6NMRG.987495` |  |
+| Lattice a | 5.9867 Å | 60 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 14; `ORC-KKM7YW6ZTJ` |  |
 | Lattice a | 5.9867 Å | 60 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 46; `ORC-TEPLCCW5SB.0f0f09` |  |
+| Lattice a | 5.9871 Å | 80 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 13; `ORC-RU3OS7DUGR` |  |
+| Lattice a | 5.9876 Å | 100 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 12; `ORC-CQKIRWJ2SF` |  |
+| Lattice a | 5.9891 Å | 140 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 11; `ORC-BIBWZ4X5VQ` |  |
 | Lattice a | 5.9891 Å | 140 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 45; `ORC-O6IFYMRZI5.a90c95` |  |
+| Lattice a | 5.991 Å | 180 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 10; `ORC-4YRDPLA5VY` |  |
 | Lattice a | 5.991 Å | 180 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 44; `ORC-UVBXBLLQ5R.6017c2` |  |
 | Lattice a | 4.0737 Å | 298.15 | (Au); _(Au): Al 0.036, Au 0.964_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 33; `ORC-53C4PUGNSP.3df222` |  |
 | Lattice a | 4.0724 Å | 298.15 | (Au); _(Au): Al 0.0457, Au 0.9543_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 38; `ORC-BNHYHYNG2C.77de36` |  |
@@ -202,17 +209,10 @@ Table: Crystal structure, Al–Au system
 | Lattice a | 4.0589 Å | 298.15 | (Au); _(Au): Al 0.1402, Au 0.8598_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 34; `ORC-WG2BLRKUV3.42014e` |  |
 | Lattice a | 4.0644 Å | 298.15 | (Au); _(Au): Al 0.101, Au 0.899_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 31; `ORC-WWBRHPW4LI.431824` |  |
 | Lattice a | 5.98 Å | 298.15 | Al2Au; _Al2Au: Al 0.67, Au 0.33_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 7; `ORC-4ADUUZJ6Y3.3ac080` |  |
-| Lattice a | 5.991 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 10; `ORC-4YRDPLA5VY` |  |
-| Lattice a | 5.9891 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 11; `ORC-BIBWZ4X5VQ` |  |
-| Lattice a | 5.9876 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 12; `ORC-CQKIRWJ2SF` |  |
-| Lattice a | 5.9864 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 15; `ORC-FYUR4VWYNC` |  |
 | Lattice a | 5.99695 Å | 298.15 | Al2Au; _Al2Au: Al 0.6608, Au 0.3392_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 4; `ORC-GDHQKUZKUE.44d908` |  |
 | Lattice a | 5.99797 Å | 298.15 | Al2Au; _Al2Au: Al 0.6708, Au 0.3292_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 2; `ORC-HRTSDI3XS7.81f634` |  |
-| Lattice a | 5.9867 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 14; `ORC-KKM7YW6ZTJ` |  |
 | Lattice a | 6 Å | 298.15 | Al2Au; _Al2Au: Al 0.67, Au 0.33_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 8; `ORC-LDENDXY4T3.942089` |  |
-| Lattice a | 5.9871 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 13; `ORC-RU3OS7DUGR` |  |
 | Lattice a | 6 Å | 298.15 | Al2Au; _Al2Au: Al 0.667, Au 0.333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 5; `ORC-VIYS7QQEXK.467f38` |  |
-| Lattice a | 5.988 Å | 298.15 | Al2Au; _alloy: Au 0.333333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 6; `ORC-WPOEPZBFIF` |  |
 | Lattice a | 5.9973 Å | 298.15 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 9; `ORC-XKMXFC7235.9357f8` |  |
 | Lattice a | 7.719 Å | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 25; `ORC-EJ6UZHAUVV.13518f` |  |
 | Lattice a | 14.68 Å | 298.15 | Al2Au5; _Al2Au5: Al 0.2857, Au 0.7143_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 24; `ORC-SUAYGCO47A.068d49` |  |

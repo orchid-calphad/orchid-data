@@ -1,10 +1,10 @@
 # Ni–Zr system
 
-> Ni–Zr system: 429 accepted literature values (crystal structure 187, invariant reaction 145, formation 83, phase transition 14) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Zr system: 427 accepted literature values (crystal structure 185, invariant reaction 145, formation 83, phase transition 14) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-ZR.html · Markdown: https://data.orchid-project.org/systems/NI-ZR.md
 
-429 accepted literature values from 3 paper(s) (experimental 134, model 180, DFT 55, unspecified 60); 7 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+427 accepted literature values from 3 paper(s) (experimental 134, model 180, DFT 55, unspecified 58); 7 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-ZR.json) · [CSV](https://data.orchid-project.org/systems/NI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-ZR/NiZr-05Abe.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/NI-ZR.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 134 |
 | model | 180 |
 | DFT | 55 |
-| unspecified | 60 |
+| unspecified | 58 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 145 |
 | phase transition | 14 |
 | formation | 83 |
-| crystal structure | 187 |
+| crystal structure | 185 |
 
 ## Calculated phase diagrams
 
@@ -445,7 +445,7 @@ Table: Phase transition, Ni–Zr system
 | Phase transition | 1492.15 K | 1492.15 | congruent melting: L -> ZrNi; _L: Zr 0.5; ZrNi: Zr 0.5_ | model | [3] Cacciamani 2011 | Table 8, p. 9, row 2; `ORC-WP5BAHZM4F` |  |
 | Phase transition | 1658.15 K | 1658.15 | congruent melting: L -> Zr2Ni7; _L: Zr 0.222; Zr2Ni7: Zr 0.222_ | model | [3] Cacciamani 2011 | Table 8, p. 9, row 1; `ORC-UMA7DFJEBR` |  |
 
-### Crystal structure (187)
+### Crystal structure (185)
 
 Table: Crystal structure, Ni–Zr system
 
@@ -501,7 +501,6 @@ Table: Crystal structure, Ni–Zr system
 | Lattice a | 6.477 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 14; `ORC-GQLVHSU4S5.9ea53e` |  |
 | Lattice a | 6.526 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 32; `ORC-RBPWCQ6WL6.9bcb74` |  |
 | Lattice a | 6.515 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 31; `ORC-VXTFTETY6A.f84e98` |  |
-| Lattice a | 3.31 Å | 298.15 | UNKNOWN; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 22; `ORC-UGO6XCZEPF.075869` |  |
 | Lattice b | 9.188 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 21; `ORC-U7SCIEAZJA.94dc4c` |  |
 | Lattice b | 9.175 Å |  | Ni10Zr7; _alloy: Zr 0.411765_ | model | [1] Jana 2020 | Table 2, p. 2, row 17; `ORC-YHMO3TXN2X.03eeb3` |  |
 | Lattice b | 8.085 Å |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15; `ORC-SFGWHESLXV.c14242` |  |
@@ -562,7 +561,6 @@ Table: Crystal structure, Ni–Zr system
 | Lattice c | 5.241 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | experimental | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 14; `ORC-GQLVHSU4S5.913fef` |  |
 | Lattice c | 5.254 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | unspecified | [1] Jana 2020 | Table 2, p. 2, row 32; `ORC-RBPWCQ6WL6.f28dbc` |  |
 | Lattice c | 5.221 Å | 298.15 | NiZr2; _alloy: Zr 0.666667_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 31; `ORC-VXTFTETY6A.58e91a` |  |
-| Lattice c | 4.08 Å | 298.15 | UNKNOWN; _alloy: Zr 0.5_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 3, row 22; `ORC-UGO6XCZEPF.210cf4` |  |
 | lattice alpha | 75.44 ° |  | Ni21Zr8; _alloy: Zr 0.275862_ | model | [1] Jana 2020 | Table 2, p. 2, row 15; `ORC-SFGWHESLXV.1b3b09` |  |
 | lattice alpha | 90 ° |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8; `ORC-Q4N3AVPWBQ.6a0bdc` |  |
 | lattice alpha | 75.19 ° | 298.15 | Ni21Zr8; _alloy: Zr 0.275862_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 13; `ORC-TCABP73YJM.549995` |  |

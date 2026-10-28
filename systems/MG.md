@@ -89,9 +89,9 @@ Table: Crystal structure, Mg system
 | Lattice a | 3.209 Å | 2 | hcp (A3); _alloy: Mg 1_ | experimental | [7] Zhong 2006; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 4, row 13; `ORC-I3IBFFCAD2.3de97b` |  |
 | Lattice a | 3.177 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [7] Zhong 2006 | Table 1, p. 4, row 27; `ORC-IJS5WEVS7R.a9d021` |  |
 | Lattice a | 3.128 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [7] Zhong 2006 | Table 1, p. 4, row 11; `ORC-MJ7E46M3T5.e058b4` |  |
-| Lattice a | 3.213 Å | 298.15 | hcp-Mg | experimental | [8] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 1; `ORC-5K2OCRDHQD.2b6b08` |  |
-| Lattice a | 3.189 Å | 298.15 | hcp-Mg | DFT | [8] Zhou 2014; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 2, p. 4, row 2; `ORC-LKDXHC5TSN.6c7222` |  |
-| Lattice a | 3.219 Å | 298.15 | hcp-Mg | DFT | [8] Zhou 2014 | Table 2, p. 4, row 3; `ORC-TG4T3OZI3U.330ad8` |  |
+| Lattice a | 3.213 Å | 298.15 | hcp-Mg; _alloy: Mg 1_ | experimental | [8] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 1; `ORC-5K2OCRDHQD.2b6b08` |  |
+| Lattice a | 3.189 Å | 298.15 | hcp-Mg; _alloy: Mg 1_ | DFT | [8] Zhou 2014; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 2, p. 4, row 2; `ORC-LKDXHC5TSN.6c7222` |  |
+| Lattice a | 3.219 Å | 298.15 | hcp-Mg; _alloy: Mg 1_ | DFT | [8] Zhou 2014 | Table 2, p. 4, row 3; `ORC-TG4T3OZI3U.330ad8` |  |
 | Lattice a | 3.2094 Å | 650 (\<) | (Mg); _alloy: Mg 1_ | unspecified | [9] Kozlov 2008 | Table 1, p. 4, row 3; `ORC-ILIK7N5OIQ.bba01d` |  |
 | Lattice a | 3.2089 Å | 923.15 (\<) | (Mg); _alloy: Mg 1_ | model | [10] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3; `ORC-UQVYEZ2LZQ.28a8f0` |  |
 | Lattice b; _printed: b_ | 3.177 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15; `ORC-J3KC4GSYKV.b876db` |  |
@@ -109,9 +109,9 @@ Table: Crystal structure, Mg system
 | Lattice c | 5.211 Å | 2 | hcp (A3); _alloy: Mg 1_ | experimental | [7] Zhong 2006; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 4, row 13; `ORC-I3IBFFCAD2.63f0c1` |  |
 | Lattice c | 5.172 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [7] Zhong 2006 | Table 1, p. 4, row 27; `ORC-IJS5WEVS7R.76f7ff` |  |
 | Lattice c | 5.104 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [7] Zhong 2006 | Table 1, p. 4, row 11; `ORC-MJ7E46M3T5.b4300b` |  |
-| Lattice c | 5.213 Å | 298.15 | hcp-Mg | experimental | [8] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 1; `ORC-5K2OCRDHQD.c35571` |  |
-| Lattice c | 5.169 Å | 298.15 | hcp-Mg | DFT | [8] Zhou 2014; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 2, p. 4, row 2; `ORC-LKDXHC5TSN.1747d4` |  |
-| Lattice c | 5.099 Å | 298.15 | hcp-Mg | DFT | [8] Zhou 2014 | Table 2, p. 4, row 3; `ORC-TG4T3OZI3U.3956be` |  |
+| Lattice c | 5.213 Å | 298.15 | hcp-Mg; _alloy: Mg 1_ | experimental | [8] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 1; `ORC-5K2OCRDHQD.c35571` |  |
+| Lattice c | 5.169 Å | 298.15 | hcp-Mg; _alloy: Mg 1_ | DFT | [8] Zhou 2014; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 2, p. 4, row 2; `ORC-LKDXHC5TSN.1747d4` |  |
+| Lattice c | 5.099 Å | 298.15 | hcp-Mg; _alloy: Mg 1_ | DFT | [8] Zhou 2014 | Table 2, p. 4, row 3; `ORC-TG4T3OZI3U.3956be` |  |
 | Lattice c | 5.2107 Å | 650 (\<) | (Mg); _alloy: Mg 1_ | unspecified | [9] Kozlov 2008 | Table 1, p. 4, row 3; `ORC-ILIK7N5OIQ.dc0e52` |  |
 | Lattice c | 5.2101 Å | 923.15 (\<) | (Mg); _alloy: Mg 1_ | model | [10] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3; `ORC-UQVYEZ2LZQ.e38257` |  |
 | lattice unspecified axis; _printed: a = b_ | 3.177 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15; `ORC-J3KC4GSYKV.bb7f4b` |  |

@@ -80,8 +80,8 @@ Table: Crystal structure, Nb–Zr system
 | Lattice a | 3.2334 not_printed ± 6.000e-4 | 1023.15 | α-Zr; _alloy: Nb 0.01, Zr 0.99_ | experimental | [2] Dottor 2023 | Table 2, p. 5, row 15; `ORC-6PZWDUZSOV.a95f08` |  |
 | Lattice a | 3.2248 not_printed ± 8.000e-4 | 1023.15 | α-Zr; _alloy: Nb 0.05, Zr 0.95_ | experimental | [2] Dottor 2023 | Table 2, p. 5, row 10; `ORC-7KHDS6RIL6.36b4e2` |  |
 | Lattice a | 3.3312 not_printed ± 9.000e-4 | 1073.15 | α-Nb; _alloy: Nb 0.18, Zr 0.82_ | experimental | [2] Dottor 2023 | Table 2, p. 5, row 3; `ORC-NLD76ZXANV` |  |
-| Lattice a | 4.7839 not_printed ± 0.0018 | 1073.15 | α-Zr; _alloy: Nb 0.18, Zr 0.82_ | experimental | [2] Dottor 2023 | Table 2, p. 5, row 2; `ORC-PYADIZDG2A` |  |
 | Lattice a | 3.2534 not_printed ± 0.0014 | 1073.15 | α-Zr; _alloy: Nb 0.18, Zr 0.82_ | experimental | [2] Dottor 2023 | Table 2, p. 5, row 1; `ORC-RSPCJ3X3BV.101483` |  |
+| Lattice a | 4.7839 not_printed ± 0.0018 | 1073.15 | δ-ZrH2-x; _alloy: Nb 0.18, Zr 0.82_ | experimental | [2] Dottor 2023 | Table 2, p. 5, row 2; `ORC-PYADIZDG2A` |  |
 | Lattice c; _printed: c_ | 18.29 Å | 0 | C36; _alloy: Nb 0.333333, Zr 0.666667_ | DFT | [1] Lu 2017 | Table 2, p. 3, row 32; `ORC-IPXCAIJM3Y.276383` |  |
 | Lattice c; _printed: c_ | 17.89 Å | 0 | C36; _alloy: Nb 0.666667, Zr 0.333333_ | DFT | [1] Lu 2017 | Table 2, p. 3, row 33; `ORC-Z6PSYAWYCB.2b7b7c` |  |
 | Lattice c; _printed: c_ | 9.14 Å | 0 | τ2; _alloy: Nb 0.333333, Zr 0.666667_ | DFT | [1] Lu 2017 | Table 2, p. 3, row 17; `ORC-DJ65NCPHPA.67795f` |  |

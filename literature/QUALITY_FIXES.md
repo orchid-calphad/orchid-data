@@ -537,18 +537,18 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 
 | count | n |
 |---|---:|
-| blocked_by_flag | 281 |
-| blocked_by_flag_phase_identity_missing | 266 |
+| blocked_by_flag | 275 |
+| blocked_by_flag_phase_identity_missing | 260 |
 | blocked_by_flag_terminal_phase_mapping_unresolved | 15 |
 | espei_certified | 1892 |
-| espei_ready | 11189 |
+| espei_ready | 11188 |
 | espei_ready_calphad_disagrees | 319 |
-| espei_ready_no_prediction | 9376 |
-| phase_rule_fail_compound_property_not_fittable | 407 |
+| espei_ready_no_prediction | 9375 |
+| phase_rule_fail_compound_property_not_fittable | 405 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
-| phase_rule_fail_phase_label_ambiguous | 79 |
+| phase_rule_fail_phase_label_ambiguous | 78 |
 | phase_rule_fail_phase_label_not_mapped | 545 |
-| phase_rule_pass | 11587 |
+| phase_rule_pass | 11586 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -748,16 +748,10 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-QQXFHXO7DI | CO-TH | INVARIANT_TEMPERATURE | 1660.15 | L, Co17Th2, αCo | blocked_by_flag | terminal_phase_mapping_unresolved |
 | ORC-YYDEE5TVLQ | CO-TH | INVARIANT_TEMPERATURE | 1768.15 | L, αCo | blocked_by_flag | terminal_phase_mapping_unresolved |
 | ORC-CVGPP2EES2.280500 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
-| ORC-CVGPP2EES2.902166 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
-| ORC-EPYUWME3S2.4b91f9 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-EPYUWME3S2.d891c2 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
-| ORC-HLSQ32LD7W.813e3a | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-HLSQ32LD7W.9589eb | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
-| ORC-HRCXWJ5ASY.680328 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-HRCXWJ5ASY.fb9198 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-MFUTBPJ73V.867731 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
-| ORC-MFUTBPJ73V.a91205 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
-| ORC-NKAWVPI72A.406946 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-NKAWVPI72A.a2b053 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-27ENRZHFIH.bb8a88 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-2QGHJJNDFX.677f28 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
@@ -888,8 +882,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-IDEY4NU7GH.6d36ca | CS-O | SM | 298.15 | Cs4O | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-NGZLBXOCTJ.51d7f5 | CS-O | CPM | 298.15 | Cs7O | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-NGZLBXOCTJ.89404d | CS-O | SM | 298.15 | Cs7O | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-SWEHTSC4LB.6455b7 | CS-O | SM | 298.15 | Cs7O2 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-SWEHTSC4LB.f524bc | CS-O | CPM | 298.15 | Cs7O2 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-TSATJTWL4X.de9739 | CS-O | SM | 298.15 | Cs3O | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-TSATJTWL4X.f55708 | CS-O | CPM | 298.15 | Cs3O | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-2T3W5BF2L4.4e597c | ER-GE | GM_FORM | 950.0 | LT_ErGe2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -1265,7 +1257,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-V7JKB5ZQ5Q.2c27ee | BI-RB | HM_FORM | 0.0 | ßBiRb3 | phase_label_ambiguous | label 'ßBiRb3' |
 | ORC-YVCSYC5JGI.8913b4 | BI-RB | HM_FORM | 0.0 | ßBiRb3 | phase_label_ambiguous | label 'ßBiRb3' |
 | ORC-CHVOY6D4FJ.422766 | CO-GE | HM_FORM | 1060.0 | α(Co)+βCo5Ge3 | phase_label_ambiguous | label 'α(Co)+βCo5Ge3' |
-| ORC-4IKMXI5UTB.3dd9ab | CS-TE | HM_FORM | 298.15 | Cs2Te | phase_label_ambiguous | label 'Cs2Te' |
 | ORC-LEVZKAYSFQ.3928ec | CS-TE | SM | 298.15 | Cs2Te | phase_label_ambiguous | label 'Cs2Te' |
 | ORC-3ZQFHDEH6W.183131 | CU-ZR | HM_FORM | 0.0 | CuZr2-C11b | phase_label_ambiguous | label 'CuZr2-C11b' |
 | ORC-L4LH5UJX5O | FE-GD | HM_FORM | 298.15 | Fe17Gd2 | phase_label_ambiguous | label 'Fe17Gd2' |
@@ -1878,12 +1869,12 @@ Every value was checked against its table, its paper, the physics of its quantit
 | | before | after |
 |---|---:|---:|
 | records | 77540 | 73542 |
-| extraction_accepted | 76600 | 65311 |
-| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13014 |
+| extraction_accepted | 76600 | 65284 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13004 |
 | records with corrections | | 15528 |
-| records with gate failures | | 11642 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 2623 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 2664 |
+| records with gate failures | | 12041 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 3126 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 3167 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -2023,18 +2014,26 @@ Every value was checked against its table, its paper, the physics of its quantit
 | R3I  | `reaction_class_conflicts_printed_reaction` | flagged | 67 |
 | R3I  | `reaction_class_from_printed_reaction` | corrected | 3022 |
 | R3I  | `system_includes_printed_reaction_partners` | corrected | 18 |
+| page page checks (visual) | `ambient_value_stored_at_0K` | flagged | 5 |
 | page page checks (visual) | `bounded_temperature_not_exact_observation` | flagged | 1 |
-| page page checks (visual) | `composition_misread_on_page` | flagged | 2 |
+| page page checks (visual) | `composition_attribution_ambiguous_on_page` | flagged | 2 |
+| page page checks (visual) | `composition_inconsistent_with_phase_on_page` | flagged | 4 |
+| page page checks (visual) | `composition_misread_on_page` | flagged | 26 |
+| page page checks (visual) | `composition_printed_as_range` | flagged | 16 |
+| page page checks (visual) | `composition_printed_value_garbled` | flagged | 2 |
 | page page checks (visual) | `conflicting_printed_end_member_pair` | flagged | 1 |
 | page page checks (visual) | `defect_energy_not_a_formation_property` | flagged | 42 |
 | page page checks (visual) | `derived_at_high_temperature_from_bcc_zr` | flagged | 6 |
-| page page checks (visual) | `duplicate_source_row` | flagged | 38 |
+| page page checks (visual) | `duplicate_reading_cell_ambiguous` | flagged | 1 |
+| page page checks (visual) | `duplicate_source_row` | flagged | 241 |
 | page page checks (visual) | `end_member_requires_sublattice_mapping` | flagged | 6 |
 | page page checks (visual) | `energy_basis_not_printed_rows_inconsistent` | flagged | 11 |
 | page page checks (visual) | `expression_coefficient_not_a_value` | flagged | 119 |
+| page page checks (visual) | `expression_term_missing` | flagged | 8 |
 | page page checks (visual) | `glass_transition_not_an_equilibrium_state` | flagged | 2 |
 | page page checks (visual) | `heat_treatment_not_equilibrium_observation` | flagged | 24 |
-| page page checks (visual) | `measurement_temperature_not_stated` | flagged | 36 |
+| page page checks (visual) | `locator_table_label_wrong` | flagged | 44 |
+| page page checks (visual) | `measurement_temperature_not_stated` | flagged | 138 |
 | page page checks (visual) | `measurement_temperature_various` | flagged | 20 |
 | page page checks (visual) | `metastable_state` | flagged | 16 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
@@ -2063,19 +2062,28 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `page_fix_unit_basis` | corrected | 42 |
 | page page checks (visual) | `page_fix_value` | corrected | 108 |
 | page page checks (visual) | `partial_property_requires_explicit_fitting_support` | flagged | 32 |
-| page page checks (visual) | `phase_label_not_the_value_phase` | flagged | 36 |
+| page page checks (visual) | `phase_label_misassigned_on_page` | flagged | 2 |
+| page page checks (visual) | `phase_label_not_the_value_phase` | flagged | 42 |
+| page page checks (visual) | `phase_label_questionable` | flagged | 6 |
 | page page checks (visual) | `phase_list_misread_corrected` | corrected | 28 |
 | page page checks (visual) | `pressure_1_atm_withdrawn` | corrected | 5 |
 | page page checks (visual) | `pressure_not_1_atm_on_page` | flagged | 5 |
+| page page checks (visual) | `record_not_on_page` | flagged | 2 |
 | page page checks (visual) | `reference_state_converted_to_ser` | flagged | 6 |
 | page page checks (visual) | `row_basis_contradicts_column_header` | flagged | 15 |
 | page page checks (visual) | `same_measurement_listed_in_other_paper` | flagged | 6 |
 | page page checks (visual) | `source_marks_value_unreliable` | flagged | 1 |
 | page page checks (visual) | `stoichiometry_mismatch` | flagged | 7 |
-| page page checks (visual) | `temperature_not_printed` | flagged | 12 |
+| page page checks (visual) | `temperature_belongs_to_other_column` | flagged | 2 |
+| page page checks (visual) | `temperature_misread_from_text` | flagged | 18 |
+| page page checks (visual) | `temperature_not_printed` | flagged | 20 |
+| page page checks (visual) | `temperature_range_midpoint_stored_as_kelvin` | flagged | 18 |
 | page page checks (visual) | `transformation_enthalpy_requires_reaction_basis` | flagged | 6 |
 | page page checks (visual) | `unit_inconsistent_with_figure_on_page` | flagged | 9 |
+| page page checks (visual) | `unit_scale_inconsistent_on_page` | flagged | 5 |
 | page page checks (visual) | `unsigned_magnitude_in_print` | flagged | 15 |
+| page page checks (visual) | `value_not_the_stated_property` | flagged | 19 |
+| page page checks (visual) | `value_shared_by_several_compositions` | flagged | 6 |
 
 Visual checks (rendered PDF pages inspected one by one: every table-level group, every system reassignment, and samples of at least 50 per demotion category where the category is larger; `verdict_reader` keeps the reader's verdict where a decision was curated):
 
@@ -2098,7 +2106,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | experimental_own | 2 |
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
-| flag | confirmed | 371 |
+| flag | confirmed | 874 |
 | flag_precision_sample | false_positive | 5 |
 | flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |

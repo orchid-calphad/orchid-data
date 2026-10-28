@@ -1,10 +1,10 @@
 # Cu–Ga system
 
-> Cu–Ga system: 93 accepted literature values (invariant reaction 85, activity / EMF / Gibbs energy 4, model expression 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Ga system: 89 accepted literature values (invariant reaction 85, model expression 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-GA.html · Markdown: https://data.orchid-project.org/systems/CU-GA.md
 
-93 accepted literature values from 2 paper(s) (experimental 58, model 35); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+89 accepted literature values from 2 paper(s) (experimental 54, model 35); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-GA.json) · [CSV](https://data.orchid-project.org/systems/CU-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-GA/CuGa-08Li.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-GA.html) · [Markdown](https://data.orchid-project.org/systems/CU-GA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 58 |
+| experimental | 54 |
 | model | 35 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 85 |
-| activity / EMF / Gibbs energy | 4 |
 | model expression | 4 |
 
 ## Calculated phase diagrams
@@ -157,17 +156,6 @@ Table: Invariant reactions reported in the literature for the Cu–Ga system (85
 | 302 | LIQUID + CUGA2 + ORTHORHOMBIC_GA | CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 44; `ORC-TWPIHVJAA5` |  |
 
 ## Other properties
-
-### Activity / EMF / Gibbs energy (4)
-
-Table: Activity / EMF / Gibbs energy, Cu–Ga system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| EMF; _printed: σ_ | 5.900e-4 V |  | UNKNOWN; _alloy: Cu 0, Ga 1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 1; `ORC-HTTCR7QL5E.2bbd15` |  |
-| EMF; _printed: σ_ | 0.018 V |  | UNKNOWN; _alloy: Cu 0.68, Ga 0.32_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 3; `ORC-KBPIDUXNJB.860be3` |  |
-| EMF; _printed: σ_ | 8.600e-4 V |  | UNKNOWN; _alloy: Cu 0.9, Ga 0.1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 4; `ORC-SI3MNWFVHG.96c6e3` |  |
-| EMF; _printed: σ_ | 0.00158 V |  | UNKNOWN; _alloy: Cu 0.25, Ga 0.75_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 2; `ORC-VQV3XXH7M3.885460` |  |
 
 ### Model expression (4)
 
